@@ -1,0 +1,639 @@
+Id,Label,Modularity Class,City,State,Country,Latitude,Longitude
+1,"florianopolis,santa catarina,brazil",,florianopolis,santa catarina,brazil,-27.597,-48.549
+2,"philadelphia,pennsylvania,united states",,philadelphia,pennsylvania,united states,39.95233,-75.16379
+3,"braga,braga,portugal",,braga,braga,portugal,41.55032,-8.42005
+4,"ottawa,ontario,canada",,ottawa,ontario,canada,45.41117,-75.69812
+5,"ithaca,new york,united states",,ithaca,new york,united states,42.44063,-76.49661
+6,"lavras,minas gerais,brazil",,lavras,minas gerais,brazil,-21.245,-45
+7,"sao paulo,sao paulo,brazil",,sao paulo,sao paulo,brazil,-23.548,-46.636
+8,"feira de santana,bahia,brazil",,feira de santana,bahia,brazil,-12.267,-38.967
+9,"cambridge,england,united kingdom",,cambridge,england,united kingdom,52.2,0.11667
+10,"rio de janeiro,rio de janeiro,brazil",,rio de janeiro,rio de janeiro,brazil,-22.903,-43.208
+11,"uberlandia,minas gerais,brazil",,uberlandia,minas gerais,brazil,-18.919,-48.277
+12,"niteroi,rio de janeiro,brazil",,niteroi,rio de janeiro,brazil,-22.883,-43.104
+13,"santos,sao paulo,brazil",,santos,sao paulo,brazil,-23.961,-46.334
+14,"montevideo,montevideo,uruguay",,montevideo,montevideo,uruguay,-34.90328,-56.18816
+15,"breves,para,brazil",,breves,para,brazil,-1.682,-50.48
+16,"bauru,sao paulo,brazil",,bauru,sao paulo,brazil,-22.315,-49.061
+17,"salamanca,madrid,spain",,salamanca,madrid,spain,40.42972,-3.67975
+18,"valladolid,castille and león,spain",,valladolid,castille and león,spain,41.65518,-4.72372
+19,"curitiba,parana,brazil",,curitiba,parana,brazil,-25.428,-49.273
+20,"vitoria,espirito santo,brazil",,vitoria,espirito santo,brazil,-20.319,-40.338
+21,"brasilia,federal district,brazil",,brasilia,federal district,brazil,-15.78,-47.93
+22,"pelotas,rio grande do sul,brazil",,pelotas,rio grande do sul,brazil,-31.772,-52.343
+23,"sao leopoldo,rio grande do sul,brazil",,sao leopoldo,rio grande do sul,brazil,-29.76,-51.147
+24,"taubate,sao paulo,brazil",,taubate,sao paulo,brazil,-23.026,-45.555
+25,"cambridge,massachusetts,united states",,cambridge,massachusetts,united states,42.3751,-71.10561
+26,"minneapolis,minnesota,united states",,minneapolis,minnesota,united states,44.97997,-93.26384
+27,"tokyo,tōkyō,japan",,tokyo,tōkyō,japan,35.6895,139.69171
+28,"vitoria da conquista,bahia,brazil",,vitoria da conquista,bahia,brazil,-14.866,-40.839
+29,"ilheus,bahia,brazil",,ilheus,bahia,brazil,-14.789,-39.049
+30,"salvador,bahia,brazil",,salvador,bahia,brazil,-12.971,-38.511
+31,"belo horizonte,minas gerais,brazil",,belo horizonte,minas gerais,brazil,-19.817,-43.956
+32,"belem,para,brazil",,belem,para,brazil,-1.456,-48.504
+33,"campinas,sao paulo,brazil",,campinas,sao paulo,brazil,-22.906,-47.061
+34,"recife,pernambuco,brazil",,recife,pernambuco,brazil,-8.054,-34.881
+35,"araras,sao paulo,brazil",,araras,sao paulo,brazil,-22.357,-47.384
+36,"medford,massachusetts,united states",,medford,massachusetts,united states,42.41843,-71.10616
+37,"guarulhos,sao paulo,brazil",,guarulhos,sao paulo,brazil,-23.463,-46.533
+38,"porto alegre,rio grande do sul,brazil",,porto alegre,rio grande do sul,brazil,-30.033,-51.23
+39,"los angeles,california,united states",,los angeles,california,united states,34.05223,-118.24368
+40,"new york city,new york,united states",,new york city,new york,united states,40.71427,-74.00597
+41,"riverside,california,united states",,riverside,california,united states,33.95335,-117.39616
+42,"baltimore,maryland,united states",,baltimore,maryland,united states,39.29038,-76.61219
+43,"berlin,berlin,germany",,berlin,berlin,germany,52.52437,13.41053
+44,"tres coracoes,minas gerais,brazil",,tres coracoes,minas gerais,brazil,-21.697,-45.253
+45,"medellin,departamento de antioquia,colombia",,medellin,departamento de antioquia,colombia,6.25184,-75.56359
+46,"guarapuava,parana,brazil",,guarapuava,parana,brazil,-25.395,-51.458
+47,"santa maria,rio grande do sul,brazil",,santa maria,rio grande do sul,brazil,-29.684,-53.807
+48,"new haven,connecticut,united states",,new haven,connecticut,united states,41.30815,-72.92816
+49,"ribeirao preto,sao paulo,brazil",,ribeirao preto,sao paulo,brazil,-21.178,-47.81
+50,"paris,île-de-france,france",,paris,île-de-france,france,48.85341,2.3488
+51,"lorena,sao paulo,brazil",,lorena,sao paulo,brazil,-22.731,-45.125
+52,"barcelona,catalonia,spain",,barcelona,catalonia,spain,41.38879,2.15899
+53,"palo alto,california,united states",,palo alto,california,united states,37.44188,-122.14302
+54,"santiago,santiago,chile",,santiago,santiago,chile,-33.45694,-70.64827
+55,"padova,veneto,italy",,padova,veneto,italy,45.40797,11.88586
+56,"macapa,amapa,brazil",,macapa,amapa,brazil,0.039,-51.066
+57,"juiz de fora,minas gerais,brazil",,juiz de fora,minas gerais,brazil,-21.764,-43.35
+58,"chatenay malabry,île-de-france,france",,chatenay malabry,île-de-france,france,48.76507,2.26655
+59,"seropedica,rio de janeiro,brazil",,seropedica,rio de janeiro,brazil,-22.744,-43.708
+60,"madrid,madrid,spain",,madrid,madrid,spain,40.4165,-3.70256
+61,"la plata,buenos aires,argentina",,la plata,buenos aires,argentina,-34.92145,-57.95453
+62,"santa fe de la vera cruz,santa fe,argentina",,santa fe de la vera cruz,santa fe,argentina,-31.63333,-60.7
+63,"joao pessoa,paraiba,brazil",,joao pessoa,paraiba,brazil,-7.115,-34.863
+64,"covilha,castelo branco,portugal",,covilha,castelo branco,portugal,40.28601,-7.50396
+65,"centro habana,ciudad de la habana,cuba",,centro habana,ciudad de la habana,cuba,23.13833,-82.36417
+66,"fortaleza,ceara,brazil",,fortaleza,ceara,brazil,-3.717,-38.543
+67,"buenos aires,buenos aires f.d.,argentina",,buenos aires,buenos aires f.d.,argentina,-34.61315,-58.37723
+68,"rome,latium,italy",,rome,latium,italy,41.89193,12.51133
+69,"cuiaba,mato grosso,brazil",,cuiaba,mato grosso,brazil,-15.596,-56.097
+70,"vicosa,minas gerais,brazil",,vicosa,minas gerais,brazil,-20.754,-42.882
+71,"cascavel,parana,brazil",,cascavel,parana,brazil,-24.956,-53.455
+72,"aveiro,aveiro,portugal",,aveiro,aveiro,portugal,40.64427,-8.64554
+73,"barretos,sao paulo,brazil",,barretos,sao paulo,brazil,-20.557,-48.568
+74,"araxa,minas gerais,brazil",,araxa,minas gerais,brazil,-19.593,-46.941
+75,"joliet,illinois,united states",,joliet,illinois,united states,41.52519,-88.0834
+76,"rottenburg,baden-württemberg region,germany",,rottenburg,baden-württemberg region,germany,48.47629,8.93528
+77,"caracas,distrito federal,venezuela",,caracas,distrito federal,venezuela,10.48801,-66.87919
+78,"albany,new york,united states",,albany,new york,united states,42.65258,-73.75623
+79,"campo grande,mato grosso do sul,brazil",,campo grande,mato grosso do sul,brazil,-20.443,-54.646
+80,"almenara,minas gerais,brazil",,almenara,minas gerais,brazil,-16.184,-40.694
+81,"porto,porto,portugal",,porto,porto,portugal,41.14961,-8.61099
+82,"davis,california,united states",,davis,california,united states,38.54491,-121.74052
+83,"valparaiso,valparaíso,chile",,valparaiso,valparaíso,chile,-33.03932,-71.62725
+84,"london,england,united kingdom",,london,england,united kingdom,51.50853,-0.12574
+85,"goiania,goias,brazil",,goiania,goias,brazil,-16.679,-49.254
+86,"maceio,alagoas,brazil",,maceio,alagoas,brazil,-9.666,-35.735
+87,"leuven,flanders,belgium",,leuven,flanders,belgium,50.87959,4.70093
+88,"wageningen,gelderland,netherlands",,wageningen,gelderland,netherlands,51.97,5.66667
+89,"natal,rio grande do norte,brazil",,natal,rio grande do norte,brazil,-5.795,-35.209
+90,"cleveland,ohio,united states",,cleveland,ohio,united states,41.4995,-81.69541
+91,"sheffield,england,united kingdom",,sheffield,england,united kingdom,53.38297,-1.4659
+92,"manizales,caldas,colombia",,manizales,caldas,colombia,5.06889,-75.51738
+93,"toronto,ontario,canada",,toronto,ontario,canada,43.70011,-79.4163
+94,"itajai,santa catarina,brazil",,itajai,santa catarina,brazil,-26.908,-48.662
+95,"presidente prudente,sao paulo,brazil",,presidente prudente,sao paulo,brazil,-22.126,-51.389
+96,"zaragoza,aragon,spain",,zaragoza,aragon,spain,41.65606,-0.87734
+97,"chapeco,santa catarina,brazil",,chapeco,santa catarina,brazil,-27.096,-52.618
+98,"novo hamburgo,rio grande do sul,brazil",,novo hamburgo,rio grande do sul,brazil,-29.678,-51.131
+99,"caxias do sul,rio grande do sul,brazil",,caxias do sul,rio grande do sul,brazil,-29.168,-51.179
+100,"iowa city,iowa,united states",,iowa city,iowa,united states,41.66113,-91.53017
+101,"sao jose dos campos,sao paulo,brazil",,sao jose dos campos,sao paulo,brazil,-23.179,-45.887
+102,"milano,lombardy,italy",,milano,lombardy,italy,45.46427,9.18951
+103,"lisbon,lisbon,portugal",,lisbon,lisbon,portugal,38.71667,-9.13333
+104,"bento goncalves,rio grande do sul,brazil",,bento goncalves,rio grande do sul,brazil,-29.171,-51.519
+105,"boston,massachusetts,united states",,boston,massachusetts,united states,42.35843,-71.05977
+106,"londrina,parana,brazil",,londrina,parana,brazil,-23.31,-51.163
+107,"passo fundo,rio grande do sul,brazil",,passo fundo,rio grande do sul,brazil,-28.263,-52.407
+108,"denver,colorado,united states",,denver,colorado,united states,39.73915,-104.9847
+109,"nottingham,england,united kingdom",,nottingham,england,united kingdom,52.9536,-1.15047
+110,"gainesville,florida,united states",,gainesville,florida,united states,29.65163,-82.32483
+111,"araraquara,sao paulo,brazil",,araraquara,sao paulo,brazil,-21.794,-48.176
+112,"petropolis,rio de janeiro,brazil",,petropolis,rio de janeiro,brazil,-22.505,-43.179
+113,"sevilla,andalusia,spain",,sevilla,andalusia,spain,37.38283,-5.97317
+114,"madison,wisconsin,united states",,madison,wisconsin,united states,43.07305,-89.40123
+115,"rochester,new york,united states",,rochester,new york,united states,43.15478,-77.61556
+116,"duque de caxias,rio de janeiro,brazil",,duque de caxias,rio de janeiro,brazil,-22.786,-43.312
+117,"piracicaba,sao paulo,brazil",,piracicaba,sao paulo,brazil,-22.725,-47.649
+118,"chicago,illinois,united states",,chicago,illinois,united states,41.85003,-87.65005
+119,"erechim,rio grande do sul,brazil",,erechim,rio grande do sul,brazil,-27.634,-52.274
+120,"sao luis,maranhao,brazil",,sao luis,maranhao,brazil,-2.53,-44.303
+121,"manaus,amazonas,brazil",,manaus,amazonas,brazil,-3.102,-60.025
+122,"compiegne,picardie,france",,compiegne,picardie,france,49.41794,2.82606
+123,"edmonton,alberta,canada",,edmonton,alberta,canada,53.55014,-113.46871
+124,"new orleans,louisiana,united states",,new orleans,louisiana,united states,29.95465,-90.07507
+125,"maringa,parana,brazil",,maringa,parana,brazil,-23.425,-51.939
+126,"teresina,piaui,brazil",,teresina,piaui,brazil,-5.089,-42.802
+127,"anapolis,goias,brazil",,anapolis,goias,brazil,-16.327,-48.953
+128,"sao jose do rio preto,sao paulo,brazil",,sao jose do rio preto,sao paulo,brazil,-20.82,-49.379
+129,"ann arbor,michigan,united states",,ann arbor,michigan,united states,42.27756,-83.74088
+130,"aracaju,sergipe,brazil",,aracaju,sergipe,brazil,-10.911,-37.072
+131,"rio branco,acre,brazil",,rio branco,acre,brazil,-9.975,-67.81
+132,"gent,flanders,belgium",,gent,flanders,belgium,51.05,3.71667
+133,"uberaba,minas gerais,brazil",,uberaba,minas gerais,brazil,-19.748,-47.932
+134,"la jolla,california,united states",,la jolla,california,united states,32.84727,-117.2742
+135,"champaign,illinois,united states",,champaign,illinois,united states,40.11642,-88.24338
+136,"coronel fabriciano,minas gerais,brazil",,coronel fabriciano,minas gerais,brazil,-19.519,-42.629
+137,"campo mourao,parana,brazil",,campo mourao,parana,brazil,-24.046,-52.383
+138,"pamplona,navarre,spain",,pamplona,navarre,spain,42.81687,-1.64323
+139,"sao cristovao,sergipe,brazil",,sao cristovao,sergipe,brazil,-11.015,-37.206
+140,"hamburg,free and hanseatic city of hamburg,germany",,hamburg,free and hanseatic city of hamburg,germany,53.57532,10.01534
+141,"santo andre,sao paulo,brazil",,santo andre,sao paulo,brazil,-23.664,-46.538
+142,"franca,sao paulo,brazil",,franca,sao paulo,brazil,-20.539,-47.401
+143,"erlangen,bavaria,germany",,erlangen,bavaria,germany,49.59099,11.00783
+144,"itajuba,minas gerais,brazil",,itajuba,minas gerais,brazil,-22.426,-45.453
+145,"sao bernardo do campo,sao paulo,brazil",,sao bernardo do campo,sao paulo,brazil,-23.694,-46.565
+146,"ponta grossa,parana,brazil",,ponta grossa,parana,brazil,-25.095,-50.162
+147,"vila velha,espirito santo,brazil",,vila velha,espirito santo,brazil,-20.33,-40.292
+148,"cedar rapids,iowa,united states",,cedar rapids,iowa,united states,42.00833,-91.64407
+149,"ouro preto,minas gerais,brazil",,ouro preto,minas gerais,brazil,-20.288,-43.508
+150,"marilia,sao paulo,brazil",,marilia,sao paulo,brazil,-22.214,-49.946
+151,"sao carlos,sao paulo,brazil",,sao carlos,sao paulo,brazil,-22.018,-47.891
+152,"reading,england,united kingdom",,reading,england,united kingdom,51.45625,-0.97113
+153,"bologna,emilia-romagna,italy",,bologna,emilia-romagna,italy,44.49381,11.33875
+154,"washington d c,washington, d.c.,united states",,washington d c,"washington, d.c.",united states,38.89511,-77.03637
+155,"bloomington,indiana,united states",,bloomington,indiana,united states,39.16533,-86.52639
+156,"mogi das cruzes,sao paulo,brazil",,mogi das cruzes,sao paulo,brazil,-23.523,-46.188
+157,"ourinhos,sao paulo,brazil",,ourinhos,sao paulo,brazil,-22.979,-49.871
+158,"athens,georgia,united states",,athens,georgia,united states,33.96095,-83.37794
+159,"botucatu,sao paulo,brazil",,botucatu,sao paulo,brazil,-22.886,-48.445
+160,"santa cruz,california,united states",,santa cruz,california,united states,36.97412,-122.0308
+161,"oxford,england,united kingdom",,oxford,england,united kingdom,51.75222,-1.25596
+162,"seattle,washington,united states",,seattle,washington,united states,47.60621,-122.33207
+163,"campina grande,paraiba,brazil",,campina grande,paraiba,brazil,-7.231,-35.881
+164,"resende,rio de janeiro,brazil",,resende,rio de janeiro,brazil,-22.469,-44.447
+165,"brussels,brussels capital region,belgium",,brussels,brussels capital region,belgium,50.85045,4.34878
+166,"edinburgh,scotland,united kingdom",,edinburgh,scotland,united kingdom,55.95206,-3.19648
+167,"raleigh,north carolina,united states",,raleigh,north carolina,united states,35.7721,-78.63861
+168,"stuttgart,baden-württemberg region,germany",,stuttgart,baden-württemberg region,germany,48.78232,9.17702
+169,"east lansing,michigan,united states",,east lansing,michigan,united states,42.73698,-84.48387
+170,"state college,pennsylvania,united states",,state college,pennsylvania,united states,40.79339,-77.86
+171,"munster,lower saxony,germany",,munster,lower saxony,germany,52.98569,10.08756
+172,"fort washington,maryland,united states",,fort washington,maryland,united states,38.70734,-77.02303
+173,"canoas,rio grande do sul,brazil",,canoas,rio grande do sul,brazil,-29.918,-51.184
+174,"waterloo,ontario,canada",,waterloo,ontario,canada,43.4668,-80.51639
+175,"montpellier,languedoc-roussillon,france",,montpellier,languedoc-roussillon,france,43.61092,3.87723
+176,"turin,piedmont,italy",,turin,piedmont,italy,45.07049,7.68682
+177,"glasgow,scotland,united kingdom",,glasgow,scotland,united kingdom,55.86515,-4.25763
+178,"porto velho,rondonia,brazil",,porto velho,rondonia,brazil,-8.762,-63.904
+179,"guanambi,bahia,brazil",,guanambi,bahia,brazil,-14.223,-42.781
+180,"skokie,illinois,united states",,skokie,illinois,united states,42.03336,-87.73339
+181,"avare,sao paulo,brazil",,avare,sao paulo,brazil,-23.099,-48.926
+182,"manchester,england,united kingdom",,manchester,england,united kingdom,53.48095,-2.23743
+183,"varginha,minas gerais,brazil",,varginha,minas gerais,brazil,-21.551,-45.43
+184,"sao goncalo,rio de janeiro,brazil",,sao goncalo,rio de janeiro,brazil,-22.827,-43.054
+185,"alfenas,minas gerais,brazil",,alfenas,minas gerais,brazil,-21.429,-45.947
+186,"santiago de compostela,galicia,spain",,santiago de compostela,galicia,spain,42.88052,-8.54569
+187,"cordoba,andalusia,spain",,cordoba,andalusia,spain,37.89155,-4.77275
+188,"tubarao,santa catarina,brazil",,tubarao,santa catarina,brazil,-28.467,-49.007
+189,"rio grande,rio grande do sul,brazil",,rio grande,rio grande do sul,brazil,-32.035,-52.099
+190,"jundiai,sao paulo,brazil",,jundiai,sao paulo,brazil,-23.186,-46.884
+191,"charlottesville,virginia,united states",,charlottesville,virginia,united states,38.02931,-78.47668
+192,"cadiz,andalusia,spain",,cadiz,andalusia,spain,36.52978,-6.29465
+193,"strasbourg,alsace,france",,strasbourg,alsace,france,48.58392,7.74553
+194,"charqueadas,rio grande do sul,brazil",,charqueadas,rio grande do sul,brazil,-29.955,-51.625
+195,"sao joao del rei,minas gerais,brazil",,sao joao del rei,minas gerais,brazil,-21.136,-44.262
+196,"braganca paulista,sao paulo,brazil",,braganca paulista,sao paulo,brazil,-22.952,-46.542
+197,"pittsburgh,pennsylvania,united states",,pittsburgh,pennsylvania,united states,40.44062,-79.99589
+198,"brusque,santa catarina,brazil",,brusque,santa catarina,brazil,-27.098,-48.918
+199,"pullman,washington,united states",,pullman,washington,united states,46.73127,-117.17962
+200,"lages,santa catarina,brazil",,lages,santa catarina,brazil,-27.816,-50.326
+201,"freiburg,baden-württemberg region,germany",,freiburg,baden-württemberg region,germany,47.9959,7.85222
+202,"cruz alta,rio grande do sul,brazil",,cruz alta,rio grande do sul,brazil,-28.639,-53.606
+203,"providence,rhode island,united states",,providence,rhode island,united states,41.82399,-71.41283
+204,"montes claros,minas gerais,brazil",,montes claros,minas gerais,brazil,-16.735,-43.862
+205,"jaboticabal,sao paulo,brazil",,jaboticabal,sao paulo,brazil,-21.255,-48.322
+206,"vancouver,british columbia,canada",,vancouver,british columbia,canada,49.24966,-123.11934
+207,"granada,andalusia,spain",,granada,andalusia,spain,37.18817,-3.60667
+208,"evanston,illinois,united states",,evanston,illinois,united states,42.04114,-87.69006
+209,"ivry sur seine,île-de-france,france",,ivry sur seine,île-de-france,france,48.81568,2.38487
+210,"volta redonda,rio de janeiro,brazil",,volta redonda,rio de janeiro,brazil,-22.523,-44.104
+211,"barbacena,minas gerais,brazil",,barbacena,minas gerais,brazil,-21.226,-43.774
+212,"rio claro,sao paulo,brazil",,rio claro,sao paulo,brazil,-22.411,-47.561
+213,"ames,iowa,united states",,ames,iowa,united states,42.03471,-93.61994
+214,"concepcion,biobío,chile",,concepcion,biobío,chile,-36.82699,-73.04977
+215,"blumenau,santa catarina,brazil",,blumenau,santa catarina,brazil,-26.919,-49.066
+216,"leeds,england,united kingdom",,leeds,england,united kingdom,53.79648,-1.54785
+217,"coral gables,florida,united states",,coral gables,florida,united states,25.72149,-80.26838
+218,"columbus,ohio,united states",,columbus,ohio,united states,39.96118,-82.99879
+219,"ijui,rio grande do sul,brazil",,ijui,rio grande do sul,brazil,-28.388,-53.915
+220,"saint denis,île-de-france,france",,saint denis,île-de-france,france,48.93333,2.36667
+221,"florence,tuscany,italy",,florence,tuscany,italy,43.77925,11.24626
+222,"bordeaux,aquitaine,france",,bordeaux,aquitaine,france,44.84044,-0.5805
+223,"lins,sao paulo,brazil",,lins,sao paulo,brazil,-21.679,-49.743
+224,"west lafayette,indiana,united states",,west lafayette,indiana,united states,40.42587,-86.90807
+225,"leon,castille and león,spain",,leon,castille and león,spain,42.60003,-5.57032
+226,"apucarana,parana,brazil",,apucarana,parana,brazil,-23.551,-51.461
+227,"blacksburg,virginia,united states",,blacksburg,virginia,united states,37.22957,-80.41394
+228,"caceres,mato grosso,brazil",,caceres,mato grosso,brazil,-16.071,-57.679
+229,"cachoeiro de itapemirim,espirito santo,brazil",,cachoeiro de itapemirim,espirito santo,brazil,-20.849,-41.113
+230,"south bend,indiana,united states",,south bend,indiana,united states,41.68338,-86.25001
+231,"criciuma,santa catarina,brazil",,criciuma,santa catarina,brazil,-28.678,-49.37
+232,"geneva,illinois,united states",,geneva,illinois,united states,41.88753,-88.30535
+233,"new brunswick,new jersey,united states",,new brunswick,new jersey,united states,40.48622,-74.45182
+234,"toulouse,midi-pyrénées,france",,toulouse,midi-pyrénées,france,43.60426,1.44367
+235,"delft,south holland,netherlands",,delft,south holland,netherlands,52.00667,4.35556
+236,"college station,texas,united states",,college station,texas,united states,30.62798,-96.33441
+237,"santa cruz do sul,rio grande do sul,brazil",,santa cruz do sul,rio grande do sul,brazil,-29.718,-52.426
+238,"caratinga,minas gerais,brazil",,caratinga,minas gerais,brazil,-19.79,-42.139
+239,"palmas,tocantins,brazil",,palmas,tocantins,brazil,-10.167,-48.333
+240,"auburn,alabama,united states",,auburn,alabama,united states,32.60986,-85.48078
+241,"princeton,florida,united states",,princeton,florida,united states,25.53844,-80.40894
+242,"austin,texas,united states",,austin,texas,united states,30.26715,-97.74306
+243,"paranavai,parana,brazil",,paranavai,parana,brazil,-23.073,-52.465
+244,"nashville,tennessee,united states",,nashville,tennessee,united states,36.16589,-86.78444
+245,"sydney,new south wales,australia",,sydney,new south wales,australia,-33.86785,151.20732
+246,"canoinhas,santa catarina,brazil",,canoinhas,santa catarina,brazil,-26.177,-50.39
+247,"campos dos goytacazes,rio de janeiro,brazil",,campos dos goytacazes,rio de janeiro,brazil,-21.754,-41.324
+248,"lajeado,rio grande do sul,brazil",,lajeado,rio grande do sul,brazil,-29.467,-51.961
+249,"umuarama,parana,brazil",,umuarama,parana,brazil,-23.766,-53.325
+250,"nazare paulista,sao paulo,brazil",,nazare paulista,sao paulo,brazil,-23.181,-46.395
+251,"sobral,ceara,brazil",,sobral,ceara,brazil,-3.674,-40.239
+252,"itatiba,sao paulo,brazil",,itatiba,sao paulo,brazil,-23.006,-46.839
+253,"lima,provincia de lima,peru",,lima,provincia de lima,peru,-12.04318,-77.02824
+254,"garca,sao paulo,brazil",,garca,sao paulo,brazil,-22.211,-49.656
+255,"tucson,arizona,united states",,tucson,arizona,united states,32.22174,-110.92648
+256,"cordoba,córdoba,argentina",,cordoba,córdoba,argentina,-31.4135,-64.18105
+257,"norwich,england,united kingdom",,norwich,england,united kingdom,52.62783,1.29834
+258,"garching bei munchen,bavaria,germany",,garching bei munchen,bavaria,germany,48.24896,11.65101
+259,"aberdeen,scotland,united kingdom",,aberdeen,scotland,united kingdom,57.14369,-2.09814
+260,"mossoro,rio grande do norte,brazil",,mossoro,rio grande do norte,brazil,-5.188,-37.344
+261,"ananindeua,para,brazil",,ananindeua,para,brazil,-1.366,-48.372
+262,"hannover,lower saxony,germany",,hannover,lower saxony,germany,52.37052,9.73322
+263,"corvallis,oregon,united states",,corvallis,oregon,united states,44.56457,-123.26204
+264,"bristol,england,united kingdom",,bristol,england,united kingdom,51.45523,-2.59665
+265,"coventry,england,united kingdom",,coventry,england,united kingdom,52.40656,-1.51217
+266,"palmas,parana,brazil",,palmas,parana,brazil,-26.484,-51.991
+267,"berkeley,california,united states",,berkeley,california,united states,37.87159,-122.27275
+268,"stillwater,oklahoma,united states",,stillwater,oklahoma,united states,36.11561,-97.05837
+269,"liverpool,england,united kingdom",,liverpool,england,united kingdom,53.41058,-2.97794
+270,"atlanta,georgia,united states",,atlanta,georgia,united states,33.749,-84.38798
+271,"logan,utah,united states",,logan,utah,united states,41.73549,-111.83439
+272,"cerdanyola del valles,catalonia,spain",,cerdanyola del valles,catalonia,spain,41.49109,2.14079
+273,"birmingham,england,united kingdom",,birmingham,england,united kingdom,52.48142,-1.89983
+274,"bage,rio grande do sul,brazil",,bage,rio grande do sul,brazil,-31.331,-54.107
+275,"salt lake city,utah,united states",,salt lake city,utah,united states,40.76078,-111.89105
+276,"frankfurt am main,hesse,germany",,frankfurt am main,hesse,germany,50.11552,8.68417
+277,"brisbane,queensland,australia",,brisbane,queensland,australia,-27.46794,153.02809
+278,"kiel,schleswig-holstein,germany",,kiel,schleswig-holstein,germany,54.32133,10.13489
+279,"quebec,quebec,canada",,quebec,quebec,canada,46.81228,-71.21454
+280,"lexington,kentucky,united states",,lexington,kentucky,united states,37.98869,-84.47772
+281,"aracatuba,sao paulo,brazil",,aracatuba,sao paulo,brazil,-21.209,-50.433
+282,"dourados,mato grosso do sul,brazil",,dourados,mato grosso do sul,brazil,-22.221,-54.806
+283,"oviedo,asturias,spain",,oviedo,asturias,spain,43.36029,-5.84476
+284,"creteil,île-de-france,france",,creteil,île-de-france,france,48.78333,2.46667
+285,"valencia,valencia,spain",,valencia,valencia,spain,39.46975,-0.37739
+286,"calgary,alberta,canada",,calgary,alberta,canada,51.05011,-114.08529
+287,"rennes,brittany,france",,rennes,brittany,france,48.11198,-1.67429
+288,"lund,skåne,sweden",,lund,skåne,sweden,55.70584,13.19321
+289,"boa vista,roraima,brazil",,boa vista,roraima,brazil,2.82,-60.673
+290,"parkville,maryland,united states",,parkville,maryland,united states,39.37733,-76.53969
+291,"newcastle upon tyne,england,united kingdom",,newcastle upon tyne,england,united kingdom,54.97328,-1.61396
+292,"nova iguacu,rio de janeiro,brazil",,nova iguacu,rio de janeiro,brazil,-22.759,-43.451
+293,"santiago de cuba,santiago de cuba,cuba",,santiago de cuba,santiago de cuba,cuba,20.02472,-75.82194
+294,"poitiers,poitou-charentes,france",,poitiers,poitou-charentes,france,46.58333,0.33333
+295,"sao caetano do sul,sao paulo,brazil",,sao caetano do sul,sao paulo,brazil,-23.623,-46.551
+296,"kyoto,kyōto,japan",,kyoto,kyōto,japan,35.02107,135.75385
+297,"tallahassee,florida,united states",,tallahassee,florida,united states,30.43826,-84.28073
+298,"alicante,valencia,spain",,alicante,valencia,spain,38.34517,-0.48149
+299,"guildford,england,united kingdom",,guildford,england,united kingdom,51.23536,-0.57427
+300,"sceaux,île-de-france,france",,sceaux,île-de-france,france,48.77644,2.29026
+301,"araguaina,tocantins,brazil",,araguaina,tocantins,brazil,-7.191,-48.207
+302,"san ignacio,cayo,belize",,san ignacio,cayo,belize,17.15297,-89.08058
+303,"faro,faro,portugal",,faro,faro,portugal,37.01937,-7.93223
+304,"loughborough,england,united kingdom",,loughborough,england,united kingdom,52.76667,-1.2
+305,"sao miguel do oeste,santa catarina,brazil",,sao miguel do oeste,santa catarina,brazil,-26.725,-53.518
+306,"bethesda,maryland,united states",,bethesda,maryland,united states,38.98067,-77.10026
+307,"tours,centre,france",,tours,centre,france,47.38333,0.68333
+308,"boulder,colorado,united states",,boulder,colorado,united states,40.01499,-105.27055
+309,"olinda,pernambuco,brazil",,olinda,pernambuco,brazil,-8.009,-34.855
+310,"osorio,rio grande do sul,brazil",,osorio,rio grande do sul,brazil,-29.887,-50.27
+311,"varzea grande,mato grosso,brazil",,varzea grande,mato grosso,brazil,-15.647,-56.133
+312,"montreal,quebec,canada",,montreal,quebec,canada,45.50884,-73.58781
+313,"nanterre,île-de-france,france",,nanterre,île-de-france,france,48.89198,2.20675
+314,"crato,ceara,brazil",,crato,ceara,brazil,-7.234,-39.409
+315,"syracuse,new york,united states",,syracuse,new york,united states,43.04812,-76.14742
+316,"sorocaba,sao paulo,brazil",,sorocaba,sao paulo,brazil,-23.502,-47.458
+317,"tempe,arizona,united states",,tempe,arizona,united states,33.41477,-111.90931
+318,"cachoeira do sul,rio grande do sul,brazil",,cachoeira do sul,rio grande do sul,brazil,-30.039,-52.894
+319,"votuporanga,sao paulo,brazil",,votuporanga,sao paulo,brazil,-20.423,-49.973
+320,"copenhagen,capital region,denmark",,copenhagen,capital region,denmark,55.67594,12.56553
+321,"inconfidentes,minas gerais,brazil",,inconfidentes,minas gerais,brazil,-22.317,-46.328
+322,"penapolis,sao paulo,brazil",,penapolis,sao paulo,brazil,-21.42,-50.078
+323,"pouso alegre,minas gerais,brazil",,pouso alegre,minas gerais,brazil,-22.23,-45.936
+324,"starkville,mississippi,united states",,starkville,mississippi,united states,33.45049,-88.81961
+325,"heidelberg,baden-württemberg region,germany",,heidelberg,baden-württemberg region,germany,49.40768,8.69079
+326,"vigo,galicia,spain",,vigo,galicia,spain,42.23282,-8.72264
+327,"catanduva,sao paulo,brazil",,catanduva,sao paulo,brazil,-21.138,-48.973
+328,"villeurbanne,rhône-alpes,france",,villeurbanne,rhône-alpes,france,45.76667,4.88333
+329,"utrecht,utrecht,netherlands",,utrecht,utrecht,netherlands,52.09083,5.12222
+330,"karlsruhe,baden-württemberg region,germany",,karlsruhe,baden-württemberg region,germany,49.00937,8.40444
+331,"cuenca,castille-la mancha,spain",,cuenca,castille-la mancha,spain,40.06667,-2.13333
+332,"brighton,england,united kingdom",,brighton,england,united kingdom,50.82838,-0.13947
+333,"colmar,alsace,france",,colmar,alsace,france,48.08333,7.36667
+334,"murcia,murcia,spain",,murcia,murcia,spain,37.98704,-1.13004
+335,"cali,valle del cauca,colombia",,cali,valle del cauca,colombia,3.43722,-76.5225
+336,"fort collins,colorado,united states",,fort collins,colorado,united states,40.58526,-105.08442
+337,"governador valadares,minas gerais,brazil",,governador valadares,minas gerais,brazil,-18.851,-41.949
+338,"batatais,sao paulo,brazil",,batatais,sao paulo,brazil,-20.891,-47.585
+339,"leioa,basque country,spain",,leioa,basque country,spain,43.33333,-2.98333
+340,"bahia blanca,buenos aires,argentina",,bahia blanca,buenos aires,argentina,-38.71959,-62.27243
+341,"lancaster,england,united kingdom",,lancaster,england,united kingdom,54.04649,-2.79988
+342,"joinville,santa catarina,brazil",,joinville,santa catarina,brazil,-26.304,-48.846
+343,"barra mansa,rio de janeiro,brazil",,barra mansa,rio de janeiro,brazil,-22.544,-44.171
+344,"sao jose,santa catarina,brazil",,sao jose,santa catarina,brazil,-27.615,-48.628
+345,"pompeia,sao paulo,brazil",,pompeia,sao paulo,brazil,-22.109,-50.172
+346,"leicester,england,united kingdom",,leicester,england,united kingdom,52.6386,-1.13169
+347,"pisa,tuscany,italy",,pisa,tuscany,italy,43.70853,10.4036
+348,"lyon,rhône-alpes,france",,lyon,rhône-alpes,france,45.74846,4.84671
+349,"leiden,south holland,netherlands",,leiden,south holland,netherlands,52.15833,4.49306
+350,"diamantina,minas gerais,brazil",,diamantina,minas gerais,brazil,-18.249,-43.6
+351,"orlando,florida,united states",,orlando,florida,united states,28.53834,-81.37924
+352,"caceres,extremadura,spain",,caceres,extremadura,spain,39.47649,-6.37224
+353,"sete lagoas,minas gerais,brazil",,sete lagoas,minas gerais,brazil,-19.466,-44.247
+354,"nancy,lorraine,france",,nancy,lorraine,france,48.68439,6.18496
+355,"salinas,minas gerais,brazil",,salinas,minas gerais,brazil,-16.17,-42.29
+356,"nilopolis,rio de janeiro,brazil",,nilopolis,rio de janeiro,brazil,-22.808,-43.414
+357,"valence,rhône-alpes,france",,valence,rhône-alpes,france,44.93333,4.9
+358,"rio verde,goias,brazil",,rio verde,goias,brazil,-17.798,-50.928
+359,"sao joao de meriti,rio de janeiro,brazil",,sao joao de meriti,rio de janeiro,brazil,-22.804,-43.372
+360,"suzano,sao paulo,brazil",,suzano,sao paulo,brazil,-23.543,-46.311
+361,"guaratingueta,sao paulo,brazil",,guaratingueta,sao paulo,brazil,-22.816,-45.193
+362,"medianeira,parana,brazil",,medianeira,parana,brazil,-25.295,-54.094
+363,"koeln,north rhine-westphalia,germany",,koeln,north rhine-westphalia,germany,50.93333,6.95
+364,"santa clara,villa clara,cuba",,santa clara,villa clara,cuba,22.4,-79.96667
+365,"vassouras,rio de janeiro,brazil",,vassouras,rio de janeiro,brazil,-22.404,-43.663
+366,"guelph,ontario,canada",,guelph,ontario,canada,43.54594,-80.25599
+367,"espirito santo do pinhal,sao paulo,brazil",,espirito santo do pinhal,sao paulo,brazil,-22.191,-46.741
+368,"muriae,minas gerais,brazil",,muriae,minas gerais,brazil,-21.131,-42.366
+369,"santa rita,paraiba,brazil",,santa rita,paraiba,brazil,-7.114,-34.978
+370,"santa rita do sapucai,minas gerais,brazil",,santa rita do sapucai,minas gerais,brazil,-22.252,-45.703
+371,"patos,paraiba,brazil",,patos,paraiba,brazil,-7.024,-37.28
+372,"lawrence,kansas,united states",,lawrence,kansas,united states,38.97167,-95.23525
+373,"limeira,sao paulo,brazil",,limeira,sao paulo,brazil,-22.565,-47.402
+374,"rondonopolis,mato grosso,brazil",,rondonopolis,mato grosso,brazil,-16.471,-54.636
+375,"balneario camboriu,santa catarina,brazil",,balneario camboriu,santa catarina,brazil,-26.991,-48.635
+376,"itaperuna,rio de janeiro,brazil",,itaperuna,rio de janeiro,brazil,-21.205,-41.888
+377,"mogi guacu,sao paulo,brazil",,mogi guacu,sao paulo,brazil,-22.372,-46.942
+378,"ituverava,sao paulo,brazil",,ituverava,sao paulo,brazil,-20.339,-47.781
+379,"epinal,lorraine,france",,epinal,lorraine,france,48.18333,6.45
+380,"teresopolis,rio de janeiro,brazil",,teresopolis,rio de janeiro,brazil,-22.412,-42.966
+381,"bucaramanga,santander,colombia",,bucaramanga,santander,colombia,7.12539,-73.1198
+382,"andradina,sao paulo,brazil",,andradina,sao paulo,brazil,-20.896,-51.379
+383,"sapporo,hokkaidō,japan",,sapporo,hokkaidō,japan,43.06417,141.34695
+384,"lausanne,vaud,switzerland",,lausanne,vaud,switzerland,46.516,6.63282
+385,"cruz das almas,bahia,brazil",,cruz das almas,bahia,brazil,-12.67,-39.102
+386,"canterbury,england,united kingdom",,canterbury,england,united kingdom,51.27904,1.07992
+387,"jandaia do sul,parana,brazil",,jandaia do sul,parana,brazil,-23.603,-51.643
+388,"caruaru,pernambuco,brazil",,caruaru,pernambuco,brazil,-8.283,-35.976
+389,"paranagua,parana,brazil",,paranagua,parana,brazil,-25.52,-48.509
+390,"golden,colorado,united states",,golden,colorado,united states,39.75554,-105.2211
+391,"catalao,goias,brazil",,catalao,goias,brazil,-18.17,-47.942
+392,"santo antonio do descoberto,goias,brazil",,santo antonio do descoberto,goias,brazil,-15.94,-48.255
+393,"osasco,sao paulo,brazil",,osasco,sao paulo,brazil,-23.533,-46.792
+394,"southampton,england,united kingdom",,southampton,england,united kingdom,50.90395,-1.40428
+395,"arapiraca,alagoas,brazil",,arapiraca,alagoas,brazil,-9.752,-36.661
+396,"salto,sao paulo,brazil",,salto,sao paulo,brazil,-23.201,-47.287
+397,"evora,évora,portugal",,evora,évora,portugal,38.56667,-7.9
+398,"college park,maryland,united states",,college park,maryland,united states,38.98067,-76.93692
+399,"cachoeira,bahia,brazil",,cachoeira,bahia,brazil,-12.618,-38.956
+400,"nova friburgo,rio de janeiro,brazil",,nova friburgo,rio de janeiro,brazil,-22.282,-42.531
+401,"belo jardim,pernambuco,brazil",,belo jardim,pernambuco,brazil,-8.336,-36.424
+402,"santa fe do sul,sao paulo,brazil",,santa fe do sul,sao paulo,brazil,-20.211,-50.926
+403,"cornelio procopio,parana,brazil",,cornelio procopio,parana,brazil,-23.181,-50.647
+404,"amsterdam,north holland,netherlands",,amsterdam,north holland,netherlands,52.37403,4.88969
+405,"garanhuns,pernambuco,brazil",,garanhuns,pernambuco,brazil,-8.89,-36.493
+406,"agua branca,piaui,brazil",,agua branca,piaui,brazil,-5.89,-42.638
+407,"mairipora,sao paulo,brazil",,mairipora,sao paulo,brazil,-23.319,-46.587
+408,"jacarezinho,parana,brazil",,jacarezinho,parana,brazil,-23.161,-49.969
+409,"araripina,pernambuco,brazil",,araripina,pernambuco,brazil,-7.576,-40.498
+410,"nova venecia,espirito santo,brazil",,nova venecia,espirito santo,brazil,-18.711,-40.401
+411,"ariquemes,rondonia,brazil",,ariquemes,rondonia,brazil,-9.913,-63.041
+412,"bedford,england,united kingdom",,bedford,england,united kingdom,52.13459,-0.46632
+413,"maranguape,ceara,brazil",,maranguape,ceara,brazil,-3.89,-38.686
+414,"ituiutaba,minas gerais,brazil",,ituiutaba,minas gerais,brazil,-18.969,-49.465
+415,"bandeirantes,parana,brazil",,bandeirantes,parana,brazil,-23.11,-50.368
+416,"valenca,rio de janeiro,brazil",,valenca,rio de janeiro,brazil,-22.246,-43.7
+417,"nova lima,minas gerais,brazil",,nova lima,minas gerais,brazil,-19.986,-43.847
+418,"maturin,estado monagas,venezuela",,maturin,estado monagas,venezuela,9.74569,-63.18323
+419,"lauro de freitas,bahia,brazil",,lauro de freitas,bahia,brazil,-12.894,-38.327
+420,"grenoble,rhône-alpes,france",,grenoble,rhône-alpes,france,45.16667,5.71667
+421,"sao jose do rio pardo,sao paulo,brazil",,sao jose do rio pardo,sao paulo,brazil,-21.596,-46.889
+422,"sao gotardo,minas gerais,brazil",,sao gotardo,minas gerais,brazil,-19.311,-46.049
+423,"bonn,north rhine-westphalia,germany",,bonn,north rhine-westphalia,germany,50.73438,7.09549
+424,"campanha,minas gerais,brazil",,campanha,minas gerais,brazil,-21.836,-45.401
+425,"london,ontario,canada",,london,ontario,canada,42.98339,-81.23304
+426,"cataguases,minas gerais,brazil",,cataguases,minas gerais,brazil,-21.389,-42.697
+427,"york,england,united kingdom",,york,england,united kingdom,53.95763,-1.08271
+428,"sao pedro do piaui,piaui,brazil",,sao pedro do piaui,piaui,brazil,-5.929,-42.719
+429,"sao luis de montes belos,goias,brazil",,sao luis de montes belos,goias,brazil,-16.525,-50.372
+430,"conselheiro lafaiete,minas gerais,brazil",,conselheiro lafaiete,minas gerais,brazil,-20.66,-43.786
+431,"colchester,england,united kingdom",,colchester,england,united kingdom,51.88921,0.90421
+432,"assis,sao paulo,brazil",,assis,sao paulo,brazil,-22.662,-50.412
+433,"pirassununga,sao paulo,brazil",,pirassununga,sao paulo,brazil,-21.996,-47.426
+434,"itaborai,rio de janeiro,brazil",,itaborai,rio de janeiro,brazil,-22.744,-42.859
+435,"pereira barreto,sao paulo,brazil",,pereira barreto,sao paulo,brazil,-20.638,-51.109
+436,"coroata,maranhao,brazil",,coroata,maranhao,brazil,-4.13,-44.124
+437,"bogota,bogota d.c.,colombia",,bogota,bogota d.c.,colombia,4.60971,-74.08175
+438,"santo angelo,rio grande do sul,brazil",,santo angelo,rio grande do sul,brazil,-28.299,-54.263
+439,"houston,texas,united states",,houston,texas,united states,29.76328,-95.36327
+440,"bondy,île-de-france,france",,bondy,île-de-france,france,48.9018,2.48931
+441,"saint andrews,scotland,united kingdom",,saint andrews,scotland,united kingdom,56.33871,-2.79902
+442,"petrolina,pernambuco,brazil",,petrolina,pernambuco,brazil,-9.393,-40.508
+443,"trujillo,la libertad,peru",,trujillo,la libertad,peru,-8.11599,-79.02998
+444,"jaboatao dos guararapes,pernambuco,brazil",,jaboatao dos guararapes,pernambuco,brazil,-8.113,-35.015
+445,"manhattan,kansas,united states",,manhattan,kansas,united states,39.18361,-96.57167
+446,"sao mateus,espirito santo,brazil",,sao mateus,espirito santo,brazil,-18.716,-39.859
+447,"melbourne,victoria,australia",,melbourne,victoria,australia,-37.814,144.96332
+448,"amherst,new york,united states",,amherst,new york,united states,42.97839,-78.79976
+449,"olimpia,sao paulo,brazil",,olimpia,sao paulo,brazil,-20.737,-48.915
+450,"assis chateaubriand,parana,brazil",,assis chateaubriand,parana,brazil,-24.42,-53.521
+451,"arcoverde,pernambuco,brazil",,arcoverde,pernambuco,brazil,-8.419,-37.054
+452,"formiga,minas gerais,brazil",,formiga,minas gerais,brazil,-20.464,-45.426
+453,"vespasiano,minas gerais,brazil",,vespasiano,minas gerais,brazil,-19.692,-43.923
+454,"rio pomba,minas gerais,brazil",,rio pomba,minas gerais,brazil,-21.275,-43.179
+455,"mirassol,sao paulo,brazil",,mirassol,sao paulo,brazil,-20.819,-49.521
+456,"mineiros,goias,brazil",,mineiros,goias,brazil,-17.569,-52.551
+457,"blagnac,midi-pyrénées,france",,blagnac,midi-pyrénées,france,43.63276,1.39399
+458,"albuquerque,new mexico,united states",,albuquerque,new mexico,united states,35.08449,-106.65114
+459,"barreiras,bahia,brazil",,barreiras,bahia,brazil,-12.153,-44.99
+460,"tupa,sao paulo,brazil",,tupa,sao paulo,brazil,-21.935,-50.514
+461,"cacoal,rondonia,brazil",,cacoal,rondonia,brazil,-11.438,-61.448
+462,"pato branco,parana,brazil",,pato branco,parana,brazil,-26.229,-52.671
+463,"aracati,ceara,brazil",,aracati,ceara,brazil,-4.562,-37.77
+464,"patos de minas,minas gerais,brazil",,patos de minas,minas gerais,brazil,-18.579,-46.518
+465,"goias,goias,brazil",,goias,goias,brazil,-15.934,-50.14
+466,"uppsala,uppsala,sweden",,uppsala,uppsala,sweden,59.85882,17.63889
+467,"guaruja,sao paulo,brazil",,guaruja,sao paulo,brazil,-23.993,-46.256
+468,"foz do iguacu,parana,brazil",,foz do iguacu,parana,brazil,-25.548,-54.588
+469,"macae,rio de janeiro,brazil",,macae,rio de janeiro,brazil,-22.371,-41.787
+470,"paracatu,minas gerais,brazil",,paracatu,minas gerais,brazil,-17.222,-46.875
+471,"carapicuiba,sao paulo,brazil",,carapicuiba,sao paulo,brazil,-23.523,-46.836
+472,"santarem,para,brazil",,santarem,para,brazil,-2.443,-54.708
+473,"rubiataba,goias,brazil",,rubiataba,goias,brazil,-15.164,-49.803
+474,"alegre,espirito santo,brazil",,alegre,espirito santo,brazil,-20.764,-41.533
+475,"amparo,sao paulo,brazil",,amparo,sao paulo,brazil,-22.701,-46.764
+476,"contagem,minas gerais,brazil",,contagem,minas gerais,brazil,-19.932,-44.054
+477,"adamantina,sao paulo,brazil",,adamantina,sao paulo,brazil,-21.685,-51.073
+478,"restinga seca,rio grande do sul,brazil",,restinga seca,rio grande do sul,brazil,-29.813,-53.375
+479,"mandaguari,parana,brazil",,mandaguari,parana,brazil,-23.548,-51.671
+480,"parnaiba,piaui,brazil",,parnaiba,piaui,brazil,-2.905,-41.777
+481,"paranaiba,mato grosso do sul,brazil",,paranaiba,mato grosso do sul,brazil,-19.677,-51.191
+482,"campo limpo paulista,sao paulo,brazil",,campo limpo paulista,sao paulo,brazil,-23.206,-46.784
+483,"conceicao do castelo,espirito santo,brazil",,conceicao do castelo,espirito santo,brazil,-20.368,-41.244
+484,"goiana,pernambuco,brazil",,goiana,pernambuco,brazil,-7.561,-35.003
+485,"igarassu,pernambuco,brazil",,igarassu,pernambuco,brazil,-7.834,-34.906
+486,"colatina,espirito santo,brazil",,colatina,espirito santo,brazil,-19.539,-40.631
+487,"wenceslau braz,parana,brazil",,wenceslau braz,parana,brazil,-23.874,-49.803
+488,"ivaipora,parana,brazil",,ivaipora,parana,brazil,-24.248,-51.685
+489,"bilbao,basque country,spain",,bilbao,basque country,spain,43.26271,-2.92528
+490,"dois vizinhos,parana,brazil",,dois vizinhos,parana,brazil,-25.734,-53.057
+491,"colorado do oeste,rondonia,brazil",,colorado do oeste,rondonia,brazil,-13.117,-60.542
+492,"victoria,british columbia,canada",,victoria,british columbia,canada,48.43294,-123.3693
+493,"americana,sao paulo,brazil",,americana,sao paulo,brazil,-22.739,-47.331
+494,"imperatriz,maranhao,brazil",,imperatriz,maranhao,brazil,-5.526,-47.476
+495,"itapetininga,sao paulo,brazil",,itapetininga,sao paulo,brazil,-23.592,-48.053
+496,"camaqua,rio grande do sul,brazil",,camaqua,rio grande do sul,brazil,-30.851,-51.812
+497,"penedo,alagoas,brazil",,penedo,alagoas,brazil,-10.29,-36.586
+498,"congonhas,minas gerais,brazil",,congonhas,minas gerais,brazil,-20.5,-43.858
+499,"luz,minas gerais,brazil",,luz,minas gerais,brazil,-19.801,-45.686
+500,"cachoeirinha,rio grande do sul,brazil",,cachoeirinha,rio grande do sul,brazil,-29.951,-51.094
+501,"cabo frio,rio de janeiro,brazil",,cabo frio,rio de janeiro,brazil,-22.879,-42.019
+502,"vitoria de santo antao,pernambuco,brazil",,vitoria de santo antao,pernambuco,brazil,-8.118,-35.291
+503,"serra,espirito santo,brazil",,serra,espirito santo,brazil,-20.129,-40.308
+504,"registro,sao paulo,brazil",,registro,sao paulo,brazil,-24.488,-47.844
+505,"passos,minas gerais,brazil",,passos,minas gerais,brazil,-20.719,-46.61
+506,"santa barbara d oeste,sao paulo,brazil",,santa barbara d oeste,sao paulo,brazil,-22.754,-47.414
+507,"navirai,mato grosso do sul,brazil",,navirai,mato grosso do sul,brazil,-23.065,-54.191
+508,"cotia,sao paulo,brazil",,cotia,sao paulo,brazil,-23.604,-46.919
+509,"ponte nova,minas gerais,brazil",,ponte nova,minas gerais,brazil,-20.416,-42.909
+510,"piraju,sao paulo,brazil",,piraju,sao paulo,brazil,-23.194,-49.384
+511,"paco do lumiar,maranhao,brazil",,paco do lumiar,maranhao,brazil,-2.532,-44.108
+512,"jatai,goias,brazil",,jatai,goias,brazil,-17.881,-51.714
+513,"capivari de baixo,santa catarina,brazil",,capivari de baixo,santa catarina,brazil,-28.445,-48.958
+514,"monte aprazivel,sao paulo,brazil",,monte aprazivel,sao paulo,brazil,-20.773,-49.714
+515,"sao joao da boa vista,sao paulo,brazil",,sao joao da boa vista,sao paulo,brazil,-21.969,-46.798
+516,"goiatuba,goias,brazil",,goiatuba,goias,brazil,-18.013,-49.357
+517,"barra bonita,sao paulo,brazil",,barra bonita,sao paulo,brazil,-22.495,-48.558
+518,"mococa,sao paulo,brazil",,mococa,sao paulo,brazil,-21.468,-47.005
+519,"maua,sao paulo,brazil",,maua,sao paulo,brazil,-23.668,-46.461
+520,"gurupi,tocantins,brazil",,gurupi,tocantins,brazil,-11.729,-49.069
+521,"eldorado do sul,rio grande do sul,brazil",,eldorado do sul,rio grande do sul,brazil,-30.084,-51.616
+522,"extrema,minas gerais,brazil",,extrema,minas gerais,brazil,-22.855,-46.318
+523,"jau,sao paulo,brazil",,jau,sao paulo,brazil,-22.296,-48.558
+524,"taquaritinga,sao paulo,brazil",,taquaritinga,sao paulo,brazil,-21.406,-48.505
+525,"guaxupe,minas gerais,brazil",,guaxupe,minas gerais,brazil,-21.305,-46.713
+526,"itu,sao paulo,brazil",,itu,sao paulo,brazil,-23.264,-47.299
+527,"taquara,rio grande do sul,brazil",,taquara,rio grande do sul,brazil,-29.651,-50.781
+528,"paripiranga,bahia,brazil",,paripiranga,bahia,brazil,-10.688,-37.862
+529,"ji parana,rondonia,brazil",,ji parana,rondonia,brazil,-10.882,-61.944
+530,"lapa,parana,brazil",,lapa,parana,brazil,-25.77,-49.716
+531,"ibicarai,bahia,brazil",,ibicarai,bahia,brazil,-14.865,-39.588
+532,"palmares,pernambuco,brazil",,palmares,pernambuco,brazil,-8.683,-35.592
+533,"pimenta bueno,rondonia,brazil",,pimenta bueno,rondonia,brazil,-11.673,-61.193
+534,"jales,sao paulo,brazil",,jales,sao paulo,brazil,-20.269,-50.546
+535,"sao joaquim da barra,sao paulo,brazil",,sao joaquim da barra,sao paulo,brazil,-20.581,-47.855
+536,"aracruz,espirito santo,brazil",,aracruz,espirito santo,brazil,-19.82,-40.273
+537,"divinopolis,minas gerais,brazil",,divinopolis,minas gerais,brazil,-20.139,-44.884
+538,"sumare,sao paulo,brazil",,sumare,sao paulo,brazil,-22.822,-47.267
+539,"uba,minas gerais,brazil",,uba,minas gerais,brazil,-21.12,-42.943
+540,"palmeira dos indios,alagoas,brazil",,palmeira dos indios,alagoas,brazil,-9.407,-36.628
+541,"macaiba,rio grande do norte,brazil",,macaiba,rio grande do norte,brazil,-5.858,-35.354
+542,"santa teresa,espirito santo,brazil",,santa teresa,espirito santo,brazil,-19.936,-40.6
+543,"fatima do sul,mato grosso do sul,brazil",,fatima do sul,mato grosso do sul,brazil,-22.374,-54.514
+544,"jaguariuna,sao paulo,brazil",,jaguariuna,sao paulo,brazil,-22.706,-46.986
+545,"porto belo,santa catarina,brazil",,porto belo,santa catarina,brazil,-27.158,-48.553
+546,"itumbiara,goias,brazil",,itumbiara,goias,brazil,-18.42,-49.218
+547,"colider,mato grosso,brazil",,colider,mato grosso,brazil,-10.813,-55.455
+548,"ipatinga,minas gerais,brazil",,ipatinga,minas gerais,brazil,-19.468,-42.537
+549,"patrocinio,minas gerais,brazil",,patrocinio,minas gerais,brazil,-18.944,-46.993
+550,"timon,maranhao,brazil",,timon,maranhao,brazil,-5.094,-42.837
+551,"chapadinha,maranhao,brazil",,chapadinha,maranhao,brazil,-3.742,-43.36
+552,"venda nova do imigrante,espirito santo,brazil",,venda nova do imigrante,espirito santo,brazil,-20.34,-41.135
+553,"cruzeiro do oeste,parana,brazil",,cruzeiro do oeste,parana,brazil,-23.785,-53.073
+554,"porto nacional,tocantins,brazil",,porto nacional,tocantins,brazil,-10.708,-48.417
+555,"serra talhada,pernambuco,brazil",,serra talhada,pernambuco,brazil,-7.986,-38.296
+556,"sao roque,sao paulo,brazil",,sao roque,sao paulo,brazil,-23.529,-47.135
+557,"alem paraiba,minas gerais,brazil",,alem paraiba,minas gerais,brazil,-21.888,-42.704
+558,"cacador,santa catarina,brazil",,cacador,santa catarina,brazil,-26.775,-51.015
+559,"januaria,minas gerais,brazil",,januaria,minas gerais,brazil,-15.488,-44.362
+560,"pinhais,parana,brazil",,pinhais,parana,brazil,-25.445,-49.193
+561,"canela,rio grande do sul,brazil",,canela,rio grande do sul,brazil,-29.366,-50.816
+562,"juazeiro do norte,ceara,brazil",,juazeiro do norte,ceara,brazil,-7.213,-39.315
+563,"aguai,sao paulo,brazil",,aguai,sao paulo,brazil,-22.059,-46.979
+564,"janauba,minas gerais,brazil",,janauba,minas gerais,brazil,-15.803,-43.309
+565,"teixeira de freitas,bahia,brazil",,teixeira de freitas,bahia,brazil,-17.535,-39.742
+566,"capanema,para,brazil",,capanema,para,brazil,-1.196,-47.181
+567,"santa cruz do capibaribe,pernambuco,brazil",,santa cruz do capibaribe,pernambuco,brazil,-7.957,-36.205
+568,"valenca,bahia,brazil",,valenca,bahia,brazil,-13.37,-39.073
+569,"machado,minas gerais,brazil",,machado,minas gerais,brazil,-21.675,-45.92
+570,"ampere,parana,brazil",,ampere,parana,brazil,-25.915,-53.473
+571,"maraba,para,brazil",,maraba,para,brazil,-5.369,-49.118
+572,"jose bonifacio,sao paulo,brazil",,jose bonifacio,sao paulo,brazil,-21.053,-49.688
+573,"telemaco borba,parana,brazil",,telemaco borba,parana,brazil,-24.324,-50.616
+574,"cajazeiras,paraiba,brazil",,cajazeiras,paraiba,brazil,-6.89,-38.562
+575,"sinop,mato grosso,brazil",,sinop,mato grosso,brazil,-11.864,-55.504
+576,"itapiranga,santa catarina,brazil",,itapiranga,santa catarina,brazil,-27.169,-53.712
+577,"nanuque,minas gerais,brazil",,nanuque,minas gerais,brazil,-17.839,-40.354
+578,"diadema,sao paulo,brazil",,diadema,sao paulo,brazil,-23.686,-46.623
+579,"castanhal,para,brazil",,castanhal,para,brazil,-1.297,-47.922
+580,"sao bento do sul,santa catarina,brazil",,sao bento do sul,santa catarina,brazil,-26.25,-49.379
+581,"tucurui,para,brazil",,tucurui,para,brazil,-3.768,-49.673
+582,"sarandi,parana,brazil",,sarandi,parana,brazil,-23.444,-51.874
+583,"sao jose dos pinhais,parana,brazil",,sao jose dos pinhais,parana,brazil,-25.535,-49.206
+584,"guarai,tocantins,brazil",,guarai,tocantins,brazil,-8.834,-48.51
+585,"joao pinheiro,minas gerais,brazil",,joao pinheiro,minas gerais,brazil,-17.743,-46.173
+586,"concordia,santa catarina,brazil",,concordia,santa catarina,brazil,-27.234,-52.028
+587,"quixada,ceara,brazil",,quixada,ceara,brazil,-4.971,-39.015
+588,"paulista,pernambuco,brazil",,paulista,pernambuco,brazil,-7.941,-34.873
+589,"indaiatuba,sao paulo,brazil",,indaiatuba,sao paulo,brazil,-23.09,-47.218
+590,"itapira,sao paulo,brazil",,itapira,sao paulo,brazil,-22.436,-46.822
+591,"itabira,minas gerais,brazil",,itabira,minas gerais,brazil,-19.619,-43.227
+592,"caldas novas,goias,brazil",,caldas novas,goias,brazil,-17.744,-48.626
+593,"para de minas,minas gerais,brazil",,para de minas,minas gerais,brazil,-19.86,-44.608
+594,"capanema,parana,brazil",,capanema,parana,brazil,-25.672,-53.809
+595,"belford roxo,rio de janeiro,brazil",,belford roxo,rio de janeiro,brazil,-22.764,-43.399
+596,"taboao da serra,sao paulo,brazil",,taboao da serra,sao paulo,brazil,-23.602,-46.753
+597,"camacari,bahia,brazil",,camacari,bahia,brazil,-12.698,-38.324
+598,"agudos,sao paulo,brazil",,agudos,sao paulo,brazil,-22.469,-48.988
+599,"guanhaes,minas gerais,brazil",,guanhaes,minas gerais,brazil,-18.775,-42.933
+600,"auriflama,sao paulo,brazil",,auriflama,sao paulo,brazil,-20.686,-50.555
+601,"manhuacu,minas gerais,brazil",,manhuacu,minas gerais,brazil,-20.258,-42.034
+602,"caraguatatuba,sao paulo,brazil",,caraguatatuba,sao paulo,brazil,-23.62,-45.413
+603,"matipo,minas gerais,brazil",,matipo,minas gerais,brazil,-20.284,-42.341
+604,"vinhedo,sao paulo,brazil",,vinhedo,sao paulo,brazil,-23.03,-46.975
+605,"sao manuel,sao paulo,brazil",,sao manuel,sao paulo,brazil,-22.731,-48.571
+606,"itarare,sao paulo,brazil",,itarare,sao paulo,brazil,-24.115,-49.341
+607,"toledo,parana,brazil",,toledo,parana,brazil,-24.714,-53.743
+608,"ponta pora,mato grosso do sul,brazil",,ponta pora,mato grosso do sul,brazil,-22.536,-55.726
+609,"tangara da serra,mato grosso,brazil",,tangara da serra,mato grosso,brazil,-14.619,-57.486
+610,"redencao,ceara,brazil",,redencao,ceara,brazil,-4.226,-38.731
+611,"cassilandia,mato grosso do sul,brazil",,cassilandia,mato grosso do sul,brazil,-19.113,-51.734
+612,"itapeva,sao paulo,brazil",,itapeva,sao paulo,brazil,-23.982,-48.876
+613,"casa branca,sao paulo,brazil",,casa branca,sao paulo,brazil,-21.774,-47.086
+614,"pindamonhangaba,sao paulo,brazil",,pindamonhangaba,sao paulo,brazil,-22.924,-45.462
+615,"santo antonio de padua,rio de janeiro,brazil",,santo antonio de padua,rio de janeiro,brazil,-21.539,-42.18
+616,"iguatama,minas gerais,brazil",,iguatama,minas gerais,brazil,-20.174,-45.711
+617,"augustinopolis,tocantins,brazil",,augustinopolis,tocantins,brazil,-5.466,-47.888
+618,"araucaria,parana,brazil",,araucaria,parana,brazil,-25.593,-49.41
+619,"alagoinhas,bahia,brazil",,alagoinhas,bahia,brazil,-12.136,-38.419
+620,"coromandel,minas gerais,brazil",,coromandel,minas gerais,brazil,-18.473,-47.2
+621,"itapecerica da serra,sao paulo,brazil",,itapecerica da serra,sao paulo,brazil,-23.717,-46.849
+622,"barra do garcas,mato grosso,brazil",,barra do garcas,mato grosso,brazil,-15.89,-52.257
+623,"diamantino,mato grosso,brazil",,diamantino,mato grosso,brazil,-14.409,-56.446
+624,"dracena,sao paulo,brazil",,dracena,sao paulo,brazil,-21.483,-51.533
+625,"aparecida de goiania,goias,brazil",,aparecida de goiania,goias,brazil,-16.822,-49.245
+626,"caxias,maranhao,brazil",,caxias,maranhao,brazil,-4.859,-43.356
+627,"luziania,goias,brazil",,luziania,goias,brazil,-16.253,-47.95
+628,"cristalina,goias,brazil",,cristalina,goias,brazil,-16.769,-47.614
+629,"santa maria de jetiba,espirito santo,brazil",,santa maria de jetiba,espirito santo,brazil,-20.041,-40.746
+630,"cariacica,espirito santo,brazil",,cariacica,espirito santo,brazil,-20.264,-40.42
+631,"hortolandia,sao paulo,brazil",,hortolandia,sao paulo,brazil,-22.858,-47.22
+632,"valinhos,sao paulo,brazil",,valinhos,sao paulo,brazil,-22.971,-46.996
+633,"curvelo,minas gerais,brazil",,curvelo,minas gerais,brazil,-18.756,-44.431
+634,"ibiuna,sao paulo,brazil",,ibiuna,sao paulo,brazil,-23.656,-47.223
+635,"tres de maio,rio grande do sul,brazil",,tres de maio,rio grande do sul,brazil,-27.773,-54.24
+636,"presidente epitacio,sao paulo,brazil",,presidente epitacio,sao paulo,brazil,-21.763,-52.116
+637,"lucelia,sao paulo,brazil",,lucelia,sao paulo,brazil,-21.72,-51.019
+638,"dianopolis,tocantins,brazil",,dianopolis,tocantins,brazil,-11.628,-46.821
