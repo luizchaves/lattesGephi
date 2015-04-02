@@ -88,6 +88,7 @@ edges = []
 bar = ProgressBar.new(ids16flow.size)
 puts
 result = "id16, interval\n"
+# TODO id16, interval, distance, last_year
 ids16flow.each{|id16, locations|
 	bar.increment!
 	if locations.size > 1

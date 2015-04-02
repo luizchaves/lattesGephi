@@ -29,7 +29,7 @@ library(reshape2)
 library(ggplot2)
 library(plyr)
 library(scales)
-flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow/frequency-flow-year-phd-top-city.csv")
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/frequency/frequency-flow-year-phd-top-city.csv")
 row.names(flow) <- flow$cities
 # flow <- flow[,2:84]
 flow <- flow[,2:80]
