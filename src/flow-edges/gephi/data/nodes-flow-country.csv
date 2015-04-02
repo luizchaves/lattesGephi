@@ -1,0 +1,135 @@
+Id,Label,Modularity Class,City,State,Country,Latitude,Longitude
+1,"florianopolis,santa catarina,brazil",,florianopolis,santa catarina,brazil,-27.597,-48.549
+2,"philadelphia,pennsylvania,united states",,philadelphia,pennsylvania,united states,39.95233,-75.16379
+3,"braga,braga,portugal",,braga,braga,portugal,41.55032,-8.42005
+4,"ottawa,ontario,canada",,ottawa,ontario,canada,45.41117,-75.69812
+5,"cambridge,england,united kingdom",,cambridge,england,united kingdom,52.2,0.11667
+6,"montevideo,montevideo,uruguay",,montevideo,montevideo,uruguay,-34.90328,-56.18816
+7,"salamanca,madrid,spain",,salamanca,madrid,spain,40.42972,-3.67975
+8,"garching bei munchen,bavaria,germany",,garching bei munchen,bavaria,germany,48.24896,11.65101
+9,"tokyo,tōkyō,japan",,tokyo,tōkyō,japan,35.6895,139.69171
+10,"medellin,departamento de antioquia,colombia",,medellin,departamento de antioquia,colombia,6.25184,-75.56359
+11,"paris,île-de-france,france",,paris,île-de-france,france,48.85341,2.3488
+12,"santiago,santiago,chile",,santiago,santiago,chile,-33.45694,-70.64827
+13,"padova,veneto,italy",,padova,veneto,italy,45.40797,11.88586
+14,"utrecht,utrecht,netherlands",,utrecht,utrecht,netherlands,52.09083,5.12222
+15,"ica,ica,peru",,ica,ica,peru,-14.06777,-75.72861
+16,"la plata,buenos aires,argentina",,la plata,buenos aires,argentina,-34.92145,-57.95453
+17,"centro habana,ciudad de la habana,cuba",,centro habana,ciudad de la habana,cuba,23.13833,-82.36417
+18,"caracas,distrito federal,venezuela",,caracas,distrito federal,venezuela,10.48801,-66.87919
+19,"leuven,flanders,belgium",,leuven,flanders,belgium,50.87959,4.70093
+20,"sydney,new south wales,australia",,sydney,new south wales,australia,-33.86785,151.20732
+21,"lund,skåne,sweden",,lund,skåne,sweden,55.70584,13.19321
+22,"san ignacio,cayo,belize",,san ignacio,cayo,belize,17.15297,-89.08058
+23,"copenhagen,capital region,denmark",,copenhagen,capital region,denmark,55.67594,12.56553
+24,"lausanne,vaud,switzerland",,lausanne,vaud,switzerland,46.516,6.63282
+25,"maputo,maputo city,mozambique",,maputo,maputo city,mozambique,-25.96553,32.58322
+26,"delijan,markazi,iran",,delijan,markazi,iran,33.9905,50.6838
+27,"quito,pichincha,ecuador",,quito,pichincha,ecuador,-0.22985,-78.52495
+28,"moscow,moscow,russia",,moscow,moscow,russia,55.75222,37.61556
+29,"puebla,puebla,mexico",,puebla,puebla,mexico,19.04334,-98.20193
+30,"cork,munster,ireland",,cork,munster,ireland,51.89797,-8.47061
+31,"peshawar,north-west frontier province,pakistan",,peshawar,north-west frontier province,pakistan,34.008,71.57849
+32,"imphal,manipur,india",,imphal,manipur,india,24.80805,93.9442
+33,"pernik,pernik,bulgaria",,pernik,pernik,bulgaria,42.6,23.03333
+34,"butare,southern province,rwanda",,butare,southern province,rwanda,-2.59667,29.73944
+35,"santo domingo,distrito nacional,dominican republic",,santo domingo,distrito nacional,dominican republic,18.50012,-69.98857
+36,"dej,cluj,romania",,dej,cluj,romania,47.15,23.86667
+37,"zadar,zadarska,croatia",,zadar,zadarska,croatia,44.11972,15.24222
+38,"boaco,boaco,nicaragua",,boaco,boaco,nicaragua,12.47224,-85.6586
+39,"brest,brestskaya voblastsʼ,belarus",,brest,brestskaya voblastsʼ,belarus,52.09755,23.68775
+40,"quetzaltenango,quetzaltenango,guatemala",,quetzaltenango,quetzaltenango,guatemala,14.83472,-91.51806
+41,"linz,upper austria,austria",,linz,upper austria,austria,48.30639,14.28611
+42,"leszno,greater poland voivodeship,poland",,leszno,greater poland voivodeship,poland,51.84034,16.57494
+43,"alexandria,alexandria,egypt",,alexandria,alexandria,egypt,31.21564,29.95527
+44,"mexico,central luzon,philippines",,mexico,central luzon,philippines,15.0646,120.7198
+45,"rabat,rabat-salé-zemmour-zaër,morocco",,rabat,rabat-salé-zemmour-zaër,morocco,34.01325,-6.83255
+46,"wellington,wellington,new zealand",,wellington,wellington,new zealand,-41.28664,174.77557
+47,"oslo,oslo county,norway",,oslo,oslo county,norway,59.91273,10.74609
+48,"paramaribo,paramaribo,suriname",,paramaribo,paramaribo,suriname,5.86638,-55.16682
+49,"oruro,oruro,bolivia",,oruro,oruro,bolivia,-17.98333,-67.15
+50,"curepipe,plaines wilhems,mauritius",,curepipe,plaines wilhems,mauritius,-20.31472,57.52028
+51,"beijing,beijing,china",,beijing,beijing,china,39.9075,116.39723
+52,"taipei,taipei,taiwan",,taipei,taipei,taiwan,25.04776,121.53185
+53,"san salvador,san salvador,el salvador",,san salvador,san salvador,el salvador,13.68935,-89.18718
+54,"budapest,budapest,hungary",,budapest,budapest,hungary,47.49801,19.03991
+55,"luanda,luanda,angola",,luanda,luanda,angola,-8.83682,13.23432
+56,"riga,rīga,latvia",,riga,rīga,latvia,56.946,24.10589
+57,"tegucigalpa,francisco morazán,honduras",,tegucigalpa,francisco morazán,honduras,14.0818,-87.20681
+58,"san juan,san juan,puerto rico",,san juan,san juan,puerto rico,18.46633,-66.10572
+59,"concepcion,concepción,paraguay",,concepcion,concepción,paraguay,-23.39985,-57.43236
+60,"pavlodar,pavlodar,kazakhstan",,pavlodar,pavlodar,kazakhstan,52.27401,77.00438
+61,"ondo,ondo,nigeria",,ondo,ondo,nigeria,7.1,4.83333
+62,"aigio,west greece,greece",,aigio,west greece,greece,38.24861,22.08194
+63,"mansoura,tlemcen,algeria",,mansoura,tlemcen,algeria,34.86158,-1.33935
+64,"nikopol,dnipropetrovs'ka oblast',ukraine",,nikopol,dnipropetrovs'ka oblast',ukraine,47.57119,34.39637
+65,"sfax,şafāqis,tunisia",,sfax,şafāqis,tunisia,34.74056,10.76028
+66,"alajuela,alajuela,costa rica",,alajuela,alajuela,costa rica,10.01625,-84.21163
+67,"tel aviv,tel aviv,israel",,tel aviv,tel aviv,israel,32.08088,34.78057
+68,"seoul,seoul,south korea",,seoul,seoul,south korea,37.566,126.9784
+69,"panama,panamá,panama",,panama,panamá,panama,8.9936,-79.51973
+70,"bratislava,bratislavský,slovakia",,bratislava,bratislavský,slovakia,48.14816,17.10674
+71,"praia,praia,cape verde",,praia,praia,cape verde,14.93152,-23.51254
+72,"dakar,dakar,senegal",,dakar,dakar,senegal,14.6937,-17.44406
+73,"yabrud,rif-dimashq,syria",,yabrud,rif-dimashq,syria,33.96736,36.65741
+74,"helsinki,,finland",,helsinki,"",finland,60.16952,24.93545
+75,"yaounde,centre region,cameroon",,yaounde,centre region,cameroon,3.86667,11.51667
+76,"ramallah,west bank,palestinian territory",,ramallah,west bank,palestinian territory,31.89964,35.20422
+77,"pretoria,gauteng,south africa",,pretoria,gauteng,south africa,-25.74486,28.18783
+78,"goroka,eastern highlands,papua new guinea",,goroka,eastern highlands,papua new guinea,-6.08336,145.38735
+79,"zemun,central serbia,serbia",,zemun,central serbia,serbia,44.84306,20.40111
+80,"sao tome,são tomé island,sao tome and principe",,sao tome,são tomé island,sao tome and principe,0.33654,6.72732
+81,"zlin,zlínský,czech republic",,zlin,zlínský,czech republic,49.22645,17.67065
+82,"izmir,ızmir,turkey",,izmir,ızmir,turkey,38.41273,27.13838
+83,"toumodi,lacs,ivory coast",,toumodi,lacs,ivory coast,6.55799,-5.01769
+84,"tashkent,toshkent shahri,uzbekistan",,tashkent,toshkent shahri,uzbekistan,41.26465,69.21627
+85,"gibraltar,,gibraltar",,gibraltar,"",gibraltar,36.14474,-5.35257
+86,"aden,aden,yemen",,aden,aden,yemen,12.77944,45.03667
+87,"porto novo,quémé,benin",,porto novo,quémé,benin,6.49646,2.60359
+88,"vilnius,vilniaus apskritis,lithuania",,vilnius,vilniaus apskritis,lithuania,54.68916,25.2798
+89,"linstead,saint catherine,jamaica",,linstead,saint catherine,jamaica,18.13683,-77.03171
+90,"san fernando,city of san fernando,trinidad and tobago",,san fernando,city of san fernando,trinidad and tobago,10.28333,-61.46667
+91,"khartoum,khartoum state,sudan",,khartoum,khartoum state,sudan,15.55177,32.53241
+92,"hong kong,,hong kong",,hong kong,"",hong kong,22.28552,114.15769
+93,"jakarta,jakarta raya,indonesia",,jakarta,jakarta raya,indonesia,-6.21462,106.84513
+94,"georgetown,demerara-mahaica,guyana",,georgetown,demerara-mahaica,guyana,6.80448,-58.15527
+95,"bondo,eastern province,democratic republic of the congo",,bondo,eastern province,democratic republic of the congo,3.81461,23.68665
+96,"straseni,raionul străşeni,moldova",,straseni,raionul străşeni,moldova,47.14139,28.61028
+97,"bafata,bafatá,guinea bissau",,bafata,bafatá,guinea bissau,12.16667,-14.66667
+98,"yerevan,yerevan,armenia",,yerevan,yerevan,armenia,40.18111,44.51361
+99,"lezhe,lezhë,albania",,lezhe,lezhë,albania,41.78361,19.64361
+100,"rangpur,rangpur division,bangladesh",,rangpur,rangpur division,bangladesh,25.74664,89.25166
+101,"tartu,tartumaa,estonia",,tartu,tartumaa,estonia,58.38062,26.72509
+102,"ljubljana,ljubljana,slovenia",,ljubljana,ljubljana,slovenia,46.05108,14.50513
+103,"gondar,amhara region,ethiopia",,gondar,amhara region,ethiopia,12.6,37.46667
+104,"nairobi,nairobi area,kenya",,nairobi,nairobi area,kenya,-1.28333,36.81667
+105,"kuala lumpur,kuala lumpur,malaysia",,kuala lumpur,kuala lumpur,malaysia,3.1412,101.68653
+106,"dili,distrito díli,east timor",,dili,distrito díli,east timor,-8.55861,125.57361
+107,"sarajevo,federation of bosnia and herzegovina,bosnia and herzegovina",,sarajevo,federation of bosnia and herzegovina,bosnia and herzegovina,43.84864,18.35644
+108,"hanoi,ha nội,vietnam",,hanoi,ha nội,vietnam,21.0245,105.84117
+109,"basse terre,guadeloupe,guadeloupe",,basse terre,guadeloupe,guadeloupe,15.99854,-61.72548
+110,"harare,harare province,zimbabwe",,harare,harare province,zimbabwe,-17.82772,31.05337
+111,"lome,maritime,togo",,lome,maritime,togo,6.13748,1.21227
+112,"baku,baki,azerbaijan",,baku,baki,azerbaijan,40.37767,49.89201
+113,"mosul,nīnawá,iraq",,mosul,nīnawá,iraq,36.335,43.11889
+114,"lusaka,lusaka,zambia",,lusaka,lusaka,zambia,-15.40669,28.28713
+115,"fort de france,martinique,martinique",,fort de france,martinique,martinique,14.60892,-61.07334
+116,"skopje,karpoš,macedonia",,skopje,karpoš,macedonia,41.99646,21.43141
+117,"beirut,beyrouth,lebanon",,beirut,beyrouth,lebanon,33.88894,35.49442
+118,"apia,tuamasaga,samoa",,apia,tuamasaga,samoa,-13.83333,-171.76666
+119,"bangkok,bangkok,thailand",,bangkok,bangkok,thailand,13.75398,100.50144
+120,"tbilisi,t'bilisi,georgia",,tbilisi,t'bilisi,georgia,41.69411,44.83368
+121,"tahoua,tahoua,niger",,tahoua,tahoua,niger,14.8888,5.2692
+122,"libreville,estuaire,gabon",,libreville,estuaire,gabon,0.39241,9.45356
+123,"ma an,ma’an,jordan",,ma an,ma’an,jordan,30.19624,35.73405
+124,"accra,greater accra,ghana",,accra,greater accra,ghana,5.55602,-0.1969
+125,"niksic,opština nikšić,montenegro",,niksic,opština nikšić,montenegro,42.7731,18.94446
+126,"toamasina,atsinanana,madagascar",,toamasina,atsinanana,madagascar,-18.1492,49.40234
+127,"macau,macau,macao",,macau,macau,macao,22.20056,113.54611
+128,"monaco,,monaco",,monaco,"",monaco,43.73333,7.41667
+129,"dar es salaam,dar es salaam,tanzania",,dar es salaam,dar es salaam,tanzania,-6.82349,39.26951
+130,"madingou,bouenza,republic of the congo",,madingou,bouenza,republic of the congo,-4.15361,13.55
+131,"vaduz,vaduz,liechtenstein",,vaduz,vaduz,liechtenstein,47.14151,9.52154
+132,"monrovia,montserrado,liberia",,monrovia,montserrado,liberia,6.30054,-10.7969
+133,"rosso,trarza,mauritania",,rosso,trarza,mauritania,16.51378,-15.80503
+134,"koudougou,centre-ouest,burkina faso",,koudougou,centre-ouest,burkina faso,12.25263,-2.36272

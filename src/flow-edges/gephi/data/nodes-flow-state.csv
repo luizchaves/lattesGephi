@@ -1,0 +1,28 @@
+Id,Label,Modularity Class,City,State,Country,Latitude,Longitude
+1,santa catarina,instituition,florianopolis,santa catarina,brazil,-27.597,-48.549
+2,sao paulo,instituition,sao paulo,sao paulo,brazil,-23.548,-46.636
+3,minas gerais,instituition,lavras,minas gerais,brazil,-21.245,-45
+4,federal district,instituition,brasilia,federal district,brazil,-15.78,-47.93
+5,parana,instituition,londrina,parana,brazil,-23.31,-51.163
+6,bahia,instituition,feira de santana,bahia,brazil,-12.267,-38.967
+7,rio de janeiro,instituition,rio de janeiro,rio de janeiro,brazil,-22.903,-43.208
+8,rio grande do sul,instituition,rio grande,rio grande do sul,brazil,-32.035,-52.099
+9,maranhao,instituition,sao luis,maranhao,brazil,-2.53,-44.303
+10,amazonas,instituition,manaus,amazonas,brazil,-3.102,-60.025
+11,mato grosso,instituition,caceres,mato grosso,brazil,-16.071,-57.679
+12,para,instituition,breves,para,brazil,-1.682,-50.48
+13,espirito santo,instituition,vitoria,espirito santo,brazil,-20.319,-40.338
+14,goias,instituition,goiania,goias,brazil,-16.679,-49.254
+15,pernambuco,instituition,recife,pernambuco,brazil,-8.054,-34.881
+16,paraiba,instituition,joao pessoa,paraiba,brazil,-7.115,-34.863
+17,amapa,instituition,macapa,amapa,brazil,0.039,-51.066
+18,ceara,instituition,fortaleza,ceara,brazil,-3.717,-38.543
+19,mato grosso do sul,instituition,campo grande,mato grosso do sul,brazil,-20.443,-54.646
+20,alagoas,instituition,maceio,alagoas,brazil,-9.666,-35.735
+21,rio grande do norte,instituition,natal,rio grande do norte,brazil,-5.795,-35.209
+22,piaui,instituition,teresina,piaui,brazil,-5.089,-42.802
+23,sergipe,instituition,aracaju,sergipe,brazil,-10.911,-37.072
+24,acre,instituition,rio branco,acre,brazil,-9.975,-67.81
+25,rondonia,instituition,porto velho,rondonia,brazil,-8.762,-63.904
+26,tocantins,instituition,palmas,tocantins,brazil,-10.167,-48.333
+27,roraima,instituition,boa vista,roraima,brazil,2.82,-60.673

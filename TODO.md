@@ -1,46 +1,23 @@
-Comentar do XML que informações possuem
-Decrever o dado:
-	inclui doutores
-	média de registro
-	variação temporal
-	variação espacial (nacimento, formação e trabalho)
-
-
-
-	Fig 1A
-	Evolução de número de (graduados, mestres, doutores, pós-doutores) vs IBGE vs Mundial
-
-	Fig 1B
-	Número de deslocamento vs Ano
-
-	Fig 1C
-	Graduados vc doutores por cidade
-
-	Fig 1D(nogeo) e 1C (geo)
-	Foco no brasil (nós page rank, label page rank, aresta)
+- grafo com variação nas arestas do que é work, birth e degree
+- Comentarios das informações existentes do XML
+- Decrever o dado:
+	- inclui doutores
+	- média de registro
+	- variação temporal
+	- variação espacial (nacimento, formação e trabalho)
+- Possíveis figura dos artigo da Science (http://www.uvm.edu/~cdanfort/csc-reading-group/schich-science-2014.pdf e http://www.sciencemag.org/content/suppl/2014/07/30/345.6196.558.DC1/1240064.Schich.SM.pdf)
+	- Fig 1A: Evolução de número de (graduados, mestres, doutores, pós-doutores) vs IBGE vs Mundial
+	- Fig 1B: Número de deslocamento vs Ano
+	- Fig 1C: Graduados vc doutores por cidade
+	- Fig 1D(nogeo) e 1C (geo): Foco no brasil (nós page rank, label page rank, aresta)
 	alguns fatos ou anos
-
-
-	Fig 2A
-	num pessoas vs num de locais
-
-	Fig 2B
-	Análise de frequência total de formação entre os anos de pessoas com doutorado
+	- Fig 2A: num pessoas vs num de locais
+	- Fig 2B: Análise de frequência total de formação entre os anos de pessoas com doutorado
 	distribuição???
-
-	Fig 2C
-	Análise de frequência distância de entre os anos de pessoas com doutorado
-
-	Fig 2D
-
-	Fig 3A
-	
-	Fig 3B
-	
-	Fig 3C
-
-	Fig 4
-	mapa de calor linear entre as cidades, instituições ou países ao passar do tempo
-
-	S1
-
+	- Fig 2C: Análise de frequência distância de entre os anos de pessoas com doutorado
+	- Fig 2D
+	- Fig 3A
+	- Fig 3B
+	- Fig 3C
+	- Fig 4: mapa de calor linear entre as cidades, instituições ou países ao passar do tempo
+ 	- S1

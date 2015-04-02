@@ -1,0 +1,60 @@
+Id,Label,Modularity Class,City,State,Country,Latitude,Longitude
+1,"sao paulo,sao paulo,brazil",,sao paulo,sao paulo,brazil,-23.548,-46.636
+2,"rio de janeiro,rio de janeiro,brazil",,rio de janeiro,rio de janeiro,brazil,-22.903,-43.208
+3,"salvador,bahia,brazil",,salvador,bahia,brazil,-12.971,-38.511
+4,"belo horizonte,minas gerais,brazil",,belo horizonte,minas gerais,brazil,-19.817,-43.956
+5,"campinas,sao paulo,brazil",,campinas,sao paulo,brazil,-22.906,-47.061
+6,"guarulhos,sao paulo,brazil",,guarulhos,sao paulo,brazil,-23.463,-46.533
+7,"porto alegre,rio grande do sul,brazil",,porto alegre,rio grande do sul,brazil,-30.033,-51.23
+8,"rome,latium,italy",,rome,latium,italy,41.89193,12.51133
+9,"joliet,illinois,united states",,joliet,illinois,united states,41.52519,-88.0834
+10,"sao luis,maranhao,brazil",,sao luis,maranhao,brazil,-2.53,-44.303
+11,"vila velha,espirito santo,brazil",,vila velha,espirito santo,brazil,-20.33,-40.292
+12,"sao leopoldo,rio grande do sul,brazil",,sao leopoldo,rio grande do sul,brazil,-29.76,-51.147
+13,"santiago,santiago,chile",,santiago,santiago,chile,-33.45694,-70.64827
+14,"seropedica,rio de janeiro,brazil",,seropedica,rio de janeiro,brazil,-22.744,-43.708
+15,"suzano,sao paulo,brazil",,suzano,sao paulo,brazil,-23.543,-46.311
+16,"recife,pernambuco,brazil",,recife,pernambuco,brazil,-8.054,-34.881
+17,"palo alto,california,united states",,palo alto,california,united states,37.44188,-122.14302
+18,"nashville,tennessee,united states",,nashville,tennessee,united states,36.16589,-86.78444
+19,"curitiba,parana,brazil",,curitiba,parana,brazil,-25.428,-49.273
+20,"new york city,new york,united states",,new york city,new york,united states,40.71427,-74.00597
+21,"riverside,california,united states",,riverside,california,united states,33.95335,-117.39616
+22,"fortaleza,ceara,brazil",,fortaleza,ceara,brazil,-3.717,-38.543
+23,"west lafayette,indiana,united states",,west lafayette,indiana,united states,40.42587,-86.90807
+24,"pelotas,rio grande do sul,brazil",,pelotas,rio grande do sul,brazil,-31.772,-52.343
+25,"cambridge,massachusetts,united states",,cambridge,massachusetts,united states,42.3751,-71.10561
+26,"porto,porto,portugal",,porto,porto,portugal,41.14961,-8.61099
+27,"cambridge,england,united kingdom",,cambridge,england,united kingdom,52.2,0.11667
+28,"manaus,amazonas,brazil",,manaus,amazonas,brazil,-3.102,-60.025
+29,"niteroi,rio de janeiro,brazil",,niteroi,rio de janeiro,brazil,-22.883,-43.104
+30,"madrid,madrid,spain",,madrid,madrid,spain,40.4165,-3.70256
+31,"la plata,buenos aires,argentina",,la plata,buenos aires,argentina,-34.92145,-57.95453
+32,"vicosa,minas gerais,brazil",,vicosa,minas gerais,brazil,-20.754,-42.882
+33,"paris,île-de-france,france",,paris,île-de-france,france,48.85341,2.3488
+34,"buenos aires,buenos aires f.d.,argentina",,buenos aires,buenos aires f.d.,argentina,-34.61315,-58.37723
+35,"valparaiso,valparaíso,chile",,valparaiso,valparaíso,chile,-33.03932,-71.62725
+36,"lavras,minas gerais,brazil",,lavras,minas gerais,brazil,-21.245,-45
+37,"minneapolis,minnesota,united states",,minneapolis,minnesota,united states,44.97997,-93.26384
+38,"london,england,united kingdom",,london,england,united kingdom,51.50853,-0.12574
+39,"austin,texas,united states",,austin,texas,united states,30.26715,-97.74306
+40,"sao joao de meriti,rio de janeiro,brazil",,sao joao de meriti,rio de janeiro,brazil,-22.804,-43.372
+41,"houston,texas,united states",,houston,texas,united states,29.76328,-95.36327
+42,"alfenas,minas gerais,brazil",,alfenas,minas gerais,brazil,-21.429,-45.947
+43,"bristol,england,united kingdom",,bristol,england,united kingdom,51.45523,-2.59665
+44,"ithaca,new york,united states",,ithaca,new york,united states,42.44063,-76.49661
+45,"santa maria,rio grande do sul,brazil",,santa maria,rio grande do sul,brazil,-29.684,-53.807
+46,"ann arbor,michigan,united states",,ann arbor,michigan,united states,42.27756,-83.74088
+47,"champaign,illinois,united states",,champaign,illinois,united states,40.11642,-88.24338
+48,"east lansing,michigan,united states",,east lansing,michigan,united states,42.73698,-84.48387
+49,"bauru,sao paulo,brazil",,bauru,sao paulo,brazil,-22.315,-49.061
+50,"sao jose dos campos,sao paulo,brazil",,sao jose dos campos,sao paulo,brazil,-23.179,-45.887
+51,"salamanca,madrid,spain",,salamanca,madrid,spain,40.42972,-3.67975
+52,"valladolid,castille and león,spain",,valladolid,castille and león,spain,41.65518,-4.72372
+53,"new haven,connecticut,united states",,new haven,connecticut,united states,41.30815,-72.92816
+54,"lisbon,lisbon,portugal",,lisbon,lisbon,portugal,38.71667,-9.13333
+55,"gainesville,florida,united states",,gainesville,florida,united states,29.65163,-82.32483
+56,"hamburg,free and hanseatic city of hamburg,germany",,hamburg,free and hanseatic city of hamburg,germany,53.57532,10.01534
+57,"princeton,florida,united states",,princeton,florida,united states,25.53844,-80.40894
+58,"valence,rhône-alpes,france",,valence,rhône-alpes,france,44.93333,4.9
+59,"cornelio procopio,parana,brazil",,cornelio procopio,parana,brazil,-23.181,-50.647

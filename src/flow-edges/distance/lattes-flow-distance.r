@@ -1,0 +1,7 @@
+library(ggplot2) 
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow/lattes-flow-distance.csv")
+hist(flow$distances)
+hist(flow$distances, breaks = 20)
+hist(flow$distances, breaks = 20, col = "gray", labels = TRUE)
+hist(flow$distances[1:20000], breaks = 200, col = "gray")
+hist(log(flow$distances+1), col = "gray")
