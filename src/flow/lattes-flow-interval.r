@@ -1,0 +1,5 @@
+library(ggplot2) 
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow/lattes-flow-interval.csv")
+hist(flow$interval)
+hist(flow$interval, breaks = 20)
+hist(flow$interval, breaks = 20, col = "gray", labels = TRUE)

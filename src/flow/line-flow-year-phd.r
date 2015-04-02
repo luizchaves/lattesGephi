@@ -1,0 +1,7 @@
+library(ggplot2) 
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow/line-flow-year-phd.csv")
+df <- data.frame(flow$year, flow$count)
+ggplot(df, aes(x = flow$year, y = flow$count, col = 'blue')) + geom_line()
+ggplot(df, aes(x = flow$year, y = flow$count, col = 'blue')) + geom_point()
+ggplot(df, aes(x = flow$year, y = flow$count, col = 'blue')) + geom_line() + geom_point()
+ggplot(data=df, aes(x = flow$year, y = flow$count)) + geom_bar(stat="identity")
