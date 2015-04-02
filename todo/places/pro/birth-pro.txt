@@ -1,0 +1,5929 @@
+;;uruguai
+;;peru
+;;canada
+;;russia
+cafelandia;sp;brasil
+aurora;ce;brasil
+milao;;italia
+;;espanha
+;;brasil
+naturalizada brasileira;;argentina
+alabama;;estados unidos
+meckhe;;senegal
+;;india
+;;argentina
+;;estados unidos
+;;italia
+rio grande;rs;brasil
+;;portugal
+;;mocambique
+;;finlandia
+hinterstoder;;austria
+seul;;coreia do sul
+rio branco;ac;brasil
+courtils;;franca
+santo andre;sp;brasil
+;;inglaterra
+la habana;;cuba
+jiribam / manipur;;india
+;;franca
+sao carlos;sp;brasil
+montevideu;;uruguai
+lisboa;;portugal
+moji das cruzes;sp;brasil
+manresa barcelona;;espanha
+bombain;;india
+mexico df;;mexico
+copenhague;;dinamarca
+alfamen saragoza;;espanha
+boulogne billancourt;;franca
+berisso;;argentina
+cd camargo tamaulipas;;mexico
+;;nova zelandia
+san jose;;costa rica
+fomento, las villas;;cuba
+ndjokopunda - r.d.c.;;estados unidos
+regen;;alemanha
+santiago de chile;;chile
+palpa;;nepal
+capital federal;;argentina
+kulautuva;;lituania
+;;bulgaria
+halder;;alemanha
+;;bolivia
+up;;india
+geislingen/steige;;alemanha
+cidade do mexico;;mexico
+tucuman;;argentina
+viena;;austria
+;;iraque
+ro de janeiro;rj;brasil
+cascavel;pr;brasil
+;;indonesia
+yiwu zhejiang;;china
+neuilly sur seine;;franca
+lao ning shenyang;;china
+sona, veraguas;;panama
+luneburg;;alemanha
+;;egito
+madri;;espanha
+ciudad habana;;cuba
+;;holanda
+belem;pa;brasil
+villa urquiza;;argentina
+palmanova;;italia
+;;paraguai
+sotillo de la ribera;;espanha
+;;suica
+santa barbara d´ oeste;sp;brasil
+;;alemanha
+nazare;;portugal
+riotinto;;espanha
+spencertown;;estados unidos
+ollioules;;franca
+roodsar;;ira
+oaxaca;;mexico
+caceres;mt;brasil
+;;porto rico
+;;gra-bretanha
+inglewood ca;;estados unidos
+;;cuba
+matias lobato;mg;brasil
+santa maria;rs;brasil
+huasta;;peru
+port lincoln;;australia
+harrison, ny;;estados unidos
+;;chile
+belgrado;;iugoslavia
+chiriqui;;panama
+valenca;rj;brasil
+creutzwald;;franca
+la guardia;;espanha
+modinagar;;india
+;;tunisia
+;;equador
+new haven, ct;;estados unidos
+;;uzbekistan
+junqueira;sp;brasil
+vicosa;mg;brasil
+romans sur isere;;franca
+;;eslovenia
+;;belgica
+alpedrete;;espanha
+marapuama;sp;brasil
+frankfurt;;alemanha
+cedral;sp;brasil
+;;suecia
+;;mexico
+zibreira;;portugal
+bonn, alemanha;;alemanha
+la libertad;;peru
+celica;;equador
+humaita;rs;brasil
+nova yorke;;estados unidos
+cascais, parede;;portugal
+ipira;sc;brasil
+kuvango;;angola
+roma;;italia
+erechim rs;;brasil
+assomada;;cabo verde
+cleveland;;estados unidos
+moatize- tete;;mocambique
+;;japao
+santa fe;;argentina
+londres;;inglaterra
+mestre - venezia;;italia
+;;austria
+martos (jaen);;espanha
+aarah;;india
+borgotaro (parma);;italia
+;;armenia
+;;gana
+jamshoro;;paquistao
+ciudad de la habana;;cuba
+cidade de havana;;cuba
+;;georgia
+n`dalatando, angola;;portugal
+volsk;;russia
+san miguel;;argentina
+palmital;sp;brasil
+minamisatsuma, kagoshima-ken;;japao
+bom jesus;rs;brasil
+;;escocia
+presidente bernardes;sp;brasil
+campo grande;ms;brasil
+recife/pe;pb;brasil
+vilarinho de sao romao sabrosa;;portugal
+burdwan;;india
+mexico, df;;mexico
+boulogne bilancourt;;franca
+rio claro;sp;brasil
+;;ucrania
+;;hong kong
+munchen;;alemanha
+moscou;;russia
+skorodnoje;;russia
+yuhang;;china
+santiago;rs;brasil
+;mg;brasil
+vargem bonita;sc;brasil
+;ce;brasil
+sumbilca;;peru
+laguna;sc;brasil
+edimburgo escocia;;inglaterra
+chia-yi;;china
+;;colombia
+esposende;;portugal
+glen cove new york;;estados unidos
+;;africa do sul
+florida-valle del cauca;;colombia
+;;zimbabue
+;;grecia
+sao martinho;sc;brasil
+englewood;;estados unidos
+santa teresa;es;brasil
+;;argelia
+;;kuweit
+risaralda caldas;;colombia
+tonnerre;;franca
+boa esperanca;pr;brasil
+ipora;go;brasil
+bemidji;;estados unidos
+guaiuba-pacatuba;ce;brasil
+turim;;italia
+adenau;;alemanha
+ceglie messapico;;italia
+nova york;;estados unidos
+hamilton - canada;;brasil
+sao vicente;sp;brasil
+;;romenia
+tucuman;;brasil
+;;paquistao
+lajeado;rs;brasil
+oakland, ca, eua;;estados unidos
+st polten;;austria
+fortaleza - ce.;;brasil
+paris 13;;franca
+;;israel
+;;nigeria
+;;republica tcheca
+la havana;;cuba
+saluzzo cn;;italia
+behera;;egito
+;;camaroes
+panchhat;;india
+columbus;;estados unidos
+bienne;;suica
+sesto san giovanii;;italia
+gustrow;;alemanha
+;;polonia
+;;venezuela
+la mure;;franca
+verkhnya samara;;ucrania
+ruminahui;;equador
+bruges;;franca
+la plata, buenos aires - ra;;argentina
+st. petersburgo;;russia
+;;ira
+sao simao;sp;brasil
+ilha da madeira;;portugal
+lapua;;finlandia
+regua;;portugal
+guaira;pr;brasil
+hamburgo;;alemanha
+manazanillo, cuba;;cuba
+rajkanika;;india
+jamundi valle;;colombia
+;;iugoslavia
+chalons-sur-marne;;franca
+torres novas;;portugal
+larinho/moncorvo;;portugal
+el giza;;egito
+guamo;;colombia
+concordia;sc;brasil
+;;marrocos
+joao pessoa-;pb;brasil
+ipora;pr;brasil
+canada;;brasil
+durango;;mexico
+parana,entre rios;;argentina
+mallorca;;espanha
+;;guine bissau
+motril (granada);;espanha
+greenville;;estados unidos
+barrranquilla;;colombia
+ilha de sao nicolau;;cabo verde
+eastbourne sussex;;inglaterra
+odessa;;russia
+obernzell;;alemanha
+nanyang, henan;;china
+arpajon;;franca
+sertaozinho;sp;brasil
+rio de jjaneiro;rj;brasil
+;;costa rica
+9 de julio;;argentina
+ghent;;belgica
+changchun city;;china
+firenze;;italia
+;;china
+santa rita d´oeste;sp;brasil
+rio cuarto (cba);;argentina
+ciudad de mexico;;mexico
+alger;;argelia
+londonderry;;irlanda do norte
+san felices de los gallegos;;espanha
+kingston, new york;;estados unidos
+quilmes, pcia de buenos aires;;argentina
+creglingen;;alemanha
+bandeirantes;pr;brasil
+rafaela provincia de santa fe;;argentina
+pacos de ferreira;;portugal
+morbach;;alemanha
+torino;;italia
+soledade;rs;brasil
+piedade;sp;brasil
+taiwan(taipe);;china
+blankenburg/harz;;alemanha
+capitan sarmiento;;argentina
+washington dc;;estados unidos
+montenegro;rs;brasil
+pascanas;;argentina
+;ap;brasil
+orange nj;;estados unidos
+veneza;;italia
+;;irlanda
+catamarca;;argentina
+salamanca;;espanha
+miranda do douro;;portugal
+santa helena;pr;brasil
+iha solteira;sp;brasil
+ceres;go;brasil
+pacora - caldas;;colombia
+estocolmo;;suecia
+portauprince;;haiti
+abrantes;;portugal
+onzaga;;colombia
+junin prov. buenos aires;;argentina
+jacutinga;rs;brasil
+major izidoro;al;brasil
+;;jap?o
+vancouver, british columbia;;canada
+figueira da foz;;portugal
+waibstadt;;alemanha
+varzea;pb;brasil
+toledo;pr;brasil
+campos;rj;brasil
+green ville;;estados unidos
+hidrolandia;;brasil
+sacramento;mg;brasil
+pulau pinang;;malasia
+eldorado;ms;brasil
+santa rita;pb;brasil
+huaylas - ancash;;peru
+muco;;chile
+rui barbosa;ba;brasil
+dorfkemmathen;;alemanha
+nikopol;;ucrania
+algeriers;;argelia
+mattoon, il;;estados unidos
+lubenia;;polonia
+lourenco marques;;mocambique
+brive;;franca
+parnamirim;rn;brasil
+ingelheimrh;;alemanha
+portugal;;portugal
+dom silverio mg;mg;brasil
+sao paulo capital;sp;brasil
+boa vista;rr;brasil
+bh;mg;brasil
+naturalizada;;panama
+sao vicente ferrer;pe;brasil
+colorado;pr;brasil
+sao cristobal;;panama
+cedofeita;;portugal
+sao carlos;sc;brasil
+novo horizonte;sp;brasil
+voronej;;russia
+naturalizada brasileira;;siria
+hammersmith;;gra-bretanha
+sao joao del rey;mg;brasil
+antonio carlos;sc;brasil
+viale -entre rios;;argentina
+des moines iowa;;estados unidos
+barra bonita;sp;brasil
+jenaro herrera;;peru
+serrinha;ba;brasil
+pitangueiras;sp;brasil
+grunberg;;alemanha
+sturgeon-falls;;canada
+bom sucesso;mg;brasil
+pereiro - ce;ce;brasil
+mogi mirim;sp;brasil
+stanford;;estados unidos
+catanduvas;sc;brasil
+agua branca;al;brasil
+tupacireta;rs;brasil
+sao paulo';sp;brasil
+castro daire;;portugal
+itabaiana;;brasil
+sobradinho;rs;brasil
+algodao-ibirataia;ba;brasil
+guanabara;rj;brasil
+sao francisco;mg;brasil
+stachow;;polonia
+santa barbara d`oeste;sp;brasil
+;pr;brasil
+paracicaba;sp;brasil
+;sp;brasil
+ponte-b ranca;mt;brasil
+sao joao del-rei;mg;brasil
+sant'ana do livramento;rs;brasil
+triunfo;rs;brasil
+washington;;estados unidos
+santarem;pa;brasil
+eduardo gomes;rn;brasil
+barro alto;go;brasil
+itapiranga;sc;brasil
+tainan-taiwan;;formosa
+campestre;mg;brasil
+terra roxa;pr;brasil
+santanesia;rj;brasil
+lucon;;franca
+gainesville fla;;estados unidos
+santa izabel do para;pa;brasil
+riberao preto;sp;brasil
+ribeirao preto sp;sp;brasil
+cerara mirim;rn;brasil
+cabo de st agostinho;pe;brasil
+independencia;ce;brasil
+orleans;;brasil
+general carneiro;mt;brasil
+palma;mg;brasil
+porto alegre-rs;rs;brasil
+sobradinho;df;brasil
+paulista;pb;brasil
+mirasselva;pr;brasil
+itabaiana;pb;brasil
+moncao;ma;brasil
+planalto;pr;brasil
+criciuuma;sc;brasil
+santa barbara d'oestes;sp;brasil
+munique;;alemanha
+;rj;brasil
+ibitiuva;sp;brasil
+santa cristina;;portugal
+hawthorne, ny;;estados unidos
+muriae - mg;mg;brasil
+rio de janiero;rj;brasil
+campo grande;sp;brasil
+sao gabriel;rs;brasil
+pombal;pb;brasil
+formoso;go;brasil
+cachoeiro do itapemirim;es;brasil
+piranhas;go;brasil
+palmeira;pr;brasil
+itaporanga;pb;brasil
+marau;rs;brasil
+itaporanga d' ajuda;se;brasil
+ibitu;sp;brasil
+itu;sp;brasil
+sao tome;pr;brasil
+rio tinto;pb;brasil
+boa esperanca;mg;brasil
+jaboataao;pe;brasil
+praga;;republica tcheca
+vola redonda;rj;brasil
+bom sucesso;pr;brasil
+duplo ceu;sp;brasil
+ribadavia;;espanha
+guaira;sp;brasil
+salto;sp;brasil
+rondonoplis;mt;brasil
+;;formosa
+newcastle;;inglaterra
+mogilev;;belarus
+guajara mirim;ro;brasil
+rio negro;pr;brasil
+mundo novo;ms;brasil
+paulista;pe;brasil
+santo antonio de leverger;mt;brasil
+monte alegra de minas;mg;brasil
+parana;rn;brasil
+joao pessoa-pb;pb;brasil
+sao paulo sp;sp;brasil
+solonopoles;ce;brasil
+inhata;ba;brasil
+julio de castilho;rs;brasil
+guatemala;;guatemala
+vera cruz;sp;brasil
+ervedal da beira;;portugal
+nova fatima;pr;brasil
+campo grande;go;brasil
+entre rios;ba;brasil
+cruzeiro do sul;ac;brasil
+goianias;go;brasil
+carazinho r.s;sc;brasil
+canapolis;mg;brasil
+criciuma-sc;;brasil
+tapejara;pr;brasil
+estrela d oeste;sp;brasil
+pataias;;portugal
+japura;pr;brasil
+inaja;pr;brasil
+douradina;pr;brasil
+penalva do castelo;;portugal
+mundo novo;ba;brasil
+altamira;pa;brasil
+santa maira;rs;brasil
+tapejara;rs;brasil
+independencia;rs;brasil
+sarandyra;mg;brasil
+clavink;;bosnia
+boa esperanca;es;brasil
+ponta grosssa;pr;brasil
+santa cruz;rs;brasil
+santa isabel;sp;brasil
+sao paulo-sp;sp;brasil
+yuzno sakhalinsk;;russia
+yverdon;;suica
+tomeacu;pa;brasil
+santa terezinha;ba;brasil
+mataripe;ba;brasil
+varzea do poco - bahia;ba;brasil
+vila-velha;es;brasil
+porto alegra;rs;brasil
+spaulo;sp;brasil
+santiago do chile;;chile
+minas gerais;mg;brasil
+nova olinda;ce;brasil
+estrela do norte;go;brasil
+pinhalzinho;sc;brasil
+sao caetano de sul;sp;brasil
+macau;rn;brasil
+moji guacu;sp;brasil
+cruzeiro do sul;rs;brasil
+new haven connecticut;;estados unidos
+barra do triunfo;es;brasil
+santa rosa de lima;mg;brasil
+berne;;suica
+prata;mg;brasil
+nazare;go;brasil
+goiania - go;go;brasil
+taperoa;pb;brasil
+alexandria;rn;brasil
+pittsburgh, pennsylvania;;estados unidos
+sombrio-sc;sc;brasil
+campinas sp;sp;brasil
+buenos aires capital;;argentina
+iguatu;ce;brasil
+samambaia;df;brasil
+portalegre;rn;brasil
+nepomucenno;mg;brasil
+santa barbara d´oeste;sp;brasil
+sta maria;rs;brasil
+eldorado;sp;brasil
+tamboril;ce;brasil
+croacia;;iugoslavia
+belohorizonte;mg;brasil
+americano;pa;brasil
+sao tome;rn;brasil
+san jose;;uruguai
+feira de santana bahia;ba;brasil
+forcarey pontevedra;;espanha
+riio de janeiro;rj;brasil
+jaboatao;pe;brasil
+ilha solteria;sp;brasil
+saltinho;sp;brasil
+balisa;go;brasil
+nazare;ba;brasil
+santa rosa;rs;brasil
+sant´ana do livramento;rs;brasil
+sarandi;rs;brasil
+rio de janeiiro;rj;brasil
+santa barbara;mg;brasil
+queluz;sp;brasil
+turvo;sc;brasil
+loreto;ma;brasil
+santa helena;ma;brasil
+rio clarosp;sp;brasil
+parcoy;;peru
+lima;su;brasil
+areia branca;rn;brasil
+sao joao;pr;brasil
+rio verde;go;brasil
+bocaina;sp;brasil
+santo amaro da purificacao;ba;brasil
+jussara;pr;brasil
+francisco beltrao-pr;pr;brasil
+borborema;sp;brasil
+redencao;ce;brasil
+valenca;pi;brasil
+itapeva;sp;brasil
+praia grande;sp;brasil
+estrela d' oeste;sp;brasil
+nova york;;brasil
+toquio;;japao
+palmeira;ba;brasil
+rio branco;;brasil
+bela cruz/ce;ce;brasil
+tchekhov;;russia
+berlim;;alemanha
+lavas;mg;brasil
+presidente dutra;ma;brasil
+tangara;sc;brasil
+ponte do itabapoana;es;brasil
+tibirica;sp;brasil
+alto alegre;sp;brasil
+santa maria rs;rs;brasil
+anchieta;es;brasil
+trindade;go;brasil
+vila franca;;italia
+pelotasrs;rs;brasil
+sao vicente;;cabo verde
+buenos aires;;brasil
+juiz de fora - mg;mg;brasil
+adamantina - sp;sp;brasil
+mogi-mirim;sp;brasil
+canoeiros;mg;brasil
+rio de janeriro;rj;brasil
+new york;;estados unidos
+santa luzia;pb;brasil
+jafa;sp;brasil
+jardinopolis;sp;brasil
+sao domingos;sc;brasil
+feira nova;pe;brasil
+montedoro (caltanissetta);;italia
+santa rita;ma;brasil
+terra roxa do oeste;pr;brasil
+morrinhos;go;brasil
+madras;;india
+sinop;mt;brasil
+bom jardim;rj;brasil
+palmas;pr;brasil
+orleans;sc;brasil
+belem;pb;brasil
+herval do sul;rs;brasil
+otuzco;;peru
+;pb;brasil
+tarapoto;;peru
+bucarest;;romenia
+puerto ordaz;;venezuela
+belo-horizonte;mg;brasil
+piracicaba, sp;sp;brasil
+sodrelandia;rj;brasil
+cuevas de almanzora-almeria;;espanha
+rio dejaneiro;rj;brasil
+sao domingos;go;brasil
+assu;rn;brasil
+belem;sp;brasil
+cantagalo;rj;brasil
+nova olinda;pb;brasil
+bela-cruz;ce;brasil
+bragado;;argentina
+jussara;go;brasil
+esmeraldas;mg;brasil
+jaguari.;rs;brasil
+brasialia;df;brasil
+cel. fabriciano;mg;brasil
+palmas;to;brasil
+aparecida;sp;brasil
+santo augusto rs;rs;brasil
+frankfort;;alemanha
+candeias;mg;brasil
+pingtung;;formosa
+guaraci;sp;brasil
+moreira salles;pr;brasil
+barao de aquiraz;ce;brasil
+vicosa;al;brasil
+santa barbara d' oeste;sp;brasil
+rio branco;mt;brasil
+blem;pa;brasil
+colorado;rs;brasil
+caldas;mg;brasil
+caicara;rs;brasil
+sao joao batista;sc;brasil
+hinhambupe;ba;brasil
+sorocaba sp;sp;brasil
+itamaraca;pe;brasil
+rrio de janeiro;rj;brasil
+sao luis do paratinga;sp;brasil
+guara-sp;sp;brasil
+cocos - ba;;brasil
+rio e janeiro;rj;brasil
+monte alegre;mg;brasil
+souza;pb;brasil
+joinvile;sc;brasil
+aparecida do tabuado;ms;brasil
+iguala, guerrero;;mexico
+hunterdon;;estados unidos
+tavares;pb;brasil
+governador dix sept rosado;rn;brasil
+camaca;ba;brasil
+barao do monte alto;mg;brasil
+porto alegre rs;rs;brasil
+belo horinonte;mg;brasil
+sapo luis;ma;brasil
+llheus;ba;brasil
+wenceslau braz;pr;brasil
+cachoeiro de itapemirin;es;brasil
+arceburgo, mg;mg;brasil
+candelaria;rs;brasil
+itambe;pr;brasil
+campo grande;mt;brasil
+medina;mg;brasil
+mesquita;rj;brasil
+;rs;brasil
+seeboden;;austria
+avare sp;;brasil
+la estrada pontevedra;;espanha
+indianopolis;go;brasil
+sao sebastiao do alto rj;rj;brasil
+s?o paulo;sp;brasil
+corleto perticara;;italia
+poiares;;portugal
+campo alegre;sc;brasil
+guapore-rs;rs;brasil
+corinto;mg;brasil
+barreirinhas (ma);ma;brasil
+manaus amazonas;am;brasil
+itabaiana;se;brasil
+presidente dutra;ba;brasil
+formoso;mg;brasil
+passoa;mg;brasil
+ipira;ba;brasil
+campolide;mg;brasil
+mogi-guacu;sp;brasil
+senador - sa;ce;brasil
+rio claro-sp.;sp;brasil
+valparaiso;sp;brasil
+santa terezinha;pe;brasil
+bom jardim;pe;brasil
+ceara mirim;rn;brasil
+santa cruz;rn;brasil
+fpolis;sc;brasil
+fostaleza;ce;brasil
+sobradinho;ba;brasil
+caxiasdo sul;rs;brasil
+bogard, mo, eua;;brasil
+rio;rj;brasil
+pedro leopoldo/mg;mg;brasil
+brasila;df;brasil
+baracaldo (vizcaya);;espanha
+redencao;pa;brasil
+cubat?o;sp;brasil
+massaranduba;sc;brasil
+cacaol;ro;brasil
+colinas;to;brasil
+nurnberg;;alemanha
+sint-niklaas(w);;belgica
+nova santa rita;rs;brasil
+nova aurora;pr;brasil
+alvarez machado;sp;brasil
+sao pedro;sp;brasil
+iassi;;romenia
+campos dos goitacazes;rj;brasil
+mogi da cruzes;sp;brasil
+sao jose da lage;al;brasil
+urania - sp;sp;brasil
+rio grande do sul;rs;brasil
+sao luis gonzaga;rs;brasil
+balneario de camboriu;sc;brasil
+socorro;sp;brasil
+maravilha;sc;brasil
+salinas;mg;brasil
+madison;;estados unidos
+mocambique;;mocambique
+nao informada;;estados unidos
+rosario - argentina;;argentina
+;;australia
+notre dame de bliquetuit;;franca
+;;libia
+camerino;;italia
+nagoya;;japao
+pocoguayo;;peru
+koln;;alemanha
+rochester;;estados unidos
+;;malasia
+frankfurt/m;;alemanha
+cottbus, berlin;;alemanha
+santiago;;cabo verde
+juazeiro.;ba;brasil
+argel;;argelia
+velazco;;cuba
+montecchio emilia (re);;italia
+atenas;;grecia
+palestina;sp;brasil
+ciudad autonoma de buenos aire;;argentina
+wells;;gra-bretanha
+krasnodarskii;;russia
+ponta delgada(s. miguel );;portugal
+salvador-ba;ba;brasil
+rioja, san martin;;peru
+leningrado;;russia
+lomas de zamora;;argentina
+michigan;;estados unidos
+zofingen;;suica
+saint denis;;franca
+tassin la demi lune;;franca
+rosario;;chile
+newcastle-upon-tyne;;inglaterra
+xxx;;cuba
+st andrews;;escocia
+armagh;;irlanda
+monte alegre;pa;brasil
+queens, new york;;estados unidos
+batalha;;portugal
+lubango (sa da bandeira);;angola
+athus;;belgica
+marialabaja;;colombia
+san cristobal. estado tachira.;;venezuela
+;;dinamarca
+birmingham;;noruega
+celaya, guanajuato;;mexico
+chateney-malabry;;franca
+jacutinga;mg;brasil
+iowa;;brasil
+goppingen;;alemanha
+mantes la jolie;;franca
+ilha do sal;;cabo verde
+elvas;;portugal
+mesquita;mg;brasil
+piumhy;mg;brasil
+santo antonio da posse;sp;brasil
+ancash;;peru
+chepen la libertad;;peru
+long beach, ca;;estados unidos
+spalt;;alemanha
+ludwigshafen;;alemanha
+karak;;paquistao
+nogaro;;franca
+bogota d.c.;;colombia
+chongoene;;mocambique
+haag;;alemanha
+sao jose do rio preto sp;sp;brasil
+lumbrales salamanca;;espanha
+quinzopolis;pr;brasil
+lagoa santa;mg;brasil
+wilrijk;;belgica
+rafaela, santa fe;;argentina
+santo angelo-rs;rs;brasil
+nashiville;;estados unidos
+maringa, pr;pr;brasil
+;;angola
+sao bento;ma;brasil
+formosa;go;brasil
+marromeu;;mocambique
+napoles;;italia
+le puy en velay;;franca
+villa clara;;cuba
+florinea;sp;brasil
+;;filipinas
+okene;;nigeria
+tahuaco-puno;;peru
+campana buenos aires;;argentina
+fukuoka;;japao
+montreuil sous bois;;franca
+;;eslovaquia
+wilmington;;estados unidos
+aussig;;republica tcheca
+c. habana;;cuba
+athens;;estados unidos
+neustadt an der weinstrasse;;alemanha
+vila-real (castellon);;espanha
+thirumangalam;;india
+m'bazi;;ruanda
+ancenis;;franca
+san martin;;peru
+ruy barbosa;ba;brasil
+chuquibambilla, grau, apurimac;;peru
+merida edo. merida;;venezuela
+bromley kent;;inglaterra
+stupino moscow region;;russia
+rustington;;inglaterra
+ierapetra;;grecia
+voronezh, russia;;russia
+sassuolo (mo);;italia
+encrucijada las villas;;cuba
+trancoso;;portugal
+nowshera;;paquistao
+zarate buenos aires;;argentina
+bilbao (vizcaya);;espanha
+yauli - la oroya;;peru
+semmering;;austria
+pilar (santa fe);;argentina
+oakland california;;estados unidos
+tarnowitz;;alemanha
+caquiaviri - la paz;;bolivia
+somain (nord);;franca
+philadelphia pa;;estados unidos
+sao jose de lage;al;brasil
+molshbah;;alemanha
+pontier;;franca
+vinhais;;portugal
+washington, dc;;estados unidos
+nova lisboa;;angola
+ciudadela;su;brasil
+;;coreia do sul
+habana;;cuba
+saint etienne;;franca
+guaraci;pr;brasil
+labastide cezeracq;;franca
+roque gonzalez;rs;brasil
+fort de l´eau;;argelia
+nilambur;;india
+huinca renanco (cordoba);;argentina
+;;vaticano
+marostica vi;;italia
+taipeitaiwan;;china
+paraguacu pta;sp;brasil
+arganil;;portugal
+ticengo;;italia
+pembury;;inglaterra
+sewell;;chile
+;;zambia
+nizhny novgorod;;russia
+;;benin
+girardot;;colombia
+sainte foy-la-grande;;franca
+saint petersburgo;;russia
+los santos;;panama
+sao paulo.;sp;brasil
+pequim;;china
+galeras;;colombia
+santa clara/ villa clara;;cuba
+woodland, california;;estados unidos
+macanal;;colombia
+;;sao tome e principe
+warsaw indiana;;estados unidos
+ramos mejia;;argentina
+lowell, massachusetts;;estados unidos
+durham, nc;;estados unidos
+santa luzia;mg;brasil
+frankfurt/m.;;alemanha
+;;cingapura
+sao peterburgo;;russia
+houston, texas;;estados unidos
+caia-sofala;;mocambique
+argentina;;argentina
+serenti;;italia
+fukian;;china
+sao goncalo do amarante;ce;brasil
+porto;pi;brasil
+lincoln;;estados unidos
+bychawa;;polonia
+wien;;austria
+pavullo nel frignano (modena);;italia
+;;ir?
+kapuvar;;hungria
+presidente bernardes;mg;brasil
+;;chipre
+val paraiso;;chile
+haia - s'gravenhage;;holanda
+ljungby;;suecia
+esfahan;;ira
+cabezas rubias;;espanha
+tokushima;;japao
+velsen;;holanda
+anse a veau;;haiti
+cipotania;mg;brasil
+;;paquist?o
+asillo;;peru
+puquio;;peru
+salreu - estarreja portugal;;brasil
+st pettersburg;;estados unidos
+santa lucia;;brasil
+washington d.c.;;estados unidos
+fuessen;;alemanha
+newton, massachusetts;;estados unidos
+san rafael, mendoza;;argentina
+apure;;venezuela
+general alvear - mendoza;;argentina
+rosslau;;alemanha
+oostende;;belgica
+wareham;;inglaterra
+santa fe de bogota;;colombia
+arbresle;;franca
+calheta - ilha de santiago;;cabo verde
+muhldorf;;alemanha
+pilawa gorna;;polonia
+antenor navarro;pb;brasil
+petropavlovsk kamchatskiy;;russia
+tiengen am hochrhein;;alemanha
+loreto;;peru
+dazkiri;;turquia
+sao valetim;rs;brasil
+;;noruega
+genova;;italia
+mailia;sp;brasil
+sr do bomfim;ba;brasil
+bahia blanca, prov. de bs as;;argentina
+quistello (mn);;italia
+tarma-junin;;peru
+queimadas;pb;brasil
+prata minas gerais;sp;brasil
+bissora;;guine bissau
+grignasco;;italia
+sapucaia;rj;brasil
+riberiao preto;sp;brasil
+sao sebastiao;sp;brasil
+taquatinga;df;brasil
+nova russa;ce;brasil
+antonio carlos;mg;brasil
+colinas;ma;brasil
+jardim;ms;brasil
+itapemerim;es;brasil
+ouro branco;al;brasil
+sao simao;go;brasil
+cracovia;;polonia
+xapury;ac;brasil
+sao vicente;rn;brasil
+sao sebastiao;al;brasil
+magwa;;kuweit
+curitba;pr;brasil
+barranco alto;mg;brasil
+belem;pr;brasil
+piraicaba;sp;brasil
+bogdanovka;;polonia
+moji guacu sp;sp;brasil
+sao joao del-rei;rj;brasil
+ponta-grossa;pr;brasil
+ji parana;ro;brasil
+mirador;ma;brasil
+sao joao batista;ma;brasil
+icoaraci;pa;brasil
+pietrabbondante;;italia
+pariquera acu;sp;brasil
+pesca;;colombia
+cedro;ce;brasil
+sant`ana do livramento;rs;brasil
+tabatinga;sp;brasil
+campo grande;rj;brasil
+brotas sp;sp;brasil
+-----------;pr;brasil
+teera;;ira
+;ba;brasil
+cachoeirinha;rs;brasil
+s sebastiao do paraiso;mg;brasil
+gama;df;brasil
+irati;pr;brasil
+alberobello (bari);;italia
+sao grabriel;es;brasil
+santa vitoria do palmar - rs;rs;brasil
+;;panama
+dona euzebia;mg;brasil
+benjamim constant;am;brasil
+santiago do boqueirao;rs;brasil
+assis chateuabriand;pr;brasil
+cascavel;ce;brasil
+sitio novo;to;brasil
+campos;mg;brasil
+sao jose rio preto;sp;brasil
+natividade;rj;brasil
+monte alegre;rn;brasil
+buenos aires-argentina;;argentina
+planalto;rs;brasil
+algueirao;;portugal
+afonso arinos;rj;brasil
+alagoana;al;brasil
+sao borja -rs;rs;brasil
+bariri - sp;sp;brasil
+;sc;brasil
+morro do chapeu-ba;ba;brasil
+jacarepagua;rj;brasil
+santafe de bogota;;colombia
+san cipriano picentino;;italia
+varsovia;;polonia
+sao mateus do sul pr;pr;brasil
+macaia munic de bom sucesso;mg;brasil
+benjamin costant;am;brasil
+santa fe;pr;brasil
+rio branco/ac;ac;brasil
+candeias;ba;brasil
+s paulo;sp;brasil
+mendrisio;;suica
+catanduvas;pr;brasil
+ensenada-la plata;;argentina
+uberlnadia;mg;brasil
+tabatinga;am;brasil
+campina grande, pb;pb;brasil
+caicara de sao bento do norte;rn;brasil
+central;ba;brasil
+panama;go;brasil
+sao sebastiao da gama;sp;brasil
+novo-horizonte;sp;brasil
+espirito santo pinhal;sp;brasil
+viana;ma;brasil
+annaka gunma;;japao
+itui;mg;brasil
+pedra branca;ce;brasil
+pacatuba;ce;brasil
+ribieirao preto;sp;brasil
+blida argel;;argelia
+sao jorge d´oeste;pr;brasil
+sao vicente ferrer;ma;brasil
+camargo;rs;brasil
+jahu;sp;brasil
+cai;rs;brasil
+marila;sp;brasil
+erechin;rs;brasil
+brasil;rj;brasil
+florianopoilis;sc;brasil
+s!ao paulo;;brasil
+cianortte;pr;brasil
+santa izabel do rio negro;am;brasil
+itapina;es;brasil
+cearamirim;rn;brasil
+camaqua-rs;rs;brasil
+faro;pa;brasil
+san marcelino caserta;;italia
+bauru sp;df;brasil
+coimbra;mg;brasil
+conceicao do ipanema;mg;brasil
+cruzila;mg;brasil
+russi;;italia
+padua;;italia
+napolis;;italia
+sao gabriel;ba;brasil
+athens georgia;;estados unidos
+teofilo antoni;mg;brasil
+cuitiba;pr;brasil
+orense;;espanha
+niiteroi;rj;brasil
+chicoral;;colombia
+sao raimundo;ma;brasil
+varzea grande;mt;brasil
+bonfim;mg;brasil
+florida pta;sp;brasil
+stakville;;estados unidos
+marilia sp;sp;brasil
+tientsin;;china
+santa barbara do oeste;sp;brasil
+mandauri haryana;;india
+ouro branco;mg;brasil
+amparo;sp;brasil
+cafelandia - sp;sp;brasil
+bom retiro -sc;sc;brasil
+vitoria- espirito santo;es;brasil
+port colbourne;;canada
+sao miguel doanta;mg;brasil
+santa maria;;brasil
+prudente;pr;brasil
+santa izabel do ivai;pr;brasil
+sp;sp;brasil
+brasiila;df;brasil
+sao caetano de odvelas;pa;brasil
+naturalizado brasileiro;;peru
+embu guacu;sp;brasil
+teodoro malta campos;sp;brasil
+mandaguacu/parana;pr;brasil
+lageado;rs;brasil
+antuerpia;;belgica
+tapirai;mg;brasil
+caraubas;rn;brasil
+mulungu;pb;brasil
+carazinho-rs;rs;brasil
+castelar pcia de buenos aires;;argentina
+carolina;ma;brasil
+araraquara sp;sp;brasil
+praia grande;sc;brasil
+valenca;ba;brasil
+barracao;pr;brasil
+salvador -bahia;ba;brasil
+mehala el-kubra;;egito
+rj;rj;brasil
+porto alege;rs;brasil
+ipueiras;ce;brasil
+chapecco;sc;brasil
+alegrete rs;rs;brasil
+buffao, new york;;estados unidos
+brasiliadf;df;brasil
+belo horiazonte;mg;brasil
+mauana;pa;brasil
+vera cruz;rs;brasil
+nova veneza sumare;sp;brasil
+niteroi -rio de janeiro;rj;brasil
+bolivia;;brasil
+moji-mirim;sp;brasil
+aparecida do norte;sp;brasil
+vigia de nazare;pa;brasil
+hidrolandia;ce;brasil
+cidade da praia;;cabo verde
+gov. valadares;mg;brasil
+caruaru - pe;pe;brasil
+sao caetano do |sul;sp;brasil
+sao caetano;pe;brasil
+faxinal do soturno rs;rs;brasil
+colombo;pr;brasil
+embu das artes;sp;brasil
+passa-quatro;mg;brasil
+francisco de sa;mg;brasil
+araxans;sp;brasil
+lebannon - tenn.;;estados unidos
+riuo de janeiro;rj;brasil
+distrito federal;df;brasil
+nancagua;;chile
+sao joao do paraiso;mg;brasil
+belem;;brasil
+amparo da serra;mg;brasil
+monte santos de minas;mg;brasil
+resplendor / mg;mg;brasil
+itambe;pe;brasil
+sao joao de merito;rj;brasil
+barbosa;sp;brasil
+;pa;brasil
+santa fe do sul sp;sp;brasil
+caruraru;pe;brasil
+cruzeiro do oeste - pr;pr;brasil
+texeira;pb;brasil
+rio grande;sc;brasil
+sao luis maranhao;ma;brasil
+itambe;ba;brasil
+barreira do campo;pa;brasil
+chevreuse;;franca
+chhing sue;;formosa
+bonsucesso;rj;brasil
+marechal candido rondom;pr;brasil
+barretos - sao paulo;df;brasil
+santos sp;sp;brasil
+;pe;brasil
+bebedouro sp;go;brasil
+teresia;pi;brasil
+nagayama;;japao
+turmalina;sp;brasil
+santa cruz - rn;;brasil
+varzea-alegre;ce;brasil
+osipovichi;;belarus
+cascavel;;brasil
+manzanares (caldas);;colombia
+manga;mg;brasil
+sao pedro;pi;brasil
+brigadeiro tobias;sp;brasil
+ituitaba;mg;brasil
+petrolandia;sc;brasil
+pilar;pb;brasil
+itapaje;ce;brasil
+vioria;es;brasil
+igarape miri;pa;brasil
+bagda;;iraque
+la plata - buenos aires;;argentina
+poxoreu;mt;brasil
+sao miguel d'oeste;sc;brasil
+ceilandia;df;brasil
+santo andre sp;sp;brasil
+couto magalhaes de minas;mg;brasil
+rio de jeneiro;rj;brasil
+sao manoel;sp;brasil
+baurusp;sp;brasil
+jurupema;sp;brasil
+oakland, ca;;estados unidos
+castro;pr;brasil
+;pi;brasil
+santa barbara;ba;brasil
+bella vista;;paraguai
+ramalho provincia de b aires;;argentina
+gloria dedourados;ms;brasil
+natalrn;rn;brasil
+parana;pr;brasil
+fiume;;italia
+nova canaan;ba;brasil
+latisana;;italia
+colombia;sp;brasil
+sao pauo;sp;brasil
+manaus - am;am;brasil
+aracatuba sp;df;brasil
+santarem;;brasil
+haverfordwest;;inglaterra
+acores;;portugal
+lourenco marques (maputo);;mocambique
+wil, sg;;suica
+calcuta;;india
+survey;;inglaterra
+arcos de valdevez;;portugal
+independence;;estados unidos
+stenico trento;;italia
+concepcion;;peru
+aldeia da barragem;;mocambique
+;;libano
+cheriyanadu;;india
+san diego, california;;estados unidos
+cidade de goias;go;brasil
+socorro santander;;colombia
+aichi;;japao
+acioli;es;brasil
+bad lauterberg/barbis;;alemanha
+langen;;alemanha
+redon;;franca
+s.paulo;sp;brasil
+anza;;colombia
+nelson de sena;mg;brasil
+guiaes vila real;;portugal
+;;cabo verde
+taiwan (roc), chiayi city;;china
+hulst;;holanda
+malmo;;suecia
+anderlecht;;belgica
+new york ny;;estados unidos
+city bell;;argentina
+vitoriaes;es;brasil
+monteroni di lecce;;italia
+st martin de valamas;;franca
+sao petersburgo;;russia
+paraiba;pe;brasil
+sao-petersburgo;;russia
+charala;;colombia
+beirute;;libano
+lomas de zamora, buenos aires;;argentina
+azizia;;libia
+lotung, i lain;;formosa
+hirson;;franca
+jiangsu;;china
+belem do para;pa;brasil
+capilla del monte;;argentina
+aracatuba sp;sp;brasil
+belogratchik;;bulgaria
+portland;;estados unidos
+louvain;;belgica
+rio claro - sp;sp;brasil
+igacaba;sp;brasil
+djakarta;;indonesia
+bruxelas;;belgica
+newport news, virginia;;estados unidos
+cali (valle);;colombia
+sonsonate,;;el salvador
+vila;;argentina
+santiago de cali;;colombia
+colombes (92);;franca
+oswaldo cruz;sp;brasil
+kawasaki;;japao
+new haven connecticut eua;;estados unidos
+rockville center ny;;estados unidos
+river falls;;estados unidos
+barranquilla atlantico;;colombia
+catuni;mg;brasil
+occhiobello;;italia
+orissa;;india
+kilchberg;;suica
+linares;es;brasil
+laufen;;alemanha
+tingo maria - huanuco;;peru
+roccarainola italia;sp;brasil
+exarchos locridos;;grecia
+satu-mare;;romenia
+los angeles ca;;estados unidos
+bad homburg;;alemanha
+ivrea to;;italia
+baracoa, guantanamo;;cuba
+santago;;chile
+limburg;;alemanha
+;;hungria
+guines;;cuba
+acayucan, veracruz.;;mexico
+cotes de fer;;haiti
+guatrache, prov. de la pampa;;argentina
+garagoa;;colombia
+sao francisco de paula;rs;brasil
+isle of wright;;inglaterra
+cagliairi;;italia
+kimpondo, soyo, zaire;;angola
+fiesch;;suica
+tupiza potosi;;bolivia
+;;gr?-bretanha
+r&#299;ga;;letonia
+bolivar;;colombia
+meulan;;franca
+boudeaux;;franca
+tenerife;;espanha
+etterbeek;;belgica
+manchester uk;;inglaterra
+;;belarus
+silver city;;estados unidos
+san carlos maldonado;;uruguai
+tunja boyaca;;colombia
+minneapolis minnesota;;estados unidos
+porto novo;;cabo verde
+leon, guanajuato;;mexico
+leon (espanha);;espanha
+santa clara, villa clara;;cuba
+bucareste;;romenia
+fossombrone (pu);;italia
+ribeir preto;sp;brasil
+s. bras de alportel;;portugal
+milwaukee wisconsin;;estados unidos
+autonoma de buenos aires;;argentina
+campo a. de lourdes;ba;brasil
+belo horizonte-mg;mg;brasil
+la grange, wbd;;guiana
+evry - essonne;;franca
+idumbe/dekese;;zaire
+goya - corrientes;;argentina
+marburg/lahn;;alemanha
+new jersey;;estados unidos
+espana;;venezuela
+noranda;;canada
+bibbiena;;italia
+remoncourt (france);;franca
+;;nepal
+tome acu;pa;brasil
+friedeberg;;alemanha
+vitoria/es;es;brasil
+;;bangladesh
+cubana;;cuba
+itapirucu;mg;brasil
+taltal;;chile
+shodoshima;;japao
+bahia blanca buenos aires;;argentina
+pya pueblonuevo;;espanha
+romang;;argentina
+la montanita;;colombia
+yungay-ancash;;peru
+granma;;cuba
+;;vietna
+karaganda;;cazaquistao
+alvorada;rs;brasil
+ronda, malaga;;espanha
+nova lisboa angola;;portugal
+a corunha;;espanha
+lexington;;estados unidos
+slatina-olt;;romenia
+angra do heroismo;;portugal
+uniontown - pennsylvania;;estados unidos
+medelin;;colombia
+sao francisco;pa;brasil
+providence, ri, usa;;estados unidos
+ouro verde;go;brasil
+tucson/arizona/eua;;estados unidos
+luxemburgo;;luxemburgo
+taian;;china
+cangas del narcea;;espanha
+campolimpo paulista;sp;brasil
+macatuba sp;sp;brasil
+exeter, devon;;inglaterra
+bobruysk;;belarus
+hin hua;;china
+muelheimruhr;;alemanha
+cuiritiba;pr;brasil
+rufisque;;senegal
+longeville-les-metz;;canada
+almeida;;portugal
+lourenco marques;;portugal
+distrito federal;;mexico
+irece - ba;ba;brasil
+;;turquia
+guatemala;;mexico
+tirunel velli;;india
+satriano di lucania;;italia
+colinas de goias;go;brasil
+el santuario;;colombia
+sao apulo;sp;brasil
+teodoro sampaio;sp;brasil
+charenton le pont;;franca
+upper beeding west sussex;;inglaterra
+governador valdares;mg;brasil
+stary oskol;;russia
+beaumont sur oise;;franca
+tennessee;;estados unidos
+la baneza;;espanha
+argel;;franca
+erevan;;armenia
+recife-pe;pe;brasil
+rio grande do norte;rn;brasil
+palma soriano. santiago decuba;;cuba
+thouars;;franca
+wamego;;estados unidos
+himeji hyogo;;japao
+sta rosa de viterbo;;brasil
+concepcion del uruguay (er);;argentina
+cuba -la habana;;brasil
+cidade do cabo;;africa do sul
+ciudad de guatemala;;guatemala
+marselha;;franca
+the netherlands;;holanda
+sao pualo;sp;brasil
+capanema;pr;brasil
+rio de jneiro;rj;brasil
+juiz de fora.;mg;brasil
+sao jorge do oeste;pr;brasil
+uccle;;belgica
+cartagena (murcia);;espanha
+puerto belgrano;;argentina
+el doncello - caqueta;;colombia
+ames/ia;;estados unidos
+orcotuna junin;;peru
+treviso;sc;brasil
+san roman;;peru
+rio negro;sc;brasil
+recanto das emas;df;brasil
+cidade havana;;cuba
+skerike;;suecia
+parana-entre rios;;argentina
+san francisco cordoba;;argentina
+rio grande;;brasil
+sao franscisco do sul;sc;brasil
+ipaucu;sp;brasil
+pau-dos-ferros;rn;brasil
+itaporanga;sp;brasil
+sao carlos - sp;sp;brasil
+garama-pendembu, kenema;;serra leoa
+guapua;sp;brasil
+rio do sul sc;sc;brasil
+acobamba;;peru
+freyung;;alemanha
+congonhas do campo;mg;brasil
+piloes;rn;brasil
+porto brasileira naturalizada;;portugal
+saint martin d'heres;;franca
+sao joaquim da barrra;sp;brasil
+freiburg im breisgau;;alemanha
+itajuba/mg;mg;brasil
+bombay;;india
+sao lourenco d'oeste;sc;brasil
+cinfaes;;portugal
+triunfo;pe;brasil
+campinas, sp;sp;brasil
+govenador valadares;mg;brasil
+igarape- miri;pa;brasil
+´brasilia;df;brasil
+embu;sp;brasil
+rio claro (lidice);rj;brasil
+piracununga;sp;brasil
+pacaembru;sp;brasil
+paraiba;pb;brasil
+la coruna;;espanha
+graccho cardoso;se;brasil
+rio claro;rj;brasil
+campinas-sp;sp;brasil
+santo andre;;brasil
+boqueirao dos cochos;pb;brasil
+sao jose de campestre;rn;brasil
+goio ere;pr;brasil
+potengi-ce;ce;brasil
+amanbai;ms;brasil
+juz de fora;mg;brasil
+sao jose dos salgados;mg;brasil
+maebashi;;japao
+long branch nj;;estados unidos
+ceara - mirim;rn;brasil
+boa saude;rn;brasil
+mittenwald;;alemanha
+aramary;ba;brasil
+roberto;sp;brasil
+mateira;go;brasil
+santo hilario;mg;brasil
+aramina sp;mg;brasil
+sta cruz do rio pardo;sp;brasil
+goiana;pe;brasil
+indiapora sp;sp;brasil
+bom jesus do itabana;rj;brasil
+kapileswarapuram;;india
+sucuarana;ba;brasil
+planalto;sp;brasil
+guaraciaba;sc;brasil
+sao leopoldo - rs;mg;brasil
+catiara-munic serra do salitre;mg;brasil
+..................;df;brasil
+turmalina;mg;brasil
+olivos - vicente lopez;;argentina
+major porto;mg;brasil
+taiwan;;formosa
+rio claro;;brasil
+visc. do rio branco;mg;brasil
+buriti dos lopes piaui;pi;brasil
+garibaldi, rs;rs;brasil
+filadelfia;;estados unidos
+lucelia sp;sp;brasil
+sao luiz do curu;ce;brasil
+igarapeacu;pa;brasil
+riachao de jacuipe;ba;brasil
+beograd;;iugoslavia
+jardim;ce;brasil
+campos dos goitacases;rj;brasil
+teixieras;mg;brasil
+naral;rn;brasil
+aguas claras;df;brasil
+araruna;pr;brasil
+esperantina;pi;brasil
+brejo do crz;pb;brasil
+bandeirantes;to;brasil
+ita;sc;brasil
+ilha solteira-sp;sp;brasil
+pindare mirim;ma;brasil
+kaochung;;china
+iacri-sp;to;brasil
+yauca;;peru
+sereno;mg;brasil
+ivanofrankovsk;;ucrania
+schlagakrug;;alemanha
+pedra de abelha, apodi;rn;brasil
+paraiso;sp;brasil
+carmo da mota;mg;brasil
+ipameri-go;go;brasil
+brasillia;df;brasil
+bauru sp;sp;brasil
+nicastro;;italia
+jaboticabal sp;sp;brasil
+floresta;pe;brasil
+hidrolandia;go;brasil
+picarras;sc;brasil
+peixegordoaracati;ce;brasil
+mucuricy;es;brasil
+barao do cotegipe;sc;brasil
+santa fe gr;;espanha
+sao martinho;rs;brasil
+brodosqui;sp;brasil
+municipio de sacramento;mg;brasil
+newcastle, wy;;estados unidos
+vila nova;sp;brasil
+mira de aire- porto de mos;;portugal
+fukushima;;japao
+sbcampo;sp;brasil
+bonito;ms;brasil
+nova orleans, la;;estados unidos
+cabo;pe;brasil
+ribeirao pretosp;sp;brasil
+reinbeck;;alemanha
+.;sp;brasil
+belem pa;pa;brasil
+terra nova;ba;brasil
+kansas city;;estados unidos
+mortagua;;portugal
+bom jesus;pi;brasil
+jesuita;pr;brasil
+cruzeiro do sul;pr;brasil
+estrela d`oeste;pr;brasil
+st. petersburg;;russia
+conhcal;sp;brasil
+pelotas - rs;rs;brasil
+mogi mirin;sp;brasil
+shangai;;china
+fortaleza ce;ce;brasil
+mulungu;ce;brasil
+santa ines;ma;brasil
+tulcan/carchi;;equador
+pombal/pb;ms;brasil
+monte dourado;pa;brasil
+soledade;pb;brasil
+fukui;;japao
+riachuelo;se;brasil
+anchieta;sc;brasil
+moju- para;pa;brasil
+brasiia;df;brasil
+guaraciaba;mg;brasil
+piedade paraopeba;mg;brasil
+florida;pr;brasil
+tapira;pr;brasil
+sao lourenco dosul;rs;brasil
+sao joao del-rey;mg;brasil
+anapoilis;go;brasil
+cachoeira do campo;mg;brasil
+los angeles, california;;estados unidos
+brasitania;sp;brasil
+cafelandia;pr;brasil
+juazeiro bahia;sp;brasil
+morrumbene-inhambane;;mocambique
+florianoopolis;sc;brasil
+aveiro;pa;brasil
+vargem grande - mg;;brasil
+los alamos;;chile
+nadadores;sp;brasil
+rio de piracicaba;mg;brasil
+pinhao;pr;brasil
+buritizal sp;sp;brasil
+maringa pr;pr;brasil
+canton;;china
+nova veneza;sc;brasil
+sao caetano so sul;sp;brasil
+tres-passos;rs;brasil
+rosario de santa fe;;argentina
+rio janeiro;rj;brasil
+canto do buriri;pi;brasil
+presidente wenceslau;sp;brasil
+rio de janeio;rj;brasil
+olhos d`agua;mg;brasil
+jaborandi;sp;brasil
+indaituba;sp;brasil
+goio-ere;pr;brasil
+inhanbupe;ba;brasil
+chungking;;china
+jundiai-sp;sp;brasil
+east patchogue ny;;estados unidos
+aguas clara;ms;brasil
+braslia;df;brasil
+lafayette indiana;;estados unidos
+santo antonio de taua;pa;brasil
+taiwan;;china
+sao~paulo;sp;brasil
+st-dominique-quebec;;canada
+braganca;pa;brasil
+recife(pe);sp;brasil
+sao joao;pi;brasil
+sao jose do barreiro sp;sp;brasil
+sta isabel do ivai;pr;brasil
+bage rs;rs;brasil
+ingazeiras;ce;brasil
+agua-boa;mg;brasil
+arcaju;se;brasil
+duesseldorf;;alemanha
+chora;;grecia
+achtkarspelen;;holanda
+linselles;;franca
+rheinfelden;;franca
+mokine;;tunisia
+cidade de buenos aires;;argentina
+panorama;sp;brasil
+eivissa;;espanha
+araruna;pb;brasil
+gulmi;;nepal
+fatehpur;;india
+enns;;austria
+langenberg;;alemanha
+mexico, df.;;mexico
+pigue, provincia buenos aires;;argentina
+;;senegal
+manicaragua, villaclara;;cuba
+santafe de bogota d.c.;;colombia
+hausach;;alemanha
+asherton, texas, usa;;mexico
+chota;;peru
+sampacho cordoba;;argentina
+malmedy;;belgica
+gross gerau;;alemanha
+amanhece;mg;brasil
+valdemora;;espanha
+eksjo;;suecia
+halfa;;sudao
+nueva colombia;;paraguai
+senj;;croacia
+la vega;;republica dominicana
+chateaubriant;;franca
+topeka, kansas;;estados unidos
+vinaroz;;espanha
+dir (upper);;paquistao
+huamanga/ayacucho;;peru
+;;guatemala
+nieste;;alemanha
+san angelo texas eeuu;;estados unidos
+brunsbuettel;;brasil
+skovde;;suecia
+carteira de identidade;;portugal
+mirandela;;portugal
+marbach-neckar;;alemanha
+paillaco;;chile
+leon guanajuato;;mexico
+lvov regiao;;russia
+gottingen;;alemanha
+leningrad (st.petersburg);;russia
+asuncao;;paraguai
+grand haven;;estados unidos
+osaka;;japao
+nao me toque;rs;brasil
+ginebra;;colombia
+thuin;;belgica
+malagasy island;;franca
+limoges, franca;;brasil
+sao miguel - acores;;portugal
+santa rosa la pampa;;argentina
+kerala;;india
+s.bernardo do campo;sp;brasil
+cincinnati oh;;estados unidos
+arkansas;;estados unidos
+vicosa mg;mg;brasil
+loreto;;italia
+sud mennucci sp;sp;brasil
+forlaleza;ce;brasil
+indore india;;india
+sabauna;sp;brasil
+cordoba capital;;argentina
+austin;;estados unidos
+;;tanzania
+milan;;italia
+chicoutimi;;canada
+cedanyola del valles;;espanha
+adamantina (sp);;franca
+florinopolis;sc;brasil
+xalapa, veracruz;;mexico
+ndakhar;;senegal
+valdobbiadene tv;;italia
+diamante;pb;brasil
+venadillo - tolima;;colombia
+me linh vinh phuc;;vietna
+nikolaevka;;ucrania
+sidcup;;inglaterra
+sharkia;;egito
+reggio emilia;;italia
+s. m. de tucuman-argentina;;brasil
+gueboba;;camaroes
+springfield;;estados unidos
+ann arbor mi;;estados unidos
+paz del rio;;colombia
+senhhor do bonfim;ba;brasil
+leamington spa;;inglaterra
+villers-semeuse (08);;franca
+arroyos y esteros;;paraguai
+angola;;portugal
+midilu;;nigeria
+genebra;;suica
+aranda de duero, burgos;;espanha
+morrinhos;ce;brasil
+bari(brasileiro naturalizado);;italia
+diyala;;iraque
+glenrothes, fife;;escocia
+seville;;espanha
+san jose de metan;;argentina
+slayton, minnesota;;estados unidos
+distrito braganca;;portugal
+santa cruz;;bolivia
+;;servia
+limonar;;cuba
+budapeste;;hungria
+berlim (ocidental);;alemanha
+prato (florence);;italia
+quinhamel;;guine bissau
+ulmerfeld;;austria
+peso da regua;;portugal
+san fernando;;chile
+sao carlos sp;sp;brasil
+;;croacia
+rueil malmaison;;franca
+batalha;pi;brasil
+sandias (ourense);;espanha
+candelaria;;venezuela
+dalvares - tarouca;;portugal
+cartagena de indias;;colombia
+besana brianza;;italia
+conselheiro lafaeite;mg;brasil
+bielefield;;alemanha
+vidigueira;;portugal
+;;irlanda do norte
+kings lynn;;inglaterra
+s do ipanema;al;brasil
+riva del garda;;italia
+candelaria;;portugal
+nottingahm;;inglaterra
+lajes-rnl;rn;brasil
+ocana, norte de santander;;colombia
+venezia;;italia
+batalha;al;brasil
+boxberg;;alemanha
+orizaba, veracruz;;mexico
+san bonifacio, verona;;italia
+springfield ma;;estados unidos
+ponta delgada - acores;;portugal
+mercedes (corrientes);;argentina
+;;cazaquistao
+dura hebron;;israel
+miraflores;;peru
+rheinfelden;;alemanha
+fort stockton, texas;;estados unidos
+newport rhode island;;estados unidos
+mont saint aignan;;franca
+vila nova de famalicao;;portugal
+oliveira do hospital;;portugal
+adolfo gonzales chaves;;argentina
+cuzco;;peru
+santa fe, argentina;;brasil
+assuncion;;paraguai
+joaquimtavora;pr;brasil
+haia;;holanda
+boulogne sur mer;;franca
+orbetello (grosseto);;italia
+marburg;;alemanha
+belem-para;pa;brasil
+l´aquila;;italia
+strasburgo;;franca
+bruxelles;;belgica
+wabash, indiana;;estados unidos
+torrance, ca;;estados unidos
+greendale;;estados unidos
+cuevo;;bolivia
+df;;mexico
+shenstone, nr lichfield;;inglaterra
+santa rita do araguaia - go;sp;brasil
+santa ines;ba;brasil
+campos;;brasil
+kirovakan;;armenia
+inaja;pe;brasil
+puerto rico, misiones;;argentina
+neurthe et moselle;;franca
+kanmanoor;;india
+picanya;;brasil
+funchal estreito;;portugal
+san francisco - cordoba;;argentina
+lafayete;;estados unidos
+villa lib. gral. san martin;;argentina
+maranhao;ma;brasil
+jubai municipio de conquista;mg;brasil
+oliveira do conde;;portugal
+san dona di piave (venezia);;italia
+la dormida;;argentina
+san fernando;;argentina
+bad polzin;;alemanha
+sompting sussex;;inglaterra
+ocotlan jalisco;;mexico
+lauwe;;belgica
+chartres (28);;franca
+aberdeen;;escocia
+afula;;israel
+petit quevilly;;franca
+cherkassy;;ucrania
+warmond;;holanda
+pieve santo stefano;;italia
+prata - mg;mg;brasil
+nova granada sp;sp;brasil
+ipu/ceara;ce;brasil
+francisco alves - pr;pr;brasil
+sao jao del rei;mg;brasil
+florianopopolis;sc;brasil
+piunhi;mg;brasil
+novossibirsk;;russia
+s.j. da boa vista;sp;brasil
+posadas, misiones;;argentina
+boston mass eua;;estados unidos
+coruripe - alagoas;al;brasil
+bom jesus de itabapoana;rj;brasil
+belem - para;pa;brasil
+grao-para;sc;brasil
+vale rico;mt;brasil
+itaju - sp;sp;brasil
+rehovot;;israel
+santa lucia;sp;brasil
+brasilia - df;;brasil
+bambui, minas gerais;;brasil
+cachoeiro do itapeminirm;es;brasil
+mailand;;austria
+;df;brasil
+palmeira d' oeste;sp;brasil
+santo andre.;sp;brasil
+honoropolis;mg;brasil
+queimadas;ba;brasil
+posto da mata;ba;brasil
+palmeira do oeste;sp;brasil
+aichi ken;;japao
+laguna-sc;sc;brasil
+frederico westephalen;rs;brasil
+araripira;pe;brasil
+rio d ejaneiro;rj;brasil
+santa antonio das missoes;rs;brasil
+s. paulo;sp;brasil
+sao bento;pb;brasil
+barcelona;rn;brasil
+belmonte;ba;brasil
+juanjui (bras. naturalizado);;peru
+sao jose do rio de claro;mt;brasil
+aracatuba - sao paulo;sp;brasil
+potirendaba sp;sp;brasil
+santa vitoria doo palmar;rs;brasil
+conselheiro pena - mg;;brasil
+niigata;su;brasil
+limuero do norte;ce;brasil
+bucareste;;brasil
+issele-azagba;;nigeria
+sarandi;pr;brasil
+santa maria;df;brasil
+bariri sp;mt;brasil
+bom sucesso;pb;brasil
+videira (sc);sc;brasil
+sant`ana do livramento;;brasil
+munhoz de mello;pr;brasil
+shingu wakayama;;japao
+attilio vivacqua;es;brasil
+alto garcas.;mt;brasil
+n. sra. das dores;se;brasil
+roriz - minho;;portugal
+santaren;pa;brasil
+eng. paulo de frontin;rj;brasil
+caldeiroes - porcoes;ba;brasil
+sobradinho;sc;brasil
+colonia do paracatu;mg;brasil
+nova veneza;go;brasil
+cachoeira de itapemirim;es;brasil
+miranda do corvo;;portugal
+serra dos carajas;pa;brasil
+nauta-loreto;;peru
+mosqueiro;pa;brasil
+vargem bonita;mg;brasil
+patos de minas/mg;;brasil
+santa barbara;sp;brasil
+santa rita do cedro;;brasil
+lagoa branca;sp;brasil
+davinopolis;go;brasil
+santossp;sp;brasil
+ribeira;sp;brasil
+lamego;;portugal
+sao paulo-capital;sp;brasil
+sao paul;sp;brasil
+ibia-mg;mg;brasil
+agua boa;mg;brasil
+tramagal;;portugal
+huade;;china
+niteroi - rio de janeiro;rj;brasil
+monte alegre;pr;brasil
+junin buenos aires;;argentina
+cruz de monte castelo;pr;brasil
+luiz gomes;rn;brasil
+ivora - julio de castilhos;rs;brasil
+miramar, buenos aires;;argentina
+baton rouge la eua;;brasil
+paisandu;;uruguai
+bonito;pe;brasil
+amaroleite;go;brasil
+tres rios-j;rj;brasil
+guaratingueta - sp;;brasil
+fuscaldo;;italia
+santana;ba;brasil
+camargos;mg;brasil
+janauba mg;mg;brasil
+ilha de bonaire;;antilhas holandesas
+isar - burgos;;espanha
+santa rosa do viterbo;sp;brasil
+ituverava/sp;sp;brasil
+taipe;;formosa
+tulua- valle del cauca;;colombia
+una;ba;brasil
+santa rita do passa quatro, sp;sp;brasil
+tres passos rs;rs;brasil
+ceara;sp;brasil
+wenceslau bras;pr;brasil
+rodrigo barbone gonzalez;sp;brasil
+leiha;;india
+campinas - sao paulo;sp;brasil
+campineiro do sul;pr;brasil
+monjolinho de minas;mg;brasil
+portoalegre;rs;brasil
+campina lagoa;pr;brasil
+sao bernado do campo;sp;brasil
+sao goncalo dos campo;ba;brasil
+peri-mirim;ma;brasil
+aracoiaba;ce;brasil
+cachoeiro do itapemerim;es;brasil
+laurito;;italia
+sao franscisco do sul;pr;brasil
+el ferrol;;espanha
+presidente olegagio;mg;brasil
+santos-sp;sp;brasil
+uberlandia.;mg;brasil
+guiratinga-alcantilado (distri;mt;brasil
+sao luis dos montes belos;go;brasil
+patrocinio - mg;mg;brasil
+belo horizoente;mg;brasil
+jeronimo montero;es;brasil
+jaboticbal;sp;brasil
+sao tomaz de aquino;mg;brasil
+sao gabriel;al;brasil
+mogimirim;sp;brasil
+assai pr;pr;brasil
+santo antonio do gloria;mg;brasil
+laranjeias do sul;pr;brasil
+miziara libano;sp;brasil
+sta cruz de la sierra bolivia;;bolivia
+ibiara pb;pb;brasil
+asa norte;df;brasil
+cernovitz;;russia
+ilha soteiral;sp;brasil
+sao paulo - sp;sp;brasil
+presedente prudente;sp;brasil
+goania;go;brasil
+miguel burnier;mg;brasil
+caitite;ba;brasil
+nova aurora;go;brasil
+crateus-;ce;brasil
+djalalabad;;russia
+nova itapirema;sp;brasil
+trivigno;;italia
+sao sebastiao;pb;brasil
+rio-verde;go;brasil
+vila prado ferreira;pr;brasil
+porcao de pedras;ma;brasil
+virginia;mg;brasil
+tripoli;;libia
+sao luiz do guaricanga;sp;brasil
+piracicaba - sp;sp;brasil
+tapera-rs;rs;brasil
+tirane;;albania
+sao goncalo do amarante;rn;brasil
+booischot;;belgica
+rio das pedras sp;sp;brasil
+camila;sp;brasil
+bonfim paulista;sp;brasil
+santeramo in colle ba;;italia
+belo horizonte-capital;mg;brasil
+telpaneca, madriz;;nicaragua
+olho d'agua do borges;rn;brasil
+vassoura;rj;brasil
+itaporanga;se;brasil
+capivari sp;sp;brasil
+estrela d`oeste;sp;brasil
+aman;;jordania
+rio branco - ac;ac;brasil
+sao luis maranhao;pe;brasil
+moxico;;angola
+brejinho;;brasil
+londrina - pr.;pr;brasil
+aracaju - se;;brasil
+presidente prudente/sp;sp;brasil
+sao loureco do sul;rs;brasil
+`sao paulo;sp;brasil
+aquidaban;pr;brasil
+la jolla, san diego;;estados unidos
+ceara;ce;brasil
+tolledo estado de ohio;;estados unidos
+santa maria da feira;;portugal
+erlensee;;alemanha
+vina del mar, chile;;peru
+marrakech;;marrocos
+;;honduras
+bicaz;;romenia
+dakhlia;;egito
+lanaja;;espanha
+pehuajo;;argentina
+melito porto salvo;;italia
+casa grande;;peru
+vieira do minho;;portugal
+newark nj;;estados unidos
+villapourcon;;franca
+general alvear;;argentina
+andulo;;angola
+puyricard;;franca
+taitung de taiwan;;china
+shotton colliery;;inglaterra
+texas;;estados unidos
+addis abada;;etiopia
+nordrheinwestfalen;;alemanha
+tegucigalpa,dc.;;honduras
+piendamo;;colombia
+karlshue;;alemanha
+kosching;;alemanha
+hawera;;nova zelandia
+villerupt;;franca
+gainesville;;estados unidos
+;;quenia
+co bula;;guine bissau
+florenca;;italia
+aracatuba - sp;sp;brasil
+staroe, vologda;;russia
+bhilai nagar;;india
+roswell, new mexico;;estados unidos
+bataguacu;ms;brasil
+resende-rj;rj;brasil
+igarape acu;pa;brasil
+nabadwip, w. b.;;india
+joao pesoa;pb;brasil
+linares n l;;mexico
+la cesira - cordoba;;argentina
+maceio -al;;brasil
+camden, arkansas;;estados unidos
+oklahoma;;estados unidos
+estrela do oeste;sp;brasil
+ruesselsheim;;alemanha
+palma de mallorca;su;brasil
+mafamude;;portugal
+ciudadela;;argentina
+santa maria da boca do monte;rs;brasil
+portland, oregon;;estados unidos
+santiago maior;;cabo verde
+belem;es;brasil
+kazanlak;;bulgaria
+hiroshima;;japao
+franca - sp;sp;brasil
+alger;;franca
+johetsu-shi;;japao
+;;mongolia
+villa maria - cordoba;;argentina
+pontaudemer;;franca
+turi;;italia
+s petersburgo;;russia
+kottenheim;;alemanha
+saposoa san martin;;peru
+sao miguel doeste;sc;brasil
+baccarat;;franca
+villa mercedes (san luis);;argentina
+ghiolt-taga;;romenia
+santos dumont- mg;mg;brasil
+st petersburg;;russia
+bazzano;;italia
+;;uganda
+huhhot;;china
+pillaro;;equador
+marostica;;italia
+;;jordania
+roterda;;holanda
+nova olimpia;pr;brasil
+plymouth massachusetts;;estados unidos
+colombia;;colombia
+;;congo
+elwasta - bani swif;;egito
+aracaju sergipe;se;brasil
+montodine cr;;italia
+assisi;;italia
+curitiba. pr;pr;brasil
+ernakulam;;india
+kokchetav;;russia
+telaviv;mg;brasil
+rabka;;polonia
+karstula;;finlandia
+;;jamaica
+baltimore, md;;estados unidos
+leeuwarden, holanda;;holanda
+pierre, south dakota;;estados unidos
+augusta ga;;estados unidos
+salem;;estados unidos
+belem do sao francisco;pe;brasil
+moradabad/ india;;india
+marcondesia;sp;brasil
+moscou;df;brasil
+salzgitter-bad;;alemanha
+guapore - rs;rs;brasil
+asbestos;;canada
+lota octava region;;chile
+amazonas;;peru
+san diego- california-eua;;estados unidos
+loivos da ribeira - baiao;;portugal
+korownyky;;ucrania
+maputo / mocambique;;portugal
+rua joly braga santos, lisboa;;portugal
+;;guiana
+entre rios;;argentina
+pozoblanco (cordoba);;espanha
+jabotical;sp;brasil
+ikere-ekiti;;nigeria
+st. peterburgo;;russia
+hyogo;;japao
+toledo ohio;;estados unidos
+arger;;argelia
+cidade de mexico;;mexico
+buenos ayres;;argentina
+cahabon;;guatemala
+jarmolincy;;ucrania
+canuelas;;argentina
+benos aires;;argentina
+fatima;;portugal
+lommes;;franca
+bariloche;;argentina
+prenzlau uckermark;;alemanha
+srinagar;;india
+flores;;uruguai
+bogota d.e.;;colombia
+;;uniao sovietica
+el-guettar-gafsa;;tunisia
+zabreh na morave;;republica tcheca
+forfar;;escocia
+abington pa;;estados unidos
+alcobertas-rio maior;;portugal
+saint brieuc;;franca
+akitakata;;japao
+la oroya junin;;peru
+ouro verde;sp;brasil
+alfenas mg;mg;brasil
+pietarsaari;;finlandia
+gudem;;india
+north adelaide;;australia
+tacoma, washington;;estados unidos
+jalalpur;;india
+campos;;estados unidos
+glarus, gl;;suica
+itajai-s.c.;sc;brasil
+azamgarth up;;india
+laragne monteglin;;franca
+no information;;india
+bolama/guine-bissau;;guine bissau
+jaffo;;israel
+canoinhas sc;sc;brasil
+;;s?o tome e principe
+seward;;estados unidos
+londre;;inglaterra
+entre rios guarapuava;pr;brasil
+recreo;;argentina
+masulipatam;;india
+angicos - rn;rn;brasil
+yvetot;;franca
+sainte adresse;;franca
+muenchen;;alemanha
+cons lafaiete;mg;brasil
+choueir;;libano
+mitcheldean forest of dean;;inglaterra
+libolo, kwanza-sul;;angola
+taboleiro do norte;ce;brasil
+camberra;;australia
+sancti-spiritus;;cuba
+cumaral;;colombia
+tacambaro;;mexico
+andradas - mg;mg;brasil
+pucallpa - ucayali;;peru
+achi-bolivar;;colombia
+juiiz de fora;mg;brasil
+douradinho;mg;brasil
+sao paulosp;sp;brasil
+rio de janeiro (rj);mg;brasil
+salgadinho;pe;brasil
+pitangueiras.;sp;brasil
+pasadena california;;estados unidos
+domingos martins/arace;es;brasil
+distrito do mosqueiro;pa;brasil
+beo horizonte;mg;brasil
+joao pessoa/pb;pb;brasil
+guajaramirim;ro;brasil
+sento-se;ba;brasil
+;rn;brasil
+guadalupe;pi;brasil
+erexim;rs;brasil
+campos goitacazes;rj;brasil
+santana de patos;mg;brasil
+rosario;ma;brasil
+paraguacu paulisto;sp;brasil
+santa terezinha;mt;brasil
+santos-sp;;brasil
+;al;brasil
+couvin;;belgica
+pompton plains;;estados unidos
+petropolis rj;al;brasil
+batatais-sp;sp;brasil
+dourados ms;ms;brasil
+paranavai - pr;;brasil
+aurora;sc;brasil
+caraparu - sta. izabel do para;pa;brasil
+belo horizoznte;mg;brasil
+limoeiro do norte ce;ce;brasil
+franscisco alves;pr;brasil
+floresta;pr;brasil
+andradina/sp;sp;brasil
+la plata prov buenos aires;;argentina
+curitiba - pr;pr;brasil
+petrolandia;pe;brasil
+agua quente;ba;brasil
+santana de mangueira-pb;pb;brasil
+pirassnunga;sp;brasil
+cachoeira alegre;mg;brasil
+guaxima;mg;brasil
+pariqueraacu;sp;brasil
+santos - sp;sp;brasil
+paulinea-campinas;sp;brasil
+santa cruz do sul - rs;rs;brasil
+esp, sto do pinhal;sp;brasil
+cormeilles;;franca
+catanduva-sp;sp;brasil
+natal rio grande do norte;rj;brasil
+palmeiras dos indios;al;brasil
+entrerrios;;colombia
+julio mesquita-sp;sp;brasil
+quintinos;mg;brasil
+guap'e;mg;brasil
+sao jose das laranjeiras;sp;brasil
+bayeux;pb;brasil
+elzach, comarca de emmendingen;;alemanha
+belo horiznonte;mg;brasil
+s manuel;sp;brasil
+n?o informado;;alemanha
+b h;mg;brasil
+peranbuco;pe;brasil
+lima;rj;brasil
+mexicodf;;mexico
+aracatuca;sp;brasil
+sao concalo;rj;brasil
+gurapuava;pr;brasil
+marilia sao paulo;sp;brasil
+graciosa;pr;brasil
+fernao dias;sp;brasil
+arai village;;india
+saint louis;;estados unidos
+paracatu minas gerais;rj;brasil
+porto novo do cunha;mg;brasil
+caicara;pb;brasil
+itapeva/sp.;sp;brasil
+indaiatubas;sp;brasil
+campos dos goyatcazes;rj;brasil
+rio de janediro;rj;brasil
+lima-duarte;mg;brasil
+belo horizote;mg;brasil
+amoreira;pr;brasil
+conde;ba;brasil
+itamoji;mg;brasil
+sao carlos sp;sc;brasil
+crisciuma;;brasil
+jaguapita pr;;brasil
+cachoreira do sul;rs;brasil
+;go;brasil
+piracicaba sp;sp;brasil
+pelotas rs;rs;brasil
+uberlancia;mg;brasil
+fatima;ba;brasil
+joiniville;sc;brasil
+sao domingos, sergipe;se;brasil
+chapada dos guimaraes mt;mt;brasil
+aix en provence;;franca
+lima;;brasil
+yungay - ancash;;peru
+cachoeira do arari-marajo;pa;brasil
+syracuse eua;;estados unidos
+conc. das alagoas;mg;brasil
+t. otoni;mg;brasil
+sao bento de pombal;pb;brasil
+brasilia df;df;brasil
+sbc;sp;brasil
+costa di rovigo;;brasil
+redruth;;inglaterra
+acaraci;ba;brasil
+vratza;;bulgaria
+araguari/mg;mg;brasil
+itabaina;pb;brasil
+santa cruz;pb;brasil
+carrazeda de anciaes;;portugal
+macaia;mg;brasil
+ypane;;paraguai
+presidente vesceslau;sp;brasil
+serra dos dourados;pr;brasil
+nepomucena;mg;brasil
+ibiajara -rio do pires;ba;brasil
+paranapiacaba;;brasil
+presidente rodrigues alves;sp;brasil
+colletorto;;italia
+anchieta, espirito santo;es;brasil
+jurema;pe;brasil
+miyazaki;;japao
+sao benedito das areias;sp;brasil
+edimburgo;;escocia
+caceres;;brasil
+park river, dakota do norte;;estados unidos
+niteroi-rj;rj;brasil
+manchester;rj;brasil
+garcias;ms;brasil
+breslau;;alemanha
+blaubeuren;;brasil
+igarai;sp;brasil
+natal rn;rn;brasil
+jureia;mg;brasil
+nova bilac;pr;brasil
+mossoro rn;rn;brasil
+wencelau braz;pr;brasil
+araraquar;sp;brasil
+capela;al;brasil
+passo fundo (sertao), rs;rs;brasil
+saopaulo;sp;brasil
+resistencia, prov. del chaco;;argentina
+campo grande itabaiana;pb;brasil
+espumoso - rs;rs;brasil
+taipe;;china
+rio grande, rs;rs;brasil
+campo lim paulista;sp;brasil
+beiruth;;libano
+monte castelo;sp;brasil
+sales de oliveira;sp;brasil
+sao sebastiao doparaiso;mg;brasil
+itaquera;sp;brasil
+sao domingos;ma;brasil
+mambure;pr;brasil
+pirassunununga;sp;brasil
+louisville kentucky;;estados unidos
+moldes;sp;brasil
+natal-rn;rn;brasil
+monte horeb;pb;brasil
+condado;pb;brasil
+lambari minas gerais;mg;brasil
+tonyrefail;;gra-bretanha
+judibana;;venezuela
+nitero;rj;brasil
+paget;;bermudas
+jacksonville;;estados unidos
+orange;;estados unidos
+santa sofia;;colombia
+;;birmania
+bolonha;;italia
+sao bernardo do campo sp;sp;brasil
+viceira;sc;brasil
+torre del greco (na);;italia
+velka nad iplom;;eslovaquia
+ashkelon;;israel
+nova era mg;;brasil
+hybe;;eslovaquia
+bogota-colombia;;colombia
+keokuk;;estados unidos
+isle of man;;inglaterra
+aubenas;;franca
+saint louis;;franca
+selva;;espanha
+thionville (57);;franca
+jujuy;;argentina
+kempten;;alemanha
+bollnas;;suecia
+couto de esteves;;portugal
+el consejo, aragua;;venezuela
+neustadt a.rbge.;;alemanha
+jujutla, mor.;;mexico
+santa izabel;pa;brasil
+paulopolis;sp;brasil
+mogi das cruzes, sao paulo;sp;brasil
+nagasaki;;japao
+cali-valle del cauca;;colombia
+feminino;df;brasil
+belgrado;;servia
+mata-curia;;portugal
+carantilly;;franca
+paimboeuf;;franca
+grecia;;grecia
+fuscaldo cosenza;;italia
+luanda, angola;;portugal
+osnabruck;;alemanha
+la sierra-cauca;;colombia
+uccle - brabant;;belgica
+chota - cajamarca;;peru
+anamosa iowa;;estados unidos
+tinogasta catamarca;;argentina
+lima;;argentina
+stollberg;;alemanha
+belleville;;franca
+sao joao de petropolis;es;brasil
+joso;;japao
+estados unidos;;estados unidos
+pfaffenhofen a d ilm;;alemanha
+columbia, south carolina;;estados unidos
+quemuquemu la pampa argentina;;argentina
+niedrzakow;;polonia
+birirgui;sp;brasil
+campinaverde;mg;brasil
+hokkaido;;japao
+godoy cruz;;argentina
+itaporanga-pb;pb;brasil
+hobo;;colombia
+municipio de itaqui;rs;brasil
+isnos;;colombia
+oficina salitrera victoria;;chile
+;;costa do marfim
+ft. lauderdale;;estados unidos
+striling;;escocia
+cnel dorrego;;argentina
+port clinton, ohio;;estados unidos
+campo morao;pr;brasil
+amalfi;;colombia
+jau-sp;sp;brasil
+tostado (santa fe);;argentina
+village sudhmabadere-udhampur;;india
+estarreja;;portugal
+appleton wisconsin;;estados unidos
+karl-marx-stadt (chemnitz);;alemanha
+akhtyrka;;ucrania
+apurimac;;peru
+village-jasuri;;india
+dutch;;holanda
+badia polesine;;italia
+cidade;;estados unidos
+carbajal de la legua;;espanha
+assango;;angola
+ituporanga/sc;sc;brasil
+foios;;portugal
+pont l´abbe;;franca
+novi di modena;;italia
+manisa - alasehir;;turquia
+;;andorra
+harfleur;;franca
+vitoria-gasteiz;;espanha
+brest;;russia
+general levalle;;argentina
+terra roxa;sp;brasil
+ipumurim;sc;brasil
+;;islandia
+ottawa, kansas;;estados unidos
+mulheim an der ruhr;;alemanha
+algarve;;portugal
+leidschendam;;holanda
+ile-ife;;nigeria
+sverdlovskaya obl.;;russia
+cachoeira do pajeu;mg;brasil
+nava del rey;;espanha
+sevilha;;espanha
+brazopolis;mg;brasil
+beano di codroipo, udine;;italia
+cassano d'adda milano;;italia
+;;camar?es
+obak;;camaroes
+santa rosa de lima;;colombia
+salto provincia de bs aires;;argentina
+florida. camaguey;;cuba
+belo horizonte mg;mg;brasil
+paris;;espanha
+;;etiopia
+yahualica, jalisco.;;mexico
+trelew chubut;;argentina
+estremoz;;portugal
+jaca;;espanha
+calvi dell'umbria (terni);;italia
+bampton;;gra-bretanha
+v.epitacio;ac;brasil
+la chaux de fonds;;suica
+rutherland;;inglaterra
+koriyama fukushima;;jap?o
+frankenberg/eder;;alemanha
+austin, texas;;estados unidos
+necochea - prov. buenos aires;;argentina
+sumatra;;indonesia
+cedar rapids, iowa;;estados unidos
+buenaventura;;colombia
+ilinois;;estados unidos
+bogota d.c;;colombia
+puquio ayacucho;;peru
+tokio;;japao
+bitaraes - porto;;portugal
+newark, new jersey;;estados unidos
+vila verde;;portugal
+ixmiquilpan hidalgo;;mexico
+boyero, cidade de havana;;cuba
+caibarien, las villas;;cuba
+levalloisperret;;franca
+evergreen park il;;estados unidos
+blindenmarkt;;austria
+stockton ontees;;inglaterra
+guara 2;df;brasil
+andhra pradesh;;india
+tirlemont;;belgica
+mirandiba-pe;pe;brasil
+cremeno (lecco);;italia
+illinois;;estados unidos
+hermosillo sonora;;mexico
+principado de monaco;;franca
+uige - damba - camatambo;;angola
+sobral-ce;ce;brasil
+obelle;;nigeria
+biskaia;;espanha
+la trinite sur mer;;franca
+tianmen;;china
+sao jose dos campos sp;sp;brasil
+pescia pt;;italia
+;;palau
+lorena - sp brasil;;brasil
+monsefu-chiclayo-lambayeque;;peru
+general cabrera;;argentina
+araguana;ma;brasil
+presidente soares;mg;brasil
+santis-spiritus;;cuba
+chileno;;chile
+bauru, s.p;sp;brasil
+nan yang;;china
+neuerburg;;alemanha
+marcona - ica;;peru
+bogota dc;;colombia
+khirkov;;ucrania
+aragona;;italia
+conservatoria;rj;brasil
+chia-yi (taiwan);;formosa
+capanema;pa;brasil
+peking;;china
+sao luis do maranhao;ma;brasil
+buffalo, ny;;estados unidos
+serafina correia;rs;brasil
+juiz de fora -mg;mg;brasil
+araguari-mg;sp;brasil
+campos do goytacazes;rj;brasil
+curitibanos santa catarina;pr;brasil
+nueva san salvador;;el salvador
+belo horizonte -;mg;brasil
+campo grande;mg;brasil
+olho dagua;pb;brasil
+andradas-mg;;brasil
+pirajui sp;sp;brasil
+sapucai mirim;mg;brasil
+pres prudente;sp;brasil
+piracicava;sp;brasil
+roque goncales;rs;brasil
+ribeirao preto/sp;sp;brasil
+estancia velha - rs;rs;brasil
+brasil;;portugal
+xique xique;ba;brasil
+natividade;to;brasil
+s vicente;sp;brasil
+belo horzonte;mg;brasil
+distrito de perus, sp;sp;brasil
+cerro-cora;rn;brasil
+votorantim-sp;sp;brasil
+jeromenha;pi;brasil
+assis chateubriand;pr;brasil
+valenca - rj;rj;brasil
+serra-talhada;pe;brasil
+auraiya, u.p.;;india
+feteira faial acores;;portugal
+itatiba -sp;sp;brasil
+uberabaa;mg;brasil
+petotas;rs;brasil
+santa maria de leuca;;italia
+sao paulo - capital;sp;brasil
+silverania;mg;brasil
+fornos de algodres muxagata;;portugal
+brazlandia;df;brasil
+vicosa;;brasil
+quararapes;sp;brasil
+alenquer - para;pa;brasil
+la habana.;;cuba
+s?o pedro da aldeia;rj;brasil
+munis freire;es;brasil
+capareiros;;portugal
+santa cruz do monte castelo;pr;brasil
+goioere/pr;pr;brasil
+piracaiba - mun.de araguari;mg;brasil
+pindamonhangaba - sp;sp;brasil
+paraguassu;sp;brasil
+agua branca - pb;rn;brasil
+cachoerio de itapemirim;es;brasil
+tingo maria peru;;peru
+ituzaingo;;argentina
+casal da formiga;;portugal
+suzano-sp;sp;brasil
+rio da janeiro;rj;brasil
+ponta-pora;ms;brasil
+porto primavera;sp;brasil
+campina dos puppas;pr;brasil
+santa maria do itabira;mg;brasil
+ibateguara-alagoas;mg;brasil
+felixlanida;mg;brasil
+ibicua;ce;brasil
+bocas del toro;;panama
+zurique;;suica
+miguel calmon bahia;ba;brasil
+manguerinha;pr;brasil
+santana;ap;brasil
+cahoeira dos indios;pb;brasil
+novohorizonte;sp;brasil
+campinas - sp;df;brasil
+indianopolis;mg;brasil
+florianao;pi;brasil
+santo antao;;cabo verde
+ferros mg;mg;brasil
+casemiro de abreu;rj;brasil
+valencarj;rj;brasil
+balneario camboriu - sc;sc;brasil
+;mt;brasil
+recfe;pe;brasil
+planato;rs;brasil
+curiba;pr;brasil
+beins akkar;;libano
+ressaquinha/mg;mg;brasil
+talhada;;portugal
+newark;;estados unidos
+pedra corrida;mg;brasil
+pittsburg;;estados unidos
+turmalina mg;mg;brasil
+campinas - sp;sp;brasil
+pirassunga;sp;brasil
+sanata maria;rs;brasil
+caririmirim;pe;brasil
+salavador;ba;brasil
+brejo de madre de deus;pe;brasil
+uberabamg;;brasil
+chapeco sc;pr;brasil
+feijo-ac;ac;brasil
+agua - branca;pi;brasil
+divinoplis;mg;brasil
+agua da prata;sp;brasil
+sousas/campinas;sp;brasil
+vianopolis go;go;brasil
+conde de pratas;sp;brasil
+piui;mg;brasil
+trois rivieres;;canada
+campina;sp;brasil
+kanpur uttar pradesh;;india
+jatoba;pb;brasil
+guararapes(sp);sp;brasil
+sao felix de balsa;ma;brasil
+feira nova;se;brasil
+sao bernardo do campo - sp;pi;brasil
+tapiratiba sp;sp;brasil
+guarantigueta;sp;brasil
+pousafoles guarda;;portugal
+guaraci pr;sp;brasil
+santos dumond;mg;brasil
+livramento do brumado;ba;brasil
+teresinha;pe;brasil
+manguaratiba;rj;brasil
+campos d. goytacazes;rj;brasil
+rosario;;uruguai
+sao sebastiao sp;sp;brasil
+joacaba -sc;sc;brasil
+konapet;;india
+s&#1075;o paulo;sp;brasil
+belem para;pa;brasil
+piracicaba-sp;sp;brasil
+sao franscisco;pb;brasil
+terezina;pi;brasil
+riode janeiro;rj;brasil
+braga;rs;brasil
+pomeranos, rio dos cedros;sc;brasil
+uberlandia mg;mg;brasil
+sao joao do rio do paixe;pb;brasil
+porto alegre - rs;rs;brasil
+brasil;sp;brasil
+santiago;;brasil
+santoandre;sp;brasil
+miyazaki-ken;;japao
+sao lourenco d oeste;sc;brasil
+venacio aires;rs;brasil
+albano laziale (roma);;italia
+mercedes;pr;brasil
+malveira;;portugal
+montmorillon;;franca
+ribeirao-preto;sp;brasil
+artorga;pr;brasil
+recife/ pe brasil;pe;brasil
+pont a vendin;;franca
+m'tarfa;;inglaterra
+angra de heroismo;;portugal
+jocotitlan;;mexico
+dr juan ramon chavez;;paraguai
+gandia, valencia;;espanha
+ciudad madero, tams.;;mexico
+rio cuarto - cordoba;;argentina
+warwick;;canada
+bilaspur hp;;india
+moron, ciego de avila;;cuba
+enghien;;franca
+desertines;;franca
+elortondo;;argentina
+yoseki;;congo
+distrito commewijne;;suriname
+monash;;holanda
+sarandogou;;mauritania
+lodeve;;franca
+morella;;espanha
+ora;;argelia
+contamana;;peru
+estrela d´oeste;sp;brasil
+bolama;;guine bissau
+nasca- ica;;peru
+vila nova da barquinha;;portugal
+redfield, south dakota;;estados unidos
+teboulba;;tunisia
+champigny sur marne;;franca
+miraflores;;colombia
+rome, new york;;estados unidos
+plaza huicul provincia neuquen;;argentina
+chicago, illinois;;estados unidos
+el-kseur;;argelia
+saint gaudens;;franca
+glendale;;estados unidos
+seefeld / tirol;;austria
+ivnitsa-distrito d/ukr;;russia
+providence, ri;;estados unidos
+campo de viboras;;portugal
+busto arsizio (va);;italia
+columbia;;estados unidos
+sao joao da bocaina;sp;brasil
+baghda;;iraque
+lafayette, indiana;;estados unidos
+wembley;;inglaterra
+belley;;franca
+los teques estado miranda;;venezuela
+nizia floresta;rn;brasil
+rossano;;italia
+estrela d'alva;mg;brasil
+mataro (barcelona);;espanha
+kharkov;;ucrania
+bolivar cauca;;colombia
+carrizo leon;;espanha
+saint cyr l ecole;;franca
+ranshofen;;austria
+florianopolis/sao jose;sc;brasil
+uruapan, michoacan;;mexico
+yumbo valle;;colombia
+merzhausen;;alemanha
+kochanur, kerala;;india
+vallerotonda (pro. frosinone);;italia
+baradero;;argentina
+sao vicente do serido;pb;brasil
+florencia-mercaderes;;colombia
+simmern/hunsruck;;alemanha
+cucutilla;;colombia
+hoshiarpore punjab;;india
+istambul;;turquia
+juliaca puno;;peru
+calabazar de sagua;;cuba
+ambilly;;franca
+aix les bains;;franca
+saint marcellin isere;;franca
+stpetersburgo;;russia
+waldniel;;alemanha
+halifax;;estados unidos
+yungay ancash;;peru
+cela;;angola
+tarrafal, cabo verde;;cabo verde
+constatine;;argelia
+distrito de viana do castelo;;portugal
+ciudad de panama;;panama
+mazingarbe;;franca
+zulueta;;cuba
+nirkan;;india
+benito juarez (argentina);;brasil
+sonora, calfornia;;estados unidos
+avezzano - aquila (italia);;italia
+;;azerbaij?o
+st.ingbert;;alemanha
+santiago;;cuba
+santa cruz, goias;go;brasil
+mga;;russia
+maputo (lourenco marques);;mocambique
+krasnojarsk;;russia
+el aguila, valle;;colombia
+cayo mambi. sagua de tanamo.;;cuba
+carcaisent;;espanha
+amsterdan;;alemanha
+sos'va;;russia
+las palmas (gran canaria);;espanha
+;;el salvador
+schwarzach;;austria
+michelbach;;alemanha
+freguesia da lapa;;portugal
+quakenbrueck;;alemanha
+uithuizen;;holanda
+gorakhpur;;india
+santiago;;portugal
+moumee;;camaroes
+reading;;estados unidos
+buenos aires;;mexico
+armstrong;;argentina
+huancayo - junin;;peru
+balnearia;;argentina
+chalonnes sur loire;;franca
+stoke on trent;;inglaterra
+lancaster;;estados unidos
+chicago il;;estados unidos
+des moines;;estados unidos
+la habana, cuba;;brasil
+liegnitz;;alemanha
+sorengo;;suica
+sorcocaba;sp;brasil
+beltsy;;moldova
+s.j. patos;ma;brasil
+antfeld;;alemanha
+manuel ribas;pr;brasil
+atalaia;al;brasil
+gladigau;;alemanha
+abeokuta - ogun state;;niger
+fortaleza/ce;ce;brasil
+ndjokopunda;;zaire
+parigne;;franca
+sogel;;alemanha
+tokio;;estados unidos
+cinco olivos;;espanha
+tamil nadu;;india
+darby, pennsylvania;;estados unidos
+hoornaar;;holanda
+tubingen;;alemanha
+erfurt, alemanha;;brasil
+fordlandia;pa;brasil
+san cristobal de la laguna;;espanha
+luque;;paraguai
+jian;;china
+corregos;mg;brasil
+chung li;;formosa
+bieben;;alemanha
+teresinapi;pi;brasil
+ogawa provincia de ibaraki;;japao
+bermillo de sayago (zamora);;espanha
+ashtian;;ira
+gochang;;coreia do sul
+bad gandersheim;;alemanha
+san jose california;;estados unidos
+mukachevo;;ucrania
+gifu ochiai nakatsugawa;;japao
+bad laer;;alemanha
+arcoverde-pe;pe;brasil
+pasadena;;estados unidos
+bestwarapeta;;india
+taguatinga - df;df;brasil
+avranches;;franca
+siegmar-schonau;;alemanha
+sao miguel paulista;sp;brasil
+bad-reichenhall;;alemanha
+formosa d'oeste;pr;brasil
+beira mocambique;;mocambique
+valbuena de pisuerga;;espanha
+c. dos pereiras;ma;brasil
+salvador ba;ba;brasil
+piaui;pi;brasil
+santa izabel;sp;brasil
+pirassununga sp;sp;brasil
+montalvao;sp;brasil
+distrito de alberto moreira;sp;brasil
+sao francisco assis;rs;brasil
+ithaca, ny;;estados unidos
+itamuri;mg;brasil
+mojimirim;sp;brasil
+motril granada;;espanha
+laranjal;mg;brasil
+n. srª dos remedios;pi;brasil
+orleaes;sc;brasil
+castelo branco-mogadouro;;portugal
+savador;ba;brasil
+restinga seca - rs;rs;brasil
+nova erechin;sc;brasil
+alegrete-rs;;brasil
+alto parana - pr;pr;brasil
+tabajara - lavinia;sp;brasil
+curitiba pr;rs;brasil
+bagnolo mella - bresia;;italia
+baixo-guandu;es;brasil
+brejo-ma;ma;brasil
+khizrabad;;india
+vitoria da conquista ba;ba;brasil
+tancrual farim;;guine bissau
+oberndorf;;alemanha
+sao miguel do araguaiago;go;brasil
+brailia;df;brasil
+juliania;sp;brasil
+eljamalab;;sudao
+iv centenario;pr;brasil
+pequia;mg;brasil
+freguesia de frioes - valpacos;;portugal
+campinna grande;pb;brasil
+sao joao;pe;brasil
+riverside, nj;;estados unidos
+paraiso;to;brasil
+cataguases/sobral pinto;mg;brasil
+brasil;pa;brasil
+balem;pa;brasil
+nucleo bandeirante;df;brasil
+barro alto;ba;brasil
+guareta;pr;brasil
+forquilha - ce;ce;brasil
+campos dos goytaaczes;rj;brasil
+sao luis - ma;ma;brasil
+la-paz;;bolivia
+mato grosso do sul;ms;brasil
+nurba;;russia
+vitotia;es;brasil
+barreiros pe;sp;brasil
+nuremberg;;alemanha
+olimpia sp;sp;brasil
+chatenay malabry;;franca
+sao carlos;;brasil
+santa barbara doeste;sp;brasil
+sao lourenco d´ oeste;sc;brasil
+guardinha;mg;brasil
+ribeirao preto / sp;sp;brasil
+rio de janeirto;rj;brasil
+buearama;ba;brasil
+miracema do norte -goias;go;brasil
+coramandel;mg;brasil
+okinawa-ken;;japao
+sao paulo do pontengi;rn;brasil
+montgomery;;estados unidos
+barboza ferraz;pr;brasil
+juazerio do norte;ce;brasil
+markrode;;brasil
+sao bernarnardo do campo;sp;brasil
+rebordainhos;;portugal
+cidade;pr;brasil
+leninskkuznetskii;;russia
+nao metoque;rs;brasil
+santa isabel;pa;brasil
+santa cecilia;sc;brasil
+botucatu - sp;sp;brasil
+andre fernandes;mg;brasil
+arapua;mg;brasil
+itapecerica - mg;;brasil
+taruacu;mg;brasil
+guaira/sp;sp;brasil
+teofilo ottoni;mg;brasil
+jacigua;es;brasil
+pizzoferrato;;italia
+piumhi-mg;rj;brasil
+itumbiara -go;go;brasil
+campinal;sp;brasil
+ribeirao perto;sp;brasil
+lagartera;;espanha
+campinas - barao geraldo;sp;brasil
+sao francisco de quito;;equador
+douradina;ms;brasil
+tanger;;marrocos
+conceicao das alagoas-mg;mg;brasil
+florinaopolis;sc;brasil
+monte alegre rn;rn;brasil
+jundiaisp;sp;brasil
+florianoplis;sc;brasil
+capela;se;brasil
+para;rj;brasil
+sao joao da boas vista;sp;brasil
+rio de |janeiro;rj;brasil
+altamira;ma;brasil
+n'dalattando;;angola
+joaqum tavora;pr;brasil
+rio tinto - paraiba;pb;brasil
+rio grande/rs;rs;brasil
+belo horizinte;mg;brasil
+brumadinhojavascript:void(0);mg;brasil
+humaita;sc;brasil
+canto do buritii;pi;brasil
+dom cavate;mg;brasil
+gloria de goita;pe;brasil
+marau rs;rs;brasil
+dom pedrrito;rs;brasil
+macieo;al;brasil
+leopoldima;mg;brasil
+poro alegre;rs;brasil
+cruzeiro d'oeste;pr;brasil
+vicosa - mg;;brasil
+conselheiro lafaiee;mg;brasil
+cambara do sul.;rs;brasil
+potasznia - myszkow;;polonia
+carmen del parana;;paraguai
+sp;;brasil
+sao lourenco d' oeste;sc;brasil
+rio branco-mt;mt;brasil
+sullana / piura;;peru
+sao joao delrei;mg;brasil
+campos dos goytacazes-rj;rj;brasil
+carolina maranhao;ma;brasil
+terra nova;pe;brasil
+prata;pb;brasil
+sao miguel d´oeste;sc;brasil
+montes claros-mg;mg;brasil
+s. fidelis;rj;brasil
+santa luiza;pb;brasil
+hanover;;alemanha
+xxx;mg;brasil
+bom jesus do itabapuana;rj;brasil
+c. del uruguay - entre rios;;argentina
+new york;su;brasil
+nova-russas;ce;brasil
+dellfim moreira;mg;brasil
+monte real;pr;brasil
+curvelo mg;mg;brasil
+cach. itapemirim;es;brasil
+el grove;;espanha
+paz de rio boyaca;;colombia
+sinar;;sudao
+donmatias;;colombia
+dermontt arkansas;;estados unidos
+santafe de bogota dc;;colombia
+huacho-lima;;peru
+las villas;;cuba
+champsecret orne;;franca
+munsingen;;alemanha
+wah cantt;;paquistao
+polla (sa);;italia
+ilha do para;pa;brasil
+xxx;;estados unidos
+magdalena;;argentina
+offenbach am main;;alemanha
+gilgit;;paquistao
+nova lisboa;;portugal
+tiensin;;china
+coimbra;;brasil
+caltavuturo pa;;italia
+el banco magdalena;;colombia
+;;mauricio
+huancapi;;peru
+limmerick;;irlanda
+agueda;;portugal
+langenargen;;alemanha
+varset;;iugoslavia
+vimioso;;portugal
+ourinhos - sp;sp;brasil
+malaga (santander);;colombia
+vilanova de la barca;;espanha
+ayamonte (huelva);;espanha
+eiweiler;;alemanha
+muros;;espanha
+cidade;;republica tcheca
+san vicente tagua tagua;;chile
+bernadino de campos;;brasil
+castellamare di stabia;;italia
+nietap;;holanda
+bogota, d.c;;colombia
+bhorkheda;;india
+funchal ilha da madeira;;portugal
+mayari;;cuba
+quintela sernancelhe;;portugal
+espinho;;portugal
+braganca;rj;brasil
+balcarce;;argentina
+leinefelde;;alemanha
+huancayo junin;;peru
+andahuaylas apurimac;;peru
+toquepala tacna;;peru
+bridge of allan;;escocia
+crciuma;sc;brasil
+;;sudao
+cedar city, utah;;estados unidos
+kriegsfeld;;alemanha
+riovena;;espanha
+londres;;gra-bretanha
+mexico, d.f.;;mexico
+san francisco california eua;;estados unidos
+wittenberg;;alemanha
+mirepoix;;franca
+cruz das almas bahia;ba;brasil
+carballo, a coruna;;espanha
+campina grandes;pb;brasil
+unai mg;mg;brasil
+cayena;;guiana francesa
+getulio vargas rs;rs;brasil
+santo andre-sp;sp;brasil
+221931218-69;;estados unidos
+xangai;;china
+san jose;;filipinas
+triunfo-pe;pe;brasil
+cerete - cordoba;;colombia
+senhor do bonfim-ba;ba;brasil
+peru;;peru
+virginia beach, va;;estados unidos
+todi;;italia
+ekaterinburg;;russia
+sousas;sp;brasil
+hoerring;;dinamarca
+frankfurt/main;;alemanha
+malange;;angola
+henderson;;estados unidos
+espanha;;espanha
+ile ife;;nigeria
+eindhoven holanda;;uruguai
+kuanza-sul;;angola
+giza;;egito
+langeais 37500;;franca
+novgorod;;russia
+;;botsuana
+caracas, df;;venezuela
+garian;;libia
+bac;;iugoslavia
+;;niger
+belmonte;;portugal
+caraz/ancash;;peru
+yara, granma;;cuba
+taiba ndiaye;;senegal
+aguilares - tucuman;;argentina
+sichuan;;china
+gunma-ken;;japao
+felgueiras;;portugal
+hondarribia;;espanha
+manhattan - new york;;estados unidos
+adolfo dutra;mg;brasil
+wiltz luxemburgo;;holanda
+long branch, new jersey;;estados unidos
+champawat;;india
+vempenta;;india
+khanewal;;india
+;;macau
+sertaozinho-sp;sp;brasil
+halle/saale;;alemanha
+metangula;;mocambique
+naracoorte;;australia
+san zenone d. ezz.;;italia
+evansville, in;;estados unidos
+summit/ new jersey;;estados unidos
+legaspi, albay;;filipinas
+mexico, distrito federal;;mexico
+villaclara;;cuba
+svilajnac;;iugoslavia
+san jacinto, bolivar;;colombia
+hon kong;;china
+samara region- russia;;russia
+regiao de stavropol;;russia
+roslyn nova iorque;;estados unidos
+brasilia-df;df;brasil
+broxburn;;inglaterra
+sao petesburgo;;russia
+sioux;;estados unidos
+tracadie;;canada
+detroit michigan;;estados unidos
+capos dos goytacazes;rj;brasil
+treves;;alemanha
+monmouth;;inglaterra
+voronezh region;;russia
+bromley;;inglaterra
+pusan;;coreia do sul
+kiikka;;finlandia
+mazamet;;franca
+beijing(pequim);;china
+hanau;;alemanha
+08/12/1979;;peru
+tournon;;franca
+biberach;;alemanha
+san petersburgo;;russia
+antwerp;;belgica
+pedro luro;;argentina
+ussy-sur-marne;;franca
+varzea;rn;brasil
+beteitiva boyaca;;colombia
+kimbau (rep. dem. do congo);;zaire
+breves-pa;pa;brasil
+caracas distrito federal;;venezuela
+fort de france;;franca
+krefeld-huels;;alemanha
+mirano (venezia);;italia
+juiz de fora mg;rj;brasil
+arnswalde;;alemanha
+botucatu sp;sp;brasil
+ahemdabad;;india
+parana, entre rios;;argentina
+beese, illinois;;estados unidos
+port-said;;egito
+ubaira bahia;ba;brasil
+salto sp;sp;brasil
+;es;brasil
+santo antonio caiua;pr;brasil
+marechal mallet;pr;brasil
+frderico westphalen;rs;brasil
+bahia;ba;brasil
+itarare sp;pr;brasil
+mirante paranapanema;sp;brasil
+caconde-;sp;brasil
+monjolinho;mg;brasil
+barracao;rs;brasil
+austin - texas;;estados unidos
+abelardo luz - sc;sc;brasil
+joao molevade;mg;brasil
+pilar;al;brasil
+yokaichi;;japao
+rio branco;;uruguai
+hunan;;china
+iracema;ce;brasil
+serra caiada;rn;brasil
+matale;;sri lanka
+sao vicente da estrela;mg;brasil
+garanhnus;pe;brasil
+itaja;go;brasil
+agua boa;mt;brasil
+arapiranga;ba;brasil
+milagres;ce;brasil
+buriti dos lopres;pi;brasil
+ouro verde;sc;brasil
+tacima;pb;brasil
+capanena;pa;brasil
+morris minnesota;;estados unidos
+telemado borba;pr;brasil
+jaroslavl;;russia
+rosario do sul - rs;sc;brasil
+surresnes;;franca
+pinhal grande rs;rs;brasil
+passagem;pb;brasil
+rincao/sp;sp;brasil
+palmital;pr;brasil
+caracol;pi;brasil
+rovello;;italia
+santa maria rio grande do sul;rs;brasil
+sao caetano o sul;sp;brasil
+cidade da guatemala;;guatemala
+s. paulo;;brasil
+cartoum;;sudao
+mocambo;ce;brasil
+sorocaba-sp;;brasil
+proto uniao;sc;brasil
+alagoas;ba;brasil
+yainville;;franca
+campos de guaitacazes;rj;brasil
+campo real;rs;brasil
+comopolis;sp;brasil
+sao;ba;brasil
+sao jose do paraopeba;mg;brasil
+pulsan;;coreia do sul
+bom jardim;ma;brasil
+sem peixe;mg;brasil
+entre ijuis;rs;brasil
+chuquibamba - arequipa;;peru
+araiozes;ce;brasil
+sao domigos do prata;mg;brasil
+tiete-sp;sp;brasil
+rofrano;;italia
+bage/rs;rs;brasil
+jaboatao dos guararsapes;pe;brasil
+riad;;arabia saudita
+santa barbara d oeste;sp;brasil
+vila costina, pains;mg;brasil
+upland california;;estados unidos
+white plains - ny;;estados unidos
+piracicaba sao paulo;sp;brasil
+sta. barbara d´oeste;sp;brasil
+galante;pb;brasil
+miracema do norte;to;brasil
+vera;mt;brasil
+cahoeiro de itapemirim;es;brasil
+kaoshiung;;china
+ponpeia;sp;brasil
+sao jose dos pinhias;pr;brasil
+herveira;pr;brasil
+jurupeba;sp;brasil
+rezende;rj;brasil
+lagarto/se;se;brasil
+ivatuba pr;pr;brasil
+nesso;;italia
+paraiso;ms;brasil
+baia bonita;ms;brasil
+mogi guacu / sp;sp;brasil
+san pedro de ceque;;espanha
+catanduvasp;sp;brasil
+sao sebastiao do oeste mg;mg;brasil
+guaratingueta/sp;sp;brasil
+sousa, pb;;brasil
+casabranca;;brasil
+tungshiao;;china
+caiponia;go;brasil
+s. j. de mipibu;rn;brasil
+paracatu-mg;df;brasil
+parlakhemundi;;india
+usolje;;polonia
+nankung-hopei;;china
+borrazoplois;pr;brasil
+mandaguacu - pr;ba;brasil
+boulogne sur seine;;franca
+binghamtom;;estados unidos
+capitanejo, santander;;colombia
+sao jose do divino;mg;brasil
+silvania-go;;brasil
+avencas;sp;brasil
+joao pesssoa;pb;brasil
+xaxin;sc;brasil
+xiquexique;ba;brasil
+manaos;am;brasil
+manhumirim/martins soares;mg;brasil
+pres. prudente;sp;brasil
+maroim;se;brasil
+santa do livramento;rs;brasil
+chhaprawat (u.p.), india;;india
+uberlanica;mg;brasil
+aracatuva;sp;brasil
+canoas rs;pr;brasil
+tel. borba;pr;brasil
+madureira;rj;brasil
+s. goncalo;rj;brasil
+sao jose do rio pardo,sp;sp;brasil
+savio ramos laterce;rj;brasil
+agua branca;pi;brasil
+ehimeken;;japao
+santo antonio dos lopes - ma;pa;brasil
+guarulhos - sp;sp;brasil
+colatina - es;es;brasil
+vina-del.mar;;chile
+arco verde;pe;brasil
+moreno-pe;sp;brasil
+iubatinga;sp;brasil
+sao jose dos campos - sp;sp;brasil
+mapusa;;india
+nova itapirema sp;sp;brasil
+pernambuco;pe;brasil
+piedade ponte nova;mg;brasil
+fotaleza;ce;brasil
+vera cruz paulista;sp;brasil
+capivari / sp;sp;brasil
+mogi das cruzes sao paulo;sp;brasil
+trenton;;estados unidos
+maringa-pr;sc;brasil
+vila pereira;mg;brasil
+pouso redondo, sc;sc;brasil
+maringa pr;sp;brasil
+parnaso;sp;brasil
+agua branca - pi;pi;brasil
+monte alto sp;sp;brasil
+lajeado - rs;rs;brasil
+vale de estrela - guarda;;portugal
+joaopessoa;pb;brasil
+sao paulo paulo;sp;brasil
+la plata, bs.as.;;argentina
+albuquerque, novo mexico;;estados unidos
+stirlinshire;;escocia
+veltembeisem;;belgica
+concepcion-tucuman;;argentina
+zbiersk kolonia;;polonia
+arcachon;;franca
+pobra do caraminal (a coruna);;espanha
+clermont ferrand;;franca
+remedello;;italia
+trujillo la libertad;;peru
+mulheim - ruhr;;alemanha
+albany, nova york;;estados unidos
+boffa;;guine
+leomister, massachussetts;;estados unidos
+;;burkina fasso
+colonnella;;italia
+;;luxemburgo
+fran pais;;cuba
+pirapora minas gerais;mg;brasil
+carrazeda de ansiaes;;portugal
+rio de oro;;colombia
+waldsassen/baviera/alemanha;;alemanha
+recreio mg;mg;brasil
+villers les nancy;;franca
+huancane;;peru
+lehon;;franca
+st jean sur richelieu;;canada
+avallon;;franca
+ohio;;estados unidos
+dovi-dove;;benin
+thiruvananthapuram, kerala;;india
+ibague - tolima;;colombia
+koenigsberg;;alemanha
+mil?o;;italia
+moura;;portugal
+sevilla (valle del cauca);;colombia
+ashkhabad;;russia
+macau;;portugal
+isla de la juventud;;cuba
+perito moreno, santa cruz;;argentina
+carlos paz;;argentina
+der er zor;;siria
+gijon, asturias;;espanha
+pedra preta;mt;brasil
+gifu;;japao
+san giorgio ionico;;italia
+mannheim neckarau;;alemanha
+reichenberg;;alemanha
+porto alegre - rs;;colombia
+burnham;;inglaterra
+duala;;camaroes
+lagras;;cuba
+fort frances;;canada
+calw - baden wurttemberg;;alemanha
+soisy sous montmorency;;franca
+;;estonia
+hirrlingen;;alemanha
+palma de mallorca, baleares;;espanha
+varzea d'ouro;;portugal
+caldas de s. jorge;;portugal
+rio de janeiro/rj;mg;brasil
+penha do capim;mg;brasil
+saigon;;vietna
+pariqueracu;sp;brasil
+zaruma;;equador
+hooghly, kolkata;;india
+traben-trarbach;;alemanha
+caprino veronese;;italia
+;;togo
+paranapiacaba - santo andre;sp;brasil
+iguaracu-pr;;brasil
+castellbell i el vilar;;espanha
+tollegno;;italia
+01-11-1945-san jose- santa fe;;argentina
+soriano calabro;;italia
+castellon;;espanha
+sainte foy;;canada
+meyersdale pa;;estados unidos
+fujisawa shi;;japao
+atamarca;;argentina
+ribeira grande;;cabo verde
+hjo;;suecia
+bargen;;alemanha
+nauta;;peru
+san severino marche;;italia
+cobre santiago de cuba;;cuba
+temperley;;argentina
+ninhue;;chile
+kirovobad;;russia
+armeria, colima;;mexico
+resistencia chaco;;argentina
+brockton, massachusetts;;estados unidos
+salta capital;;argentina
+vishnupur;;india
+sapporo, hokkaido;;japao
+santa fe de bogota dc;;colombia
+cachoeiro do itaperim;es;brasil
+presidente prudenete;sp;brasil
+alta gracia, cordoba;;argentina
+s. pedro do sul;;portugal
+esplugues del llobregat;;espanha
+moscou;;israel
+santa maria;pb;brasil
+niigata;;japao
+la mata, cotui;;republica dominicana
+alexandria;;estados unidos
+mt holly new jersey;;estados unidos
+boukue;;camaroes
+diamante (entre rios);;argentina
+kronberg im taunus;;alemanha
+banfield;;argentina
+salta - capital;;argentina
+san jose de los arroyos;;paraguai
+gondomar (s. cosme);;portugal
+kristinipol;;polonia
+arbaz;;suica
+invergowrie;;australia
+merona;;franca
+alvalade, santiago do cacem;;portugal
+grinnel;;estados unidos
+chuquicamata;;chile
+millersville;;estados unidos
+samsun/carsamba;;turquia
+aeh/tizi ouzou;;argelia
+beech grove, indiana;;estados unidos
+general higinio morinigo;;paraguai
+antwrep;;belgica
+surbiton, uk;;inglaterra
+cidade da havana;;cuba
+paris (xiv arrdt);;franca
+c. de la habana;;cuba
+capivari sp;;brasil
+xx;;brasil
+rhone;;franca
+esztergomtabor;;hungria
+wolfschlugen;;alemanha
+caceres caceres;;espanha
+le raincy, france;;brasil
+recife, pe;;brasil
+humacao, puerto rico;;brasil
+jardinopolis;sc;brasil
+avelanoso;;portugal
+kestur;;india
+laredo, texas;;estados unidos
+enniskillen;;irlanda do norte
+assis chateaubrind;pr;brasil
+teodoro sampaio;ba;brasil
+anhui;;china
+engers;;alemanha
+carregal do sal;;portugal
+rauna kalan;;india
+tel-aviv;;israel
+pedro osorio rs;rs;brasil
+cunha - pora;sc;brasil
+barao de juparana;rj;brasil
+pindare;ma;brasil
+bloomington;;estados unidos
+niteroi rj;rj;brasil
+tres coracoes mg;mg;brasil
+leme sp;sp;brasil
+receife;sp;brasil
+cerquiolho;sp;brasil
+sao joao do mantena;mg;brasil
+sobral, ceara;ce;brasil
+cambuquira- mg;mg;brasil
+mimoso do sul-es;rj;brasil
+puerto armulles;;panama
+palmeiras d'oeste;sp;brasil
+bonfim de feira;ba;brasil
+´s-gravenhage;;holanda
+queens;;estados unidos
+oeste guapore;rs;brasil
+janeiro;rj;brasil
+istambul / bras. naturalizado;;turquia
+jablonez nad nissou;;republica tcheca
+toquio (naturalizado bras.);;japao
+dom pedro-ma;ma;brasil
+jardim do serido rn;rn;brasil
+schwarmstedt;;alemanha
+rosario-oeste;mt;brasil
+piatra neamtz;;romenia
+talhado;sp;brasil
+sao jose dos camps;sp;brasil
+luenen;;alemanha
+lins-sp;;brasil
+pentecostes;ce;brasil
+s j rio preto;sp;brasil
+red bank;;estados unidos
+niteroi, rj;rj;brasil
+itacira;ba;brasil
+enniscorthy;;irlanda
+passagem;rn;brasil
+paris;;brasil
+kitchner ontario;;canada
+aroerias;pb;brasil
+brinkmann;;argentina
+severiano almeida;rs;brasil
+anajuba;ma;brasil
+brasilia-df;ma;brasil
+johanesburgo;;africa do sul
+registro-sp;sp;brasil
+sao caertano do sul;sp;brasil
+espira de l'agly;;franca
+jalessp;sp;brasil
+lagoa de itaenga;pe;brasil
+borborema;pb;brasil
+praguacu paulista;sp;brasil
+tupanciretan;rs;brasil
+mundau mirim;al;brasil
+marjeyoun;;libano
+cajazeiras pb;pb;brasil
+martinopoles;ce;brasil
+tea jon;;coreia do sul
+porto alegre -rs;rs;brasil
+marilia, sp;sp;brasil
+kamed el laus;;libano
+rio de janeiro rj;sp;brasil
+moreilandia pe;pe;brasil
+tapirai;sp;brasil
+presidente bernardes;df;brasil
+teofilo-otoni;mg;brasil
+senhor do bomfim;ba;brasil
+recifepe;pe;brasil
+itapiranga;am;brasil
+ehime-ken;;japao
+sao sebastiao da vitoria;mg;brasil
+joa pessoa;pb;brasil
+santa fa do sul;sp;brasil
+parthenay;;franca
+gov dixsept rosado;rn;brasil
+organa;;espanha
+santa rosa;go;brasil
+propia;se;brasil
+engis;;belgica
+fontelonga;;portugal
+seoul coreia do sul;;coreia do sul
+almerim;pa;brasil
+tupancereta;rs;brasil
+marakech;;marrocos
+soderhamn;;suecia
+d. de caxias;rj;brasil
+rio capinzal;sc;brasil
+itapetinga- ba;ma;brasil
+jarmina;;iugoslavia
+s roque;sp;brasil
+redencao do gurgeia;pi;brasil
+santo antonio do manhuacu;mg;brasil
+sao`paulo;sp;brasil
+embu - guacu;sp;brasil
+buchana;;liberia
+sao geraldo de tumiritinga;mg;brasil
+jeronimo monteiro - es;es;brasil
+buenos aires (natur. brasil.);;argentina
+jundiai - sao paulo;sp;brasil
+ascoli pisceno;;italia
+jundiapeba;sp;brasil
+gulsow;;alemanha
+mogi das curzes;sp;brasil
+santiago do cacem;;portugal
+tangara;rn;brasil
+cariaca;es;brasil
+santa filomena;pi;brasil
+vit conquista;ba;brasil
+miguelopoles;sp;brasil
+santa vitoria palmar;rs;brasil
+barbalha - ce;ce;brasil
+riachao;ma;brasil
+nazare das farinhas;ba;brasil
+nova orleans la;;estados unidos
+buenos aires;pe;brasil
+santos/sao paulo;sp;brasil
+tomasina;pr;brasil
+acesita;mg;brasil
+exterior;;bolivia
+ituiutaba/minas gerais;mg;brasil
+sao joao do meriti;rj;brasil
+ribierao pires;sp;brasil
+santa ana do livramento;rs;brasil
+santafe;;argentina
+kobenhavn;;dinamarca
+bomjardim;rj;brasil
+tucuruvi-sp;sp;brasil
+comayaguela;;honduras
+pradinia;sp;brasil
+natal/rn;rn;brasil
+alagoas;al;brasil
+santo anastacio sp;sp;brasil
+conselheiro pena-mg;rj;brasil
+sto antonio da patrulha;rs;brasil
+porto principe;;haiti
+inca mallorca;;espanha
+macapa ap;ap;brasil
+adamantina-sp;sp;brasil
+panama;su;brasil
+bom jesus;rn;brasil
+avon township;;estados unidos
+curitibba;pr;brasil
+itajuba - mg;mg;brasil
+presidente prudente-sp;sp;brasil
+monte sant'angelo;;brasil
+sem peixe ``` dom silverio;mg;brasil
+silvania goias;go;brasil
+juruce;sp;brasil
+geneal baldissera;;argentina
+bernal;;argentina
+para;pa;brasil
+salon de provence;;franca
+brive la gaillarde;;franca
+wilno;;polonia
+osaco;sp;brasil
+lanus;;argentina
+cabaiguan, sancti spiritus;;cuba
+damoh, mp;;india
+vicosa;ce;brasil
+trelew - chubut;;argentina
+kharkov;;russia
+mocambique;;portugal
+belem;al;brasil
+harrow;;inglaterra
+lousa;;portugal
+podolsk;;russia
+santa clara, cuba;;cuba
+la uvita;;colombia
+genzano di roma , rome;;italia
+vieux-genappe;;belgica
+lomonossov,regiao leningrado;;russia
+st. polten;;austria
+le coteau;;franca
+figueiro da serra;;portugal
+fukuoka;;brasil
+sac city iowa;;estados unidos
+st wendel;;alemanha
+apurimac abancay;;peru
+klagenfurt;;austria
+ojos negros (teruel);;espanha
+washington d c;;estados unidos
+frimley;;inglaterra
+comodoro rivadavia - chubut;;argentina
+bragantino;pa;brasil
+famalicao;;portugal
+boston ma;;estados unidos
+gral. san martin, mendoza;;argentina
+buenos aires, capital federal;;argentina
+cachipay;;colombia
+topolovgrad;;bulgaria
+maria ignacia vela;;argentina
+campos del rio - murcia;;espanha
+canarana;mt;brasil
+ciudad de buenos aires;;argentina
+elx (alicante);;espanha
+frankfurt a. main;;alemanha
+tebas;mg;brasil
+valdivia - isla teja;;chile
+el puerto de tela;;honduras
+barra do prirai;rj;brasil
+albany;;estados unidos
+decatur, indiana;;estados unidos
+villacanas;;espanha
+florianoplois;sc;brasil
+ciudad de mexico, df;;mexico
+lavre - montemor-o-novo;;portugal
+kallooppara;;india
+uce;sp;brasil
+lisboa;;afeganistao
+puquio-ayacucho;;peru
+perth;;escocia
+recuay-ancash;;peru
+soledad, el paraiso;;honduras
+cobden;;australia
+tucson, arizona;;estados unidos
+kizliar;;russia
+fiiladelfia;;estados unidos
+steikjer;;noruega
+mexico distrito federal;;mexico
+santa adelia - sp;sp;brasil
+sogamoso boyaca;;colombia
+velez;;colombia
+melun (77);;franca
+r j;rj;brasil
+barbosa;;colombia
+tamshiyacu;;peru
+martinique;;franca
+jaca (huesca);;espanha
+nayoro-hokaido;;japao
+stadthagen/schaumburg;;alemanha
+gro pertholz;;austria
+columbus, ohio;;estados unidos
+salerno, italia;;brasil
+birminghan;;inglaterra
+syracuse, ny;;estados unidos
+herbolzheim;;alemanha
+lourenco marques - mocambique;;portugal
+;;ilhas santa helena
+tlalmanalco;;mexico
+migi-mirim;sp;brasil
+kelibia;;tunisia
+calheta de sao miguel;;cabo verde
+campo grande;;brasil
+acehuche (caceres);;espanha
+antilla, holguin, cuba;;cuba
+novo orinete;ce;brasil
+apostoles;;argentina
+karjaa;;finlandia
+beira. nacional. portuguesa;;mocambique
+troy;;estados unidos
+kalisch;;alemanha
+arequipa - peru;;peru
+lauro mueller;sc;brasil
+la hestre;;belgica
+bueno aires;;argentina
+s?o jorge do oeste;rr;brasil
+fucecchio;;italia
+saint-julien-en-genevois;;franca
+david, chiriqui;;panama
+saint-affrique;;franca
+riberalta/beni;;bolivia
+sant'egidio del monte albino;;italia
+cornimont;;franca
+joplin mo;;estados unidos
+estocolmo;;finlandia
+walnut creek, ca;;estados unidos
+pottsville, pa;;estados unidos
+guaduas;;colombia
+povoa de varzim - porto;;portugal
+bellusco;;italia
+roan mountain tennessee;;estados unidos
+saint malo;;franca
+altenstadt;;alemanha
+santos-ssp;sp;brasil
+soyaux;;franca
+s. vito al tagliamento;;italia
+f0rtaleza;ce;brasil
+montebelluna (tv);;italia
+morhange moselle;;franca
+union hidalgo;;mexico
+neully-sur-marne;;franca
+basirhat;;india
+san juan de pasto;;colombia
+corozal sucre;;colombia
+ledesma jujuy;;argentina
+dacar;;senegal
+cay ralan-yozgat;;turquia
+villeneuve sur lot;;franca
+sao bernardo da borda do campo;sp;brasil
+chimbote, ancash;;peru
+roma;;argentina
+hermershausen;;alemanha
+califronia;;estados unidos
+viseu - portugal;;portugal
+tuticorin india;;india
+san pedro de lloc (la liberta);;peru
+chulucanas piura;;peru
+dili, timor- leste;;timor
+elsene;;belgica
+miedzno;;polonia
+curtiba;pr;brasil
+guapore rs;rs;brasil
+san pedro;;paraguai
+bry sur marne;;franca
+le puy;;franca
+schaerbeek;;belgica
+pyritz;;alemanha
+aarhus;;dinamarca
+crevillent (alicante);;espanha
+leningrad;;russia
+camauey;;cuba
+novo ayrao;am;brasil
+l'ha les roses;;franca
+ilheus bahia;ba;brasil
+medellin / antioquia;;colombia
+cartavio;;peru
+oberhunigen;;suica
+tole;;panama
+esparta;;costa rica
+oia - oliveira do bairro;;portugal
+ylan yde;;russia
+tangi charsadda;;paquistao
+piuca - maceda - orense;;espanha
+avare - sao paulo;sp;brasil
+sitio novo;ma;brasil
+ponte firme;mg;brasil
+vilha velha;es;brasil
+barra do itapemirim;es;brasil
+sao grabiel;rs;brasil
+sao luiz gonzaga do maralhao;ma;brasil
+lagoa d'antas;rn;brasil
+ssa;ba;brasil
+miao li;;china
+ibitiuva dist de pitangueiras;sp;brasil
+guarani d´oeste;sp;brasil
+uberaba-mg;mg;brasil
+rio de ajneiro;rj;brasil
+villa mercedes san luis;;argentina
+gracianopolis;sp;brasil
+poco de pedras;rn;brasil
+eugenopolis - mg;rj;brasil
+sao jise do rio preto;sp;brasil
+monte alegre;pi;brasil
+kharagpore, wb;;india
+wupertal;;alemanha
+piscamba - jequeri;mg;brasil
+catantuva;sp;brasil
+ibl el saki;;libano
+vollta redonda;rj;brasil
+praia redonda;sc;brasil
+deodoro da fonseca;rj;brasil
+kaoshung;;china
+sao joao do meriti-rj;;brasil
+seiyoshi - provincia de ehime;;japao
+pariquera - acu;sp;brasil
+macuco de minas;mg;brasil
+paraty;rj;brasil
+espirito santo do pinahl;sp;brasil
+saint patrice quebec;;canada
+piacicaba;sp;brasil
+san gregorio nelle alpi;;italia
+standish;;inglaterra
+luis alves;sc;brasil
+villemur s/tarn -haute garonne;;franca
+natalrn;rj;brasil
+jatai-goias;go;brasil
+presindente epitacio;sp;brasil
+santa maria;sp;brasil
+itaiuba;sp;brasil
+jacuntinga;mg;brasil
+clorinda;;argentina
+nova friburgo - rj;rn;brasil
+hokaido;;japao
+goiandira - go;go;brasil
+sao joao batista sc;;brasil
+vitoria es;ba;brasil
+hu wei;;formosa
+luhsien;;china
+presidente olegario mg;mg;brasil
+municipio de mossamedes;go;brasil
+cuiaba mato grosso;mt;brasil
+agua branca;pb;brasil
+palmas;sp;brasil
+nanuque- mg;es;brasil
+talia;;libano
+cuiritba;pr;brasil
+s. sebastiao do maranhao;mg;brasil
+c. lange;sp;brasil
+rio preto do sul;sc;brasil
+santa maria;pr;brasil
+calden;;alemanha
+sta izabel do morro;mt;brasil
+aymores;mg;brasil
+tres rios - rj;rj;brasil
+sao paulo, sp;;brasil
+ibiaci;pr;brasil
+;ma;brasil
+;;malta
+ourinhos-sp;sp;brasil
+franca/sp;sp;brasil
+uberandia;mg;brasil
+campos - rj;rj;brasil
+rio do antonio.;ba;brasil
+nova frigurgo;rj;brasil
+sao joao do paraiso;rj;brasil
+bonito;pa;brasil
+pedro leopoldo.;mg;brasil
+cambui-mg;rj;brasil
+ouro-fino;mg;brasil
+nadavarambu;;india
+sao jose do campos;sp;brasil
+campo grande;rn;brasil
+caicara do rio dos ventos;rn;brasil
+west bromwhich;;inglaterra
+ribeirao pretol;sp;brasil
+goiandiara;go;brasil
+porto alegre/rs;rs;brasil
+bernardino de campo;sp;brasil
+barra de sao miguel;pb;brasil
+campo belo mg;mg;brasil
+poco das antas salvador do sul;rs;brasil
+sto. antonio da platina;pr;brasil
+haenigsen;;alemanha
+leopoldina/mg;sp;brasil
+cachoeira dourada de goias;go;brasil
+caseros;rs;brasil
+vila real - tras-os-montes;;portugal
+guhagar;;india
+leeds inglaterra;;inglaterra
+bom retido do sul;rs;brasil
+santos - sao paulo;sp;brasil
+sao joao da boa vista - sp;sp;brasil
+tcurui;pa;brasil
+ituiutaba mg;;brasil
+iffeldorf;;alemanha
+natal-rn;;brasil
+sao fracisco de paula;rs;brasil
+jonvile;sc;brasil
+jundiai sp;sp;brasil
+joao pinheiro - mg;mg;brasil
+areia dourada;sp;brasil
+dores da vitoria - mirai - mg;mg;brasil
+jauguaribe;ce;brasil
+massaranduba;pb;brasil
+iitagi;ba;brasil
+limni evias;;grecia
+guandong;;china
+irara/ba;;brasil
+taboleiro;mg;brasil
+maturin monagas;;venezuela
+paulista/pe;pe;brasil
+ltauna;mg;brasil
+capitao-poco;pa;brasil
+belo hrizonte;mg;brasil
+pio nono;pi;brasil
+boa vista;ro;brasil
+pass fundo;rs;brasil
+ibirapuan;ba;brasil
+marruecos;;espanha
+teofilootoni;mg;brasil
+saint maur des fosses;;franca
+planalto paulista;sp;brasil
+santa rita do oeste;sp;brasil
+tighina;;ucrania
+nova milano farroupilha;rs;brasil
+ibicui ba;ba;brasil
+barra do riacho;es;brasil
+caicara;sc;brasil
+quata sao paulo;sp;brasil
+ann arbor, michigan;;estados unidos
+santo antonio da alegria-sp;sp;brasil
+chalon sur saone;;franca
+rio de jaeiro;rj;brasil
+viginopolis;mg;brasil
+fancisco beltrao;pr;brasil
+bandeirantes;ms;brasil
+jacutinga do sul;rs;brasil
+berna;;suica
+cachoeirinha;pe;brasil
+mayaguez;;porto rico
+lerici;;italia
+aston on trent;;inglaterra
+;;nicaragua
+malemba nkulu;;zaire
+manoppello;;italia
+s'gravenhage;;holanda
+sverdlovsk;;russia
+enskede;;suecia
+walnut creek - california;;estados unidos
+san estanislao;;paraguai
+vila pery;;mocambique
+akmolinsk;;russia
+san ramon, alajuela;;costa rica
+sainte foy-les-lyon;;franca
+salvdor;ba;brasil
+ostrow;;polonia
+lapa, lisboa;;portugal
+villefranche de rouergue;;franca
+bulogne billancourt;;franca
+azuaga (badajoz);;espanha
+sacramento, ca;;estados unidos
+thbilissi;;georgia
+bistol;;inglaterra
+gafanha da nazare;;portugal
+tupa - sp;sp;brasil
+sana'a;;iemem
+xxx;;espanha
+lages santa catarina;sc;brasil
+la plata (buenos aires);;argentina
+stala;;suecia
+huambo-angola;;angola
+n. s. das dores;se;brasil
+berazategui;;argentina
+vasarosnameny;;hungria
+punjab;;paquistao
+riverside, california;;estados unidos
+washington, d. c.;;estados unidos
+marburg lahn;;alemanha
+aguas belas pernambuco;pe;brasil
+sao luiz de montes belos;go;brasil
+iowa;;estados unidos
+ehime;;japao
+viseu;pa;brasil
+bois guillaume;;franca
+almaden;;espanha
+cogoleto (genova);;italia
+hubei;;china
+la tronche;;franca
+ascope;;peru
+wilde;;argentina
+platanar jalisco;;mexico
+piedecuesta santander;;colombia
+villa garcia zacatecas;;mexico
+trichy;;india
+cidade de la habana;;cuba
+mari turek;;russia
+cachoiera do sul;rs;brasil
+guanabacoa, ciudad habana;;cuba
+rio negro;;argentina
+otanche (boyaca);;colombia
+piquet-carneiro;ce;brasil
+rosario do oeste;mt;brasil
+erquelinnes;;belgica
+sao luis gonzaga;ma;brasil
+bajo calima buenaventura valle;;colombia
+guaira-sp;sp;brasil
+sao luiz m. belos;go;brasil
+mt pleasant michigan;;estados unidos
+oberstuben;;eslovaquia
+paris 15;;franca
+gaillac;;franca
+kalinin;;russia
+winterwijk;;holanda
+rantoul illinois;;estados unidos
+las rosas;;argentina
+ottignies;;belgica
+kostenica, montenegro;;iugoslavia
+lioni;;italia
+la seyne / mer;;franca
+la tronche isere;;franca
+sa da bandeira;;angola
+castellon d la plana;;espanha
+charkov;;ucrania
+wiesau;;alemanha
+nuevo chimbote;;peru
+valpacos;;portugal
+departamento junin;;peru
+cali-valle;;colombia
+;su;brasil
+pazardjik;su;brasil
+caracas,df;;venezuela
+jacona michoacan;;mexico
+arroyito (cba);;argentina
+du jiang yan;;china
+rostovdon;;russia
+kaliazin;;russia
+phillipsburg;;estados unidos
+caraz;;peru
+ciudad aut. de buenos aires;;argentina
+capellades;;espanha
+cuaiba;mt;brasil
+buffalo ny;;estados unidos
+araraquarasp;sp;brasil
+moncarapacho;;portugal
+hiltup;;alemanha
+boa vista - rr;;brasil
+ingelheim;;alemanha
+kherrata;;argelia
+oviedo (asturias);;espanha
+19000 tulle;;franca
+yeatesville;;estados unidos
+ebersbach;;alemanha
+mede (pv);;italia
+peiting;;alemanha
+ouro branco;rn;brasil
+winters texas;;estados unidos
+pirapitinga;mg;brasil
+la banda santiago del estero;;argentina
+marion;;estados unidos
+bucuresti;;romenia
+bad saulgau;;alemanha
+yamaguchi;;japao
+kuldur;;russia
+summitt;;estados unidos
+santo tirso;;portugal
+san pelayo cordoba;;colombia
+uige, puri;;angola
+chittoor andra pradesh;;india
+pullman, wa;;estados unidos
+aldealobos;;espanha
+santo amaro - bahia;ba;brasil
+bruxellas;;belgica
+luena - angola;;portugal
+ancash-huaraz;;peru
+medani;;sudao
+hermosillo, sonora;;mexico
+messina, italia;;italia
+saint mande;;franca
+nogent sur marne;;franca
+armamar;;portugal
+cubal-angola;;portugal
+dist del santa dep de ancash;;peru
+iyale;;nigeria
+noor;;ira
+bisqueque;;quirgistao
+idaroberstein;;alemanha
+zacatecas, zacatecas;;mexico
+cucuta - norte de santander;;colombia
+penedono;;portugal
+hasnaoua;;argelia
+portirendaba;sp;brasil
+vaca guzman;;bolivia
+auray;;franca
+gloria do ribatejo;;portugal
+freixeda-mirandela;;portugal
+porto de mos;;portugal
+aldobern;;alemanha
+trembembe;sp;brasil
+santo antono da patrulha rs;sc;brasil
+trinidad;;uruguai
+sao benedito da cachoeirinha;sp;brasil
+cuckfield;;gra-bretanha
+ensdorf/saar;;alemanha
+trespontas;mg;brasil
+osasco/sp;sp;brasil
+linhares rio bananal;es;brasil
+macapa-ap;;brasil
+yonkers nova iorque;;estados unidos
+szikszo;;hungria
+iiha solteira;sp;brasil
+cacaoal;ro;brasil
+sao joao d'el rey;mg;brasil
+isidoro;ce;brasil
+ituverava sp;sp;brasil
+syracuse - ny;;estados unidos
+lagoa do sambi;pi;brasil
+jales/paranapua;sp;brasil
+macedo de cavaleiros;;portugal
+alfenamg;mg;brasil
+rolanida;pr;brasil
+gravatajavascript:void(0);pe;brasil
+marco de canavezes;;portugal
+ivaipoa;pr;brasil
+itabuna - ba;rj;brasil
+rolandia - pr;pr;brasil
+bloomington, indiana;;estados unidos
+cvetkovic;;croacia
+shorekot;;india
+castanhla;pa;brasil
+taguatinga norte;df;brasil
+foz do iguacu - pr;pr;brasil
+;rr;brasil
+rio de janerio;rj;brasil
+miauli;;china
+cajuri mg;mg;brasil
+vera cruz;pr;brasil
+sertaozinho sp;sp;brasil
+zavalla;;argentina
+piacatuba;mg;brasil
+conceicao de muqui;es;brasil
+rondonia;ro;brasil
+guaiba - rs;rs;brasil
+bebedouro sp;sp;brasil
+walnutcreek;;estados unidos
+cavarzere;;italia
+vermelho velho raul soares;mg;brasil
+belenzinho-sao paulo;sp;brasil
+belo horizone;mg;brasil
+garland, tx;;estados unidos
+sao francisco de paula;mg;brasil
+saoluiz gonzaga;rs;brasil
+guarapava;pr;brasil
+paulinea;sp;brasil
+sao leopoldors;rs;brasil
+vagner;ba;brasil
+caldas de cipo;ba;brasil
+pereira barrteo;sp;brasil
+formosa d' oeste;pr;brasil
+herval d´oeste;sc;brasil
+apiai - sp;sp;brasil
+caraubas;pb;brasil
+valparaiso/sp;pr;brasil
+caraveli;;peru
+tours touraine;;franca
+barrra do pirai;rj;brasil
+chongquing;;china
+palmeira dis indios;al;brasil
+saocarlos;sp;brasil
+pinhalzinho;sp;brasil
+curitiba-pr;pr;brasil
+coruja;sc;brasil
+guapiacu - sp;sp;brasil
+s maria;rs;brasil
+s sebastiao do rio de janeiro;rj;brasil
+jau - sp;sp;brasil
+huanta-ayacucho;;peru
+juruce-sp;pr;brasil
+treze-tilias;sc;brasil
+curiiba;pr;brasil
+comendador soares;rj;brasil
+pupirama;to;brasil
+londrina - pr;pr;brasil
+ribeirao preto/sp.;sp;brasil
+campos dos goitacazes;df;brasil
+herval sul;rs;brasil
+passa vinte;mg;brasil
+campos dos goytacazrs;rj;brasil
+mafra sc;sc;brasil
+cafelancia;sp;brasil
+primeio de maio;pr;brasil
+lagos;su;brasil
+presidente benardes;sp;brasil
+colorado d' oeste;ro;brasil
+joaao pessoa;pb;brasil
+erechim/aratiba;rs;brasil
+eichwald;;alemanha
+monte alegre;ba;brasil
+boa esperanca do sul - sp;sp;brasil
+boiano;sp;brasil
+delfino;ba;brasil
+iowa city - ia;;estados unidos
+cel. goulart;sp;brasil
+anapolis- goias;;brasil
+barao de lucena;pr;brasil
+itabaina;se;brasil
+porto - pi;pi;brasil
+sta cruz de la sierra;;bolivia
+recide;pe;brasil
+barretossp;sp;brasil
+general carneiro;mg;brasil
+montevideu;;brasil
+assai parana;;brasil
+belem;df;brasil
+espigao;sp;brasil
+fortaleza-ce;ce;brasil
+rio negro;ms;brasil
+oklahoma city, oklahoma;;estados unidos
+ocalli;;peru
+porot alegre;rs;brasil
+kottachery;;india
+s paulo;;brasil
+sao jeronimo dos pocoes;mg;brasil
+sao sebastiao de cai;rs;brasil
+adamantina / sao paulo;sp;brasil
+porto algre;rs;brasil
+nordlingen;;alemanha
+tiete sp;sp;brasil
+palmital - sp;sp;brasil
+brejo m. de deus;pe;brasil
+sitio novo do tocantins - to;to;brasil
+villa victoria;;el salvador
+jussara;ba;brasil
+mirante do paranapanema/cuiaba;sp;brasil
+eugenepolis;mg;brasil
+laranjeiras dosul;pr;brasil
+ilha do governador;rj;brasil
+salvadr;ba;brasil
+strona - bi;;italia
+itajuba - minas gerais;mg;brasil
+recife.;pe;brasil
+mal c rondon;pr;brasil
+couto magalhaes;go;brasil
+syracuse ny;;estados unidos
+tres coracoes-mg;mg;brasil
+brasilia df;ce;brasil
+peoria ill;;estados unidos
+st andrews;;inglaterra
+drogichyn;;belarus
+chantada;;espanha
+mount vernon new york;;estados unidos
+chanta-apurimac;;peru
+petah tiqva;;israel
+el colegio;;colombia
+aurora ne;;estados unidos
+saverne;;franca
+caucasia antioquia;;colombia
+beguela;;angola
+sutton, nebraska;;estados unidos
+freiburg im breisgau;;brasil
+ganda benguela;;angola
+dois lageados;rs;brasil
+rosario;;brasil
+sao roque do pico,pico, acores;;portugal
+san lorenzo santa fe;;argentina
+madhya kanpur;;india
+tuchow;;polonia
+ulm donau;;alemanha
+chilena;;chile
+mainque;;argentina
+ontario canada;;canada
+uljanovsl;;russia
+gujranwaral;;paquistao
+autoguia da baleia;;portugal
+paris xiv;;franca
+gal san martin / bs aires;;argentina
+arvika;;suecia
+martorell (barcelona, espanha);;espanha
+leipizig;;alemanha
+mogim mirim;sp;brasil
+sainte-adresse;;franca
+murtede;;portugal
+tunis, tunisia;;franca
+campomorone;;italia
+issy les moulineaux;;franca
+mercedes buenos aires;;argentina
+tartagal-salta;;argentina
+australia;;canada
+celorico de basto;;portugal
+luanda - angola;;portugal
+villanova monferrato;;italia
+dnepropetrovsk;;russia
+little rock arkansas;;estados unidos
+bayamo, granma;;cuba
+tallinn, estonia;;estados unidos
+mavago-niassa;;mocambique
+clay center;;estados unidos
+santo tome corrientes;;argentina
+sao joao do piaiu;pi;brasil
+celina;es;brasil
+bady bassit;sp;brasil
+brasil;;brasil
+lisboa;;cabo verde
+pittsburgh pennsylvania;;estados unidos
+esperanza;;cuba
+trier - berlim;;alemanha
+lenigrad (st.-petersburg);;russia
+palma soriano.santiago de cuba;;cuba
+neuquen capital;;argentina
+campia grande;pb;brasil
+hershey, pa;;estados unidos
+maceo;al;brasil
+campo elias;;venezuela
+vilas boas - guiricema;mg;brasil
+arararngua;sc;brasil
+porto amelia;;mocambique
+radolfzell;;alemanha
+people's republic of china;;china
+junin- pcia de buenos aires;;argentina
+merksem;;belgica
+austin - texas - eua;;brasil
+napole;;italia
+caatinga do moura;ba;brasil
+rajasthan;;india
+v.c.perrinho - vale de cambra;;portugal
+obera, misiones;;argentina
+uyuni;;bolivia
+big springs;;estados unidos
+port prince;;haiti
+santa clara. villa clara. cuba;;cuba
+oran-france;;franca
+itapetinanga;sp;brasil
+wingene;;belgica
+sidmouth;;inglaterra
+sucre (chuquisaca);;bolivia
+prades;;franca
+juliaca/puno;;peru
+troy ohio;;estados unidos
+aldea san antonio;;argentina
+chubut;;argentina
+paris 11eme;;franca
+santa fe de bogota d. c.;;colombia
+montelimar (drome);;franca
+gro en-buseck;;alemanha
+vendas novas;;portugal
+trivandrum;su;brasil
+bolonia;;italia
+arouca - aveiro;;portugal
+chao chow;;china
+cordoba argentina;;argentina
+entre rios;sc;brasil
+queretaro;;mexico
+fleurance;;franca
+ciudade de buenos aires;;argentina
+al salt;;jordania
+sao jose de camprestre;rn;brasil
+pavel;;bulgaria
+;;siria
+;am;brasil
+albiano trento;;italia
+padilla de arriba burgos;;espanha
+;;zaire
+carlos salas;;argentina
+beira-mocambique;;portugal
+amsterda;;holanda
+a coru?a;;espanha
+czechoslovakia;;republica tcheca
+igarassu-pe;pb;brasil
+trindade;pe;brasil
+schwenningen;;alemanha
+amandaba;sp;brasil
+montlouis;;canada
+koln (colonia);;alemanha
+montreuil au houlme;;franca
+amanaiara;ce;brasil
+janhsi;;india
+richmond va;;estados unidos
+humaita;am;brasil
+nova deli;;india
+croissy-sur-seine;;franca
+el puerto;;chile
+lawrence;;estados unidos
+tamil nandu;;india
+maisons laffitte;;franca
+st maurice sur eygues;;franca
+prokopijevsk;;russia
+havre;;franca
+mogadouro;;portugal
+volpedo;;italia
+montona;;italia
+caxarias;;portugal
+kremenchug;;ucrania
+le roeulx;;belgica
+rechovot;;israel
+sao joaninho;;portugal
+capital federal - buenos aires;;argentina
+canchungo;;guine bissau
+johnson city;;estados unidos
+naila;;alemanha
+landau;;alemanha
+santo antonio do rio verde;go;brasil
+san giovanni valdarno (ar);;italia
+decamere;;italia
+maragojipinho/aratuipe;ba;brasil
+vilar formoso (portugal);;portugal
+bendorf/rhein;;alemanha
+santiago;;republica dominicana
+salvado;ba;brasil
+figueira de lorvao;;portugal
+assissp;sp;brasil
+vicente de carvalho;sp;brasil
+moscou;;uniao sovietica
+tres de maio - rs;rs;brasil
+surumbim;pe;brasil
+stoke on trent;;gra-bretanha
+ipatinga - mg;mg;brasil
+santa leoplodina;es;brasil
+clevelandia-pr;pr;brasil
+riacho fundo;df;brasil
+maringa- pr;pr;brasil
+brazil;df;brasil
+pedra branca ceara;ce;brasil
+st. gallen;;suica
+paola;;italia
+dairen;;china
+quedas do iguacu - pr;pr;brasil
+sao martinho;mt;brasil
+venda nova dos imigrantes;es;brasil
+parana d´oeste;pr;brasil
+antioquia, hatay;;turquia
+bom- jesus;pi;brasil
+p calvo;al;brasil
+palmas - pr;pr;brasil
+sao palo;sp;brasil
+condeubajavascript:void(0);ba;brasil
+robore;;bolivia
+arzua, la coruna;;espanha
+portulucena;rs;brasil
+alv machado;sp;brasil
+ceilandia sul;df;brasil
+boa vista;pb;brasil
+santa barbara d` oeste;sp;brasil
+teresiina;pi;brasil
+hauts seine;;franca
+parque industrial;mg;brasil
+cherchell;;argelia
+joacaba - sc;sp;brasil
+guajara-mirim. ro;df;brasil
+palmeira da missoes;rs;brasil
+braganca paulista.;sp;brasil
+dores do indaia (mg);mg;brasil
+itabi/sergipe;;brasil
+princeton (new jersey);;estados unidos
+cons. lafaiete;mg;brasil
+sanatrem;pa;brasil
+s. caetano do sul;sp;brasil
+ranelagh;;argentina
+marechal candido do rondon;pr;brasil
+felizburgo;mg;brasil
+curvelo-mg;;brasil
+pieve di cento;;italia
+santa terezinha;pb;brasil
+roterdam;;holanda
+telmaco borba;pr;brasil
+maxeville;;franca
+rio de janiro;rj;brasil
+americana sp;sp;brasil
+monte santo dist de cansancao;ba;brasil
+kira-cho, aichi-ken;;japao
+campos dos goytacases;rj;brasil
+pitangueiras;pr;brasil
+campos grande;ms;brasil
+dourados-ms;ms;brasil
+itumbiara goias;go;brasil
+centenario;rs;brasil
+pernanbuco;pe;brasil
+nossa sra. das dores;se;brasil
+barra do cuiete;mg;brasil
+tecainda;sp;brasil
+jaguarao-rs;rs;brasil
+sao joao de manteninha;mg;brasil
+itajiba;ba;brasil
+sant'anna do livramento;rs;brasil
+fortaleza- ce;ce;brasil
+barra dourada;sp;brasil
+sao lourenco d`oeste;sc;brasil
+jayr figueiredo de oliveira;sp;brasil
+cerro verde;pr;brasil
+santo amaro da brotas;se;brasil
+bocauiva;mg;brasil
+sa paulo;sp;brasil
+sao filipe;ba;brasil
+deir el ghazal;;libano
+vila bela da s. trindade;mt;brasil
+bauru/botucatu;sp;brasil
+jacinto machado - sc;sc;brasil
+canela/rs;rs;brasil
+juazeiro - bahia;rj;brasil
+justinopolis;mg;brasil
+papagaios novos;pr;brasil
+tiberiades;;israel
+riio grande do norte;rn;brasil
+cachoeira dourada;mg;brasil
+belo horizontemg;mg;brasil
+carneirinhos;mg;brasil
+itapejara d´oeste;pr;brasil
+paranapiacaba;sp;brasil
+concordia sc;sc;brasil
+paulis;;zaire
+delicias de concepcion;;el salvador
+santa filomena;mg;brasil
+caratinga mg;es;brasil
+sao caetano sul;sp;brasil
+iguatu - ce;;brasil
+almora uttar pradesh;;india
+terezinha - pe;pe;brasil
+leeds, yorkshire;;inglaterra
+uberaba mg;mg;brasil
+rio de jnaeiro;rj;brasil
+cafelandia-sp;sp;brasil
+montealto;sp;brasil
+la plata buenos aires;;argentina
+oslow, north carolina;;estados unidos
+monte santos;ba;brasil
+sao lourenco d´oeste;sc;brasil
+sao joao boa vista;sp;brasil
+sao francisco;go;brasil
+bom jesus;;brasil
+minho;;portugal
+rio ed janeiro;rj;brasil
+monte aletre;pi;brasil
+nibbiano prov piacenza;;italia
+mottola;;italia
+taguatinga sul;df;brasil
+taejeon;;coreia do sul
+jackson, michigan;;estados unidos
+itaci;mg;brasil
+passo fundo/rs;rs;brasil
+esteios-luz;mg;brasil
+lafayette;;estados unidos
+canoinhos;sc;brasil
+ogini, okinawa;;japao
+lanus - buenos aires;;argentina
+sao bento;rs;brasil
+sao luis - maranhao;ma;brasil
+bilene;;mocambique
+batatais.;sp;brasil
+wimborne;;inglaterra
+sao bernardo do campo - sp;sp;brasil
+lins/sp;sp;brasil
+rio verde;ms;brasil
+maxieira;;portugal
+kenzingen;;alemanha
+novgorod region;;russia
+voisinlieu-beauvais;;franca
+sathiaon;;india
+serem de cima;;portugal
+chia yi;;formosa
+vitoria espirito santo;;brasil
+tunuyan - mendoza;;argentina
+bazet;;franca
+przysucha;;polonia
+salto, pcia. de bs. as;;argentina
+bryn mawr;;estados unidos
+manica;;mocambique
+moriguchi osaka;;japao
+fayetteville, ar 72704;;estados unidos
+santiago de cali -valle;;colombia
+casteljaloux;;franca
+sukhumi;;georgia
+castel goffredo (mantova);;italia
+chontales;;nicaragua
+widnau;;suica
+lubeck;;alemanha
+;;butao
+monte sant'angelo;;italia
+gonnesa;;italia
+mirano - venezia;;italia
+bremerton, wa;;estados unidos
+dacca;;india
+s-hertogenbosch;;holanda
+greenwich;;estados unidos
+huari;;peru
+ubate, cundinamarca;;colombia
+tcherepovets;;russia
+cocosolo, zona do canal;;estados unidos
+braunschweig (niedersachsen);;alemanha
+noale-venezia;;italia
+san isidro - buenos aires;;argentina
+camana arequipa;;peru
+belo horozinte;mg;brasil
+placetas. villa clara;;cuba
+magdalena;;bolivia
+gouveia distrito da guarda;;portugal
+los garres;;espanha
+diego-suarez;;madagascar
+st.-petersburg;;russia
+arouca;;portugal
+bellavista callao;;peru
+plzen;;republica tcheca
+caete/mg;mg;brasil
+queiros;sp;brasil
+moenchengladbach;;alemanha
+grumo appula (bari);;italia
+buenos aires capital federal;;argentina
+portsmouth nh;;estados unidos
+guillermo enrique hudson;;argentina
+ilha de igoronhon;ma;brasil
+loffingen;;alemanha
+victoria, seychelles;;suica
+chambray-les-tours;;franca
+toul (54);;franca
+kirchheim bei munchen;;alemanha
+priocca;;italia
+villefranche sur saone, france;;brasil
+novorossiisk;;russia
+sanada machi nagano ken;;japao
+junin, ba;;argentina
+cincinnati, ohio;;estados unidos
+santiago - chile;;chile
+city of birth;;india
+kafr elsheikh;;egito
+kharagpur;;india
+bahama, nc;;estados unidos
+aichiken;;japao
+volta grande , mg;mg;brasil
+oussouye;;senegal
+azangaro;;peru
+planicie banderita-neuquen;;argentina
+lvov;;ucrania
+ohonomachi;;japao
+guaiaquil;;equador
+bocaina;pi;brasil
+somondoco;;colombia
+salamanca;;brasil
+olivos, buenos aires;;argentina
+wronki;;polonia
+boujaad;;marrocos
+idar-oberstein (d);;franca
+larissa;;grecia
+gerardmer;;brasil
+turriaco;;italia
+colorado springs, co;;estados unidos
+holguin, cuba;;brasil
+lagoa bonita;mg;brasil
+bhubaneswar;;india
+zhe jiang;;china
+altaiskii krai;;russia
+lascano/ rocha;;uruguai
+varese (va);;italia
+la lima nueva;;honduras
+stettler;;canada
+flushing, ny;;estados unidos
+;;sri lanka
+schaerbeek brussels;;belgica
+lunda sul;;angola
+riedlingen;;alemanha
+riccia;;italia
+bolivia, ciego de avila;;cuba
+walton on thames;;inglaterra
+arzignano vicenza;;italia
+santa lucia edo miranda;;venezuela
+saint-aubin;;franca
+bh;;brasil
+neuilly s/ seine;;franca
+tehuantepec oaxaca;;mexico
+st nazaire;;franca
+monforte lugo;;espanha
+belmont;;franca
+sahagun - (cordoba);;colombia
+lukula;;congo
+rakoshino;;ucrania
+mocuba;;mocambique
+molins de rey;;espanha
+zapala (neuquen);;argentina
+alvares florense;sp;brasil
+luoyang;;china
+tobarra (albacete);;espanha
+nellore ap;;india
+sao apaulo;sp;brasil
+joao pessoapb;pb;brasil
+lackawanna, new york;;estados unidos
+ciuda habana;;cuba
+alexadria;;egito
+buffalo;;estados unidos
+etah;;india
+bribane;;australia
+traverse city;;estados unidos
+concordia sagittaria - veneza;;italia
+katombe;;zaire
+madison wisconsin;;estados unidos
+anderlues;;belgica
+lobito - angola;;portugal
+celendin - cajamarca;;peru
+pomissao;sp;brasil
+beer sheva;;israel
+fernadopolis;sp;brasil
+tonka;;mali
+habay la vieille;;belgica
+pres. dutra;ma;brasil
+santarem;ba;brasil
+cidad bolivar;;venezuela
+provincia de mendoza;;argentina
+parelheiros;sp;brasil
+miyazaki ken;;japao
+huari;;bolivia
+iraja;rj;brasil
+cruz alta (panambi);rs;brasil
+ste-marthe;;canada
+buriti de inacia vaz;ma;brasil
+dennison;;estados unidos
+canoas - bom retiro;sc;brasil
+iguacu;pr;brasil
+santos-sao paulo;sp;brasil
+gimirim;mg;brasil
+alagoinha;pe;brasil
+araraquara, s.p.;sp;brasil
+alto alegre;rs;brasil
+salador;ba;brasil
+ituiutaba-mg;mg;brasil
+biritiba mirim;sp;brasil
+naha;;japao
+vitoria-es;es;brasil
+quixeramobim - ce;ce;brasil
+fussen;;alemanha
+parajuru;ce;brasil
+hijikawa;;japao
+machadino;rs;brasil
+agua branca maceio;al;brasil
+seia;;portugal
+piraciaba;sp;brasil
+esp. sto. do pinhal;sp;brasil
+campo grande - ms;ms;brasil
+hukow;;formosa
+sao luis-ma;ma;brasil
+taruma- sp;sp;brasil
+idar oberstein;;alemanha
+osterwohld;;alemanha
+rota greca - cosenza;;italia
+curibiba;pr;brasil
+teofilo otoni - mg;mg;brasil
+baltimore maryland;;estados unidos
+puerto cabello estado carabobo;;venezuela
+guaratinguerta;sp;brasil
+alagoas;mg;brasil
+cerva;;portugal
+syracuse;;estados unidos
+joacaba -;sc;brasil
+codo-ma;ma;brasil
+sao pauio;sp;brasil
+rioo de janeiro;rj;brasil
+sao jose rio pardo;sp;brasil
+parinsints;am;brasil
+itabi - estado de sergipe;se;brasil
+conaica huancavelica;;peru
+milwaukee, wisconsin - eua;;estados unidos
+conservatoria-valenca;rj;brasil
+elizeu martins;pi;brasil
+bocaina;mg;brasil
+d. macedo costa;ba;brasil
+gov valadares;mg;brasil
+montalegre;;portugal
+tapiranga;ba;brasil
+capuan caucaia;ce;brasil
+iha da madeira;;portugal
+terresina;pi;brasil
+cuiaba-mt;mt;brasil
+aparecida;;brasil
+rio de janeira;rj;brasil
+paraokena;rj;brasil
+mogiguacu;sp;brasil
+jaboitcabal;sp;brasil
+salvdor;ce;brasil
+goiania - goias;go;brasil
+esplanda;ba;brasil
+languiru-teutonia;rs;brasil
+ishikawa;;japao
+irere;pr;brasil
+itapiranga;rs;brasil
+juazeiro ba;ba;brasil
+brasil;rs;brasil
+sud menucci;sp;brasil
+steinsfurt;;alemanha
+alfredo guedes;sp;brasil
+altamira;ba;brasil
+don aquino;mt;brasil
+syracuse - new york;;estados unidos
+itapira sp;sp;brasil
+judenburg;;austria
+santa helena;go;brasil
+gainesville, florida;;estados unidos
+catelo;es;brasil
+vivencia;pe;brasil
+santa rosa de lima;sc;brasil
+sao fideis;rj;brasil
+batatais-sao paulo;sp;brasil
+saint denis;;reuniao
+governador mangabeira bahia;ba;brasil
+presidente prudentesp;sp;brasil
+juazeiro bahia;ba;brasil
+nidadavolu;;india
+khidarsar (rajasthan);;india
+sant'ana do livramento rs;rs;brasil
+faroupilha;rs;brasil
+caracol;ms;brasil
+sao paulo do potegi;rn;brasil
+belo horizonte/mg;;brasil
+beijamin constant;am;brasil
+s luis;ma;brasil
+bastos-sp;sp;brasil
+campo de besteiros;;portugal
+arez;rn;brasil
+teofilo otoni mg;mg;brasil
+vila bela da ss trindade;mt;brasil
+porto uniao sc;sc;brasil
+paradela;;portugal
+harrow, middlesex;;inglaterra
+campo grande;rs;brasil
+santa clara. villa clara;;cuba
+saoa paulo;sp;brasil
+agua amarela;ms;brasil
+canarana;ba;brasil
+brenha;;portugal
+redessan;;franca
+florianopolois;sc;brasil
+marrocos;;marrocos
+vic fezensac;;franca
+santiago chile;;chile
+cajazeias;pb;brasil
+brejo do cruz (pb);pb;brasil
+manchuria;;china
+sao joao do manhacu;mg;brasil
+caxias do sul - rs;rs;brasil
+moissac;;franca
+assis chatealbriand;pr;brasil
+sitio novo;rn;brasil
+estrela d´ oeste;sp;brasil
+cruzeiro -sp;sp;brasil
+olho d`agua do casado;al;brasil
+elias fausro;sp;brasil
+conceicao de monte alegre;sp;brasil
+aldeia lapetanha;ro;brasil
+san carlos de bariloche (rn);;argentina
+petit goave;;haiti
+cruzeiro doeste;pr;brasil
+ico - ce;ce;brasil
+curitiba - pr;;brasil
+ponta grossa - pr;;brasil
+st louis;;estados unidos
+paris, xiv;;franca
+laza;;espanha
+ansiao;;portugal
+robbinsdale minnesota eua;;estados unidos
+mont saint martin;;franca
+hindsdale;;estados unidos
+bad saarow-pieskow;;alemanha
+merida - badajoz;;espanha
+devarapalli;;india
+cardona-soriano;;uruguai
+figueroles;;espanha
+odisha;;india
+fars-abadeh;;ira
+midland;;estados unidos
+jianli hubei;;china
+waldfeucht;;alemanha
+vanier;;canada
+grimsby;;inglaterra
+la garenne colombes;;franca
+milwaukee - wi;;estados unidos
+bavariai;;alemanha
+ummern kreis gifhorn;;alemanha
+avanca - aveiro;;portugal
+muhlheim;;alemanha
+mbanza kongo;;angola
+batalha em 20/01/1963;;portugal
+oeiras, lisboa;;portugal
+mutzig;;franca
+bardenberg;;alemanha
+liaoning;;china
+ledesma;;argentina
+hammond, indiana;;estados unidos
+rimschweiler;;alemanha
+rio tinto-gondomar;;portugal
+rio maior;;portugal
+;;gales
+xalapa;;mexico
+llama;;peru
+sursee;;suica
+;;sao cristovao nevis
+xai-xai -manjacaze;;mocambique
+romford;;gra-bretanha
+junin huancayo;;peru
+vicosa;pe;brasil
+allano di piave;;italia
+san pedro;;argentina
+santa rosa de osos;;colombia
+paredes;;portugal
+guines, havana;;cuba
+porlamar estado nueva esparta;;venezuela
+mecufi;;mocambique
+dumfries;;escocia
+anton;;panama
+;;trinidad e tobago
+bandjoun;;camaroes
+valentin alsina, lanus;;argentina
+kibocolo/maquela - uige/angola;;angola
+santa isabel;;argentina
+chaumont haute marne;;franca
+sioux city, iowa;;estados unidos
+canapolis;;brasil
+palmira/valle del cauca;;colombia
+tampa, florida;;estados unidos
+ann arbor michigan;;estados unidos
+lansing, michigan;;estados unidos
+capiovi - misiones;;argentina
+daun;;alemanha
+port of spain;;trinidad e tobago
+deurne;;holanda
+spata;;grecia
+santa eulalia;;portugal
+totnes;;inglaterra
+san diego california;;estados unidos
+chinsurah;;india
+boise city, oklahoma;;estados unidos
+grodkow;;polonia
+buenos aires;;alemanha
+vacalar - armamar;;portugal
+pamplona (norte de santander);;colombia
+st jean port joli;;canada
+boticas vila real;;portugal
+cartavio ascope la libertad;;peru
+unguia;;colombia
+lieser;;alemanha
+dolo (ve);;italia
+la plata, buenos aires;;argentina
+ukuma;;angola
+luzy;;franca
+rutland, vt;;estados unidos
+juruti-velho;pa;brasil
+denpassar;;indonesia
+santa eufemia leiria;;portugal
+villa ocampo prov santa fe;;argentina
+curitriba;pr;brasil
+xai- xai;;mocambique
+tandil - buenos aires;;argentina
+yichun;;china
+lloro;;colombia
+junin (buenos aires);;argentina
+guarani - minas gerais;mg;brasil
+gouvieux;;franca
+gy&#337;r;;hungria
+santa luzia;ma;brasil
+madrid;su;brasil
+heino;;holanda
+lyngby;;dinamarca
+meiben;;alemanha
+inter-mongolia;;china
+fairmont minnesota;;estados unidos
+juiz de forza;mg;brasil
+sao j0se do ouro;rs;brasil
+oliveira de azemeis;;portugal
+jamestown;;estados unidos
+asnieres seine;;franca
+garca sp;sp;brasil
+escobar, buenos aires;;argentina
+theni;;india
+brooklyn, ny;;estados unidos
+valognes;;franca
+burgsteinfurt;;alemanha
+lowell, ma;;estados unidos
+saenz pena prov buenos aires;;argentina
+uruguai;;uruguai
+san marcos;;estados unidos
+sangolqui;;equador
+saint catharines;;canada
+belen de escobar;;argentina
+boulogne (92);;franca
+khurdha;;india
+;;republica dominicana
+elmhurst illinois;;estados unidos
+machecoul;;franca
+trichirapalli;;india
+posadas - misiones;;argentina
+porto - portugal;;portugal
+vedra (a coruna);;espanha
+eda;;holanda
+rachidia;;marrocos
+zaporojie;;ucrania
+alvalade;;portugal
+transito;;argentina
+caniles - granada;su;brasil
+;;ruanda
+sisian;;armenia
+daton;;estados unidos
+brindgeport, connecticut, eua;;estados unidos
+nnnnnnnnn;;ira
+coronel brandsen;;argentina
+agra, u.p.;;india
+tovar;;venezuela
+duluth;;estados unidos
+gangireddy palem,india;;india
+castilla la mancha;;espanha
+pais de nascimento angola;;africa do sul
+saintegenevieve;;franca
+union de reyes. m.;;cuba
+vincovci;;alemanha
+corollos cudullero;;espanha
+tachkent;;uzbekistan
+colusa;;estados unidos
+annahutte;;alemanha
+cabeca gorda - beja;;portugal
+damba;;angola
+taunay;ms;brasil
+oignies;;franca
+mexico d f;;mexico
+calcutta;;india
+killamey;;irlanda
+cluj napoca;;romenia
+chocope - la libertad;;peru
+hattem;;holanda
+philippeville;;argelia
+sapucaia;mg;brasil
+siculiana;;italia
+iraelandia;go;brasil
+bojnord;;ira
+vysoke myto;;republica tcheca
+manhattan, ny;;estados unidos
+s jose do rio preto;sp;brasil
+milagres - ba;;brasil
+rio grande;;argentina
+santander de quilichao, cauca;;colombia
+belo horiozonte;mg;brasil
+ul'yanovsk;;uniao sovietica
+posadas misiones;;argentina
+lago sul;df;brasil
+sao pulo;sp;brasil
+sao bernanrdo do campo;sp;brasil
+colinas -ma;ma;brasil
+los angeles california;;estados unidos
+morrinhos - goias;go;brasil
+agulha;sp;brasil
+itabirinha de mantena;mg;brasil
+atalaia;pr;brasil
+pontagrossa;pr;brasil
+s. b. campo;sp;brasil
+gov. dix-sept rosado;rn;brasil
+cicero-dantas;ba;brasil
+pacatuba;se;brasil
+princesa izabel;pb;brasil
+goliania;go;brasil
+sao j. dos cordeiros;pb;brasil
+~sao paulo;sp;brasil
+itape bahia;ba;brasil
+hibirataia;ba;brasil
+marques de valenca - rj;rj;brasil
+gov dix sept rosado;rn;brasil
+distrito de roteiro;sp;brasil
+tlaxcala;;mexico
+cruzeiro d´oeste;pr;brasil
+darregueira;;argentina
+chang hwa;;formosa
+;se;brasil
+lanus oeste;;argentina
+tampico;;mexico
+xin jiang;;china
+montignac charente;;franca
+dois de abril;mg;brasil
+davos;;suica
+s. j. do rio preto;sp;brasil
+uruguaina;rs;brasil
+boa vista do burica rs;rs;brasil
+tourais - seia;;portugal
+oeiras - pi;pi;brasil
+pihuamo;;mexico
+rosalia;sp;brasil
+nam am haiduong;;vietna
+porrto alegre;rs;brasil
+curemas;pb;brasil
+alto da mooca;sp;brasil
+vieiras mg;;brasil
+boticas;;portugal
+basavilbaso;;argentina
+brasil;es;brasil
+juiz defora;mg;brasil
+cassiandia;ms;brasil
+sereno de cataguases;mg;brasil
+e. s. do pinhal-sp;sp;brasil
+hokour akar;;libano
+sape pb;pb;brasil
+callalli;;peru
+palmeira doeste;sp;brasil
+sakhalin;;russia
+sao paulo/sp;sp;brasil
+new york, n.y.;;estados unidos
+vitoria santo antao;pe;brasil
+fransico beltrao;pr;brasil
+vila bela santissima trindade;mt;brasil
+tubarao sc;sc;brasil
+viseu portugal;;portugal
+rodolfo feranandes;rn;brasil
+bouqueirao;pb;brasil
+jirau, itaiba - pernambuco;pe;brasil
+s?o leopoldo;rs;brasil
+natividade;go;brasil
+patos de minas - mg;mg;brasil
+indianopolis;pr;brasil
+champain;;estados unidos
+palmeiras das missoes;rs;brasil
+s paulo do potengi;rn;brasil
+jandaira;ba;brasil
+wurzburg;;alemanha
+rio de janero;rj;brasil
+cordeiro / rj;rj;brasil
+sao luiz do quitunde;al;brasil
+fazenda nova - go;go;brasil
+viila nova de famalicao;;portugal
+pedra do altar;;portugal
+tentugal;;portugal
+papagaio;mg;brasil
+cruzeiro-sp;;brasil
+itamoji/mg;mg;brasil
+palmeira d´oeste;sp;brasil
+jhunjhunu;;india
+bos. novi;;iugoslavia
+sao caetano do sul - sao paulo;sp;brasil
+pedregulho ( sp);sp;brasil
+silvestre ferraz;mg;brasil
+perola d oeste;pr;brasil
+serradilha del arroyo;;espanha
+maraba-para;pa;brasil
+perola d`oeste;pr;brasil
+sitio lagoa de barro timbauba;pe;brasil
+arara pb;pb;brasil
+muritiba-bahia;ba;brasil
+vila seca de armamar;;portugal
+brasileiro;mg;brasil
+kenosha - wi;;estados unidos
+pedregulho sp;sp;brasil
+ribeirao do pinhal - pr;df;brasil
+casddd;df;brasil
+schchun;;china
+c. grande;pb;brasil
+friedrischschafen;;alemanha
+ico - ceara;ce;brasil
+santa barbara;;chile
+divino de uba;mg;brasil
+riachuelo;rn;brasil
+charleville;;franca
+ipalmirim;ce;brasil
+rio de janeior;rj;brasil
+cascadura;rj;brasil
+riobranco;ac;brasil
+ribeirao preto-sao paulo;sp;brasil
+bela floresta;sp;brasil
+cruzeiro novo;df;brasil
+campo grande-ms;ms;brasil
+cristais/cascavel;ce;brasil
+bagnolo di po rovigo;;italia
+tocantins, mg;mg;brasil
+tebas leopoldina;mg;brasil
+ouro branco mg;mg;brasil
+araujos, minas gerais;mg;brasil
+horizontina rs;rs;brasil
+aparados da serra;rs;brasil
+redencao-boca do acre;am;brasil
+belo - horizonte;mg;brasil
+liaocheng, shandong;;china
+santa fe de bogota d.c.;;colombia
+farrey;;niger
+bad-oldesloe;;alemanha
+taiwan chungli;;china
+rio pardo rs;rs;brasil
+urupes - sp;sp;brasil
+;ms;brasil
+sao jose do rio preto - sp;sp;brasil
+cabo verde mg;mg;brasil
+castelo - es;es;brasil
+el palmar tarija;;bolivia
+terespolis;rj;brasil
+westenried;;alemanha
+vila de alvorada;mg;brasil
+taipei, taiwan, roc;;formosa
+itabirito, mg;mg;brasil
+belterra/para;pa;brasil
+treina y tres;;uruguai
+d macedo costa;ba;brasil
+portland maine;;estados unidos
+hochfelden;;franca
+fte gral roca rio negro;;argentina
+lilli;;franca
+ljubliana;;eslovenia
+blad touaria (argelia);;franca
+melgraseyri;;alemanha
+baroda;;india
+nizhnii novgorod;;russia
+tlalnepantla de baz;;mexico
+bogota.;;colombia
+penamacor;;portugal
+braine l'alleud;;belgica
+aruppukottai;;india
+placetas, villa clara;;cuba
+porto-amboim;;angola
+pinhel;;portugal
+colon, matanzas;;cuba
+sacco, salerno;;italia
+venecia;;colombia
+buxtehude, alemanha;;brasil
+bogota d c;;colombia
+chucuito - puno;;peru
+reichstadt;;austria
+nova jersei;;estados unidos
+paray le monial;;franca
+saginaw michigan;;estados unidos
+nova yorque;;estados unidos
+hintzendorf;;alemanha
+sarezzo;;italia
+seoux falls;;estados unidos
+santiago de cali, v. del cauca;;colombia
+pompeia (napoli);;italia
+weisenheim am sand;;austria
+north conway;;estados unidos
+porto novo;;benin
+lima peru;;peru
+acores - portugal;;portugal
+san luis pinar del rio;;cuba
+issilkul;;russia
+condeixa-a-nova;;portugal
+sao filipe;;cabo verde
+villeneuve saint-georges;;franca
+bethuara;;india
+waremme;;belgica
+salt lake city utah;;estados unidos
+magdalena beni;;bolivia
+vehari pakistan;;paquistao
+bogota - colombia;;equador
+krichev, ussr;;ucrania
+avudaiyarkovil;;india
+kyoto-fu;;japao
+puerto padre, las tunas;;cuba
+monte verde paulista;sp;brasil
+santiago-rs;;mexico
+torrance, california;;estados unidos
+df mexico;;mexico
+shandong;;china
+argelia;;argelia
+serbia and montenegro;;iugoslavia
+tropoje;;albania
+riminini;;italia
+cleveland, ohio;;estados unidos
+el paso, texas;;estados unidos
+asind rajasthan;;india
+coblence;;alemanha
+vilanova de bellpuig;;espanha
+cdad de buenos aires;;argentina
+lee-on-solent, hants;;inglaterra
+gubbio;;italia
+vicosa;;antartida
+;;comores
+combita boyaca colombia;;colombia
+ripollet barcelona;;espanha
+estado de mexico;;mexico
+curico / vii region;;chile
+dapoli;;india
+acapulco;;mexico
+quillacollo;;bolivia
+la habana;;brasil
+kientzheim;;franca
+jasinja;;ucrania
+natagaima;;colombia
+milwaukee, wi;;estados unidos
+colon;;colombia
+lubbock, texas;;estados unidos
+quesada (jaen);;espanha
+phu tho;;vietna
+vinnitsa;;ucrania
+campina grnade;pb;brasil
+praga;;canada
+nossa senhora do populo;;portugal
+hachenburg;;alemanha
+utah;;estados unidos
+agromonte;;cuba
+bembe;;angola
+saint germain en laye;;franca
+ceprano;;italia
+koenigs wusterhausen;;alemanha
+jiangdu;;china
+antsirabe (madagascar);;franca
+brasila;;india
+vimercate - mb;;italia
+hancock;;estados unidos
+saint-maur (94);;franca
+vakon-azohoue;;benin
+vetrino;;russia
+cheverly;;estados unidos
+montilla cordoba;;espanha
+siilinjarvi;;finlandia
+borgo valsugana;;italia
+luanda (angola);;portugal
+essey-les-nancy;;franca
+las palmas;;espanha
+scott air force base, illinois;;estados unidos
+borriol;;espanha
+voelklingen;;alemanha
+maiquenique;ba;brasil
+varzea grande;;brasil
+sulukta;;quirgistao
+manchester;;estados unidos
+ginzo de linia;;espanha
+ituverava - sp;;brasil
+brieg;;alemanha
+buenos ires;;argentina
+ibague tolima;;colombia
+bembe uige;;angola
+ahmed pur;;india
+riudaura;;espanha
+malda;;india
+biombo;;guine bissau
+seles/kwanza_sul;;angola
+jacarta;;indonesia
+huancayo-junin;;peru
+ilo moquegua;;peru
+falan;;colombia
+arraiolos;;portugal
+xai xai;;mocambique
+tatuape;sp;brasil
+;;macedonia
+ariano irpino;;italia
+uberaba, minas gerais;rj;brasil
+geleen;;holanda
+oldenburg io;;alemanha
+birigui - sp;sp;brasil
+niel;;belgica
+rechmaya;;libano
+santa cruz de cabralia;ba;brasil
+gnesen;;alemanha
+colorado state;;estados unidos
+grand rapids michigan;;estados unidos
+okayama;;japao
+esquivias (toledo);;espanha
+coronel bogado;;paraguai
+polaciones;;espanha
+drunen;;holanda
+la pampa, argentina;;brasil
+belo horizomte;mg;brasil
+jbeil;;libano
+utinga - santo andre;sp;brasil
+hohenlimburg;;alemanha
+senhora da hora - matosinhos;;portugal
+saint nicolas;;belgica
+karachi, pakistan;;gra-bretanha
+oberwesel;;alemanha
+alexandrita;mg;brasil
+bagnols sur ceze;;franca
+buenos aires;;italia
+chiclayo, lambayeque;;peru
+cardenas-cuba;;espanha
+merlo, san luis;;argentina
+sao geraldo mg;mg;brasil
+marcos juarez cordoba;;argentina
+jardinopolis;to;brasil
+belem - pa;pa;brasil
+porto aelgre;rs;brasil
+monte belo (bento goncalves);rs;brasil
+piramboia;sp;brasil
+cachoeirinha do una;pe;brasil
+natividade, rio de janeiro;rj;brasil
+bad tolz;;alemanha
+berkeley, california;;estados unidos
+barra do ribeiro rs;rs;brasil
+15 de novembro;rs;brasil
+maragojipe;ba;brasil
+tobata;;japao
+pasin;;croacia
+vila maiauata;pa;brasil
+vitoria es;df;brasil
+ipu-ce;ce;brasil
+mal candido rondon;pr;brasil
+camabatela;;angola
+andarahy;ba;brasil
+furnas;mg;brasil
+campos de jordao;sp;brasil
+vtoria;es;brasil
+uberlandia, mg;mg;brasil
+maripotaba;go;brasil
+quemado de guines;;cuba
+belo horioznte;mg;brasil
+ilheus do prata;mg;brasil
+barbalha ce;ce;brasil
+brejo/ma;df;brasil
+cachoeira do brumado;mg;brasil
+juazeiro do norte - ce;pe;brasil
+alegre es;es;brasil
+sta helena de goias;go;brasil
+maringa - pr;mt;brasil
+tetuan;;marrocos
+presidente kennedy;es;brasil
+damasco;;siria
+sao paulo, sp;sp;brasil
+agulhas negras;rj;brasil
+sao martinho;pr;brasil
+conseheiro lafaiete;mg;brasil
+itaibo;ba;brasil
+batovi;mt;brasil
+pacembu;sp;brasil
+campos dos goytacazes/rj.;rj;brasil
+s carlos;sp;brasil
+santana do parnaiba;sp;brasil
+tarnovjek;;polonia
+fresno tolima;;colombia
+toledo;mg;brasil
+eisenstadt;;austria
+arali do norte;;sri lanka
+rollancourt;;franca
+pio-ix;pi;brasil
+rio dejjaneiro;rj;brasil
+samarkand;;russia
+talent, oregon;;estados unidos
+cabo-frio;rj;brasil
+riacho de santana;ba;brasil
+manuel vitorino;ba;brasil
+parana;to;brasil
+ervalia - mg;mg;brasil
+bras pires-mg;go;brasil
+sao felix - ba;ba;brasil
+clementna;sp;brasil
+silvirania;mg;brasil
+e.s. do pinhal-sp;sp;brasil
+minas uruguay;;uruguai
+arlington;;estados unidos
+teixeiras - mg;;brasil
+argovia;;suica
+rio verde;;brasil
+rio de janeiro-rj;rj;brasil
+lagunas;;peru
+al bagdadi;;iraque
+toledo - pr;pr;brasil
+kochanur - kerala;;india
+conde;pb;brasil
+itape ba;ba;brasil
+mons. tabosa;ce;brasil
+bristol;sc;brasil
+acioly - joao neiva;es;brasil
+bad berneck;;alemanha
+potunduva;sp;brasil
+teesina;pi;brasil
+bom jesus;go;brasil
+novo horizonte;sc;brasil
+porto real do colegio alagoas;al;brasil
+rioclaro;sp;brasil
+belo horiznte;mg;brasil
+uberaba-mg;;brasil
+kingston;;inglaterra
+oye-plage - 62 (pas-de-calais);;franca
+nilopolis/rj;rj;brasil
+sao bras de minas;mg;brasil
+itutinga-mg;mg;brasil
+colombo;;brasil
+sapucia do sul;rs;brasil
+ilheus-ba;sp;brasil
+forteleza;ce;brasil
+bhavanagar / india;;india
+franca-sp;sp;brasil
+dalen;;holanda
+sta rita p.quatro;sp;brasil
+goiana;go;brasil
+coronel pringles;;argentina
+carmo da cahoeira;mg;brasil
+valparaiso;pr;brasil
+mafra s.c.;sc;brasil
+ludvika;;suecia
+atukur;;india
+senador pompeu ceara;;brasil
+ames iowa;;estados unidos
+eneida;sp;brasil
+sao pedro - dourados;ms;brasil
+santa lucia;pr;brasil
+peciulnow;;ucrania
+beaver falls;;estados unidos
+monte castelo;;brasil
+tiete - sp;sp;brasil
+teresina pi;pi;brasil
+santiago de compostela a;;espanha
+mundo novo - ba.;ba;brasil
+laginha;mg;brasil
+cuiaba paulista;sp;brasil
+nova- friburgo;rj;brasil
+alto maranhao;mg;brasil
+cacheira do sul;rs;brasil
+cintra cordoba;;argentina
+sao vicente de ferrer;ma;brasil
+canalejas de penafiel;;espanha
+reus (tarragona);;espanha
+midnapore;;india
+zaire;;portugal
+ribeiro goncalves piaui;pi;brasil
+savigliano (cn);;italia
+port jefferson, new york;;estados unidos
+san cristobal estadotachira;;venezuela
+joanesburgo;;africa do sul
+chagny;;franca
+;;moldova
+couternon;;franca
+;;bosnia
+mayari/holguin;;cuba
+adolfo gonzales chavez;;argentina
+heze shandong;;china
+maria juana;;argentina
+hennebont;;franca
+fort de france;;martinica
+buenoa aires;;argentina
+drobeta turnu severin;;romenia
+middlelburg;;holanda
+carmona;;angola
+punta delgada;;portugal
+brockport;;estados unidos
+hanstholm;;dinamarca
+rio cuarto cordoba;;argentina
+realico;;argentina
+mccook;;estados unidos
+escobar;;argentina
+;;albania
+stavropol;;russia
+yauyos;;peru
+cabildo;;chile
+basileia;;suica
+las tablas, los santos;;panama
+st louis missouri;;estados unidos
+d.i.khan;;paquistao
+kaolack - senegal;;senegal
+cisneiros;mg;brasil
+rio piedras;;estados unidos
+vrabevo;;bulgaria
+ulianovsk;;russia
+esmoriz;;portugal
+tibirica,sp;sp;brasil
+saint imier;;franca
+nhoma nhacra - regiao de oio;;guine bissau
+evanston, il;;estados unidos
+saravena;;colombia
+torbateheydarieh;;ira
+rojas;;argentina
+aussig;;alemanha
+savigno;;italia
+figueras gerona;;espanha
+luanda angola;;portugal
+leningrad, ussr;;suecia
+el llanito;;venezuela
+bourg saint maurice;;franca
+salvador, bahia;ba;brasil
+ruilandia;sp;brasil
+sao caetano do sul - sp;sp;brasil
+ciudade da habana;;cuba
+catio;;guine bissau
+rio piedras;;porto rico
+goyllarisquizga;;peru
+viatodos-barcelos;;portugal
+lembeck;;alemanha
+akanu ohafia;;nigeria
+salinas;pi;brasil
+vigo/ galiza;;espanha
+calheta sao miguel;;cabo verde
+matelica;;italia
+la celia (risaralda);;colombia
+st. paul;;estados unidos
+nemocon;;colombia
+uberaba; mg;mg;brasil
+lesneven;;franca
+barsilia;df;brasil
+newport;;escocia
+santo tirso, porto;;portugal
+santa sofia boyaca;;colombia
+araruva;pr;brasil
+berkket el sabba;;egito
+bicuiba raul soares;mg;brasil
+;;suriname
+deli;;india
+ames;;china
+cincinnati ohio;;estados unidos
+lakewood ohio;;estados unidos
+brignais;;franca
+estrasburgo;;franca
+chincheros - apurimac;;peru
+diez;;alemanha
+bella vista-callao;;peru
+wittingen;;alemanha
+vedia;;argentina
+tulua-valle;;colombia
+lanus este;;argentina
+orogun - delta state, nigeria;;nigeria
+barcelos;am;brasil
+ni;;servia
+olho d´agua das cunhas;ma;brasil
+saginaw;;estados unidos
+morecombe;;inglaterra
+navarra;;espanha
+eumseong;;coreia do sul
+vedelago - treviso;;italia
+victoria - er;;argentina
+paullo;su;brasil
+syzran;;russia
+tillsonburg;;canada
+orthez;;franca
+ronne;;dinamarca
+campos de goitacazes;rj;brasil
+nova olinda;am;brasil
+princesa isabel paraiba;df;brasil
+penafiel;;portugal
+regiao kharkov;;ucrania
+bogota-colombia;;brasil
+tacna peru;;chile
+lisboa;;brasil
+stuttgart-bad cannstatt;;alemanha
+beltsville, md;;estados unidos
+eichen, hessen;;alemanha
+henderson, nv;;estados unidos
+caba;;argentina
+bienne be;;suica
+lauzon;;canada
+cali, valle;;colombia
+niteroi (rj);rj;brasil
+salgar;;colombia
+ocalli (amazonas);;peru
+neustadt schw;;alemanha
+vale de azares;;portugal
+amberieu-en-bugey;;franca
+tsugaru;;japao
+barcelona-espanha/rancagua-chi;;chile
+buffalo nova iorque;;estados unidos
+la huerta de mataquito, curico;;chile
+andacollo iv region coquimbo;;chile
+tizi-ouzou;;argelia
+huamali;;peru
+san pedro de jujuy;;argentina
+marcona;;peru
+banfield pcia buenos aires;;argentina
+kansas;;estados unidos
+gudmundra;;suecia
+aubergenville;;franca
+villagarcia de arosa;;espanha
+todendorf;;alemanha
+nhacra;;guine bissau
+mundau;ce;brasil
+miltenberg/main;;alemanha
+utsunomiya;;japao
+chatarkheda;;india
+la plata;;chile
+ramireddy palli;;india
+gorlitz;;alemanha
+belo borizonte;mg;brasil
+guara ii;df;brasil
+sapuca mirim;mg;brasil
+oberlin;;estados unidos
+merewether nsw;;australia
+missouri;;estados unidos
+rosario, santa fe;;argentina
+bosarp;;suecia
+mercedes, buenos aires;;argentina
+erbach;;alemanha
+diagnon;;senegal
+mimai;;estados unidos
+ijui, rs;rs;brasil
+quatro marcos;mt;brasil
+chester,estado de pennsylvania;;estados unidos
+rincon del doll victoria er;;argentina
+san cayetano bs as;;argentina
+j. do norte;pe;brasil
+dawson creek;;canada
+jequie -;ba;brasil
+brasil - aracatuba/sp;sp;brasil
+villa canas-santa fe;;argentina
+goya-corrientes;;argentina
+katmandu;;nepal
+lomas de zamora - buenos aires;;argentina
+eldorado misiones;;argentina
+vila cha de ourique;;portugal
+niassa-cuamba;;mocambique
+dioniso;mg;brasil
+igualada (barcelona);;espanha
+formosa d´oeste;pr;brasil
+candido motta;sp;brasil
+pacoti/ce;ce;brasil
+taipei - taiwan;;china
+nandabalaga;;india
+lumaco;;chile
+mirasselvas;pa;brasil
+monte celeste;mg;brasil
+santiago rs;rs;brasil
+santa maria - rs;rs;brasil
+wenceslau braz;mg;brasil
+guastalla;;italia
+juiz de fora mg;mg;brasil
+vitoria - es;es;brasil
+cristais mg;mg;brasil
+roraima;rr;brasil
+santa rita passa quatro;sp;brasil
+jose de melo;mg;brasil
+uberlendia;mg;brasil
+lopoldina;mg;brasil
+santo antonio da platina - pr;sp;brasil
+sao fidelis-rj;rj;brasil
+mundo novo urupes;sp;brasil
+wexford;;irlanda
+cluj;;hungria
+floriano - maringa;pr;brasil
+santa rita do jacutinga;mg;brasil
+rios de janeiro;rj;brasil
+okayania ken;;japao
+barra dos garcas;mt;brasil
+piacatuba / mun. leopoldina;mg;brasil
+porcao;pi;brasil
+camarajibe;pe;brasil
+itaplolis;sp;brasil
+luanda - angola;;angola
+jodhpur;;india
+kirov;;russia
+pirrassununga;sp;brasil
+vila matias;mg;brasil
+campos dos gotacazes;rj;brasil
+caetete;ba;brasil
+belo hoorizonte;mg;brasil
+conceicao do rio verde - mg;sp;brasil
+fernao dias-brasilia de minas;mg;brasil
+canada rosquin;;argentina
+patate;;equador
+santiago de chuco;;peru
+mainga;pr;brasil
+rio de janieiro;rj;brasil
+dalhen;;belgica
+vila boa de goias;go;brasil
+slvador;ba;brasil
+sacebo;;japao
+cluj;;romenia
+campos dos goyracazes-rj;;brasil
+sao joao del'rei;mg;brasil
+santa fe;go;brasil
+castilhos;;uruguai
+parasinho/rn;;brasil
+santos-sp;sc;brasil
+filadelfia;go;brasil
+sao pauloi;sp;brasil
+mestre-veneza;;italia
+iazd;;ira
+cataguazes;mg;brasil
+bassien;;mianmar
+manhuacu - mg;mg;brasil
+rinopolis sp;sp;brasil
+marvermelho;al;brasil
+tanque d'arca alagoas;al;brasil
+presidente juscelino;ms;brasil
+icoaracy;pa;brasil
+santa barbara dosul;rs;brasil
+sao gabriel;es;brasil
+areia-pb;pb;brasil
+maxico df;;mexico
+sao caetano do sul sp;df;brasil
+belo horizontee;mg;brasil
+natcharkoil;;india
+coroados sp;sp;brasil
+paranagi;pr;brasil
+*******;rj;brasil
+erechim rs;rs;brasil
+providencia;mg;brasil
+floralia;mg;brasil
+n;;africa do sul
+itaqueri da serra;sp;brasil
+bela vista do sul;sc;brasil
+nhamunda - comunid. corocoro;am;brasil
+taguariitinga;sp;brasil
+presidente prudente-sp;;brasil
+motes claros;mg;brasil
+olho d agua do borges;rn;brasil
+nascimento;pr;brasil
+haarlem - holanda;;alemanha
+riodejaneiro;rj;brasil
+sao luiz dos montes belos;go;brasil
+campo grande ms;ms;brasil
+felipe schmidt;sc;brasil
+ghazvin;;ira
+bonanza;;nicaragua
+pirituba;sp;brasil
+cordenonsi;sp;brasil
+esmeralda;rs;brasil
+piitangueiras;sp;brasil
+anta/sapucaia;rj;brasil
+s. luis;ma;brasil
+d. cavate;mg;brasil
+vagos;;portugal
+jequi;ba;brasil
+kilong;;formosa
+nova andradina-ms;ro;brasil
+saenz pena chaco;;argentina
+urros - mogadouro;;portugal
+calicut;;india
+porto das flores;mg;brasil
+jacare dos homes;al;brasil
+presidente getulio, sc;sc;brasil
+normal illinois;;estados unidos
+ibitinga-sp;;brasil
+vilavelha;es;brasil
+armacao de pera - algarve-;;portugal
+limueiro do norte;ce;brasil
+botucatusp;sp;brasil
+ewattingen;;alemanha
+rolandia, pr;sp;brasil
+ipomeia;sc;brasil
+piedade de ponta nova;mg;brasil
+riebirao preto;sp;brasil
+teipei, taiwan;;formosa
+salvadorbahia;ba;brasil
+mossoro-rn;rn;brasil
+campo sales;ce;brasil
+tapera rs;rs;brasil
+foz de iguacu;pr;brasil
+explendor;mg;brasil
+cucui;am;brasil
+amareleja;;portugal
+polonia;;alemanha
+igarape-miri, para;pa;brasil
+itu sp;sp;brasil
+carmo - sao jose do belmonte;pe;brasil
+vilarinho do bairro;;portugal
+san marcellino;;italia

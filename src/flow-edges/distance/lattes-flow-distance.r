@@ -14,6 +14,7 @@ plot(flow$distances, flow$years)
 plot(flow$years, flow$distances, xlim=c(1940,2014))
 
 # http://stackoverflow.com/questions/7714677/r-scatterplot-with-too-many-points
-df <- data.frame(x = rnorm(5000),y=rnorm(5000))
-ggplot(df,aes(x=x,y=y)) + geom_point(alpha = 0.3)
-ggplot(df,aes(x=x,y=y)) + stat_binhex()
+df <- data.frame(x = flow$years,y=flow$distances)
+ggplot(df,aes(x=x,y=y)) + geom_point(alpha = 0.3) + xlim(1940,2014)
+ggplot(df,aes(x=x,y=y)) + geom_point(alpha = 0.3) + xlim(1940,2014)+ geom_density2d()
+ggplot(df,aes(x=x,y=y)) + stat_binhex() + xlim(1940,2014)

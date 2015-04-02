@@ -1,0 +1,51 @@
+<!--SELECT country_ascii, count(country_ascii)
+  FROM locationslatlon where kind != 'birth' and kind != 'work' group by country_ascii order by 2 desc;-->
+
+
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["geochart"]});
+      google.setOnLoadCallback(drawRegionsMap);
+
+      function drawRegionsMap() {
+
+        var data = google.visualization.arrayToDataTable([
+          ['Country', 'degree'],
+          ["brazil",676361],
+          ["united states",15433],
+          ["france",6289],
+          ["united kingdom",6057],
+          ["portugal",3847],
+          ["canada",1763],
+          ["italy",1509],
+          ["cuba",696],
+          ["colombia",498],
+          ["chile",484],
+          ["netherlands",418],
+          ["japan",354],
+          ["peru",265],
+          ["australia",256],
+          ["uruguay",220],
+          ["venezuela",170],
+          ["sweden",164],
+          ["switzerland",122],
+          ["belize",92],
+          ["denmark",54]
+        ]);
+
+        var options = {};
+
+        var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
+
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="regions_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>
+
+

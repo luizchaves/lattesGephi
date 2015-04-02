@@ -1,3 +1,8 @@
+- TODO folder
+- Selecionar três questões principais de análises que estão relacionadas com ligações para o Brasnam
+- Testar o gráfico de evolução de doutores na escala log para verificar se seu crescimento é exponencial
+- Correlação do IDH x PIB x Dados econômicos x Educação x Dados sociais (saneamento x mortalidade) x Evolução e proporção de doutores
+	- ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/
 - grafo com variação nas arestas do que é work, birth e degree
 - Comentarios das informações existentes do XML
 - Decrever o dado:
