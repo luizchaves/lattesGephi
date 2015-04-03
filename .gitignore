@@ -1,7 +1,7 @@
 data/locationslatlon.csv
-data/locationslatlon.csv.zip
+#data/locationslatlon.csv.zip
 todo/data
 todo/data2
-todo/data.zip
+#todo/data.zip
 todo/mapa-qgis
-todo/mapa-qgis.zip
+#todo/mapa-qgis.zip
