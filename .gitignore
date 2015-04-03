@@ -1,7 +1,6 @@
 data/locationslatlon.csv
-data/locationslatlon.csv.zip
-todo/data
-todo/data2
-todo/data.zip
-todo/mapa-qgis
-todo/mapa-qgis.zip
+todo/data/degrees.csv
+todo/data/locations-lattes-doutorado.csv
+todo/mapa-qgis/degrees.csv
+todo/mapa-qgis/GADM
+todo/mapa-qgis/naturalearthdata
