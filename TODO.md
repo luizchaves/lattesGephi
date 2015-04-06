@@ -1,5 +1,8 @@
+- Questões
+	Existem um padrão na formação de doutores no sentido de se deslocarem (saem da cidade ou país?)
 - TODO folder
 - Selecionar três questões principais de análises que estão relacionadas com ligações para o Brasnam
+- Doutores vs Cidade, Estado, Região (IDHM, PIB) vs Instituição (Conceito da Universidade)
 - Testar o gráfico de evolução de doutores na escala log para verificar se seu crescimento é exponencial
 - Correlação do IDH x PIB x Dados econômicos x Educação x Dados sociais (saneamento x mortalidade) x Evolução e proporção de doutores
 	- ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/

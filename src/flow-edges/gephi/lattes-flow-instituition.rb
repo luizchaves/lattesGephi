@@ -52,7 +52,7 @@ flow_degrees = [
 ids16 = {}
 places = {}
 puts "Iniciar"
-locations = CSV.read("locationslatlon.csv", col_sep: ';')
+locations = CSV.read("../../../data/locationslatlon.csv", col_sep: ';')
 locations.shift
 bar = ProgressBar.new(locations.size)
 puts
@@ -61,34 +61,34 @@ locations.each{|loc|
 	bar.increment!
 	id16 = loc[1]
 	kind = loc[2]
-	id = if kind == "birth"
-		loc[9]+loc[10]+loc[12]
+
+	mod_class = if kind == "birth"
+		"city"
+	else
+		"instituition"
+	end
+
+	place = if mod_class == "city"
+		loc[9]
 	else
 		loc[4]
 	end
 
-	mod_class = if kind == "birth"
-		"birth"
+	id = if mod_class == "city"
+		loc[14]+loc[15]
 	else
-		"instituition"
+		loc[3]+loc[4]+loc[14]+loc[15]
 	end
+
 	ids16[id16] ||= {}
 	ids16[id16][kind] ||= [] 
 	ids16[id16][kind] << loc 
 	if places[id].nil?
 		countNode += 1
-		places[id] = {id: countNode, place: loc[4], class: mod_class,city: loc[9], state: loc[10], country: loc[12], latitude: loc[14], longitude: loc[15]} 
+		places[id] = {id: countNode, place: place, class: mod_class,city: loc[9], state: loc[10], country: loc[12], latitude: loc[14], longitude: loc[15]} 
 	end
 }
 
-csv_string = CSV.generate(:col_sep => ",") do |csv|
-	# Id,Label,Modularity Class
-	csv << ["Id", "Label", "Modularity Class", "City", "State", "Country", "Latitude", "Longitude"]
-	places.each{|index,place|
-		csv << [place[:id],place[:place],place[:class],place[:city],place[:state],place[:country],place[:latitude],place[:longitude]]
-	}
-end
-File.write("nodes-flow-instituition.csv", csv_string)
 
 ids16flow = {}
 bar = ProgressBar.new(ids16.size)
@@ -124,7 +124,6 @@ ids16flow.each{|id16, locations|
 	end
 }
 
-byebug
 edges_clean = {}
 bar = ProgressBar.new(edges.size)
 puts
@@ -132,11 +131,26 @@ edges.each{|edge|
 	bar.increment!
 	source = edge[:source]
 	target = edge[:target]
-	id = if source[2] == "birth"
-		source[9]+source[10]+source[12]+target[2]
+
+	kind = ""
+	if source[2] == "birth"
+		kind = "birth"
+	elsif target[2] == "work"
+		kind = "work"
 	else
-		source[4]+target[2]
+		kind = "degree"
 	end
+
+	source_id = if kind == "birth"
+		edge[:source][14]+edge[:source][15]
+	else
+		edge[:source][3]+edge[:source][4]+edge[:source][14]+edge[:source][15]
+	end
+
+	target_id = edge[:target][3]+edge[:target][4]+edge[:target][14]+edge[:target][15]
+
+	id = source_id+"-"+target_id+"-"+kind
+	
 	if edges_clean[id].nil?
 		edges_clean[id] = edge 
 		edges_clean[id][:weight] = 1
@@ -151,37 +165,38 @@ bar = ProgressBar.new(edges_clean.size)
 puts
 edges_clean.each{|index, edge|
 	bar.increment!
-
-	source = edge[:source]
-	source_kind = source[2]
-	id = if source_kind == "birth"
-		source[9]+source[10]+source[12]
-	else
-		source[4]
-	end
-	source = places[id][:id]
-
-	target = edge[:target]
-	target_kind = target[2]
-	id = if target_kind == "birth"
-		target[9]+target[10]+target[12]
-	else
-		target[4]
-	end
-	target = places[id][:id]
-	
-	kind = if source_kind == "birth"
-		"birth"
-	elsif target_kind == "work"
-		"work"
-	else
-		"degree"
-	end
-	
 	countEdge += 1
-	# Source,Target,Type,Id,Label,Weight
+
+	kind = ""
+	if edge[:source][2] == "birth"
+		kind = "birth"
+	elsif edge[:target][2] == "work"
+		kind = "work"
+	else
+		kind = "degree"
+	end
+
+	source_id = if kind == "birth"
+		edge[:source][14]+edge[:source][15]
+	else
+		edge[:source][3]+edge[:source][4]+edge[:source][14]+edge[:source][15]
+	end
+
+	target_id = edge[:target][3]+edge[:target][4]+edge[:target][14]+edge[:target][15]
+
+	source = places[source_id][:id]
+	target = places[target_id][:id]
+
 	network << [source, target, kind, "Directed", countEdge, nil, edge[:weight]]
 }
+
+csv_string = CSV.generate(:col_sep => ",") do |csv|
+	csv << ["Id", "Label", "Modularity Class", "City", "State", "Country", "Latitude", "Longitude"]
+	places.each{|index,place|
+		csv << [place[:id],place[:place],place[:class],place[:city],place[:state],place[:country],place[:latitude],place[:longitude]]
+	}
+end
+File.write("data/nodes-flow-instituition.csv", csv_string)
 
 csv_string = CSV.generate(:col_sep => ",") do |csv|
 	csv << ["Source", "Target","Kind","Type", "Id", "Label", "Weight"]
@@ -189,6 +204,6 @@ csv_string = CSV.generate(:col_sep => ",") do |csv|
 		csv << edge
 	}
 end
-File.write("edges-flow-instituition.csv", csv_string)
+File.write("data/edges-flow-instituition.csv", csv_string)
 
 puts "fim"

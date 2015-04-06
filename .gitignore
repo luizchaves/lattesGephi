@@ -4,4 +4,5 @@ todo/data/locations-lattes-doutorado.csv
 todo/mapa-qgis/degrees.csv
 todo/mapa-qgis/GADM
 todo/mapa-qgis/naturalearthdata
-
+src/flow-edges/gephi/data/edges-flow-year.csv
+src/flow-edges/gephi/data/edges-flow-year2.csv
