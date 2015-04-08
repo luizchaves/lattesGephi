@@ -25,8 +25,8 @@ ggplot(data=df, aes(x = flow$count, y = flow$freq)) + geom_bar(stat="identity")
 
 
 
-library(reshape2)
 library(ggplot2)
+library(reshape2)
 library(plyr)
 library(scales)
 flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/frequency/frequency-flow-year-phd-top-city.csv")
@@ -52,3 +52,21 @@ p <- ggplot(dat2, aes(as.factor(Var1), Var2, group=Var2)) +
     ggtitle("Mobilidade entre os continentes")+
     scale_fill_gradient(low = "white", high = "steelblue")
 print(p)
+
+
+### TOP 10
+library(ggplot2)
+library(reshape2)
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/frequency/frequency-flow-year-phd-top-city.csv")
+row.names(flow) <- flow$cities
+flow <- flow[,2:80]
+flow_matrix <- data.matrix(flow)
+# dat <- melt(flow_matrix, id.var = "X1")
+dat <- melt(log(flow_matrix+1), id.var = "X1")
+dat$value <- replace(dat$value, dat$value==-Inf, 0)
+ggplot(dat, aes(as.factor(Var2), Var1, group=Var1))+
+    geom_tile(aes(fill = value))+
+    scale_fill_gradient(low = "white", high = "red")+
+  	theme(axis.text.x=element_text(angle=-90))+
+  	scale_y_discrete(limits=c("brasilia","guarulhos","recife","florianopolis","curitiba","belo horizonte","bauru","porto alegre","campinas","rio de janeiro","sao paulo"))
+

@@ -28,7 +28,7 @@ my_palette <- colorRampPalette(c("white", "red"))(n = 299)
 flow_heatmap <- heatmap(flow_matrix, Rowv=NA, Colv=NA, col = my_palette, margins=c(10,10))
 
 
-
+#### heatmap
 library(reshape2)
 library(ggplot2)
 library(plyr)
@@ -61,23 +61,105 @@ print(p)
 #    ggtitle("None scale")+     
 #    scale_fill_gradient(low = "white", high = "red")
 
-
+#### heatmap continents
 library(ggplot2)
 library(reshape2)
 flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-year-degree.csv")
 row.names(flow) <- flow$continents
 flow <- flow[,2:8]
 flow_matrix <- data.matrix(flow)
-dat2 <- melt(log(flow_matrix), id.var = "X1")
+dat2 <- melt(flow_matrix, id.var = "X1")
+# dat2 <- melt(log(flow_matrix), id.var = "X1")
 dat2$value <- replace(dat2$value, dat2$value==-Inf, 0)
 ggplot(dat2, aes(as.factor(Var1), Var2, group=Var2)) +
   geom_tile(aes(fill = value)) + 
   geom_text(aes(fill = dat2$value, label = round(dat2$value, 1)))+
-  scale_fill_gradient(low = "white", high = "steelblue")
+  scale_fill_gradient(low = "white", high = "red")+
+  scale_x_discrete(limits=c("south america","central america","north america","europe","africa","asia","oceania"))+
+  scale_y_discrete(limits=c("south.america","central.america","north.america","europe","africa","asia","oceania"))
 
+#### heatmap countries
+library(ggplot2)
+library(reshape2)
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-country-degree.csv")
+row.names(flow) <- flow$country
+flow <- flow[,2:135]
+flow_matrix <- data.matrix(flow)
+dat <- melt(flow_matrix, id.var = "X1")
+# dat <- melt(log(flow_matrix), id.var = "X1")
+dat$value <- replace(dat$value, dat$value==-Inf, 0)
+ggplot(dat, aes(as.factor(Var1), Var2, group=Var2)) +
+  geom_tile(aes(fill = value)) + 
+  # geom_text(aes(fill = dat$value, label = round(dat$value, 1)))+
+  scale_fill_gradient(low = "white", high = "red")+
+  theme(axis.text.x=element_text(angle=-90))
 
+#### heatmap regions
+library(ggplot2)
+library(reshape2)
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-region-degree.csv")
+row.names(flow) <- flow$regioes
+flow <- flow[,2:6]
+flow_matrix <- data.matrix(flow)
+# dat <- melt(flow_matrix, id.var = "X1")
+dat <- melt(log(flow_matrix), id.var = "X1")
+ggplot(dat, aes(as.factor(Var1), Var2, group=Var2)) +
+  geom_tile(aes(fill = value)) + 
+  geom_text(aes(fill = dat$value, label = round(dat$value, 1)))+
+  scale_fill_gradient(low = "white", high = "red")+
+  scale_x_discrete(limits=c("sul","sudeste","centro-oeste","nordeste","norte"))+
+  scale_y_discrete(limits=c("sul","sudeste","centro.oeste","nordeste","norte"))
 
-http://stackoverflow.com/questions/14290364/heatmap-with-values-ggplot2
+#### heatmap states
+library(ggplot2)
+library(reshape2)
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-state-degree.csv")
+row.names(flow) <- flow$state
+flow <- flow[,2:28]
+flow_matrix <- data.matrix(flow)
+# dat <- melt(flow_matrix, id.var = "X1")
+dat <- melt(log(flow_matrix), id.var = "X1")
+dat$value <- replace(dat$value, dat$value==-Inf, 0)
+ggplot(dat, aes(as.factor(Var1), Var2, group=Var2)) +
+  geom_tile(aes(fill = value)) + 
+  # geom_text(aes(fill = dat$value, label = round(dat$value, 1)))+
+  scale_fill_gradient(low = "white", high = "red")+
+  theme(axis.text.x=element_text(angle=-90))
+
+#### heatmap city
+# library(ggplot2)
+# library(reshape2)
+# flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-city-degree.csv")
+# row.names(flow) <- flow$city
+# flow <- flow[,2:5989]
+# flow_matrix <- data.matrix(flow)
+# # dat <- melt(flow_matrix, id.var = "X1")
+# dat <- melt(log(flow_matrix), id.var = "X1")
+# dat$value <- replace(dat$value, dat$value==-Inf, 0)
+# ggplot(dat, aes(as.factor(Var1), Var2, group=Var2)) +
+#   geom_tile(aes(fill = value)) + 
+#   # geom_text(aes(fill = dat$value, label = round(dat$value, 1)))+
+#   scale_fill_gradient(low = "white", high = "red")+
+#   theme(axis.text.x=element_text(angle=-90))
+
+#### heatmap instituition
+# library(ggplot2)
+# library(reshape2)
+# flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-instituition-degree.csv")
+# row.names(flow) <- flow$state
+# flow <- flow[,2:28]
+# flow_matrix <- data.matrix(flow)
+# # dat <- melt(flow_matrix, id.var = "X1")
+# dat <- melt(log(flow_matrix), id.var = "X1")
+# dat$value <- replace(dat$value, dat$value==-Inf, 0)
+# ggplot(dat, aes(as.factor(Var1), Var2, group=Var2)) +
+#   geom_tile(aes(fill = value)) + 
+#   # geom_text(aes(fill = dat$value, label = round(dat$value, 1)))+
+#   scale_fill_gradient(low = "white", high = "red")+
+#   theme(axis.text.x=element_text(angle=-90))
+
+#### heatmap
+# http://stackoverflow.com/questions/14290364/heatmap-with-values-ggplot2
 library(reshape2)
 library(ggplot2)
 dat <- matrix(rnorm(100, 3, 1), ncol=10)
@@ -86,12 +168,7 @@ dat2 <- melt(dat, id.var = "X1")
 ggplot(dat2, aes(as.factor(Var1), Var2, group=Var2)) +
     geom_tile(aes(fill = value)) + 
     geom_text(aes(fill = dat2$value, label = round(dat2$value, 1))) +
-    scale_fill_gradient(low = "white", high = "red")+
-    scale_x_discrete(limits=c("south america","central america","north america","europe","africa","asia","oceania"))+
-    scale_y_discrete(limits=c("south.america","central.america","north.america","europe","africa","asia","oceania"))
-
-
-
+    scale_fill_gradient(low = "white", high = "red")
 
 
 
