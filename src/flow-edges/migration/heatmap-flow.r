@@ -1,4 +1,14 @@
 
+# http://stackoverflow.com/questions/4787332/how-to-remove-outliers-from-a-dataset
+remove_outliers <- function(x, na.rm = TRUE, ...) {
+  qnt <- quantile(x, probs=c(.25, .75), na.rm = na.rm, ...)
+  H <- 1.5 * IQR(x, na.rm = na.rm)
+  y <- x
+  y[x < (qnt[1] - H)] <- NA
+  y[x > (qnt[2] + H)] <- NA
+  y
+}
+
 normalize <- function(x) { 
     for(j in 1:length(x[1,])){
         #print(j)
@@ -16,7 +26,6 @@ normalize <- function(x) {
     }
     return(x)
 }
-
 
 flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow/heatmap-flow.csv")
 row.names(flow) <- flow$continents
@@ -61,27 +70,54 @@ print(p)
 #    ggtitle("None scale")+     
 #    scale_fill_gradient(low = "white", high = "red")
 
+
+
 #### heatmap continents
 library(ggplot2)
 library(reshape2)
-flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-year-degree.csv")
-row.names(flow) <- flow$continents
-flow <- flow[,2:8]
+file <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-year-degree.csv", sep=",",header=T, check.names = FALSE)
+row.names(file) <- file$continents
+flow <- file[,2:8]
 flow_matrix <- data.matrix(flow)
-dat2 <- melt(flow_matrix, id.var = "X1")
-# dat2 <- melt(log(flow_matrix), id.var = "X1")
-dat2$value <- replace(dat2$value, dat2$value==-Inf, 0)
-ggplot(dat2, aes(as.factor(Var1), Var2, group=Var2)) +
+# dat <- melt(flow_matrix, id.var = "X1")
+dat <- melt(log(flow_matrix), id.var = "X1")
+dat$value <- replace(dat$value, dat$value==-Inf, 0)
+levels(dat$Var1) <- c(levels(dat$Var1), "AMS", "AMN", "AMC", "EU", "AF", "AS", "OC")
+levels(dat$Var2) <- c(levels(dat$Var1), "AMS", "AMN", "AMC", "EU", "AF", "AS", "OC")
+dat$Var1 <- replace(dat$Var1, dat$Var1=="south america", "AMS")
+dat$Var2 <- replace(dat$Var2, dat$Var2=="south america", "AMS")
+dat$Var1 <- replace(dat$Var1, dat$Var1=="central america", "AMC")
+dat$Var2 <- replace(dat$Var2, dat$Var2=="central america", "AMC")
+dat$Var1 <- replace(dat$Var1, dat$Var1=="north america", "AMN")
+dat$Var2 <- replace(dat$Var2, dat$Var2=="north america", "AMN")
+dat$Var1 <- replace(dat$Var1, dat$Var1=="europe", "EU")
+dat$Var2 <- replace(dat$Var2, dat$Var2=="europe", "EU")
+dat$Var1 <- replace(dat$Var1, dat$Var1=="africa", "AF")
+dat$Var2 <- replace(dat$Var2, dat$Var2=="africa", "AF")
+dat$Var1 <- replace(dat$Var1, dat$Var1=="asia", "AS")
+dat$Var2 <- replace(dat$Var2, dat$Var2=="asia", "AS")
+dat$Var1 <- replace(dat$Var1, dat$Var1=="oceania", "OC")
+dat$Var2 <- replace(dat$Var2, dat$Var2=="oceania", "OC")
+ggplot(dat, aes(as.factor(Var1), Var2, group=Var2)) +
   geom_tile(aes(fill = value)) + 
-  geom_text(aes(fill = dat2$value, label = round(dat2$value, 1)))+
-  scale_fill_gradient(low = "white", high = "red")+
-  scale_x_discrete(limits=c("south america","central america","north america","europe","africa","asia","oceania"))+
-  scale_y_discrete(limits=c("south.america","central.america","north.america","europe","africa","asia","oceania"))
+  # geom_text(aes(fill = dat$value, label = round(dat$value, 1)))+
+  # scale_fill_gradient(low = "white", high = "red")+
+  scale_fill_gradient(low='white', high='grey20')+
+  # xlab("origin") + ylab("destination")+ggtitle("Continents Flow")+
+  xlab("origem") + ylab("destino")+
+  theme(
+      title=element_text(size=14,face="bold"), 
+      axis.text=element_text(size=14,face="bold"), 
+      axis.title=element_text(size=14,face="bold")#,
+      # axis.text.x=element_text(angle=-90)
+  )+
+  scale_x_discrete(limits=c("AMS","AMC","AMN","EU","AS","OC","AF"))+
+  scale_y_discrete(limits=c("AMS","AMC","AMN","EU","AS","OC","AF"))
 
 #### heatmap countries
 library(ggplot2)
 library(reshape2)
-flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-country-degree.csv")
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-country-degree.csv", sep=",",header=T, check.names = FALSE)
 row.names(flow) <- flow$country
 flow <- flow[,2:135]
 flow_matrix <- data.matrix(flow)
@@ -97,23 +133,48 @@ ggplot(dat, aes(as.factor(Var1), Var2, group=Var2)) +
 #### heatmap regions
 library(ggplot2)
 library(reshape2)
-flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-region-degree.csv")
-row.names(flow) <- flow$regioes
-flow <- flow[,2:6]
+file <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-region-degree.csv", sep=",",header=T, check.names = FALSE)
+row.names(file) <- file$regioes
+flow <- file[,2:6]
 flow_matrix <- data.matrix(flow)
 # dat <- melt(flow_matrix, id.var = "X1")
 dat <- melt(log(flow_matrix), id.var = "X1")
+# levels(iris$Species) <- c(levels(iris$Species), "new.species")
+# iris$Species[iris$Species == 'virginica'] <- 'new.species'
+levels(dat$Var1) <- c(levels(dat$Var1), "S", "SE", "CO", "N", "NE")
+levels(dat$Var2) <- c(levels(dat$Var1), "S", "SE", "CO", "N", "NE")
+dat$Var1 <- replace(dat$Var1, dat$Var1=="sul", "S")
+dat$Var2 <- replace(dat$Var2, dat$Var2=="sul", "S")
+dat$Var1 <- replace(dat$Var1, dat$Var1=="sudeste", "SE")
+dat$Var2 <- replace(dat$Var2, dat$Var2=="sudeste", "SE")
+dat$Var1 <- replace(dat$Var1, dat$Var1=="nordeste", "NE")
+dat$Var2 <- replace(dat$Var2, dat$Var2=="nordeste", "NE")
+dat$Var1 <- replace(dat$Var1, dat$Var1=="norte", "N")
+dat$Var2 <- replace(dat$Var2, dat$Var2=="norte", "N")
+dat$Var1 <- replace(dat$Var1, dat$Var1=="centro-oeste", "CO")
+dat$Var2 <- replace(dat$Var2, dat$Var2=="centro-oeste", "CO")
 ggplot(dat, aes(as.factor(Var1), Var2, group=Var2)) +
   geom_tile(aes(fill = value)) + 
-  geom_text(aes(fill = dat$value, label = round(dat$value, 1)))+
-  scale_fill_gradient(low = "white", high = "red")+
-  scale_x_discrete(limits=c("sul","sudeste","centro-oeste","nordeste","norte"))+
-  scale_y_discrete(limits=c("sul","sudeste","centro.oeste","nordeste","norte"))
+  # geom_text(aes(fill = dat$value, label = round(dat$value, 1)))+
+  # scale_fill_gradient(low = "white", high = "red")+
+  scale_fill_gradient(low='white', high='grey20')+
+  # xlab("origin") + ylab("destination")+ggtitle("Brazilian Regions Flow")+
+  xlab("origem") + ylab("destino")+
+  theme(
+      title=element_text(size=14,face="bold"), 
+      axis.text=element_text(size=14,face="bold"), 
+      axis.title=element_text(size=14,face="bold")#,
+      # axis.text.x=element_text(angle=-90)
+  )+
+  # scale_x_discrete(limits=c("sul","sudeste","centro-oeste","nordeste","norte"))+
+  # scale_y_discrete(limits=c("sul","sudeste","centro-oeste","nordeste","norte"))
+  scale_x_discrete(limits=c("S","SE","CO","NE","N"))+
+  scale_y_discrete(limits=c("S","SE","CO","NE","N"))
 
 #### heatmap states
 library(ggplot2)
 library(reshape2)
-flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-state-degree.csv")
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-state-degree.csv", sep=",",header=T, check.names = FALSE)
 row.names(flow) <- flow$state
 flow <- flow[,2:28]
 flow_matrix <- data.matrix(flow)
@@ -173,16 +234,6 @@ ggplot(dat2, aes(as.factor(Var1), Var2, group=Var2)) +
 
 
 # distinct flow
-# http://stackoverflow.com/questions/4787332/how-to-remove-outliers-from-a-dataset
-remove_outliers <- function(x, na.rm = TRUE, ...) {
-  qnt <- quantile(x, probs=c(.25, .75), na.rm = na.rm, ...)
-  H <- 1.5 * IQR(x, na.rm = na.rm)
-  y <- x
-  y[x < (qnt[1] - H)] <- NA
-  y[x > (qnt[2] + H)] <- NA
-  y
-}
-
 subset(flow, count >= 20)
 
 library(ggplot2)

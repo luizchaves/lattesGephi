@@ -29,3 +29,23 @@
 	- Fig 3C
 	- Fig 4: mapa de calor linear entre as cidades, instituições ou países ao passar do tempo
  	- S1
+- API Gephi para gerar import e calculo de métricas de forma automática
+- ^((?!\,18\,birth).)*$
+
+- visualização
+	- http://www.visualcomplexity.com/vc/
+	- https://smartcitizen.me/
+
+IDH
+http://hdr.undp.org/en/2014-report
+http://www.pnud.org.br/IDH/Default.aspx?indiceAccordion=1&li=li_AtlasMunicipios
+http://www.ipeadata.gov.br/
+IDHM
+http://greco.ppgi.ufrj.br/dkan/dataset/%C3%ADndice-de-desenvolvimento-humano-idh
+http://greco.ppgi.ufrj.br/dkan/dataset/%C3%ADndice-de-desenvolvimento-humano-idh/resource/b584e551-db18-4187-83b2-fa453444a2bd
+
+População Brasileira
+http://www.ipeadata.gov.br/
+
+Série do PIB
+ftp://ftp.ibge.gov.br/Pib_Municipios/
