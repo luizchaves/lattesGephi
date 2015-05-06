@@ -1,0 +1,51 @@
+#TODO
+
+Média do somatório dos profissionais de uma instituição versus seu ICG ou Rank RUF
+Animação e mapa de calor da mobilidade entre os anos
+
+Artigo de Revista 
+- como deve ser ampliado o artigo
+- Correlação entre 
+	pesquisador x h-index
+	instituição x rank (raio de abrang. x rank)
+	instituições com maior média de pessoas que se deslocam possuem maior rank
+	rank das universidade vs DD universidade do GM
+	h-index dos pesquisadores de uma universidade vs DD universidade do GM
+
+# Trendline equations
+http://infolib.lotus.com/resources/symphony/3.0.0/sym20abd014/pt_pt/text/schart/01/04050100.html
+http://spreadsheetpage.com/index.php/tip/chart_trendline_formulas/
+https://support.office.com/pt-pt/article/Adicionar-alterar-ou-remover-uma-linha-de-tend%C3%AAncia-num-gr%C3%A1fico-fa59f86c-5852-4b68-a6d4-901a745842ad?ui=pt-PT&rs=pt-PT&ad=PT
+https://support.office.com/en-in/article/Choosing-the-best-trendline-for-your-data-1bb3c9e7-0280-45b5-9ab0-d0c93161daa8
+https://social.technet.microsoft.com/Forums/office/en-US/bb1bce00-4b40-4440-88c3-d0720f8d3cdc/incorrect-r-with-excel-exponential-trendline?forum=excel
+
+http://guiadoexcel.com.br/traducao-das-formulas-excel-ingles-portugues
+
+# UNIVERSITY RANKING
+http://en.wikipedia.org/wiki/College_and_university_rankings
+
+## WORLD
+Webometrics Ranking of World Universities (12000)
+http://www.webometrics.info/en/world
+
+CWTS Leiden Ranking (750)
+http://www.leidenranking.com/ranking/2014
+
+Times Higher Education World University Rankings (400)
+http://www.timeshighereducation.co.uk/world-university-rankings/2014-15/world-ranking/range/001-400
+
+QS World University Rankings(700)
+http://www.topuniversities.com/university-rankings/world-university-rankings/2014
+
+Academic Ranking of World Universities (500)
+http://www.shanghairanking.com/ARWU2014.html
+
+University Ranking by Academic Performance (2000)
+http://www.urapcenter.org/2014/world.php?q=MS0yNTA=
+
+Performance Ranking of Scientific Papers for World Universities
+http://nturanking.lis.ntu.edu.tw/
+
+## BRAZIL
+http://ruf.folha.uol.com.br/2012/rankings/rankingdeuniversidades/
+http://portal.inep.gov.br/educacao-superior/indicadores/indice-geral-de-cursos-igc

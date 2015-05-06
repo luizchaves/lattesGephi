@@ -10,10 +10,10 @@ def normalise(x)
   ymin + (x - xmin) * (yrange.to_f / xrange) 
 end
 
-# kind = "country"
+kind = "country"
 # kind = "region"
 # kind = "state"
-kind = "city"
+# kind = "city"
 # kind = "instituition"
 
 scale = ""

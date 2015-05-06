@@ -1,6 +1,6 @@
-name_file = "edges-flow-instituition"
+# name_file = "edges-flow-instituition"
 # name_file = "edges-flow-city"
-# name_file = "edges-flow-country"
+name_file = "edges-flow-country"
 # name_file = "edges-flow-state"
 # name_file = "edges-flow-region"
 

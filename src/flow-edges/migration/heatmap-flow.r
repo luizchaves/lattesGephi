@@ -175,7 +175,7 @@ ggplot(dat, aes(as.factor(Var1), Var2, group=Var2)) +
 library(ggplot2)
 library(reshape2)
 flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-state-degree.csv", sep=",",header=T, check.names = FALSE)
-row.names(flow) <- flow$state
+row.names(flow) <- flow$[0,]
 flow <- flow[,2:28]
 flow_matrix <- data.matrix(flow)
 # dat <- melt(flow_matrix, id.var = "X1")
