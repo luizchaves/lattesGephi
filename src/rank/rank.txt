@@ -1,17 +1,5 @@
 #TODO
 
-Média do somatório dos profissionais de uma instituição versus seu ICG ou Rank RUF
-Animação e mapa de calor da mobilidade entre os anos
-
-Artigo de Revista 
-- como deve ser ampliado o artigo
-- Correlação entre 
-	pesquisador x h-index
-	instituição x rank (raio de abrang. x rank)
-	instituições com maior média de pessoas que se deslocam possuem maior rank
-	rank das universidade vs DD universidade do GM
-	h-index dos pesquisadores de uma universidade vs DD universidade do GM
-
 # Trendline equations
 http://infolib.lotus.com/resources/symphony/3.0.0/sym20abd014/pt_pt/text/schart/01/04050100.html
 http://spreadsheetpage.com/index.php/tip/chart_trendline_formulas/

@@ -1,3 +1,80 @@
+# MAPS
+## R
+http://pakillo.github.io/R-GIS-tutorial/
+http://www.asdar-book.org/
+http://rpubs.com/RobinLovelace/intro-spatial
+http://flowingdata.com/
+http://spatial.ly/category/r-spatial-data-hints/
+http://oscarperpinan.github.io/spacetime-vis/
+
+Mapping Flows in R (Fly Path, Mapping Flows, Drawing Arcs on Maps)
+http://blogs.casa.ucl.ac.uk/category/r-spatial/
+http://spatial.ly/2015/03/mapping-flows/
+http://spatial.ly/2011/03/global-migration-maps/
+http://spatial.ly/2014/11/r-visualisations-design/
+http://spatial.ly/2012/06/mapping-worlds-biggest-airlines/
+http://spatial.ly/2013/05/great-world-flight-paths-map/
+http://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/
+http://www.r-bloggers.com/mapping-flows-in-r/
+http://www.r-bloggers.com/mapping-flows-in-r-with-data-table-and-lattice/
+http://dsgeek.com/2013/06/08/DrawingArcsonMaps.html
+https://gist.github.com/oscarperpinan/7cc0d51de63cfefb80e8
+http://robinlovelace.net/2014/06/22/great-circles-in-rworldmap-ggplot2.html
+
+http://blog.revolutionanalytics.com/2011/05/mapping-airline-flight-networks-with-r.html
+http://flowingdata.com/2010/12/13/facebook-worldwide-friendships-mapped/
+http://forgetfulfunctor.blogspot.com.au/2012/02/undiscovered-country-tutorial-on.html
+https://www.facebook.com/notes/facebook-engineering/visualizing-friendships/469716398919
+http://paulbutler.org/archives/visualizing-facebook-friends/
+https://gigaom.com/2010/12/14/facebook-draws-a-map-of-the-connected-world/
+
+Spatial Data
+http://spatial.ly/2013/12/introduction-spatial-data-ggplot2/
+https://flowingdata.com/2015/04/29/fashion-trends-seen-through-google-searches/
+
+buble chart map r ggmap
+http://stackoverflow.com/questions/27328372/r-create-a-spatial-bubble-plot-that-overlays-a-basemap-of-the-us-and-other-spati
+
+Spatio Data Handling
+http://cran.r-project.org/web/views/Spatial.html
+http://cran.r-project.org/web/packages/maps/index.html
+http://cran.r-project.org/web/packages/rgdal/index.html
+http://cran.r-project.org/web/packages/maptools/index.html
+https://github.com/dkahle/ggmap
+
+Spatiotemporal Data Handling
+http://cran.r-project.org/web/views/SpatioTemporal.html
+http://cran.r-project.org/web/packages/sp/index.html
+http://cran.r-project.org/web/packages/dismo/index.html
+
+http://www.unomaha.edu/mahbubulmajumder/data-science/fall-2014/lectures/06-display-spatial-data/06-display-spatial-data.html
+http://www.maths.lancs.ac.uk/~rowlings/Teaching/Sheffield2013/spatialdata.html
+https://dl.dropboxusercontent.com/u/9577903/broomspatial.pdf
+http://rpsychologist.com/working-with-shapefiles-projections-and-world-maps-in-ggplot
+http://arxiv.org/pdf/1411.0416v1.pdf
+http://www.slideshare.net/tjagger/r-spatial-analysis-using-sp
+http://www.uclm.es/profesorado/vgomez/useR2014/
+http://www.kevjohnson.org/making-maps-in-r/
+http://www.molecularecologist.com/2012/09/making-maps-with-r/
+http://zevross.com/blog/2014/07/16/mapping-in-r-using-the-ggplot2-package/
+
+## JS
+###d3.js
+
+
+#TODO
+Média do somatório dos profissionais de uma instituição versus seu ICG ou Rank RUF
+Animação e mapa de calor da mobilidade entre os anos
+
+Artigo de Revista 
+- como deve ser ampliado o artigo
+- Correlação entre 
+	pesquisador x h-index
+	instituição x rank (raio de abrang. x rank)
+	instituições com maior média de pessoas que se deslocam possuem maior rank
+	rank das universidade vs DD universidade do GM
+	h-index dos pesquisadores de uma universidade vs DD universidade do GM
+
 - Questões
 	Existem um padrão na formação de doutores no sentido de se deslocarem (saem da cidade ou país?)
 - TODO folder

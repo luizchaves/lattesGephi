@@ -59,7 +59,7 @@ end
 file = File.read('edges-flow-state-distance-year.csv')
 
 kind_change = "cube_root"
-# kind_change = nil
+kind_change = nil
 
 distinct_rows = {}
 rows = file.split("\n")
@@ -120,13 +120,13 @@ years.each{|year|
 	File.write("edges-flow-state/edges-flow-state-distance-year-#{year}2.csv", csv_string)
 }
 years.each{|year|
-	if kind_change == nil
-		create_chart(year, change_value(max_value,kind_change), true, "-normal")
-	elsif kind_change == "cube_root"
-		create_chart(year, change_value(max_value,kind_change), true, "-cbrt")
-	elsif kind_change == "square_root"
-		create_chart(year, change_value(max_value,kind_change), true, "-sqrt")
-	end
+	# if kind_change == nil
+	# 	create_chart(year, change_value(max_value,kind_change), true, "-normal")
+	# elsif kind_change == "cube_root"
+	# 	create_chart(year, change_value(max_value,kind_change), true, "-cbrt")
+	# elsif kind_change == "square_root"
+	# 	create_chart(year, change_value(max_value,kind_change), true, "-sqrt")
+	# end
 }
 
 counts_flow = []
