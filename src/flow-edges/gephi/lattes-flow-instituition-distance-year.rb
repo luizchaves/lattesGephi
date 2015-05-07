@@ -2,14 +2,6 @@ require 'csv'
 require 'byebug'
 require 'progress_bar'
 
-# SELECT kind, place, place_ascii, place_abbr, start_year, end_year, 
-#        city, city_ascii, state, country, country_ascii, country_abbr, 
-#        latitude, longitude
-#   FROM locationslatlon where kind != 'birth' and kind != 'work' and start_year is null and end_year is null order by kind limit 1000;
-# degrees_empty = ["doutorado", "ensino-medio", "especializacao", "graduacao", "livre-docencia", "mestrado", "pos-doutorado"]
-
-# locationslatlon_id
-
 def sort_degrees(degrees)
 	list = {}
 	degrees.each{|deg|
@@ -72,6 +64,7 @@ ids16 = {}
 places = {}
 puts "Iniciar"
 locations = CSV.read("../../../data/locationslatlon.csv", col_sep: ';')
+# locations = CSV.read("../../../data/locationslatlon2.csv", col_sep: ';')
 locations.shift
 bar = ProgressBar.new(locations.size)
 puts
@@ -142,8 +135,7 @@ ids16flow.each{|id16, locations|
 	end
 }
 
-edges_clean = {}
-network = []
+network = {}
 countEdge = 0 
 bar = ProgressBar.new(edges.size)
 puts
@@ -153,6 +145,8 @@ edges.each{|edge|
 
 	source = edge[:source]
 	target = edge[:target]
+
+	next if target[2] != "doutorado"
 
 	kind = ""
 	if source[2] == "birth"
@@ -174,13 +168,16 @@ edges.each{|edge|
 	source = places[source_id][:id]
 	target = places[target_id][:id]
 
-	distance = geo_distance(edge[:source][14].to_f,edge[:target][14].to_f,edge[:source][15].to_f,edge[:target][15].to_f)
-	id16 = edge[:source][1]
-	destination = if kind == "work"
-		edge[:target][4]
-	else
-		edge[:target][3]
-	end
+	destination = edge[:target][4]
+	from = edge[:source][4]
+
+	# distance = geo_distance(edge[:source][14].to_f,edge[:target][14].to_f,edge[:source][15].to_f,edge[:target][15].to_f)
+	# id16 = edge[:source][1]
+	# destination = if kind == "work"
+	# 	edge[:target][4]
+	# else
+	# 	edge[:target][3]
+	# end
 
 	start_year = edge[:target][6]
 	end_year = edge[:target][7]
@@ -191,12 +188,19 @@ edges.each{|edge|
 		year = end_year.to_i+2	
 	end
 
-	network << [source, target, kind, "Directed", countEdge, nil, edge[:weight], destination, distance, id16, year]
+	# network << [source, target, kind, "Directed", countEdge, nil, edge[:weight], destination, distance, id16, year]
+	id = "#{source}-#{target}-#{kind}-#{year}"
+
+	if network[id].nil?
+		network[id] = [source, target, kind, "Directed", countEdge, nil, 1, from, destination, year]
+	else
+		network[id][6] += 1
+	end
 }
 
 csv_string = CSV.generate(:col_sep => ",") do |csv|
-	csv << ["Source", "Target","Kind","Type", "Id", "Label", "Weight", "Destination", "Distance", "id16", "year"]
-	network.each{|edge|
+	csv << ["Source", "Target","Kind","Type", "Id", "Label", "Weight", "From", "Destination", "year"]
+	network.each{|id, edge|
 		csv << edge
 	}
 end

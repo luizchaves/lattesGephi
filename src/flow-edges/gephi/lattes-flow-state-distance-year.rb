@@ -199,7 +199,6 @@ edges.each{|edge|
 }
 
 csv_string = CSV.generate(:col_sep => ",") do |csv|
-	# csv << ["Source", "Target","Kind","Type", "Id", "Label", "Weight"]
 	csv << ["Source", "Target","Kind","Type", "Id", "Label", "Weight", "From", "Destination", "year"]
 	network.each{|id, edge|
 		csv << edge

@@ -6,3 +6,5 @@ todo/mapa-qgis/GADM
 todo/mapa-qgis/naturalearthdata
 src/flow-edges/gephi/data/edges-flow-year.csv
 src/flow-edges/gephi/data/edges-flow-year2.csv
+src/flow-edges/gephi/data/edges-flow-instituition-distance-year.csv
+src/flow-edges/gephi/data/edges-flow-instituition-distance.csv
