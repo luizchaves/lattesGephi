@@ -139,6 +139,7 @@ network = {}
 countEdge = 0 
 bar = ProgressBar.new(edges.size)
 puts
+count_br = 0
 edges.each{|edge|
 	bar.increment!
 	countEdge += 1
@@ -146,7 +147,9 @@ edges.each{|edge|
 	source = edge[:source]
 	target = edge[:target]
 
+	count_br +=1 if target[12] == "brazil"
 	next if target[2] != "doutorado"
+	# next unless source[12] == "brazil" and target[12] == "brazil"
 
 	kind = ""
 	if source[2] == "birth"
@@ -198,6 +201,8 @@ edges.each{|edge|
 	end
 }
 
+puts "#{count_br}/#{countEdge}"
+
 csv_string = CSV.generate(:col_sep => ",") do |csv|
 	csv << ["Source", "Target","Kind","Type", "Id", "Label", "Weight", "From", "Destination", "year"]
 	network.each{|id, edge|
@@ -205,5 +210,6 @@ csv_string = CSV.generate(:col_sep => ",") do |csv|
 	}
 end
 File.write("data/edges-flow-instituition-distance-year.csv", csv_string)
+# File.write("data/edges-flow-instituition-distance-year-br.csv", csv_string)
 
 puts "fim"
