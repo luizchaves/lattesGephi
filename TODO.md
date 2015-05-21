@@ -14,6 +14,9 @@
 # Pesquisa sistemática
 
 ## Palavras de consulta
+- ponto (estáticos/animados)
+- path (arcs/line)(estáticos/animados)(2d/3d)
+- Gephi, JS, Processing, R, QGis
 - migração (pessoas e animais)
 - importação/exportação
 - fluxo da aviação
@@ -27,6 +30,7 @@
 - slave trade out
 - mapping flows/patterns (departures arrivals)
 - air / routes / fly path / airline route / arcs Traffic
+- slanted flow mapping js
 - air traffic routes
 - animating flight paths
 - Direct Flights with Connections
@@ -47,7 +51,7 @@
 - vetores de deslocamento
 - fluxos e pontos (2d e 3d)
 - heatmap
-- coloreph
+- choropleth
 - vonoroi
 
 ## Outros
@@ -230,13 +234,13 @@ js, jquery, css animation https://github.com/fenicento/
 - ** Links **:
 	- http://bl.ocks.org/mbostock/5737662
 - ** Tools **: js, d3
-- ** Tags **: image, coloreph map 2d
+- ** Tags **: image, choropleth map 2d
 
 ### Basic CartoDB + D3 Choropleth
 - ** Links **:
 	- http://bl.ocks.org/andrewxhill/4448106
 - ** Tools **: js, d3
-- ** Tags **: image, coloreph map 2d
+- ** Tags **: image, choropleth map 2d
 
 ### Inventing Across Borders
 - ** Links **:
@@ -660,7 +664,7 @@ js, jquery, css animation https://github.com/fenicento/
 	- http://www.nytimes.com/interactive/2013/04/08/business/global/asia-map.html
 - ** Tools **: js
 - ** Tags **:
-image, coloreph map 2d
+image, choropleth map 2d
 
 ## RANK
 
@@ -678,6 +682,7 @@ image, coloreph map 2d
 - https://gjabel.wordpress.com/2014/03/28/circular-migration-flow-plots-in-r/
 - http://blog.ouseful.info/2013/02/18/reshaping-horse-importexport-data-to-fit-a-sankey-diagram/
 - http://blog.blprnt.com/blog/blprnt/7-days-of-source-day-2-nytimes-36536
+- (vertical cord flow) http://blog.ouseful.info/2013/02/18/reshaping-horse-importexport-data-to-fit-a-sankey-diagram/
 
 ## treemap
 - https://atlas.media.mit.edu/en/profile/country/bra/
@@ -745,6 +750,7 @@ image, coloreph map 2d
 ###UNFOLDINGMAPS
 - https://github.com/tillnagel/unfolding
 - http://unfoldingmaps.org/
+- http://unfoldingmaps.org/downloads (Unfolding App Template, Examples & JAR)
 - http://unfoldingmaps.org/tutorials/getting-started-in-processing.html
 - http://unfoldingmaps.org/javadoc/index.html
 - http://unfoldingmaps.org/tutorials/getting-started-in-processing.html
@@ -780,7 +786,7 @@ image, coloreph map 2d
 - http://forum.processing.org/two/discussion/4739/unfolding-maps-question-about-loaddata
 - http://forum.processing.org/one/topic/using-a-world-map-in-processing.html
 
-##GEPHI (GEPHI TOOLKIT)
+## GEPHI (GEPHI TOOLKIT)
 - http://www.slideshare.net/gephi/gephi-toolkit-tutorialtoolkit
 - http://gephi.github.io/toolkit/
 - https://github.com/gephi/gephi-toolkit
@@ -791,7 +797,7 @@ image, coloreph map 2d
 - https://forum.gephi.org/viewtopic.php?t=557
 - https://forum.gephi.org/viewtopic.php?t=224
 
-##R
+## R
 
 ### Questões sobre mapa
 - http://oscarperpinan.github.io/spacetime-vis/
@@ -811,20 +817,49 @@ image, coloreph map 2d
 - sna, igraph, ggmap
 - https://gist.github.com/dsparks/4331058
 
-### sankey
+### sankey Diagram/Arc Diagram/chord Diagram
+
+#### Rcharts
+- http://rcharts.io/
+- http://rcharts.io/viewer/?6001601#.VVt3uZNViko
+
+#### arcdiagram
+- https://github.com/gastonstat/arcdiagram
+- http://www.r-bloggers.com/arc-diagrams-in-r-les-miserables/
 - http://www.r-bloggers.com/arc-diagrams-in-r-les-miserables/
 
-### cicle cord flow
-- https://gjabel.wordpress.com/2014/03/28/circular-migration-flow-plots-in-r/
+#### circlize
+- https://github.com/jokergoo/circlize
+- http://cran.r-project.org/web/packages/circlize/circlize.pdf
+- http://cran.r-project.org/web/packages/circlize/vignettes/circular_visualization_of_matrix.pdf
+- http://jokergoo.github.io/circlize/
+- http://jokergoo.github.io/circlize/example/chordDiagram_customize.html
+- http://jokergoo.github.io/circlize/example/chordDiagram_directional.html
+- http://jokergoo.github.io/circlize/example/grouped_chordDiagram.html
 
-### vertical cord flow
-- http://blog.ouseful.info/2013/02/18/reshaping-horse-importexport-data-to-fit-a-sankey-diagram/
+#### RCircos
+- http://cran.r-project.org/web/packages/RCircos/
+
+#### migest
+- https://gjabel.wordpress.com/2014/03/28/circular-migration-flow-plots-in-r/
 
 ### HEATMAP
 http://www.exegetic.biz/blog/tag/ggmap/
 
 ### buble chart map
 http://stackoverflow.com/questions/27328372/r-create-a-spatial-bubble-plot-that-overlays-a-basemap-of-the-us-and-other-spati
+
+### Choropleth
+- https://github.com/Robinlovelace/Creating-maps-in-R/
+- https://www.students.ncl.ac.uk/keith.newman/r/maps-in-r#countries
+- http://www.milanor.net/blog/?p=534
+- http://www.milanor.net/blog/?p=634
+- http://www.milanor.net/blog/?p=594
+- http://www.dataincolour.com/2011/07/maps-with-ggplot2/
+- http://blog.revolutionanalytics.com/2009/10/geographic-maps-in-r.html
+- http://rstudio-pubs-static.s3.amazonaws.com/7202_3145df2a90a44e6e86a0637bc4264f9f.html
+- http://www.r-bloggers.com/maps-with-r-and-polygon-boundaries/
+- http://www.kevjohnson.org/making-maps-in-r/
 
 ### animation
 http://civilstat.com/2012/10/animated-map-of-2012-us-election-campaigning-with-r-and-ffmpeg/
@@ -864,10 +899,32 @@ http://civilstat.com/2012/10/animated-map-of-2012-us-election-campaigning-with-r
 
 ### Spatio Data Handling
 - http://cran.r-project.org/web/views/Spatial.html
+- https://github.com/ramnathv/rMaps
 - http://cran.r-project.org/web/packages/maps/index.html
+	- map
 - http://cran.r-project.org/web/packages/rgdal/index.html
+	- from shapefile
+	- readOGR
+	- http://rpsychologist.com/working-with-shapefiles-projections-and-world-maps-in-ggplot
 - http://cran.r-project.org/web/packages/maptools/index.html
-- https://github.com/dkahle/ggmap
+	- wrld_simpl
+- http://cran.r-project.org/web/packages/ggmap/index.html
+	- https://github.com/dkahle/ggmap
+	- get_map
+- http://cran.r-project.org/web/packages/geosphere/index.html
+- http://cran.r-project.org/web/packages/ggplot2/index.html
+	- borders
+	- geom_map
+	- coord_map
+- http://cran.r-project.org/web/packages/ggmap/index.html
+- http://cran.r-project.org/web/packages/rworldmap/index.html
+	- getMap
+- http://cran.r-project.org/web/packages/sp/index.html
+- http://cran.r-project.org/web/packages/mapproj/index.html
+
+- https://github.com/Robinlovelace/Creating-maps-in-R/
+- http://www.r-bloggers.com/r-beginners-plotting-locations-on-to-a-world-map/
+- http://www.milanor.net/blog/?p=534
 
 ### Spatiotemporal Data Handling
 - http://cran.r-project.org/web/views/SpatioTemporal.html
@@ -905,10 +962,19 @@ http://civilstat.com/2012/10/animated-map-of-2012-us-election-campaigning-with-r
 ## JS
 
 ### GRAPH
-http://jsnetworkx.org/
+- http://jsnetworkx.org/
 
 ### HEATMAP
-http://www.patrick-wied.at/static/heatmapjs/
+- http://www.patrick-wied.at/static/heatmapjs/
+
+### sankey Diagram/Arc Diagram/chord Diagram
+
+- http://bl.ocks.org/mbostock/1046712
+- http://bl.ocks.org/mbostock/4062006
+- http://www.delimited.io/blog/2013/12/8/chord-diagrams-in-d3
+- http://projects.delimited.io/experiments/chord-diagrams/hair.html
+- http://www.delimited.io/blog/2014/11/18/interactive-chord-diagrams-in-d3
+- http://projects.delimited.io/experiments/chord-transitions/demos/trade.html
 
 ### Geo Data
 - http://geojson.org/
@@ -1023,20 +1089,6 @@ http://www.patrick-wied.at/static/heatmapjs/
 - http://planefinder.net/
 
 #TODO
-- Média do somatório dos profissionais de uma instituição versus seu ICG ou Rank RUF
-- Animação e mapa de calor da mobilidade entre os anos
-	- API Gephi para gerar import e calculo de métricas de forma automática
-	- Arestas contínuas 2
-	- Bizier
-	- Igraph
-	- perpectiva ggplot
-	- diagrama de corda
-	- gephi & gimp
-		- aplicar filtros aresta gephi
-	- Task View R: maps & graph
-	- Sankey Arcs
-	- animation flow map
-
 
 ## Artigo de Revista 
 - como deve ser ampliado o artigo
@@ -1047,7 +1099,32 @@ http://www.patrick-wied.at/static/heatmapjs/
 	- rank das universidade vs DD universidade do GM
 	- h-index dos pesquisadores de uma universidade vs DD universidade do GM
 
-- Questões
+## Questões
+	- Média do somatório dos profissionais de uma instituição versus seu ICG ou Rank RUF
+- Animação e mapa de calor da mobilidade entre os anos
+	- API Gephi para gerar import e calculo de métricas de forma automática
+	- Arestas contínuas 2
+	- Bizier
+	- Igraph
+	- perpectiva ggplot
+	- gephi & gimp
+		- aplicar filtros aresta gephi
+	- Task View R: maps & graph
+
+	- processing eclipse: github (migration spain, MercatorMap, Unfolding+path)
+	- Sankey Arcs, sankey+r/gephi, diagrama de corda
+
+	- animation flow map: trade off map x tools (top graph & tools)
+
+	- e-mails
+		- DESIGN FILTRO GIMP
+		- forum.processing
+		- till nagem (Splendor e day in berlin)
+		- mauro martino
+		- reginafloresmir
+		- Luciano Baldessari
+		- Michael markareta
+
 	- Existem um padrão na formação de doutores no sentido de se deslocarem (saem da cidade ou país?)
 	- Selecionar três questões principais de análises que estão relacionadas com ligações para o Brasnam
 	- Doutores vs Cidade, Estado, Região (IDHM, PIB) vs Instituição (Conceito da Universidade)
