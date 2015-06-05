@@ -1,4 +1,5 @@
 library(maps)
+library(rgdal)
 library(ggplot2)
 library(maptools)
 library(geosphere)

@@ -862,7 +862,61 @@ http://stackoverflow.com/questions/27328372/r-create-a-spatial-bubble-plot-that-
 - http://www.kevjohnson.org/making-maps-in-r/
 
 ### animation
-http://civilstat.com/2012/10/animated-map-of-2012-us-election-campaigning-with-r-and-ffmpeg/
+- http://cran.r-project.org/web/packages/animation/index.html
+- http://civilstat.com/2012/10/animated-map-of-2012-us-election-campaigning-with-r-and-ffmpeg/
+- https://vimeo.com/52312754
+- http://sappingattention.blogspot.com.br/2012/04/visualizing-ocean-shipping.html
+- https://www.youtube.com/watch?t=23&v=tnqxrcfUMsw
+- http://www.r-bloggers.com/strategic-zombie-simulation-animation/
+- http://www.programmingr.com/content/animations-r/
+- http://www.r-bloggers.com/animated-choropleths-using-animation-ggplot2-rcharts-googlevis-and-shiny-to-visualize-violent-crime-rates-in-different-us-states-across-5-decades/
+- http://civilstat.com/2012/10/animated-map-of-2012-us-election-campaigning-with-r-and-ffmpeg/
+- http://spatial.ly/2011/02/mapping-londons-population-change-2011-2030/
+- http://cran.r-project.org/web/packages/animation/index.html
+- http://gis.stackexchange.com/questions/63751/animated-map-in-r
+- http://robjhyndman.com/hyndsight/animations/
+- http://sysmagazine.com/posts/165305/
+- http://stackoverflow.com/questions/17184549/how-to-create-an-animation-of-geospatial-temporal-data
+- http://s4rdd.blogspot.com.br/2013/06/ggmap-animation-fly-from-bologna-to.html
+- https://gist.github.com/bhoung/5801805
+
+http://rstudio-pubs-static.s3.amazonaws.com/1061_d2a65f9689354413a92c069f13946135.html
+
+http://tagteam.harvard.edu/hub_feeds/1981/feed_items/1963067
+
+http://marcoghislanzoni.com/blog/2013/10/09/world-population-infographic-with-r/
+
+https://rud.is/b/2014/10/07/plot-me-like-a-hurricane-a-k-a-animating-historical-north-atlantic-basin-tropical-storm-tracks/
+
+http://rpubs.com/trinker/animated_path
+
+Visualizing Ocean Shipping
+links
+	http://sappingattention.blogspot.com.br/2012/04/visualizing-ocean-shipping.html
+	https://www.youtube.com/watch?t=23&v=tnqxrcfUMsw
+	http://benschmidt.org/maps-visualizations-gallery/
+	http://spatial.ly/2012/03/mapped-british-shipping-1750-1800/
+	http://www.theguardian.com/news/datablog/2012/apr/13/shipping-routes-history-map
+	http://www.r-bloggers.com/ben-schmid-took-ships-log-data-previously-visualized-in/
+Tools
+	ggplot and ffmpeg
+Owner
+	https://github.com/bmschmidt
+	https://www.youtube.com/channel/UCn_ubXB3-cOXF3pwPyqaVgQ
+
+Animated map of 2012 US election campaigning, with R and ffmpeg
+Links
+	http://civilstat.com/2012/10/animated-map-of-2012-us-election-campaigning-with-r-and-ffmpeg/
+	https://vimeo.com/52312754
+Tools
+	ggplot and ffmpeg
+Owner
+	https://github.com/civilstat
+	https://twitter.com/civilstat
+	http://civilstat.com/
+	
+
+http://zevross.com/blog/2014/09/30/use-the-amazing-d3-library-to-animate-a-path-on-a-leaflet-map/
 
 ### Doc geographic data
 - http://spatial.ly/
@@ -1110,6 +1164,12 @@ http://civilstat.com/2012/10/animated-map-of-2012-us-election-campaigning-with-r
 	- gephi & gimp
 		- aplicar filtros aresta gephi
 	- Task View R: maps & graph
+
+	- estado que mais interage com o exterior
+	- balança comercial
+
+	- animation ir R, Processing, JS
+	- map R region e country
 
 	- processing eclipse: github (migration spain, MercatorMap, Unfolding+path)
 	- Sankey Arcs, sankey+r/gephi, diagrama de corda

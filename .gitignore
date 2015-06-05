@@ -8,6 +8,8 @@ src/flow-edges/gephi/data/edges-flow-year.csv
 src/flow-edges/gephi/data/edges-flow-year2.csv
 src/flow-edges/gephi/data/edges-flow-instituition-distance-year.csv
 src/flow-edges/gephi/data/edges-flow-instituition-distance.csv
+src/flow-edges/gephi/data/edges-flow-city-all/data-code/edges-flow-city-distance-years-code.csv
+src/flow-edges/gephi/data/edges-flow-city/data-code/edges-flow-city-distance-years-code.csv
 src/flow-edges/map/examples/wu03ew_v1.csv
 src/flow-edges/map/lattes-flows-instituition-2013-br.csv
 src/flow-edges/map/lattes-flows-instituition-2013.csv

@@ -1,4 +1,4 @@
 https://www.mapbox.com/developers/api/maps/#mapids
 https://www.mapbox.com/developers/api/static/#images
 
-http://api.tiles.mapbox.com/v4/mapbox.high-contrast/0,0,2/1200x1000.png?access_token=pk.eyJ1IjoibHVjYWNoYXZlcyIsImEiOiJXcG9ueGFRIn0.nFaXAq9MOOR4WrZZHVXK_g
+http://api.tiles.mapbox.com/v4/mapbox.high-contrast/0,0,2/1000x1000.png?access_token=pk.eyJ1IjoibHVjYWNoYXZlcyIsImEiOiJXcG9ueGFRIn0.nFaXAq9MOOR4WrZZHVXK_g
