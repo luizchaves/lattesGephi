@@ -13,6 +13,7 @@ nodes = "../nodes-flow-#{kind_data}.csv"
 nodes = File.read(nodes).split("\n")
 
 cities = {}
+countries = {}
 flows = []
 
 year_column = {}
@@ -31,6 +32,7 @@ years.each{|year|
 		row = row.split(",")
 		# id, lat, long
 		cities[row[0]] = [row[-2],row[-1]]
+		countries[row[0]] = row[-3]
 	}
 
 	# byebug
@@ -40,13 +42,13 @@ years.each{|year|
 		# source, target, year
 		trips = row[year_column[year]]
 		next if trips == "0"
-		next if row[0] == row[1]
-		flows << [index]+cities[row[0]]+cities[row[1]]+[trips]
+		next if row[0] == row[1] #loops
+		flows << [index]+cities[row[0]]+cities[row[1]]+[trips, countries[row[0]], countries[row[1]]]
 	}
 
 	result = ""
 	result = CSV.generate(:col_sep => ",") do |csv|  
-		csv << ["id", "oX", "oY","dX","dY","trips"]
+		csv << ["id","oX","oY","dX","dY","trips","cO","cD"]
 		flows.each{|row|
 			csv << row
 		}
@@ -56,4 +58,3 @@ years.each{|year|
 	# file_result = "data-latlon/lattes-flows-#{kind_data}-#{year}-br.csv"
 	File.write(file_result, result)
 }
-

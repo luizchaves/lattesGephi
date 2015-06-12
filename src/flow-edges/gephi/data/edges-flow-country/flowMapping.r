@@ -84,7 +84,8 @@ bezier.uv.merc.arc <- function(p1, p2) {
 
 # for (year in 2013:2013) {
 # for (year in 1960:1960) {
-for (year in 1960:2013) {
+for (year in c(1973, 1983, 1993, 2003, 2013)) {
+# for (year in 1960:2013) {
   print(paste("year-", year, "!", sep=""))
 
   #white/black

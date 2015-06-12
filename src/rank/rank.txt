@@ -34,6 +34,10 @@ http://www.urapcenter.org/2014/world.php?q=MS0yNTA=
 Performance Ranking of Scientific Papers for World Universities
 http://nturanking.lis.ntu.edu.tw/
 
+## US
+http://www.usnews.com/
+http://en.wikipedia.org/wiki/Rankings_of_universities_in_the_United_States
+
 ## BRAZIL
 http://ruf.folha.uol.com.br/2012/rankings/rankingdeuniversidades/
 http://portal.inep.gov.br/educacao-superior/indicadores/indice-geral-de-cursos-igc
