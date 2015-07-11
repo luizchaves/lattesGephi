@@ -57,8 +57,9 @@ def change_value(temp, kind=nil)
 end
 
 file = File.read('edges-flow-state-distance-year.csv')
+# file = File.read('edges-flow-state-distance-year-all.csv')
 
-kind_change = "cube_root"
+# kind_change = "cube_root"
 kind_change = nil
 
 distinct_rows = {}
@@ -112,12 +113,12 @@ years.each{|year|
 	end
 	File.write("edges-flow-state/edges-flow-state-distance-year-#{year}.csv", csv_string)
 
-	csv_string.gsub!(",","\";\"")
-	csv_string.gsub!("\n","\"\n\"")
-	csv_string = "\"#{csv_string}\""
-	csv_string.gsub!(".",",")
+	# csv_string.gsub!(",","\";\"")
+	# csv_string.gsub!("\n","\"\n\"")
+	# csv_string = "\"#{csv_string}\""
+	# csv_string.gsub!(".",",")
 
-	File.write("edges-flow-state/edges-flow-state-distance-year-#{year}2.csv", csv_string)
+	# File.write("edges-flow-state/edges-flow-state-distance-year-#{year}2.csv", csv_string)
 }
 years.each{|year|
 	# if kind_change == nil
@@ -131,6 +132,7 @@ years.each{|year|
 
 counts_flow = []
 counts_flow << ["source","target"]+years.to_a
+# counts_flow << ["source","target"]+years.to_a+["all"]
 names.keys.each{|index1|
 	names.keys.each{|index2|
 		row = [names[index1],names[index2]]
@@ -146,19 +148,22 @@ names.keys.each{|index1|
 			end
 		}
 		counts_flow << row
+		# counts_flow << row+[row[2..-1].inject(:+)]
 	}
 }
+# byebug
 csv_string = CSV.generate(:col_sep => ",") do |csv|
 	counts_flow.each{|row|
 		csv << row
 	}
 end
 File.write("edges-flow-state/edges-flow-state-distance-years.csv", csv_string)
-csv_string.gsub!(",","\";\"")
-csv_string.gsub!("\n","\"\n\"")
-csv_string = "\"#{csv_string}\""
-csv_string.gsub!(".",",")
-File.write("edges-flow-state/edges-flow-state-distance-years2.csv", csv_string)
+# File.write("edges-flow-state/edges-flow-state-distance-years-all.csv", csv_string)
+# csv_string.gsub!(",","\";\"")
+# csv_string.gsub!("\n","\"\n\"")
+# csv_string = "\"#{csv_string}\""
+# csv_string.gsub!(".",",")
+# File.write("edges-flow-state/edges-flow-state-distance-years2.csv", csv_string)
 
 puts "######## Create animation"
 # `convert -delay 300 -loop 0 edges-flow-state/edges-flow-state-distance-year-*.png edges-flow-state/animaion.gif`

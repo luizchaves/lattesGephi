@@ -1,0 +1,2 @@
+http://gis.stackexchange.com/questions/45243/how-to-determine-the-centroid-of-polygons
+http://www.codegeo.com.br/2013/04/shapefiles-do-brasil-para-download.html

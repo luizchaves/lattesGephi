@@ -136,26 +136,29 @@ library(reshape2)
 file <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-region-degree.csv", sep=",",header=T, check.names = FALSE)
 row.names(file) <- file$regioes
 flow <- file[,2:6]
+row.names(flow) <- c("S", "SE", "CO", "NE", "N")
+colnames(flow) <- row.names(flow)
 flow_matrix <- data.matrix(flow)
 # dat <- melt(flow_matrix, id.var = "X1")
 dat <- melt(log(flow_matrix), id.var = "X1")
+# dat$valor <- replace(dat$value, dat$value==-Inf, 0)
 # levels(iris$Species) <- c(levels(iris$Species), "new.species")
 # iris$Species[iris$Species == 'virginica'] <- 'new.species'
-levels(dat$Var1) <- c(levels(dat$Var1), "S", "SE", "CO", "N", "NE")
-levels(dat$Var2) <- c(levels(dat$Var1), "S", "SE", "CO", "N", "NE")
-dat$Var1 <- replace(dat$Var1, dat$Var1=="sul", "S")
-dat$Var2 <- replace(dat$Var2, dat$Var2=="sul", "S")
-dat$Var1 <- replace(dat$Var1, dat$Var1=="sudeste", "SE")
-dat$Var2 <- replace(dat$Var2, dat$Var2=="sudeste", "SE")
-dat$Var1 <- replace(dat$Var1, dat$Var1=="nordeste", "NE")
-dat$Var2 <- replace(dat$Var2, dat$Var2=="nordeste", "NE")
-dat$Var1 <- replace(dat$Var1, dat$Var1=="norte", "N")
-dat$Var2 <- replace(dat$Var2, dat$Var2=="norte", "N")
-dat$Var1 <- replace(dat$Var1, dat$Var1=="centro-oeste", "CO")
-dat$Var2 <- replace(dat$Var2, dat$Var2=="centro-oeste", "CO")
+# levels(dat$Var1) <- c(levels(dat$Var1), "S", "SE", "CO", "N", "NE")
+# levels(dat$Var2) <- c(levels(dat$Var1), "S", "SE", "CO", "N", "NE")
+# dat$Var1 <- replace(dat$Var1, dat$Var1=="sul", "S")
+# dat$Var2 <- replace(dat$Var2, dat$Var2=="sul", "S")
+# dat$Var1 <- replace(dat$Var1, dat$Var1=="sudeste", "SE")
+# dat$Var2 <- replace(dat$Var2, dat$Var2=="sudeste", "SE")
+# dat$Var1 <- replace(dat$Var1, dat$Var1=="nordeste", "NE")
+# dat$Var2 <- replace(dat$Var2, dat$Var2=="nordeste", "NE")
+# dat$Var1 <- replace(dat$Var1, dat$Var1=="norte", "N")
+# dat$Var2 <- replace(dat$Var2, dat$Var2=="norte", "N")
+# dat$Var1 <- replace(dat$Var1, dat$Var1=="centro-oeste", "CO")
+# dat$Var2 <- replace(dat$Var2, dat$Var2=="centro-oeste", "CO")
 ggplot(dat, aes(as.factor(Var1), Var2, group=Var2)) +
   geom_tile(aes(fill = value)) + 
-  # geom_text(aes(fill = dat$value, label = round(dat$value, 1)))+
+  geom_text(aes(fill = dat$value, label = round(dat$value, 1)))+
   # scale_fill_gradient(low = "white", high = "red")+
   scale_fill_gradient(low='white', high='grey20')+
   # xlab("origin") + ylab("destination")+ggtitle("Brazilian Regions Flow")+
@@ -175,17 +178,21 @@ ggplot(dat, aes(as.factor(Var1), Var2, group=Var2)) +
 library(ggplot2)
 library(reshape2)
 flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/migration/heatmap-flow-state-degree.csv", sep=",",header=T, check.names = FALSE)
-row.names(flow) <- flow$[0,]
+# row.names(flow) <- colnames(flow)[2:28]
+row.names(flow) <- c("SC", "SP", "MG", "DF", "PR", "BA", "RJ", "RS", "MA", "AM", "MT", "PA", "ES", "GO", "PE", "PB", "AP", "CE", "MS", "AL", "RN", "PI", "SE", "AC", "RO", "TO", "RR")
+colnames(flow) <- row.names(flow)
 flow <- flow[,2:28]
 flow_matrix <- data.matrix(flow)
 # dat <- melt(flow_matrix, id.var = "X1")
 dat <- melt(log(flow_matrix), id.var = "X1")
-dat$value <- replace(dat$value, dat$value==-Inf, 0)
+dat$valor <- replace(dat$value, dat$value==-Inf, 0)
 ggplot(dat, aes(as.factor(Var1), Var2, group=Var2)) +
-  geom_tile(aes(fill = value)) + 
+  geom_tile(aes(fill = valor)) + 
   # geom_text(aes(fill = dat$value, label = round(dat$value, 1)))+
-  scale_fill_gradient(low = "white", high = "red")+
-  theme(axis.text.x=element_text(angle=-90))
+  # scale_fill_gradient(low = "white", high = "red")+
+  scale_fill_gradient(low='white', high='grey20')+
+  theme(axis.text.x=element_text(angle=-90))+
+  xlab("origem") + ylab("destino")
 
 #### heatmap city
 # library(ggplot2)

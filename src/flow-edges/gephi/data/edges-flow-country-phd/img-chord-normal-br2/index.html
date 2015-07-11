@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		body>div {
+			width: 19%;
+			display: inline-block;
+			border: 1px solid #000;
+		}
+		div#sidebar {
+			width: 2%;
+			border:none;
+			left: 0px;
+		  top: -1200px;
+		  position: relative;
+		}
+		body>div>div>img{
+			width: 100%;
+		}
+		body>div>div.circle{
+			height: 250px;
+		}
+		body>div>div.bar, body>div>div.map{
+			height: 150px;
+		}
+		div#sidebar>div.marg-bot {
+			margin-bottom: 222px;
+		}
+		div#sidebar>div.marg-bot2 {
+			margin-bottom: 122px;
+		}
+		div#sidebar>div.circle, div#sidebar>div.bar, div#sidebar>div.map {
+			text-align: center;
+			display: block;
+			float: left;
+			border: 1px solid #fff;
+			transform: rotate(-90deg);
+			transform-origin: left top 0;
+			width: 248px;
+			height: 26px;
+		}
+		div#sidebar>div.bar, div#sidebar>div.map{
+			width: 170px;
+		}
+		div#sidebar>div, .header{
+			background-color: #000;
+			color: #fff;
+			text-align: center;
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<!--
+		fluxo no brasil
+		fluxo no exterior
+		fluxo para o exterior
+		fluxo para o brasil
+		número de rotas
+		número de países externos envolvidos
+		número de bolsas no Brasil e no exterior
+		cursos de doutorado
+		número de docentes em pós
+		número de formados em doutorado no Brasil e no exterior
+		-->
+	<div id="sidebar">
+		<div>
+			&nbsp;
+		</div>
+		<div class="img circle marg-bot">
+			Padrão do Movimento Global
+		</div>
+		<div class="img circle marg-bot">
+			Movimento Global (%)
+		</div>
+		<div class="img circle marg-bot">
+			Padrão do Movimento Externo
+		</div>
+		<div class="img circle marg-bot2">
+			Movimento Externo (%)
+		</div>
+		<div class="img bar marg-bot2">
+			Entrada Brasil
+		</div>
+		<div class="img bar marg-bot2">
+			Saída Brasil
+		</div>
+		<div class="img map marg-bot2">
+			Fluxos no mapa
+		</div>
+	</div>
+	<div id="year73">
+		<div class="header">
+			1973
+		</div>
+		<div class="img circle">
+			<img src="chordGraph-1973-BR.png">
+		</div>
+		<div class="img circle">
+			<img src="info-global-1973.png">
+		</div>
+		<div class="img circle">
+			<img src="chord-1973-inputBR.png">
+		</div>
+		<div class="img circle">
+			<img src="info-externo-1973.png">
+		</div>
+		<div class="img bar">
+			<img src="info-inputFlow-1973.png">
+		</div>
+		<div class="img bar">
+			<img src="info-outputFlow-1973.png">
+		</div>
+		<div class="img map">
+			<img src="map-1973.png">
+		</div>
+	</div>
+	<div>
+		<div class="header">
+			1983
+		</div>
+		<div class="img circle">
+			<img src="chordGraph-1983-BR.png">
+		</div>
+		<div class="img circle">
+			<img src="info-global-1983.png">
+		</div>
+		<div class="img circle">
+			<img src="chord-1983-inputBR.png">
+		</div>
+		<div class="img circle">
+			<img src="info-externo-1983.png">
+		</div>
+		<div class="img bar">
+			<img src="info-inputFlow-1983.png">
+		</div>
+		<div class="img bar">
+			<img src="info-outputFlow-1983.png">
+		</div>
+		<div class="img map">
+			<img src="map-1983.png">
+		</div>
+	</div>
+	<div>
+		<div class="header">
+			1993
+		</div>
+		<div class="img circle">
+			<img src="chordGraph-1993-BR.png">
+		</div>
+		<div class="img circle">
+			<img src="info-global-1993.png">
+		</div>
+		<div class="img circle">
+			<img src="chord-1993-inputBR.png">
+		</div>
+		<div class="img circle">
+			<img src="info-externo-1993.png">
+		</div>
+		<div class="img bar">
+			<img src="info-inputFlow-1993.png">
+		</div>
+		<div class="img bar">
+			<img src="info-outputFlow-1993.png">
+		</div>
+		<div class="img map">
+			<img src="map-1993.png">
+		</div>
+	</div>
+	<div>
+		<div class="header">
+			2003
+		</div>
+		<div class="img circle">
+			<img src="chordGraph-2003-BR.png">
+		</div>
+		<div class="img circle">
+			<img src="info-global-2003.png">
+		</div>
+		<div class="img circle">
+			<img src="chord-2003-inputBR.png">
+		</div>
+		<div class="img circle">
+			<img src="info-externo-2003.png">
+		</div>
+		<div class="img bar">
+			<img src="info-inputFlow-2003.png">
+		</div>
+		<div class="img bar">
+			<img src="info-outputFlow-2003.png">
+		</div>
+		<div class="img map">
+			<img src="map-2003.png">
+		</div>
+	</div>
+	<div>
+		<div class="header">
+			2013
+		</div>
+		<div class="img circle">
+			<img src="chordGraph-2013-BR.png">
+		</div>
+		<div class="img circle">
+			<img src="info-global-2013.png">
+		</div>
+		<div class="img circle">
+			<img src="chord-2013-inputBR.png">
+		</div>
+		<div class="img circle">
+			<img src="info-externo-2013.png">
+		</div>
+		<div class="img bar">
+			<img src="info-inputFlow-2013.png">
+		</div>
+		<div class="img bar">
+			<img src="info-outputFlow-2013.png">
+		</div>
+		<div class="img map">
+			<img src="map-2013.png">
+		</div>
+	</div>
+</body>
+</html>

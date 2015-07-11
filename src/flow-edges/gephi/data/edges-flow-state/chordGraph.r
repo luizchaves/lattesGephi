@@ -1,7 +1,7 @@
 library(circlize)
 
-for (year in 1950:2013) {
-# for (year in 2013:2013) {
+# for (year in 1950:2013) {
+for (year in 2013:2013) {
 	print(paste("year-", year, "!", sep=""))
 
 	flows  <- read.csv(paste("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/gephi/data/edges-flow-state/data-name/edges-flow-state-distance-year-", year, ".csv", sep=""), sep=",",header=T, check.names = FALSE)
@@ -9,6 +9,9 @@ for (year in 1950:2013) {
 	temp <- flows[1:(size-1),2:size]
 	mat <- data.matrix(temp)
 	rownames(mat) = colnames(mat)
+
+	# rownames(mat) = c("PR", "SC", "SP", "RJ", "GO", "PE", "RS", "MG", "RN", "MA", "PB", "AM", "DF", "MT", "BA", "CE", "ES", "PA", "MS", "TO", "PI", "AC", "AL", "SE", "RO", "RR", "AP")
+	# colnames(mat) = rownames(mat)
 
 	png(paste("img-chord-normal/chordGraph-", year, "-BR.png", sep=""), 1000, 1000)
 	
@@ -43,6 +46,33 @@ for (year in 1950:2013) {
 	grid.col["rondonia"] = "#AAAAAA"
 	grid.col["roraima"] = "#000055"
 	grid.col["amapa"] = "#00FF55"
+	# grid.col["PR"] = "#00FF00"
+	# grid.col["SC"] = "#00FFFF"
+	# grid.col["SP"] = "#FF0000"
+	# grid.col["RJ"] = "#FF00FF"
+	# grid.col["GO"] = "#FFFF00"
+	# grid.col["PE"] = "#CCCCCC"
+	# grid.col["RS"] = "#0000AA"
+	# grid.col["MG"] = "#00FFAA"
+	# grid.col["RN"] = "#00AA00"
+	# grid.col["MA"] = "#00AAFF"
+	# grid.col["PB"] = "#00AAAA"
+	# grid.col["AM"] = "#FF00AA"
+	# grid.col["DF"] = "#FFFFAA"
+	# grid.col["MT"] = "#FFAA00"
+	# grid.col["BA"] = "#FFAAFF"
+	# grid.col["CE"] = "#FFAAAA"
+	# grid.col["ES"] = "#AA0000"
+	# grid.col["PA"] = "#AA00FF"
+	# grid.col["MS"] = "#AA00AA"
+	# grid.col["TO"] = "#AAFF00"
+	# grid.col["PI"] = "#AAFFFF"
+	# grid.col["AC"] = "#AAFFAA"
+	# grid.col["AL"] = "#AAAA00"
+	# grid.col["SE"] = "#AAAAFF"
+	# grid.col["RO"] = "#AAAAAA"
+	# grid.col["RR"] = "#000055"
+	# grid.col["AP"] = "#00FF55"
 
 	# order <- c("parana", "santa catarina", "sao paulo", "rio de janeiro", "goias", "pernambuco", "rio grande do sul", "minas gerais", "rio grande do norte", "maranhao", "paraiba", "amazonas", "federal district", "mato grosso", "bahia", "ceara", "espirito santo", "para", "mato grosso do sul", "tocantins", "piaui", "acre", "alagoas", "sergipe", "rondonia", "roraima", "amapa")
 	
@@ -76,7 +106,8 @@ for (year in 1950:2013) {
 				sector.name, 
 				facing = "clockwise",
 				niceFacing = TRUE, 
-				adj = c(0, 0.5)
+				adj = c(0, 0.5),
+				cex = 1.5
 			)
 		}, 
 		bg.border = NA

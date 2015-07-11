@@ -1,4 +1,5 @@
-flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/distance/lattes-flow-distance-year.csv", sep=",",header=T, check.names = FALSE)
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/distance/lattes-flow-distance-year-all-br.csv", sep=",",header=T, check.names = FALSE)
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/distance/lattes-flow-distance-year-all.csv", sep=",",header=T, check.names = FALSE)
 
 is.list(flow)
 is.vector(flow$distances)
@@ -21,8 +22,8 @@ df <- data.frame(x = flow$years,y=flow$distances)
 library(ggplot2) 
 ggplot(df,aes(x=x,y=y)) + 
 	geom_point(alpha = 0.3) + 
-	# xlab("year") + ylab("distance")+ggtitle("Distance by Year")+
-	xlab("ano") + ylab("distância")+
+	# xlab("year") + ylab("distance (m)")+ggtitle("Distance by Year")+
+	xlab("ano") + ylab("distância (m)")+
 	theme(
     title=element_text(size=14,face="bold"), 
     axis.text=element_text(size=14,face="bold"), 
@@ -40,7 +41,8 @@ ggplot(df,aes(x=x,y=y))+
 	stat_binhex()+ 
 	xlim(1940,2014)
 
-flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/distance/lattes-flow-distance-year.csv")
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/distance/lattes-flow-distance-year-all.csv")
+flow <- read.csv("~/Documents/code/github/lucachaves/lattesGephi/src/flow-edges/distance/lattes-flow-distance-year-all-br.csv")
 
 summary(flow$distances)
 head(table(flow$distances))
@@ -55,7 +57,7 @@ ggplot(flow, aes(x = flow$distances, y = (..count..)/sum(..count..)))+
 ggplot(flow, aes(x = flow$distances, y = (..count..)/sum(..count..)))+ 
 	geom_bar()+
 	# xlim(0, 12000000)+
-	xlab("distância") + ylab("porcentagem (%)")+
+	xlab("distância (m)") + ylab("porcentagem (%)")+
 	theme(
     title=element_text(size=14,face="bold"), 
     axis.text=element_text(size=14,face="bold"), 

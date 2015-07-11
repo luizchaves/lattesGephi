@@ -77,13 +77,13 @@ flow <- file[,2:80]
 flow_matrix <- data.matrix(flow)
 # dat <- melt(flow_matrix, id.var = "X1")
 dat <- melt(log(flow_matrix+1), id.var = "X1")
-dat$value <- replace(dat$value, dat$value==-Inf, 0)
+dat$valor <- replace(dat$value, dat$value==-Inf, 0)
 # dat$Var2 <- replace(dat$Var2, dat$Var2%%10!=0, '')
 # names(dat)
 # colnames(dat)
 # colnames(dat) <- c("city", "year","value")
 ggplot(dat, aes(as.factor(Var2), Var1, group=Var1))+
-    geom_tile(aes(fill = value))+
+    geom_tile(aes(fill = valor))+
     # scale_fill_gradient(low = "white", high = "red")+
     scale_fill_gradient(low='white', high='grey20')+
     # xlab("years") + ylab("TOP cities")+ggtitle("Evolution of phd")+

@@ -56,7 +56,9 @@ def change_value(temp, kind=nil)
 	temp
 end
 
-file = File.read('edges-flow-country-distance-year.csv')
+sample = "phd"
+sample = "birth"
+file = File.read('edges-flow-country-distance-year-#{sample}.csv')
 
 # kind_change = "cube_root"
 kind_change = ""
@@ -124,9 +126,9 @@ years.each{|year|
 		}
 	end
 	if kind_index == "code"
-		File.write("edges-flow-country/data-code/edges-flow-country-distance-year-#{year}-code.csv", csv_string)
+		File.write("edges-flow-country-#{sample}/data-code/edges-flow-country-distance-year-#{year}-code.csv", csv_string)
 	else
-		File.write("edges-flow-country/data-name/edges-flow-country-distance-year-#{year}-names.csv", csv_string)
+		File.write("edges-flow-country-#{sample}/data-name/edges-flow-country-distance-year-#{year}-names.csv", csv_string)
 	end
 
 	# csv_string.gsub!(",","\";\"")
@@ -134,7 +136,7 @@ years.each{|year|
 	# csv_string = "\"#{csv_string}\""
 	# csv_string.gsub!(".",",")
 
-	# File.write("edges-flow-country/edges-flow-country-distance-year-#{year}2.csv", csv_string)
+	# File.write("edges-flow-country-#{sample}/edges-flow-country-distance-year-#{year}2.csv", csv_string)
 }
 
 
@@ -165,9 +167,9 @@ csv_string_all = CSV.generate(:col_sep => ",") do |csv|
 	}
 end
 if kind_index == "code"
-	File.write("edges-flow-country/data-code/edges-flow-country-distance-year-all-code.csv", csv_string_all)
+	File.write("edges-flow-country-#{sample}/data-code/edges-flow-country-distance-year-all-code.csv", csv_string_all)
 else
-	File.write("edges-flow-country/data-name/edges-flow-country-distance-year-all-names.csv", csv_string_all)
+	File.write("edges-flow-country-#{sample}/data-name/edges-flow-country-distance-year-all-names.csv", csv_string_all)
 end
 
 
@@ -217,21 +219,21 @@ csv_string = CSV.generate(:col_sep => ",") do |csv|
 	}
 end
 if kind_index == "code"
-	File.write("edges-flow-country/data-code/edges-flow-country-distance-years-code.csv", csv_string)
+	File.write("edges-flow-country-#{sample}/data-code/edges-flow-country-distance-years-code.csv", csv_string)
 else
-	File.write("edges-flow-country/data-name/edges-flow-country-distance-years-names.csv", csv_string)
+	File.write("edges-flow-country-#{sample}/data-name/edges-flow-country-distance-years-names.csv", csv_string)
 end
 # csv_string.gsub!(",","\";\"")
 # csv_string.gsub!("\n","\"\n\"")
 # csv_string = "\"#{csv_string}\""
 # csv_string.gsub!(".",",")
-# File.write("edges-flow-country/edges-flow-country-distance-years2.csv", csv_string)
+# File.write("edges-flow-country-#{sample}/edges-flow-country-distance-years2.csv", csv_string)
 
 
 
 ## CREATE ANIMATION GIF
 # puts "######## Create animation"
-# `convert -delay 300 -loop 0 edges-flow-country/edges-flow-country-distance-year-*.png edges-flow-country/animaion.gif`
+# `convert -delay 300 -loop 0 edges-flow-country-#{sample}/edges-flow-country-distance-year-*.png edges-flow-country-#{sample}/animaion.gif`
 
 
 puts "fim"

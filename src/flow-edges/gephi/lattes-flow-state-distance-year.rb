@@ -205,5 +205,6 @@ csv_string = CSV.generate(:col_sep => ",") do |csv|
 	}
 end
 File.write("data/edges-flow-state-distance-year.csv", csv_string)
+# File.write("data/edges-flow-state-distance-year-all.csv", csv_string)
 
 puts "fim"

@@ -33,7 +33,8 @@ require 'rinruby'
 
 kind_data = "state"
 
-edges = "data-name/edges-flow-#{kind_data}-distance-years.csv"
+edges = "edges-flow-#{kind_data}-distance-years-all.csv"
+# edges = "data-name/edges-flow-#{kind_data}-distance-years.csv"
 edges = File.read(edges).split("\n")
 
 nodes = "../nodes-flow-#{kind_data}.csv"
@@ -53,6 +54,7 @@ year_column = {}
 # years = (2013..2013)
 years = (1950..2013)
 bar = ProgressBar.new(years.size)
+total_flows = []
 years.each{|year|
 	bar.increment!
 
@@ -71,6 +73,7 @@ years.each{|year|
 		next if trips == "0"
 		next if row[0] == row[1]
 		flows << [index]+states[row[0]]+states[row[1]]+[trips]
+		total_flows << [index]+states[row[0]]+states[row[1]]+[trips]
 	}
 
 	result = CSV.generate(:col_sep => ",") do |csv|  
@@ -80,9 +83,18 @@ years.each{|year|
 		}
 	end
 
-	file_result = "data-latlon/lattes-flows-#{kind_data}-#{year}.csv"
+	file_result = "data-latlon-all/lattes-flows-#{kind_data}-#{year}.csv"
 	File.write(file_result, result)
 	# generate_map(file_result, year)
 	# File.write("data-latlon/lattes-flows-#{kind_data}-#{year}-br.csv", result)
 }
+
+result = CSV.generate(:col_sep => ",") do |csv|  
+	csv << ["id", "oX", "oY","dX","dY","trips"]
+	total_flows.each{|row|
+		csv << row
+	}
+end
+file_result = "data-latlon-all/lattes-flows-#{kind_data}-all.csv"
+File.write(file_result, result)
 

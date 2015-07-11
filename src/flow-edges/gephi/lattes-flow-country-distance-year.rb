@@ -289,7 +289,7 @@ edges.each{|edge|
 	source = edge[:source]
 	target = edge[:target]
 
-	next if target[2] != "doutorado"
+	# next if target[2] != "doutorado"
 
 	kind = ""
 	if source[2] == "birth"

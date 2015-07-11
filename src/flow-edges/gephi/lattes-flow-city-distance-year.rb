@@ -149,7 +149,11 @@ edges.each{|edge|
 	destination = edge[:target][9]
 	from = edge[:source][9]
 
-	# distance = geo_distance(edge[:source][14].to_f, edge[:source][15].to_f, edge[:target][14].to_f, edge[:target][15].to_f)
+	toCountry = edge[:target][12]
+	fromCountry = edge[:source][12]
+
+	distance = geo_distance(edge[:source][14].to_f, edge[:source][15].to_f, edge[:target][14].to_f, edge[:target][15].to_f)
+	byebug
 	
 	# start_year = edge[:target][6]
 	end_year = edge[:target][7]
@@ -166,19 +170,20 @@ edges.each{|edge|
 	id = "#{source}-#{target}-#{kind}-#{year}"
 
 	if network[id].nil?
-		network[id] = [source, target, kind, "Directed", countEdge, nil, 1, from, destination, year]
+		network[id] = [source, target, kind, "Directed", countEdge, nil, 1, from, destination, year, distance, fromCountry, toCountry]
 	else
 		network[id][6] += 1
 	end
 }
 
 csv_string = CSV.generate(:col_sep => ",") do |csv|
-	csv << ["Source", "Target","Kind","Type", "Id", "Label", "Weight", "From", "Destination", "year"]
+	csv << ["Source", "Target","Kind","Type", "Id", "Label", "Weight", "From", "Destination", "year", "Distance", "fromCountry", "toCountry"]
 	network.each{|id, edge|
 		csv << edge
 	}
 end
 # File.write("data/edges-flow-city-distance-year.csv", csv_string)
-File.write("data/edges-flow-city-distance-year-all.csv", csv_string)
+# File.write("data/edges-flow-city-distance-year-all.csv", csv_string)
+File.write("data/edges-flow-city-distance-year-country-all.csv", csv_string)
 
 puts "fim"

@@ -1,0 +1,3237 @@
+Source,Target,Kind,Type,Id,Label,Weight,From,Destination,year
+1,1,degree,Directed,3,,10084,brazil,brazil,2014
+1,1,degree,Directed,7,,3457,brazil,brazil,1998
+1,7,degree,Directed,10,,56,brazil,spain,2001
+1,1,degree,Directed,15,,3024,brazil,brazil,1997
+1,1,degree,Directed,23,,10836,brazil,brazil,2011
+1,1,degree,Directed,27,,12085,brazil,brazil,2012
+1,5,degree,Directed,33,,115,brazil,united kingdom,1995
+1,2,degree,Directed,39,,44,brazil,united states,2014
+1,1,degree,Directed,43,,9408,brazil,brazil,2008
+2,1,degree,Directed,48,,9,united states,brazil,1976
+1,1,degree,Directed,86,,10012,brazil,brazil,2010
+1,1,degree,Directed,92,,8764,brazil,brazil,2007
+1,1,degree,Directed,126,,13028,brazil,brazil,2013
+1,1,degree,Directed,135,,4055,brazil,brazil,1999
+1,7,degree,Directed,140,,53,brazil,spain,1999
+1,1,degree,Directed,145,,9969,brazil,brazil,2009
+1,1,degree,Directed,149,,1362,brazil,brazil,1992
+1,5,degree,Directed,154,,68,brazil,united kingdom,1991
+1,1,degree,Directed,160,,8356,brazil,brazil,2006
+1,1,degree,Directed,165,,6021,brazil,brazil,2002
+1,1,degree,Directed,169,,2530,brazil,brazil,1996
+1,1,degree,Directed,174,,4585,brazil,brazil,2000
+1,1,degree,Directed,184,,7290,brazil,brazil,2004
+1,11,degree,Directed,198,,22,brazil,france,2002
+1,1,degree,Directed,208,,2083,brazil,brazil,1995
+1,7,degree,Directed,223,,9,brazil,spain,1989
+1,1,degree,Directed,228,,5338,brazil,brazil,2001
+1,1,degree,Directed,288,,8005,brazil,brazil,2005
+1,1,degree,Directed,335,,7210,brazil,brazil,2003
+1,1,degree,Directed,354,,782,brazil,brazil,1988
+1,1,degree,Directed,359,,1400,brazil,brazil,1993
+1,1,degree,Directed,378,,185,brazil,brazil,1975
+8,1,degree,Directed,643,,3,germany,brazil,2013
+1,20,degree,Directed,694,,6,brazil,australia,2014
+2,1,degree,Directed,971,,24,united states,brazil,2013
+1,1,birth,Directed,1088,,96,brazil,brazil,2000
+5,1,degree,Directed,1112,,9,united kingdom,brazil,1998
+1,1,birth,Directed,1365,,72,brazil,brazil,2010
+1,1,degree,Directed,1385,,1779,brazil,brazil,1994
+1,1,birth,Directed,1421,,138,brazil,brazil,2001
+5,1,degree,Directed,1475,,14,united kingdom,brazil,2004
+4,4,degree,Directed,1540,,1,canada,canada,2000
+7,1,degree,Directed,1666,,9,spain,brazil,2011
+4,4,degree,Directed,1668,,3,canada,canada,1983
+11,1,degree,Directed,1709,,6,france,brazil,2012
+1,12,degree,Directed,1760,,4,brazil,chile,2014
+1,2,degree,Directed,1804,,86,brazil,united states,1998
+1,11,degree,Directed,1822,,25,brazil,france,2011
+11,11,degree,Directed,1841,,24,france,france,2008
+1,4,degree,Directed,1846,,15,brazil,canada,1995
+19,1,degree,Directed,1855,,2,belgium,brazil,1995
+1,14,degree,Directed,1867,,7,brazil,netherlands,2012
+1,11,degree,Directed,1891,,25,brazil,france,2007
+1,2,degree,Directed,1898,,69,brazil,united states,2005
+1,2,degree,Directed,1923,,75,brazil,united states,2004
+1,7,degree,Directed,1948,,62,brazil,spain,2005
+1,7,degree,Directed,1951,,39,brazil,spain,1995
+1,1,degree,Directed,1987,,997,brazil,brazil,1990
+1,3,degree,Directed,2011,,53,brazil,portugal,2012
+1,2,degree,Directed,2014,,67,brazil,united states,2002
+1,3,degree,Directed,2022,,22,brazil,portugal,2004
+1,2,degree,Directed,2080,,68,brazil,united states,2008
+1,5,degree,Directed,2125,,57,brazil,united kingdom,1989
+1,8,degree,Directed,2141,,6,brazil,germany,2001
+1,5,degree,Directed,2152,,87,brazil,united kingdom,1996
+1,11,degree,Directed,2189,,44,brazil,france,1985
+1,11,degree,Directed,2209,,29,brazil,france,1989
+1,2,degree,Directed,2225,,65,brazil,united states,2010
+1,1,degree,Directed,2233,,241,brazil,brazil,1978
+1,13,degree,Directed,2241,,12,brazil,italy,2013
+1,3,degree,Directed,2258,,50,brazil,portugal,2010
+1,5,degree,Directed,2306,,30,brazil,united kingdom,1980
+1,4,degree,Directed,2318,,4,brazil,canada,1979
+1,13,degree,Directed,2353,,4,brazil,italy,1998
+2,1,degree,Directed,2359,,33,united states,brazil,2004
+1,2,degree,Directed,2363,,47,brazil,united states,2009
+1,19,degree,Directed,2388,,5,brazil,belgium,1995
+1,11,degree,Directed,2447,,46,brazil,france,1991
+1,5,degree,Directed,2451,,49,brazil,united kingdom,2000
+7,7,degree,Directed,2457,,63,spain,spain,2011
+1,11,degree,Directed,2474,,23,brazil,france,1980
+1,1,degree,Directed,2491,,448,brazil,brazil,1984
+1,11,degree,Directed,2513,,47,brazil,france,1999
+2,2,degree,Directed,2545,,35,united states,united states,1994
+1,2,birth,Directed,2549,,2,brazil,united states,2008
+1,2,degree,Directed,2579,,75,brazil,united states,1999
+2,4,degree,Directed,2717,,1,united states,canada,1988
+2,2,degree,Directed,2721,,34,united states,united states,1988
+1,2,degree,Directed,2725,,96,brazil,united states,1995
+1,2,degree,Directed,2729,,80,brazil,united states,1997
+1,2,birth,Directed,2732,,5,brazil,united states,1992
+2,2,degree,Directed,2735,,23,united states,united states,2010
+2,2,degree,Directed,2738,,27,united states,united states,1987
+1,2,degree,Directed,2743,,72,brazil,united states,2007
+2,2,degree,Directed,2746,,34,united states,united states,1975
+1,2,degree,Directed,2749,,44,brazil,united states,1984
+1,2,degree,Directed,2754,,25,brazil,united states,1973
+3,3,degree,Directed,2999,,14,portugal,portugal,2005
+2,1,degree,Directed,3323,,23,united states,brazil,1997
+1,2,degree,Directed,3521,,87,brazil,united states,1993
+1,11,degree,Directed,3564,,22,brazil,france,2006
+1,5,degree,Directed,3663,,38,brazil,united kingdom,2004
+1,1,degree,Directed,3687,,661,brazil,brazil,1987
+49,1,birth,Directed,3747,,1,bolivia,brazil,2005
+1,1,degree,Directed,3778,,110,brazil,brazil,1970
+1,1,birth,Directed,3882,,111,brazil,brazil,2002
+1,2,degree,Directed,3887,,40,brazil,united states,1989
+1,1,degree,Directed,3912,,233,brazil,brazil,1976
+1,1,degree,Directed,3933,,95,brazil,brazil,1968
+1,2,degree,Directed,4006,,45,brazil,united states,1978
+1,1,degree,Directed,4040,,1136,brazil,brazil,1991
+1,7,degree,Directed,4051,,35,brazil,spain,1998
+1,16,degree,Directed,4156,,6,brazil,argentina,2005
+1,1,degree,Directed,4272,,888,brazil,brazil,1989
+1,8,degree,Directed,4310,,12,brazil,germany,1991
+1,11,degree,Directed,4352,,2,brazil,france,1969
+1,1,degree,Directed,4371,,74,brazil,brazil,1967
+1,1,degree,Directed,4412,,598,brazil,brazil,1986
+1,1,degree,Directed,4416,,399,brazil,brazil,1983
+7,7,degree,Directed,4438,,6,spain,spain,1989
+13,13,degree,Directed,4484,,3,italy,italy,1996
+7,7,degree,Directed,4502,,22,spain,spain,2008
+1,1,degree,Directed,4505,,578,brazil,brazil,1985
+1,1,degree,Directed,4512,,127,brazil,brazil,1971
+1,1,degree,Directed,4640,,331,brazil,brazil,1980
+1,1,degree,Directed,4654,,380,brazil,brazil,1982
+1,1,degree,Directed,4714,,328,brazil,brazil,1973
+5,1,degree,Directed,4723,,2,united kingdom,brazil,1976
+2,1,degree,Directed,4732,,10,united states,brazil,1993
+1,1,degree,Directed,4759,,330,brazil,brazil,1981
+5,1,degree,Directed,4784,,1,united kingdom,brazil,1975
+1,1,degree,Directed,4903,,273,brazil,brazil,1972
+1,1,degree,Directed,5148,,23,brazil,brazil,1961
+11,1,degree,Directed,5158,,2,france,brazil,1981
+1,1,degree,Directed,5468,,286,brazil,brazil,1979
+1,2,degree,Directed,5540,,41,brazil,united states,1988
+1,2,degree,Directed,5572,,47,brazil,united states,1979
+1,2,degree,Directed,5710,,68,brazil,united states,1983
+1,2,degree,Directed,5718,,8,brazil,united states,1969
+1,8,degree,Directed,5778,,13,brazil,germany,1989
+1,1,degree,Directed,5820,,88,brazil,brazil,1969
+1,1,degree,Directed,5865,,216,brazil,brazil,1977
+1,8,degree,Directed,5917,,11,brazil,germany,2007
+1,1,degree,Directed,6064,,208,brazil,brazil,1974
+1,5,degree,Directed,6073,,89,brazil,united kingdom,1993
+1,1,degree,Directed,6084,,5,brazil,brazil,1951
+8,8,degree,Directed,6193,,3,germany,germany,1979
+2,1,degree,Directed,6315,,10,united states,brazil,1987
+15,1,degree,Directed,6425,,2,peru,brazil,2009
+1,1,birth,Directed,6456,,75,brazil,brazil,1998
+5,1,degree,Directed,6512,,15,united kingdom,brazil,2012
+1,11,degree,Directed,6682,,35,brazil,france,2000
+1,1,birth,Directed,6710,,19,brazil,brazil,1988
+1,1,birth,Directed,6787,,89,brazil,brazil,1999
+2,1,degree,Directed,7101,,32,united states,brazil,2000
+1,1,birth,Directed,7252,,3,brazil,brazil,1971
+10,1,birth,Directed,7296,,12,colombia,brazil,2010
+1,1,birth,Directed,7468,,14,brazil,brazil,1983
+1,1,birth,Directed,7709,,98,brazil,brazil,2005
+16,1,birth,Directed,7743,,3,argentina,brazil,1997
+1,1,birth,Directed,7800,,5,brazil,brazil,1978
+5,1,degree,Directed,7822,,19,united kingdom,brazil,2002
+1,1,birth,Directed,7887,,73,brazil,brazil,1997
+1,1,birth,Directed,7934,,80,brazil,brazil,2008
+4,1,degree,Directed,7979,,2,canada,brazil,2009
+1,1,degree,Directed,8089,,10,brazil,brazil,1954
+2,1,degree,Directed,8132,,16,united states,brazil,1998
+1,1,birth,Directed,8288,,84,brazil,brazil,2013
+1,7,degree,Directed,8318,,67,brazil,spain,2012
+13,1,degree,Directed,8377,,1,italy,brazil,1991
+1,1,birth,Directed,8440,,103,brazil,brazil,2006
+7,1,degree,Directed,8488,,4,spain,brazil,1998
+2,1,degree,Directed,8530,,14,united states,brazil,1973
+15,1,birth,Directed,8613,,5,peru,brazil,1998
+31,1,birth,Directed,8615,,6,pakistan,brazil,2014
+1,1,birth,Directed,8676,,108,brazil,brazil,2003
+1,1,birth,Directed,8861,,22,brazil,brazil,1991
+1,7,degree,Directed,8880,,66,brazil,spain,2002
+16,1,birth,Directed,9014,,6,argentina,brazil,2010
+43,1,birth,Directed,9028,,2,egypt,brazil,2012
+1,1,degree,Directed,9261,,353,brazil,brazil,0
+15,1,birth,Directed,9486,,5,peru,brazil,2004
+1,2,degree,Directed,9511,,57,brazil,united states,2013
+2,1,degree,Directed,9542,,18,united states,brazil,1999
+12,1,degree,Directed,9550,,1,chile,brazil,2006
+5,1,degree,Directed,9587,,1,united kingdom,brazil,1984
+3,1,degree,Directed,9590,,7,portugal,brazil,2012
+1,1,birth,Directed,9639,,15,brazil,brazil,1981
+1,1,birth,Directed,9747,,6,brazil,brazil,1987
+1,1,degree,Directed,9877,,8,brazil,brazil,1957
+3,1,birth,Directed,9888,,2,portugal,brazil,1998
+10,1,degree,Directed,9965,,5,colombia,brazil,2007
+1,1,birth,Directed,10290,,61,brazil,brazil,2011
+1,1,birth,Directed,10293,,21,brazil,brazil,1989
+2,1,degree,Directed,10328,,27,united states,brazil,2006
+2,1,degree,Directed,10369,,31,united states,brazil,2001
+2,1,degree,Directed,10426,,36,united states,brazil,2009
+5,1,degree,Directed,10553,,10,united kingdom,brazil,2014
+8,1,degree,Directed,10694,,4,germany,brazil,2003
+10,1,degree,Directed,10697,,5,colombia,brazil,2005
+2,2,degree,Directed,10868,,25,united states,united states,2007
+2,1,degree,Directed,10971,,1,united states,brazil,1947
+1,11,degree,Directed,11184,,50,brazil,france,1998
+10,1,birth,Directed,11192,,4,colombia,brazil,1999
+5,1,degree,Directed,11370,,15,united kingdom,brazil,2001
+11,1,degree,Directed,11394,,11,france,brazil,2009
+10,1,degree,Directed,11671,,1,colombia,brazil,1974
+10,1,birth,Directed,12117,,6,colombia,brazil,2007
+1,13,degree,Directed,12134,,11,brazil,italy,2011
+11,11,degree,Directed,12280,,17,france,france,1986
+1,4,degree,Directed,12291,,11,brazil,canada,2005
+15,1,degree,Directed,12422,,2,peru,brazil,2011
+1,1,birth,Directed,12438,,81,brazil,brazil,2009
+2,1,degree,Directed,12631,,2,united states,brazil,1961
+11,11,degree,Directed,12638,,26,france,france,1993
+1,5,degree,Directed,12855,,25,brazil,united kingdom,2012
+1,1,birth,Directed,12975,,44,brazil,brazil,1994
+1,1,birth,Directed,13043,,50,brazil,brazil,1996
+1,1,birth,Directed,13242,,67,brazil,brazil,2012
+1,1,birth,Directed,13439,,22,brazil,brazil,1990
+1,1,degree,Directed,13542,,37,brazil,brazil,1966
+1,14,degree,Directed,13623,,5,brazil,netherlands,2005
+2,2,degree,Directed,13718,,30,united states,united states,2006
+2,2,degree,Directed,13764,,30,united states,united states,2005
+2,2,degree,Directed,13825,,46,united states,united states,1979
+2,2,degree,Directed,13838,,38,united states,united states,1996
+11,11,degree,Directed,13848,,6,france,france,1977
+1,9,degree,Directed,13856,,2,brazil,japan,1997
+1,2,degree,Directed,13878,,47,brazil,united states,1990
+2,2,degree,Directed,13888,,16,united states,united states,1969
+1,2,degree,Directed,13901,,19,brazil,united states,1970
+1,9,degree,Directed,13950,,4,brazil,japan,2004
+1,5,degree,Directed,13957,,101,brazil,united kingdom,1994
+5,5,degree,Directed,13987,,12,united kingdom,united kingdom,2005
+1,8,degree,Directed,14001,,14,brazil,germany,2005
+19,19,degree,Directed,14155,,1,belgium,belgium,2003
+8,8,degree,Directed,14159,,4,germany,germany,2008
+1,2,degree,Directed,14243,,56,brazil,united states,2011
+2,2,degree,Directed,14263,,31,united states,united states,1976
+1,5,degree,Directed,14276,,93,brazil,united kingdom,1992
+1,23,degree,Directed,14314,,1,brazil,denmark,1989
+2,2,degree,Directed,14319,,39,united states,united states,1995
+1,3,degree,Directed,14338,,79,brazil,portugal,2013
+1,2,degree,Directed,14370,,64,brazil,united states,1992
+1,8,degree,Directed,14463,,19,brazil,germany,2006
+7,1,degree,Directed,14496,,2,spain,brazil,1990
+1,7,degree,Directed,14508,,61,brazil,spain,2011
+1,3,degree,Directed,14666,,50,brazil,portugal,2014
+1,2,degree,Directed,14674,,82,brazil,united states,2000
+1,11,degree,Directed,14779,,56,brazil,france,1994
+1,2,degree,Directed,14828,,58,brazil,united states,1986
+1,8,degree,Directed,14856,,25,brazil,germany,1993
+1,2,degree,Directed,14950,,91,brazil,united states,1996
+11,11,degree,Directed,15032,,19,france,france,2010
+1,4,degree,Directed,15050,,4,brazil,canada,2007
+1,8,degree,Directed,15085,,20,brazil,germany,1996
+1,20,degree,Directed,15129,,5,brazil,australia,2013
+2,2,degree,Directed,15405,,31,united states,united states,1982
+1,5,degree,Directed,15428,,70,brazil,united kingdom,1997
+1,5,degree,Directed,15443,,28,brazil,united kingdom,2008
+2,5,degree,Directed,15471,,2,united states,united kingdom,1995
+5,1,degree,Directed,15479,,11,united kingdom,brazil,2007
+1,8,degree,Directed,15539,,14,brazil,germany,1998
+2,2,degree,Directed,15570,,34,united states,united states,1992
+1,11,birth,Directed,15573,,4,brazil,france,2000
+1,7,degree,Directed,15595,,9,brazil,spain,1990
+1,11,degree,Directed,15671,,20,brazil,france,1981
+1,8,degree,Directed,15729,,18,brazil,germany,2010
+16,16,degree,Directed,15777,,6,argentina,argentina,1996
+7,7,degree,Directed,15818,,17,spain,spain,1996
+5,1,degree,Directed,15895,,16,united kingdom,brazil,2006
+1,7,degree,Directed,16236,,34,brazil,spain,0
+2,2,degree,Directed,16503,,9,united states,united states,0
+2,1,degree,Directed,16512,,5,united states,brazil,1984
+7,1,degree,Directed,16696,,14,spain,brazil,2010
+16,1,birth,Directed,16847,,4,argentina,brazil,1998
+1,1,birth,Directed,17544,,93,brazil,brazil,2007
+1,7,degree,Directed,17672,,56,brazil,spain,2013
+5,1,degree,Directed,17683,,18,united kingdom,brazil,2003
+13,1,degree,Directed,17788,,3,italy,brazil,2007
+5,1,degree,Directed,17942,,14,united kingdom,brazil,2008
+2,2,degree,Directed,18164,,20,united states,united states,2001
+1,2,degree,Directed,18312,,34,brazil,united states,1982
+1,2,degree,Directed,18350,,80,brazil,united states,2001
+1,2,degree,Directed,18376,,60,brazil,united states,1991
+10,1,birth,Directed,18615,,12,colombia,brazil,2013
+1,22,degree,Directed,18701,,1,brazil,belize,2007
+1,4,degree,Directed,18758,,13,brazil,canada,2000
+1,11,degree,Directed,18948,,29,brazil,france,2008
+2,2,degree,Directed,18969,,39,united states,united states,1983
+1,3,degree,Directed,19078,,15,brazil,portugal,0
+1,2,degree,Directed,19203,,28,brazil,united states,1975
+17,1,degree,Directed,19605,,2,cuba,brazil,2009
+1,8,degree,Directed,19675,,19,brazil,germany,2004
+1,3,degree,Directed,19937,,18,brazil,portugal,2000
+2,2,degree,Directed,20176,,37,united states,united states,1981
+11,11,degree,Directed,20189,,4,france,france,1974
+1,1,degree,Directed,20239,,22,brazil,brazil,1962
+1,2,degree,Directed,20247,,20,brazil,united states,1972
+1,3,degree,Directed,20353,,17,brazil,portugal,2002
+17,1,degree,Directed,20847,,4,cuba,brazil,2003
+1,1,birth,Directed,20938,,1,brazil,brazil,1952
+16,1,birth,Directed,20968,,4,argentina,brazil,2006
+8,1,degree,Directed,20988,,5,germany,brazil,2004
+11,1,degree,Directed,21079,,8,france,brazil,1999
+15,1,degree,Directed,21159,,1,peru,brazil,1985
+16,16,degree,Directed,21310,,3,argentina,argentina,1981
+11,1,degree,Directed,21727,,12,france,brazil,2000
+11,1,birth,Directed,22116,,1,france,brazil,2007
+51,1,birth,Directed,22150,,1,china,brazil,1993
+81,1,birth,Directed,22431,,1,czech republic,brazil,1984
+3,1,degree,Directed,22441,,2,portugal,brazil,2000
+13,1,degree,Directed,22565,,2,italy,brazil,2002
+1,7,degree,Directed,22875,,74,brazil,spain,2003
+1,2,degree,Directed,22900,,54,brazil,united states,1985
+11,1,degree,Directed,22916,,10,france,brazil,1998
+1,16,degree,Directed,22990,,12,brazil,argentina,0
+2,2,degree,Directed,23014,,36,united states,united states,1993
+2,2,degree,Directed,23125,,31,united states,united states,2009
+2,2,degree,Directed,23136,,35,united states,united states,1997
+1,11,degree,Directed,23212,,4,brazil,france,1970
+1,5,degree,Directed,23232,,29,brazil,united kingdom,1985
+1,5,degree,Directed,23246,,25,brazil,united kingdom,2007
+1,7,degree,Directed,23257,,38,brazil,spain,1996
+1,5,degree,Directed,23265,,60,brazil,united kingdom,1999
+8,8,degree,Directed,23298,,7,germany,germany,1989
+1,2,degree,Directed,23309,,70,brazil,united states,2012
+1,11,degree,Directed,23320,,63,brazil,france,1995
+2,1,degree,Directed,23330,,33,united states,brazil,2005
+5,5,degree,Directed,23472,,8,united kingdom,united kingdom,1982
+1,21,degree,Directed,23487,,1,brazil,sweden,2004
+1,5,degree,Directed,23578,,39,brazil,united kingdom,1982
+1,5,degree,Directed,23625,,48,brazil,united kingdom,1990
+1,7,degree,Directed,23646,,49,brazil,spain,2000
+1,5,degree,Directed,23764,,34,brazil,united kingdom,1981
+1,8,degree,Directed,23847,,12,brazil,germany,1988
+1,11,degree,Directed,23922,,4,brazil,france,1976
+1,11,degree,Directed,23940,,59,brazil,france,1993
+11,11,degree,Directed,23955,,28,france,france,1995
+16,1,birth,Directed,24056,,3,argentina,brazil,1993
+26,1,birth,Directed,24061,,1,iran,brazil,2006
+5,5,degree,Directed,24125,,17,united kingdom,united kingdom,2011
+5,5,degree,Directed,24151,,18,united kingdom,united kingdom,1998
+8,8,degree,Directed,24155,,9,germany,germany,1998
+1,5,degree,Directed,24205,,42,brazil,united kingdom,1988
+7,1,birth,Directed,24214,,1,spain,brazil,2005
+10,1,degree,Directed,24219,,8,colombia,brazil,2012
+11,11,degree,Directed,24654,,35,france,france,1999
+5,5,degree,Directed,24683,,8,united kingdom,united kingdom,1984
+1,11,degree,Directed,24712,,76,brazil,france,1996
+8,1,degree,Directed,24742,,3,germany,brazil,2014
+13,1,degree,Directed,24760,,6,italy,brazil,2012
+3,1,degree,Directed,24838,,1,portugal,brazil,1995
+15,1,birth,Directed,24840,,4,peru,brazil,2011
+27,1,birth,Directed,25023,,2,ecuador,brazil,2012
+5,1,degree,Directed,25040,,3,united kingdom,brazil,1994
+10,1,degree,Directed,25050,,7,colombia,brazil,2010
+1,5,degree,Directed,25194,,44,brazil,united kingdom,1983
+1,13,degree,Directed,25203,,14,brazil,italy,2007
+2,2,degree,Directed,25216,,37,united states,united states,1989
+2,2,degree,Directed,25219,,38,united states,united states,1998
+5,5,degree,Directed,25232,,15,united kingdom,united kingdom,1992
+2,2,degree,Directed,25251,,30,united states,united states,1991
+1,2,degree,Directed,25263,,64,brazil,united states,1994
+1,5,degree,Directed,25297,,41,brazil,united kingdom,1987
+5,5,degree,Directed,25357,,5,united kingdom,united kingdom,1979
+1,5,degree,Directed,25409,,17,brazil,united kingdom,2014
+1,5,degree,Directed,25453,,34,brazil,united kingdom,2009
+5,5,degree,Directed,25456,,11,united kingdom,united kingdom,2006
+1,1,birth,Directed,25527,,111,brazil,brazil,2004
+15,1,degree,Directed,25635,,2,peru,brazil,2010
+17,1,degree,Directed,25657,,4,cuba,brazil,2014
+17,1,degree,Directed,25685,,10,cuba,brazil,2013
+1,2,degree,Directed,25702,,57,brazil,united states,1987
+13,13,degree,Directed,25714,,10,italy,italy,2010
+1,2,birth,Directed,25717,,2,brazil,united states,1967
+11,11,birth,Directed,25722,,2,france,france,2002
+1,11,degree,Directed,25811,,4,brazil,france,1967
+1,11,degree,Directed,25889,,20,brazil,france,1988
+2,2,degree,Directed,26239,,25,united states,united states,1974
+2,1,degree,Directed,26243,,31,united states,brazil,2002
+1,5,degree,Directed,26246,,28,brazil,united kingdom,2003
+11,11,degree,Directed,26357,,26,france,france,1998
+4,4,degree,Directed,26362,,1,canada,canada,2014
+1,22,degree,Directed,26408,,3,brazil,belize,2010
+1,5,degree,Directed,26462,,29,brazil,united kingdom,2011
+18,1,degree,Directed,26476,,1,venezuela,brazil,2002
+1,3,degree,Directed,26560,,42,brazil,portugal,2006
+1,8,degree,Directed,26620,,19,brazil,germany,1994
+1,16,degree,Directed,26646,,2,brazil,argentina,2009
+1,7,degree,Directed,26666,,42,brazil,spain,2009
+7,1,degree,Directed,26689,,9,spain,brazil,2012
+1,20,degree,Directed,26741,,1,brazil,australia,1995
+16,16,degree,Directed,26830,,3,argentina,argentina,1985
+28,1,birth,Directed,26854,,1,russia,brazil,2005
+3,1,degree,Directed,26859,,7,portugal,brazil,2006
+16,1,degree,Directed,26882,,3,argentina,brazil,2000
+1,13,degree,Directed,26891,,8,brazil,italy,2009
+11,11,birth,Directed,26901,,1,france,france,2004
+16,16,degree,Directed,26919,,5,argentina,argentina,1997
+8,1,degree,Directed,27067,,5,germany,brazil,2000
+16,1,degree,Directed,27590,,4,argentina,brazil,1995
+11,11,degree,Directed,27644,,13,france,france,2006
+5,1,degree,Directed,27695,,8,united kingdom,brazil,2013
+17,1,birth,Directed,27855,,8,cuba,brazil,2003
+1,3,degree,Directed,27911,,2,brazil,portugal,1989
+11,11,degree,Directed,27965,,25,france,france,1997
+8,8,degree,Directed,28100,,7,germany,germany,2011
+6,6,degree,Directed,28169,,1,uruguay,uruguay,2010
+5,6,degree,Directed,28181,,1,united kingdom,uruguay,2010
+6,1,degree,Directed,28186,,3,uruguay,brazil,2008
+6,11,degree,Directed,28188,,1,uruguay,france,1992
+6,12,degree,Directed,28195,,1,uruguay,chile,1999
+8,8,degree,Directed,28316,,8,germany,germany,1993
+1,1,degree,Directed,28345,,27,brazil,brazil,1964
+1,11,degree,Directed,28554,,33,brazil,france,1990
+8,1,degree,Directed,28807,,4,germany,brazil,2005
+1,1,birth,Directed,28895,,5,brazil,brazil,0
+15,1,degree,Directed,29046,,3,peru,brazil,2014
+12,1,degree,Directed,29485,,1,chile,brazil,2004
+1,7,degree,Directed,29917,,25,brazil,spain,2014
+2,2,degree,Directed,30380,,33,united states,united states,1986
+3,3,degree,Directed,30403,,38,portugal,portugal,2012
+1,4,degree,Directed,30409,,10,brazil,canada,2011
+2,2,degree,Directed,30676,,30,united states,united states,2011
+18,2,birth,Directed,30845,,1,venezuela,united states,2010
+3,3,degree,Directed,30856,,35,portugal,portugal,2011
+7,7,degree,Directed,30983,,72,spain,spain,2012
+1,7,degree,Directed,31028,,53,brazil,spain,2007
+7,7,degree,Directed,31033,,33,spain,spain,2009
+1,7,degree,Directed,31037,,53,brazil,spain,2010
+7,2,degree,Directed,31041,,1,spain,united states,2007
+1,7,birth,Directed,31043,,3,brazil,spain,2007
+7,1,degree,Directed,31052,,4,spain,brazil,2002
+1,7,degree,Directed,31075,,43,brazil,spain,2006
+1,7,degree,Directed,31099,,53,brazil,spain,2008
+1,13,degree,Directed,31374,,10,brazil,italy,2008
+1,11,degree,Directed,31378,,35,brazil,france,2003
+11,1,degree,Directed,31395,,20,france,brazil,2002
+1,22,degree,Directed,31402,,1,brazil,belize,2013
+8,1,birth,Directed,31756,,2,germany,brazil,2003
+16,1,degree,Directed,31859,,5,argentina,brazil,1994
+2,1,degree,Directed,31911,,14,united states,brazil,1989
+6,1,birth,Directed,31913,,2,uruguay,brazil,2000
+2,1,degree,Directed,32109,,21,united states,brazil,2012
+1,11,degree,Directed,32124,,26,brazil,france,1987
+1,8,degree,Directed,32159,,7,brazil,germany,1980
+2,1,degree,Directed,32203,,26,united states,brazil,2011
+1,9,degree,Directed,32205,,1,brazil,japan,2014
+7,7,degree,Directed,32289,,23,spain,spain,2007
+17,17,degree,Directed,32389,,8,cuba,cuba,2010
+1,5,degree,Directed,32398,,32,brazil,united kingdom,2010
+1,13,degree,Directed,32535,,6,brazil,italy,1996
+1,5,degree,Directed,32549,,24,brazil,united kingdom,2013
+3,3,birth,Directed,32811,,2,portugal,portugal,1995
+7,7,degree,Directed,32815,,25,spain,spain,2014
+2,1,degree,Directed,32891,,6,united states,brazil,1988
+1,17,degree,Directed,32928,,2,brazil,cuba,2001
+10,1,degree,Directed,33302,,2,colombia,brazil,1998
+5,1,degree,Directed,33457,,2,united kingdom,brazil,1988
+2,1,degree,Directed,33620,,11,united states,brazil,1991
+1,7,degree,Directed,33669,,25,brazil,spain,1993
+1,7,degree,Directed,33720,,17,brazil,spain,1994
+1,9,degree,Directed,33865,,2,brazil,japan,2006
+24,1,degree,Directed,33868,,1,switzerland,brazil,2011
+1,17,birth,Directed,33995,,1,brazil,cuba,2001
+11,11,degree,Directed,34007,,9,france,france,1982
+11,2,degree,Directed,34012,,2,france,united states,1995
+13,13,degree,Directed,34069,,2,italy,italy,1991
+1,8,degree,Directed,34158,,8,brazil,germany,1981
+12,1,degree,Directed,34391,,2,chile,brazil,2002
+1,3,degree,Directed,34828,,8,brazil,portugal,1998
+1,3,degree,Directed,34904,,50,brazil,portugal,2011
+1,2,degree,Directed,34976,,75,brazil,united states,2003
+1,13,degree,Directed,35082,,6,brazil,italy,2006
+2,2,degree,Directed,35162,,38,united states,united states,1984
+2,1,degree,Directed,35193,,38,united states,brazil,2003
+7,1,degree,Directed,35618,,8,spain,brazil,2014
+8,1,birth,Directed,35747,,1,germany,brazil,2008
+2,1,degree,Directed,35803,,21,united states,brazil,2007
+3,1,degree,Directed,35995,,4,portugal,brazil,2010
+2,2,degree,Directed,36083,,28,united states,united states,1985
+1,4,degree,Directed,36166,,5,brazil,canada,1990
+13,13,degree,Directed,36277,,3,italy,italy,1993
+1,11,degree,Directed,36354,,10,brazil,france,1975
+1,8,degree,Directed,36386,,17,brazil,germany,1995
+1,11,degree,Directed,36483,,54,brazil,france,1992
+1,11,degree,Directed,36518,,38,brazil,france,1997
+1,2,degree,Directed,36579,,3,brazil,united states,1964
+1,1,birth,Directed,36959,,42,brazil,brazil,1992
+1,3,degree,Directed,37969,,17,brazil,portugal,2005
+11,11,degree,Directed,37985,,16,france,france,1984
+11,11,degree,Directed,38077,,34,france,france,1996
+1,5,degree,Directed,38083,,34,brazil,united kingdom,2006
+1,4,degree,Directed,38133,,11,brazil,canada,2012
+11,11,degree,Directed,38171,,20,france,france,1991
+7,7,degree,Directed,38177,,57,spain,spain,2013
+1,13,degree,Directed,38360,,6,brazil,italy,2001
+1,5,degree,Directed,38374,,32,brazil,united kingdom,2001
+2,2,degree,Directed,38401,,31,united states,united states,1971
+1,3,degree,Directed,38444,,39,brazil,portugal,2008
+1,1,birth,Directed,38606,,32,brazil,brazil,1993
+2,2,degree,Directed,38895,,31,united states,united states,2004
+1,13,degree,Directed,38899,,8,brazil,italy,2014
+1,16,degree,Directed,39099,,1,brazil,argentina,1987
+1,11,degree,Directed,39172,,13,brazil,france,1979
+1,2,degree,Directed,39190,,68,brazil,united states,1980
+16,1,degree,Directed,39272,,2,argentina,brazil,0
+1,1,birth,Directed,39348,,38,brazil,brazil,1995
+2,1,degree,Directed,39428,,10,united states,brazil,1983
+2,1,degree,Directed,39465,,14,united states,brazil,2010
+1,1,birth,Directed,39542,,13,brazil,brazil,1973
+11,1,degree,Directed,39752,,9,france,brazil,2001
+15,1,birth,Directed,39834,,6,peru,brazil,2000
+12,1,degree,Directed,40146,,1,chile,brazil,1982
+3,1,degree,Directed,40151,,8,portugal,brazil,2014
+2,1,degree,Directed,40234,,17,united states,brazil,1994
+10,1,birth,Directed,40584,,3,colombia,brazil,2009
+17,1,birth,Directed,40680,,5,cuba,brazil,2001
+1,19,degree,Directed,40830,,3,brazil,belgium,1996
+1,24,degree,Directed,40837,,1,brazil,switzerland,2010
+1,20,degree,Directed,40940,,5,brazil,australia,2003
+1,12,degree,Directed,40947,,1,brazil,chile,2002
+1,5,degree,Directed,40969,,39,brazil,united kingdom,2002
+17,1,degree,Directed,40973,,5,cuba,brazil,2001
+2,2,degree,Directed,41037,,30,united states,united states,1990
+1,8,degree,Directed,41046,,7,brazil,germany,2014
+1,2,degree,Directed,41147,,28,brazil,united states,1976
+1,2,degree,Directed,41158,,45,brazil,united states,1977
+1,12,degree,Directed,41217,,2,brazil,chile,2007
+2,1,degree,Directed,41385,,15,united states,brazil,1995
+19,1,degree,Directed,41676,,2,belgium,brazil,2007
+1,11,degree,Directed,41756,,26,brazil,france,2005
+1,5,degree,Directed,41963,,36,brazil,united kingdom,2005
+2,1,degree,Directed,41987,,9,united states,brazil,2014
+2,2,degree,Directed,42106,,41,united states,united states,2003
+1,1,birth,Directed,42315,,56,brazil,brazil,2014
+1,7,degree,Directed,42403,,33,brazil,spain,1992
+1,3,degree,Directed,42449,,16,brazil,portugal,2001
+5,5,degree,Directed,42476,,8,united kingdom,united kingdom,2009
+12,1,birth,Directed,42822,,2,chile,brazil,2001
+12,1,birth,Directed,42916,,1,chile,brazil,2004
+13,1,birth,Directed,42965,,1,italy,brazil,1984
+17,17,degree,Directed,43039,,7,cuba,cuba,2007
+5,1,degree,Directed,43072,,15,united kingdom,brazil,2005
+5,5,degree,Directed,43081,,7,united kingdom,united kingdom,2002
+1,7,degree,Directed,43159,,62,brazil,spain,2004
+11,11,degree,Directed,43178,,25,france,france,1994
+16,1,degree,Directed,43508,,7,argentina,brazil,2004
+6,1,birth,Directed,43566,,2,uruguay,brazil,2008
+20,1,degree,Directed,44041,,1,australia,brazil,2002
+5,2,birth,Directed,44477,,1,united kingdom,united states,2008
+1,9,degree,Directed,44499,,2,brazil,japan,2009
+1,11,degree,Directed,44590,,25,brazil,france,2001
+1,4,degree,Directed,44608,,15,brazil,canada,1996
+1,3,degree,Directed,44720,,24,brazil,portugal,2003
+24,24,degree,Directed,44813,,1,switzerland,switzerland,1998
+24,24,degree,Directed,44820,,1,switzerland,switzerland,2000
+16,16,degree,Directed,44890,,10,argentina,argentina,2009
+11,11,degree,Directed,44904,,11,france,france,2001
+7,1,degree,Directed,45011,,6,spain,brazil,2006
+16,16,degree,Directed,45271,,1,argentina,argentina,1973
+92,2,birth,Directed,45286,,1,hong kong,united states,1999
+49,2,birth,Directed,45289,,1,bolivia,united states,1976
+1,2,birth,Directed,45291,,4,brazil,united states,2001
+8,8,birth,Directed,45294,,1,germany,germany,1986
+1,8,degree,Directed,45298,,2,brazil,germany,1977
+8,8,degree,Directed,45303,,7,germany,germany,2005
+1,8,degree,Directed,45308,,12,brazil,germany,2012
+10,1,degree,Directed,45315,,12,colombia,brazil,2013
+18,1,degree,Directed,45547,,1,venezuela,brazil,2014
+1,14,degree,Directed,45657,,2,brazil,netherlands,2000
+11,11,degree,Directed,45980,,17,france,france,1981
+51,11,birth,Directed,45986,,1,china,france,2013
+11,11,birth,Directed,45988,,3,france,france,1987
+1,11,birth,Directed,45997,,3,brazil,france,1992
+6,11,birth,Directed,46000,,1,uruguay,france,1990
+11,11,degree,Directed,46005,,8,france,france,1976
+1,11,birth,Directed,46007,,2,brazil,france,1979
+7,7,birth,Directed,46009,,4,spain,spain,1985
+11,11,degree,Directed,46014,,23,france,france,2011
+1,11,degree,Directed,46024,,23,brazil,france,2009
+6,11,birth,Directed,46030,,1,uruguay,france,2001
+1,11,birth,Directed,46053,,2,brazil,france,2007
+11,11,birth,Directed,46055,,1,france,france,1997
+1,19,degree,Directed,46080,,6,brazil,belgium,2013
+7,7,birth,Directed,46095,,2,spain,spain,2000
+18,7,birth,Directed,46097,,1,venezuela,spain,2002
+7,2,degree,Directed,46101,,1,spain,united states,2001
+13,13,degree,Directed,46108,,13,italy,italy,2006
+5,5,degree,Directed,46114,,10,united kingdom,united kingdom,1988
+7,7,birth,Directed,46125,,4,spain,spain,2009
+7,7,degree,Directed,46131,,1,spain,spain,1977
+17,17,degree,Directed,46133,,9,cuba,cuba,2001
+18,7,degree,Directed,46145,,2,venezuela,spain,2001
+1,12,birth,Directed,46158,,1,brazil,chile,2012
+12,12,birth,Directed,46159,,1,chile,chile,2009
+13,2,degree,Directed,46165,,1,italy,united states,2007
+15,2,birth,Directed,46281,,1,peru,united states,1994
+51,5,birth,Directed,46322,,1,china,united kingdom,2009
+1,11,degree,Directed,46333,,20,brazil,france,1986
+7,7,degree,Directed,46483,,10,spain,spain,1998
+7,7,birth,Directed,46487,,4,spain,spain,2003
+7,7,degree,Directed,46490,,5,spain,spain,1985
+3,7,degree,Directed,46492,,1,portugal,spain,2008
+1,7,degree,Directed,46495,,3,brazil,spain,1985
+16,7,birth,Directed,46498,,2,argentina,spain,1999
+7,7,degree,Directed,46500,,16,spain,spain,2002
+1,7,degree,Directed,46504,,4,brazil,spain,1987
+8,8,degree,Directed,46510,,13,germany,germany,1997
+7,5,degree,Directed,46513,,1,spain,united kingdom,1977
+7,7,degree,Directed,46515,,13,spain,spain,1999
+1,7,birth,Directed,46528,,3,brazil,spain,2003
+16,16,degree,Directed,46532,,1,argentina,argentina,1977
+16,16,birth,Directed,46535,,1,argentina,argentina,1992
+16,16,birth,Directed,46537,,3,argentina,argentina,2011
+16,16,degree,Directed,46542,,5,argentina,argentina,2005
+16,16,degree,Directed,46546,,6,argentina,argentina,2010
+5,5,degree,Directed,46552,,10,united kingdom,united kingdom,1976
+2,2,degree,Directed,46994,,18,united states,united states,2013
+1,3,degree,Directed,47040,,10,brazil,portugal,1997
+3,3,birth,Directed,47133,,1,portugal,portugal,2009
+3,3,degree,Directed,47137,,15,portugal,portugal,2009
+17,17,degree,Directed,47140,,6,cuba,cuba,2005
+17,17,degree,Directed,47142,,3,cuba,cuba,1991
+10,17,birth,Directed,47144,,1,colombia,cuba,2000
+17,17,degree,Directed,47147,,2,cuba,cuba,2013
+17,18,degree,Directed,47156,,1,cuba,venezuela,2001
+5,1,degree,Directed,47368,,4,united kingdom,brazil,2009
+11,1,degree,Directed,47559,,10,france,brazil,2006
+10,1,birth,Directed,47569,,3,colombia,brazil,2006
+1,21,degree,Directed,47662,,1,brazil,sweden,1988
+1,8,degree,Directed,47754,,1,brazil,germany,1969
+19,19,degree,Directed,47758,,1,belgium,belgium,2004
+16,16,degree,Directed,47760,,5,argentina,argentina,1984
+16,16,birth,Directed,47763,,1,argentina,argentina,2001
+16,16,birth,Directed,47765,,2,argentina,argentina,1987
+16,16,birth,Directed,47767,,1,argentina,argentina,1997
+16,16,degree,Directed,47771,,4,argentina,argentina,1995
+16,16,degree,Directed,47774,,5,argentina,argentina,1992
+16,16,degree,Directed,47776,,17,argentina,argentina,2012
+16,16,birth,Directed,47777,,6,argentina,argentina,2003
+16,16,degree,Directed,47779,,8,argentina,argentina,2001
+16,16,birth,Directed,47781,,2,argentina,argentina,2005
+16,16,degree,Directed,47786,,2,argentina,argentina,0
+13,13,degree,Directed,47794,,8,italy,italy,2013
+13,13,degree,Directed,47802,,1,italy,italy,1961
+13,13,degree,Directed,47806,,6,italy,italy,2001
+10,1,birth,Directed,47940,,8,colombia,brazil,2014
+1,2,degree,Directed,48348,,50,brazil,united states,1981
+9,9,degree,Directed,48396,,3,japan,japan,2012
+1,5,degree,Directed,48399,,4,brazil,united kingdom,1971
+1,9,degree,Directed,48448,,1,brazil,japan,2001
+3,3,birth,Directed,48466,,4,portugal,portugal,2011
+1,3,degree,Directed,48471,,14,brazil,portugal,1995
+3,3,degree,Directed,48474,,17,portugal,portugal,2008
+3,7,degree,Directed,48477,,1,portugal,spain,2014
+5,5,degree,Directed,48480,,16,united kingdom,united kingdom,1996
+8,8,degree,Directed,48494,,6,germany,germany,1994
+18,18,birth,Directed,48496,,1,venezuela,venezuela,2013
+25,3,birth,Directed,48569,,1,mozambique,portugal,1994
+1,3,birth,Directed,48571,,1,brazil,portugal,2009
+3,3,degree,Directed,48589,,5,portugal,portugal,1998
+3,3,degree,Directed,48593,,23,portugal,portugal,2006
+12,9,degree,Directed,48604,,1,chile,japan,1974
+2,5,degree,Directed,48608,,1,united states,united kingdom,1974
+5,5,degree,Directed,48610,,16,united kingdom,united kingdom,1995
+37,5,birth,Directed,48611,,1,croatia,united kingdom,1997
+5,5,degree,Directed,48618,,12,united kingdom,united kingdom,2003
+5,5,degree,Directed,48621,,5,united kingdom,united kingdom,1971
+1,5,birth,Directed,48624,,6,brazil,united kingdom,1993
+5,5,degree,Directed,48625,,9,united kingdom,united kingdom,2013
+44,5,birth,Directed,48628,,1,philippines,united kingdom,1995
+1,2,degree,Directed,48864,,74,brazil,united states,2006
+19,19,degree,Directed,48988,,3,belgium,belgium,2012
+7,7,degree,Directed,49021,,5,spain,spain,1981
+8,1,degree,Directed,49180,,5,germany,brazil,2008
+7,7,degree,Directed,49262,,16,spain,spain,2000
+42,11,birth,Directed,49264,,1,poland,france,2011
+1,5,birth,Directed,49274,,2,brazil,united kingdom,2002
+10,7,birth,Directed,49305,,2,colombia,spain,2011
+1,1,birth,Directed,49394,,8,brazil,brazil,1977
+1,16,degree,Directed,49418,,1,brazil,argentina,1972
+13,13,birth,Directed,49429,,2,italy,italy,2011
+3,3,degree,Directed,49436,,8,portugal,portugal,1992
+3,5,degree,Directed,49439,,1,portugal,united kingdom,2014
+3,3,degree,Directed,49444,,6,portugal,portugal,1994
+1,3,birth,Directed,49449,,1,brazil,portugal,2005
+3,3,degree,Directed,49452,,4,portugal,portugal,1989
+1,3,birth,Directed,49460,,3,brazil,portugal,2006
+3,3,degree,Directed,49462,,8,portugal,portugal,2001
+3,3,degree,Directed,49466,,13,portugal,portugal,1999
+1,2,birth,Directed,49657,,5,brazil,united states,1997
+1,4,degree,Directed,49828,,15,brazil,canada,2004
+2,4,degree,Directed,49832,,1,united states,canada,1978
+1,11,degree,Directed,49981,,17,brazil,france,2004
+8,2,degree,Directed,50101,,1,germany,united states,1983
+8,8,degree,Directed,50103,,2,germany,germany,2001
+1,11,degree,Directed,50221,,32,brazil,france,2012
+1,14,degree,Directed,50241,,2,brazil,netherlands,1995
+2,2,degree,Directed,50250,,40,united states,united states,1980
+1,8,degree,Directed,50253,,14,brazil,germany,1999
+16,1,degree,Directed,50451,,6,argentina,brazil,2010
+5,5,degree,Directed,50491,,16,united kingdom,united kingdom,2001
+5,5,degree,Directed,50493,,15,united kingdom,united kingdom,1993
+1,5,birth,Directed,50579,,1,brazil,united kingdom,1982
+1,2,birth,Directed,50583,,2,brazil,united states,1989
+3,11,degree,Directed,50591,,1,portugal,france,1997
+3,5,degree,Directed,50599,,1,portugal,united kingdom,1999
+4,20,birth,Directed,50613,,1,canada,australia,1999
+5,5,degree,Directed,50616,,5,united kingdom,united kingdom,1977
+11,11,degree,Directed,50722,,30,france,france,1992
+8,8,degree,Directed,50729,,8,germany,germany,1983
+4,4,birth,Directed,50756,,3,canada,canada,2007
+1,4,birth,Directed,50757,,1,brazil,canada,1995
+2,2,birth,Directed,50789,,2,united states,united states,1988
+11,2,birth,Directed,50790,,1,france,united states,2005
+15,11,birth,Directed,50794,,1,peru,france,1990
+13,13,degree,Directed,50796,,11,italy,italy,2003
+1,7,birth,Directed,50803,,1,brazil,spain,1996
+46,2,birth,Directed,50807,,1,new zealand,united states,1974
+1,11,birth,Directed,50821,,1,brazil,france,1989
+1,20,birth,Directed,50831,,1,brazil,australia,1992
+16,16,birth,Directed,50896,,3,argentina,argentina,2013
+8,8,degree,Directed,50898,,3,germany,germany,1987
+8,21,degree,Directed,50904,,1,germany,sweden,2003
+5,5,degree,Directed,50907,,7,united kingdom,united kingdom,1968
+5,5,birth,Directed,50911,,1,united kingdom,united kingdom,2007
+20,20,degree,Directed,50927,,1,australia,australia,1989
+1,4,birth,Directed,50932,,2,brazil,canada,1997
+11,11,degree,Directed,50942,,27,france,france,2012
+17,18,degree,Directed,50949,,1,cuba,venezuela,1989
+3,2,birth,Directed,50952,,1,portugal,united states,1995
+7,7,degree,Directed,50955,,10,spain,spain,1991
+17,7,degree,Directed,50957,,2,cuba,spain,2011
+1,11,birth,Directed,50962,,1,brazil,france,2008
+11,11,degree,Directed,50965,,21,france,france,1985
+11,11,degree,Directed,50988,,19,france,france,2009
+11,11,birth,Directed,50998,,2,france,france,1980
+1,3,birth,Directed,51011,,1,brazil,portugal,0
+5,5,degree,Directed,51016,,10,united kingdom,united kingdom,2007
+11,11,birth,Directed,51022,,2,france,france,1996
+16,5,birth,Directed,51024,,1,argentina,united kingdom,2001
+20,20,birth,Directed,51029,,1,australia,australia,1983
+1,8,degree,Directed,51393,,6,brazil,germany,1982
+3,1,birth,Directed,51785,,1,portugal,brazil,2006
+15,1,birth,Directed,52081,,4,peru,brazil,2012
+10,1,birth,Directed,52166,,2,colombia,brazil,2005
+8,1,birth,Directed,52168,,3,germany,brazil,2000
+1,20,degree,Directed,52845,,4,brazil,australia,2002
+1,19,degree,Directed,52921,,1,brazil,belgium,2001
+1,3,degree,Directed,53216,,38,brazil,portugal,2009
+1,3,degree,Directed,53319,,26,brazil,portugal,2007
+12,1,birth,Directed,53373,,2,chile,brazil,2009
+11,1,degree,Directed,53386,,9,france,brazil,2008
+69,2,birth,Directed,53621,,1,panama,united states,1989
+2,1,degree,Directed,53684,,5,united states,brazil,1985
+5,13,degree,Directed,54017,,1,united kingdom,italy,2014
+1,14,degree,Directed,54494,,5,brazil,netherlands,2013
+1,14,degree,Directed,54584,,4,brazil,netherlands,2002
+1,1,degree,Directed,55113,,3,brazil,brazil,1950
+1,5,degree,Directed,55282,,6,brazil,united kingdom,1972
+1,1,degree,Directed,55431,,24,brazil,brazil,1965
+1,2,degree,Directed,55459,,8,brazil,united states,1968
+2,1,degree,Directed,55623,,5,united states,brazil,1972
+1,3,degree,Directed,55940,,7,brazil,portugal,1993
+2,3,degree,Directed,55958,,1,united states,portugal,2001
+1,2,degree,Directed,56370,,1,brazil,united states,1961
+1,19,degree,Directed,56586,,4,brazil,belgium,1991
+1,1,degree,Directed,56745,,26,brazil,brazil,1963
+1,11,degree,Directed,56859,,1,brazil,france,1961
+12,1,degree,Directed,56997,,1,chile,brazil,1979
+1,2,degree,Directed,57013,,5,brazil,united states,1967
+1,9,degree,Directed,57031,,1,brazil,japan,1976
+21,1,degree,Directed,57164,,1,sweden,brazil,1972
+11,11,degree,Directed,57283,,1,france,france,0
+16,1,degree,Directed,57325,,5,argentina,brazil,2002
+16,1,birth,Directed,57420,,1,argentina,brazil,1994
+9,1,degree,Directed,58106,,2,japan,brazil,1971
+10,1,degree,Directed,58354,,1,colombia,brazil,1992
+17,1,degree,Directed,58376,,6,cuba,brazil,2002
+8,1,degree,Directed,59169,,2,germany,brazil,1994
+1,1,birth,Directed,59242,,5,brazil,brazil,1967
+1,1,birth,Directed,59306,,7,brazil,brazil,1979
+1,1,birth,Directed,59333,,8,brazil,brazil,1976
+12,1,degree,Directed,59614,,2,chile,brazil,1999
+11,1,degree,Directed,59681,,6,france,brazil,1994
+8,1,degree,Directed,60029,,3,germany,brazil,1996
+3,1,degree,Directed,60049,,7,portugal,brazil,2013
+1,1,birth,Directed,60303,,11,brazil,brazil,1982
+3,1,degree,Directed,60601,,3,portugal,brazil,2001
+16,1,birth,Directed,61361,,5,argentina,brazil,1992
+13,1,birth,Directed,61864,,1,italy,brazil,1996
+11,1,degree,Directed,62747,,3,france,brazil,1983
+15,1,birth,Directed,62798,,5,peru,brazil,2009
+17,1,birth,Directed,63182,,2,cuba,brazil,2012
+1,1,birth,Directed,63185,,5,brazil,brazil,1969
+16,1,birth,Directed,63651,,1,argentina,brazil,1986
+1,8,degree,Directed,64300,,2,brazil,germany,0
+1,8,degree,Directed,64705,,7,brazil,germany,1984
+1,4,degree,Directed,64719,,11,brazil,canada,2013
+1,5,degree,Directed,65075,,48,brazil,united kingdom,1986
+2,2,degree,Directed,65326,,20,united states,united states,2008
+2,2,degree,Directed,65358,,7,united states,united states,2014
+1,5,degree,Directed,65431,,12,brazil,united kingdom,1978
+1,2,degree,Directed,65436,,1,brazil,united states,1966
+1,5,degree,Directed,65488,,49,brazil,united kingdom,1998
+1,4,degree,Directed,65648,,7,brazil,canada,1981
+1,8,degree,Directed,66076,,5,brazil,germany,1983
+7,7,birth,Directed,66112,,3,spain,spain,1990
+16,16,birth,Directed,66281,,1,argentina,argentina,1994
+1,24,degree,Directed,66298,,1,brazil,switzerland,1995
+14,5,degree,Directed,66362,,1,netherlands,united kingdom,2008
+17,17,degree,Directed,66487,,1,cuba,cuba,1998
+21,21,degree,Directed,66491,,1,sweden,sweden,2006
+10,1,birth,Directed,66668,,8,colombia,brazil,2012
+18,1,degree,Directed,67831,,4,venezuela,brazil,2004
+11,1,degree,Directed,69035,,4,france,brazil,1995
+1,1,birth,Directed,69545,,14,brazil,brazil,1986
+1,1,birth,Directed,69821,,3,brazil,brazil,1961
+11,11,degree,Directed,69892,,17,france,france,2003
+7,1,degree,Directed,69993,,5,spain,brazil,2009
+12,1,degree,Directed,70451,,2,chile,brazil,1992
+11,1,degree,Directed,70844,,9,france,brazil,2013
+1,7,degree,Directed,70893,,7,brazil,spain,1988
+1,11,degree,Directed,71220,,4,brazil,france,1968
+9,1,degree,Directed,71672,,4,japan,brazil,2001
+1,11,degree,Directed,72847,,13,brazil,france,2014
+9,9,degree,Directed,73822,,3,japan,japan,2014
+9,9,degree,Directed,73899,,1,japan,japan,2005
+1,11,degree,Directed,73925,,28,brazil,france,2013
+1,5,degree,Directed,74065,,34,brazil,united kingdom,1984
+4,1,degree,Directed,74081,,5,canada,brazil,2006
+1,11,degree,Directed,74144,,24,brazil,france,1984
+1,13,degree,Directed,74345,,7,brazil,italy,1993
+2,1,degree,Directed,74349,,4,united states,brazil,1971
+11,11,degree,Directed,74400,,15,france,france,2002
+1,13,degree,Directed,74538,,3,brazil,italy,1988
+2,1,degree,Directed,74544,,26,united states,brazil,2008
+1,3,degree,Directed,74565,,8,brazil,portugal,1996
+11,11,degree,Directed,74588,,21,france,france,1980
+49,1,birth,Directed,74968,,3,bolivia,brazil,2012
+5,5,degree,Directed,75046,,6,united kingdom,united kingdom,1986
+49,1,birth,Directed,75246,,3,bolivia,brazil,2007
+2,2,degree,Directed,75345,,34,united states,united states,1999
+1,13,degree,Directed,75348,,12,brazil,italy,2010
+1,4,degree,Directed,75667,,9,brazil,canada,2002
+15,1,birth,Directed,75822,,3,peru,brazil,2002
+11,1,degree,Directed,75836,,6,france,brazil,1993
+17,1,birth,Directed,75946,,4,cuba,brazil,1999
+16,1,birth,Directed,75975,,5,argentina,brazil,1999
+2,1,degree,Directed,76004,,22,united states,brazil,1996
+1,4,degree,Directed,76253,,4,brazil,canada,1985
+1,4,degree,Directed,76296,,8,brazil,canada,2010
+1,11,degree,Directed,76595,,26,brazil,france,2010
+6,1,birth,Directed,76637,,1,uruguay,brazil,1990
+3,1,degree,Directed,76649,,6,portugal,brazil,2004
+18,1,birth,Directed,76664,,2,venezuela,brazil,1992
+16,1,degree,Directed,76667,,5,argentina,brazil,2008
+16,1,degree,Directed,76700,,6,argentina,brazil,1997
+1,2,degree,Directed,76727,,11,brazil,united states,1971
+3,7,degree,Directed,76774,,4,portugal,spain,2011
+4,4,degree,Directed,76808,,3,canada,canada,2009
+21,21,degree,Directed,76887,,1,sweden,sweden,1993
+1,2,degree,Directed,77598,,23,brazil,united states,1974
+16,1,birth,Directed,77708,,5,argentina,brazil,2005
+11,11,degree,Directed,77810,,15,france,france,1989
+19,19,degree,Directed,77851,,1,belgium,belgium,2014
+16,1,degree,Directed,77898,,3,argentina,brazil,1993
+2,1,degree,Directed,77902,,4,united states,brazil,1975
+16,16,degree,Directed,77925,,6,argentina,argentina,1994
+16,16,degree,Directed,77928,,4,argentina,argentina,1991
+8,8,degree,Directed,77932,,6,germany,germany,2010
+19,1,degree,Directed,77937,,1,belgium,brazil,2001
+12,1,degree,Directed,77944,,3,chile,brazil,2008
+11,1,degree,Directed,78956,,12,france,brazil,2011
+10,1,degree,Directed,78975,,10,colombia,brazil,2009
+11,11,degree,Directed,79104,,26,france,france,2000
+36,2,birth,Directed,79184,,1,romania,united states,2009
+1,13,degree,Directed,79263,,4,brazil,italy,2003
+6,1,degree,Directed,79270,,1,uruguay,brazil,1999
+6,7,degree,Directed,79280,,1,uruguay,spain,2007
+7,1,degree,Directed,79909,,5,spain,brazil,2008
+13,1,birth,Directed,80263,,2,italy,brazil,2005
+1,19,degree,Directed,81760,,1,brazil,belgium,1981
+1,14,degree,Directed,81967,,2,brazil,netherlands,2001
+7,7,degree,Directed,82374,,14,spain,spain,1995
+7,7,degree,Directed,82377,,3,spain,spain,1973
+7,7,degree,Directed,82385,,49,spain,spain,2010
+7,7,degree,Directed,82388,,9,spain,spain,1986
+7,7,degree,Directed,82424,,15,spain,spain,1997
+11,1,degree,Directed,82566,,3,france,brazil,1991
+7,7,degree,Directed,82668,,17,spain,spain,2001
+7,1,degree,Directed,82688,,1,spain,brazil,1989
+7,7,degree,Directed,82710,,21,spain,spain,2003
+2,2,degree,Directed,83006,,9,united states,united states,1970
+1,5,degree,Directed,83610,,1,brazil,united kingdom,1900
+3,3,degree,Directed,84128,,28,portugal,portugal,2013
+11,11,degree,Directed,84170,,17,france,france,1988
+1,9,degree,Directed,84212,,1,brazil,japan,1998
+48,1,birth,Directed,84305,,1,suriname,brazil,2001
+13,1,degree,Directed,84424,,2,italy,brazil,2011
+1,21,degree,Directed,84899,,2,brazil,sweden,1991
+5,5,degree,Directed,84908,,10,united kingdom,united kingdom,2000
+1,8,degree,Directed,85966,,13,brazil,germany,2009
+3,1,degree,Directed,86038,,3,portugal,brazil,2011
+11,11,degree,Directed,86063,,13,france,france,2013
+2,2,birth,Directed,86291,,2,united states,united states,1990
+2,2,birth,Directed,86294,,1,united states,united states,1978
+9,9,degree,Directed,86310,,1,japan,japan,1985
+3,9,degree,Directed,86311,,1,portugal,japan,2011
+4,1,birth,Directed,86668,,1,canada,brazil,2014
+25,1,birth,Directed,86837,,1,mozambique,brazil,2011
+5,1,degree,Directed,86965,,12,united kingdom,brazil,2011
+1,1,degree,Directed,87427,,23,brazil,brazil,1960
+11,1,degree,Directed,87488,,9,france,brazil,2003
+17,1,birth,Directed,88190,,1,cuba,brazil,2000
+13,1,degree,Directed,88395,,4,italy,brazil,2004
+1,1,degree,Directed,88449,,6,brazil,brazil,2015
+1,1,degree,Directed,88604,,7,brazil,brazil,1956
+11,11,degree,Directed,88632,,11,france,france,2007
+2,2,degree,Directed,88656,,20,united states,united states,1973
+1,4,degree,Directed,88698,,8,brazil,canada,2001
+17,1,degree,Directed,88733,,2,cuba,brazil,2008
+8,8,degree,Directed,88758,,7,germany,germany,1995
+13,13,degree,Directed,88962,,14,italy,italy,2007
+1,16,degree,Directed,89040,,6,brazil,argentina,2014
+10,1,degree,Directed,90350,,1,colombia,brazil,1997
+18,1,birth,Directed,90951,,2,venezuela,brazil,2006
+12,1,degree,Directed,91184,,3,chile,brazil,1987
+11,1,degree,Directed,91399,,5,france,brazil,1996
+1,1,birth,Directed,91481,,16,brazil,brazil,1985
+1,8,degree,Directed,91573,,7,brazil,germany,1992
+1,8,degree,Directed,91700,,10,brazil,germany,2011
+5,5,birth,Directed,91744,,2,united kingdom,united kingdom,2008
+17,17,degree,Directed,91762,,6,cuba,cuba,2006
+3,3,birth,Directed,91765,,2,portugal,portugal,2014
+16,16,degree,Directed,91770,,7,argentina,argentina,2004
+5,1,degree,Directed,91897,,10,united kingdom,brazil,1997
+1,11,degree,Directed,91969,,27,brazil,france,1983
+1,1,degree,Directed,92084,,12,brazil,brazil,1959
+10,1,degree,Directed,92157,,2,colombia,brazil,2008
+2,2,degree,Directed,92890,,27,united states,united states,2000
+3,3,degree,Directed,93263,,11,portugal,portugal,2007
+7,7,degree,Directed,93274,,20,spain,spain,2005
+1,4,degree,Directed,93640,,6,brazil,canada,2006
+12,1,degree,Directed,93671,,1,chile,brazil,2003
+12,1,birth,Directed,93738,,2,chile,brazil,2013
+4,4,degree,Directed,94015,,2,canada,canada,1994
+21,21,birth,Directed,94443,,1,sweden,sweden,1986
+63,1,birth,Directed,94827,,1,algeria,brazil,1995
+1,14,degree,Directed,95501,,2,brazil,netherlands,1999
+5,5,degree,Directed,95542,,14,united kingdom,united kingdom,1994
+1,14,degree,Directed,95574,,4,brazil,netherlands,2011
+2,11,degree,Directed,95587,,1,united states,france,2002
+1,8,degree,Directed,95783,,20,brazil,germany,1997
+16,1,degree,Directed,95983,,4,argentina,brazil,2007
+1,8,degree,Directed,96150,,4,brazil,germany,1974
+2,2,degree,Directed,96214,,14,united states,united states,1967
+16,2,birth,Directed,96222,,1,argentina,united states,2005
+4,4,degree,Directed,96233,,3,canada,canada,1974
+17,2,birth,Directed,96239,,1,cuba,united states,1984
+2,2,degree,Directed,96245,,32,united states,united states,1977
+5,2,degree,Directed,96257,,1,united kingdom,united states,1974
+3,8,degree,Directed,96274,,1,portugal,germany,1997
+3,3,degree,Directed,96503,,16,portugal,portugal,2014
+11,11,degree,Directed,96593,,17,france,france,1990
+1,11,degree,Directed,96838,,25,brazil,france,1982
+13,11,degree,Directed,96842,,1,italy,france,2011
+63,11,birth,Directed,96854,,1,algeria,france,1980
+1,11,birth,Directed,96861,,1,brazil,france,1997
+19,19,degree,Directed,96924,,4,belgium,belgium,1992
+7,7,degree,Directed,96927,,3,spain,spain,1983
+7,7,degree,Directed,96931,,24,spain,spain,2004
+12,12,degree,Directed,96948,,1,chile,chile,2010
+12,12,degree,Directed,96949,,4,chile,chile,2011
+4,4,degree,Directed,97116,,2,canada,canada,1969
+1,7,birth,Directed,97177,,1,brazil,spain,1981
+7,7,degree,Directed,97191,,4,spain,spain,1978
+11,11,degree,Directed,97215,,11,france,france,1979
+16,16,degree,Directed,97218,,5,argentina,argentina,1970
+1,8,degree,Directed,97279,,11,brazil,germany,2002
+4,1,degree,Directed,97462,,1,canada,brazil,1987
+1,4,degree,Directed,97659,,11,brazil,canada,1994
+3,3,birth,Directed,97704,,2,portugal,portugal,2006
+3,3,degree,Directed,97756,,17,portugal,portugal,2002
+17,17,degree,Directed,97758,,4,cuba,cuba,2009
+17,17,degree,Directed,97762,,1,cuba,cuba,2014
+17,17,degree,Directed,97765,,4,cuba,cuba,2012
+17,17,degree,Directed,97769,,5,cuba,cuba,2004
+1,17,degree,Directed,97771,,3,brazil,cuba,2005
+17,17,birth,Directed,97783,,2,cuba,cuba,2004
+17,3,degree,Directed,97785,,1,cuba,portugal,2012
+3,3,degree,Directed,97883,,13,portugal,portugal,2010
+2,23,degree,Directed,98207,,1,united states,denmark,1975
+1,23,degree,Directed,98257,,1,brazil,denmark,1985
+10,10,degree,Directed,98343,,3,colombia,colombia,2003
+16,16,birth,Directed,98421,,2,argentina,argentina,2004
+16,5,degree,Directed,98431,,1,argentina,united kingdom,1998
+16,2,degree,Directed,98439,,1,argentina,united states,1970
+13,13,degree,Directed,98447,,4,italy,italy,2014
+13,13,birth,Directed,98449,,1,italy,italy,2007
+1,13,birth,Directed,98453,,1,brazil,italy,2003
+13,13,degree,Directed,98457,,1,italy,italy,1981
+13,13,degree,Directed,98460,,6,italy,italy,2008
+13,13,degree,Directed,98463,,3,italy,italy,1983
+7,13,birth,Directed,98465,,1,spain,italy,1967
+14,3,birth,Directed,99072,,1,netherlands,portugal,2008
+3,3,birth,Directed,99075,,3,portugal,portugal,2012
+3,5,degree,Directed,99082,,3,portugal,united kingdom,1996
+5,19,degree,Directed,99089,,1,united kingdom,belgium,2011
+5,2,birth,Directed,99091,,1,united kingdom,united states,1963
+8,8,degree,Directed,99093,,6,germany,germany,1985
+1,8,birth,Directed,99096,,2,brazil,germany,1996
+18,18,degree,Directed,99100,,2,venezuela,venezuela,2009
+18,11,degree,Directed,99103,,1,venezuela,france,2013
+5,5,birth,Directed,99127,,1,united kingdom,united kingdom,1974
+3,3,degree,Directed,99197,,10,portugal,portugal,1996
+10,12,birth,Directed,99215,,1,colombia,chile,2010
+5,5,degree,Directed,99226,,2,united kingdom,united kingdom,1963
+5,5,birth,Directed,99229,,2,united kingdom,united kingdom,1984
+2,5,degree,Directed,99233,,4,united states,united kingdom,1983
+2,5,degree,Directed,99236,,1,united states,united kingdom,1965
+7,7,degree,Directed,99319,,7,spain,spain,0
+19,1,degree,Directed,99358,,3,belgium,brazil,2009
+19,19,birth,Directed,99499,,1,belgium,belgium,2001
+19,19,birth,Directed,99502,,1,belgium,belgium,2009
+1,16,degree,Directed,99557,,4,brazil,argentina,2006
+4,1,degree,Directed,99832,,1,canada,brazil,1994
+1,4,degree,Directed,100009,,8,brazil,canada,1999
+13,1,degree,Directed,101993,,2,italy,brazil,2010
+1,7,degree,Directed,102413,,39,brazil,spain,1997
+16,1,degree,Directed,104520,,3,argentina,brazil,2012
+1,1,birth,Directed,105080,,4,brazil,brazil,1970
+1,1,birth,Directed,105186,,13,brazil,brazil,1972
+5,1,degree,Directed,105199,,8,united kingdom,brazil,1999
+1,4,degree,Directed,105660,,14,brazil,canada,2009
+1,8,degree,Directed,105921,,14,brazil,germany,1985
+1,2,birth,Directed,106743,,4,brazil,united states,2006
+1,24,degree,Directed,107520,,2,brazil,switzerland,2006
+2,2,degree,Directed,107562,,30,united states,united states,2002
+4,1,degree,Directed,107702,,6,canada,brazil,2005
+1,1,birth,Directed,109013,,7,brazil,brazil,1980
+19,4,degree,Directed,110739,,1,belgium,canada,2006
+2,1,degree,Directed,111166,,3,united states,brazil,1977
+5,5,degree,Directed,111291,,10,united kingdom,united kingdom,1997
+2,1,degree,Directed,111595,,14,united states,brazil,1992
+1,13,degree,Directed,112039,,1,brazil,italy,1984
+1,1,degree,Directed,112672,,2,brazil,brazil,1946
+1,5,degree,Directed,112826,,6,brazil,united kingdom,1974
+11,1,degree,Directed,113286,,11,france,brazil,1997
+1,4,degree,Directed,113352,,4,brazil,canada,1982
+3,3,degree,Directed,113723,,8,portugal,portugal,1995
+1,5,degree,Directed,113832,,2,brazil,united kingdom,1969
+1,19,degree,Directed,114002,,3,brazil,belgium,1994
+5,2,degree,Directed,114502,,1,united kingdom,united states,1984
+1,7,degree,Directed,115910,,12,brazil,spain,1991
+1,9,degree,Directed,115925,,2,brazil,japan,1991
+11,1,degree,Directed,116228,,3,france,brazil,1989
+1,5,degree,Directed,116662,,15,brazil,united kingdom,1977
+1,8,degree,Directed,116774,,1,brazil,germany,1958
+11,2,degree,Directed,118264,,1,france,united states,1993
+11,1,degree,Directed,118281,,7,france,brazil,2007
+1,8,degree,Directed,119077,,1,brazil,germany,1961
+2,2,degree,Directed,119092,,27,united states,united states,2012
+1,9,degree,Directed,120638,,3,brazil,japan,1995
+1,5,degree,Directed,120870,,1,brazil,united kingdom,1973
+2,2,degree,Directed,121639,,2,united states,united states,1958
+2,2,degree,Directed,122097,,22,united states,united states,1972
+13,13,degree,Directed,122430,,7,italy,italy,2011
+1,5,degree,Directed,122601,,14,brazil,united kingdom,1979
+8,1,degree,Directed,122910,,5,germany,brazil,2002
+1,1,birth,Directed,123529,,8,brazil,brazil,1974
+1,13,degree,Directed,124648,,5,brazil,italy,1997
+14,1,degree,Directed,124699,,1,netherlands,brazil,2013
+1,4,degree,Directed,124763,,2,brazil,canada,1991
+5,1,degree,Directed,124928,,3,united kingdom,brazil,1986
+9,9,degree,Directed,125215,,3,japan,japan,2013
+8,1,degree,Directed,126691,,2,germany,brazil,1998
+11,11,degree,Directed,127505,,7,france,france,1978
+2,1,degree,Directed,127851,,11,united states,brazil,1990
+11,1,degree,Directed,128037,,3,france,brazil,1988
+1,4,degree,Directed,128552,,4,brazil,canada,1977
+1,5,birth,Directed,128606,,7,brazil,united kingdom,1994
+8,1,degree,Directed,128777,,1,germany,brazil,1977
+1,11,degree,Directed,129471,,10,brazil,france,1973
+4,1,degree,Directed,130027,,1,canada,brazil,1998
+13,1,degree,Directed,130289,,3,italy,brazil,2005
+1,2,birth,Directed,131859,,4,brazil,united states,1978
+5,1,degree,Directed,133337,,12,united kingdom,brazil,2000
+1,4,degree,Directed,133941,,12,brazil,canada,1992
+16,1,degree,Directed,134057,,3,argentina,brazil,1996
+1,5,degree,Directed,134581,,2,brazil,united kingdom,1967
+1,11,degree,Directed,135013,,4,brazil,france,1971
+11,1,degree,Directed,135222,,10,france,brazil,2005
+23,1,degree,Directed,136103,,1,denmark,brazil,2000
+1,20,degree,Directed,136377,,6,brazil,australia,2011
+2,1,degree,Directed,137302,,9,united states,brazil,1982
+7,1,degree,Directed,137347,,1,spain,brazil,1994
+1,2,birth,Directed,137513,,5,brazil,united states,1990
+9,9,degree,Directed,137671,,2,japan,japan,2010
+1,5,birth,Directed,137841,,4,brazil,united kingdom,1988
+21,21,degree,Directed,139560,,1,sweden,sweden,2000
+1,11,birth,Directed,139775,,3,brazil,france,1988
+4,1,degree,Directed,139890,,2,canada,brazil,1991
+9,1,degree,Directed,139998,,1,japan,brazil,1981
+1,5,degree,Directed,140408,,10,brazil,united kingdom,1976
+1,1,birth,Directed,140695,,14,brazil,brazil,1975
+2,5,degree,Directed,140825,,2,united states,united kingdom,1989
+1,4,degree,Directed,141022,,8,brazil,canada,2008
+2,1,degree,Directed,141100,,2,united states,brazil,1960
+5,1,degree,Directed,141195,,2,united kingdom,brazil,1989
+1,2,birth,Directed,141280,,4,brazil,united states,1977
+2,2,degree,Directed,142118,,36,united states,united states,1978
+13,1,degree,Directed,142361,,1,italy,brazil,2000
+1,8,degree,Directed,142694,,9,brazil,germany,1990
+1,21,degree,Directed,143636,,2,brazil,sweden,2000
+7,7,degree,Directed,143682,,24,spain,spain,2006
+13,1,degree,Directed,145693,,4,italy,brazil,2003
+1,2,degree,Directed,146092,,11,brazil,united states,0
+1,2,birth,Directed,146408,,2,brazil,united states,1973
+1,5,birth,Directed,146914,,3,brazil,united kingdom,1992
+1,20,degree,Directed,147365,,4,brazil,australia,2012
+1,19,degree,Directed,147482,,3,brazil,belgium,2000
+1,19,degree,Directed,149598,,1,brazil,belgium,1992
+14,1,degree,Directed,149623,,1,netherlands,brazil,2014
+1,13,birth,Directed,149911,,2,brazil,italy,1996
+1,6,degree,Directed,150422,,1,brazil,uruguay,2006
+1,5,birth,Directed,150775,,2,brazil,united kingdom,1997
+5,11,degree,Directed,151718,,1,united kingdom,france,2007
+1,2,birth,Directed,151943,,2,brazil,united states,1971
+1,4,degree,Directed,151968,,14,brazil,canada,1993
+2,1,degree,Directed,152304,,1,united states,brazil,1974
+2,1,degree,Directed,152315,,2,united states,brazil,1963
+1,1,degree,Directed,153117,,3,brazil,brazil,1948
+12,1,degree,Directed,153199,,2,chile,brazil,2011
+12,2,degree,Directed,153221,,1,chile,united states,2013
+12,12,degree,Directed,153237,,1,chile,chile,1970
+12,2,degree,Directed,153243,,1,chile,united states,2012
+12,11,degree,Directed,153247,,1,chile,france,1973
+2,2,degree,Directed,153254,,9,united states,united states,1968
+12,1,degree,Directed,153258,,6,chile,brazil,2001
+12,2,degree,Directed,153263,,1,chile,united states,2008
+12,1,birth,Directed,153270,,3,chile,brazil,2003
+12,1,degree,Directed,153315,,2,chile,brazil,2013
+5,1,degree,Directed,153325,,3,united kingdom,brazil,1985
+12,1,degree,Directed,153337,,1,chile,brazil,2000
+12,1,birth,Directed,153347,,1,chile,brazil,1996
+12,12,birth,Directed,153350,,1,chile,chile,2008
+12,12,degree,Directed,153354,,1,chile,chile,1996
+12,12,birth,Directed,153361,,1,chile,chile,2000
+12,11,birth,Directed,153406,,1,chile,france,2003
+12,2,birth,Directed,153413,,1,chile,united states,2012
+12,12,degree,Directed,153420,,1,chile,chile,1975
+12,1,degree,Directed,153426,,1,chile,brazil,1983
+12,12,degree,Directed,153447,,3,chile,chile,2005
+12,12,degree,Directed,153474,,1,chile,chile,1977
+12,12,degree,Directed,153502,,1,chile,chile,1966
+2,11,degree,Directed,153533,,2,united states,france,1972
+12,12,birth,Directed,153554,,2,chile,chile,2012
+12,12,birth,Directed,153563,,1,chile,chile,1994
+12,1,birth,Directed,153568,,1,chile,brazil,1995
+12,1,birth,Directed,153593,,1,chile,brazil,2010
+12,1,degree,Directed,153633,,2,chile,brazil,2009
+12,1,birth,Directed,153638,,2,chile,brazil,1992
+12,2,birth,Directed,153641,,2,chile,united states,1975
+12,12,degree,Directed,153661,,2,chile,chile,2009
+12,1,degree,Directed,153723,,1,chile,brazil,1997
+27,2,birth,Directed,153786,,1,ecuador,united states,1986
+16,1,degree,Directed,153916,,5,argentina,brazil,2009
+16,16,degree,Directed,153920,,5,argentina,argentina,1988
+16,16,degree,Directed,153970,,8,argentina,argentina,2002
+16,16,birth,Directed,153973,,5,argentina,argentina,1995
+16,16,degree,Directed,153987,,4,argentina,argentina,1998
+16,1,degree,Directed,154026,,7,argentina,brazil,2011
+16,2,degree,Directed,154030,,1,argentina,united states,2006
+16,5,degree,Directed,154066,,1,argentina,united kingdom,1962
+16,7,degree,Directed,154094,,2,argentina,spain,2005
+16,16,degree,Directed,154108,,9,argentina,argentina,2008
+16,16,degree,Directed,154128,,7,argentina,argentina,2011
+1,16,degree,Directed,154141,,3,brazil,argentina,1992
+16,16,degree,Directed,154144,,1,argentina,argentina,1958
+16,16,degree,Directed,154188,,3,argentina,argentina,2007
+16,16,birth,Directed,154196,,2,argentina,argentina,1998
+16,16,degree,Directed,154202,,6,argentina,argentina,1993
+16,16,degree,Directed,154208,,5,argentina,argentina,1975
+16,16,degree,Directed,154215,,10,argentina,argentina,1999
+16,16,birth,Directed,154249,,1,argentina,argentina,2000
+16,11,birth,Directed,154314,,1,argentina,france,1993
+16,16,degree,Directed,154336,,5,argentina,argentina,1986
+16,7,degree,Directed,154362,,1,argentina,spain,1993
+16,1,degree,Directed,154380,,5,argentina,brazil,1981
+16,1,birth,Directed,154411,,6,argentina,brazil,2000
+16,1,degree,Directed,154457,,3,argentina,brazil,1980
+16,16,birth,Directed,154459,,1,argentina,argentina,1985
+16,1,degree,Directed,154463,,2,argentina,brazil,1992
+9,8,degree,Directed,154502,,1,japan,germany,2003
+16,1,degree,Directed,154537,,8,argentina,brazil,2006
+16,1,birth,Directed,154543,,4,argentina,brazil,2001
+16,16,degree,Directed,154559,,1,argentina,argentina,1979
+16,1,degree,Directed,154599,,8,argentina,brazil,2001
+16,16,degree,Directed,154603,,3,argentina,argentina,1987
+16,1,degree,Directed,154644,,5,argentina,brazil,1999
+1,16,degree,Directed,154673,,1,brazil,argentina,1976
+1,16,degree,Directed,154696,,1,brazil,argentina,1981
+16,1,degree,Directed,154708,,1,argentina,brazil,1985
+16,16,degree,Directed,154726,,1,argentina,argentina,1964
+5,1,degree,Directed,154791,,1,united kingdom,brazil,1987
+1,16,degree,Directed,154818,,1,brazil,argentina,1965
+16,16,degree,Directed,154833,,1,argentina,argentina,1962
+16,16,degree,Directed,154873,,4,argentina,argentina,2006
+13,13,degree,Directed,154877,,7,italy,italy,2005
+16,2,degree,Directed,154884,,1,argentina,united states,1993
+16,1,degree,Directed,154897,,3,argentina,brazil,2005
+5,5,degree,Directed,154906,,3,united kingdom,united kingdom,1983
+16,2,degree,Directed,154947,,2,argentina,united states,1971
+16,16,degree,Directed,154958,,1,argentina,argentina,1980
+16,4,birth,Directed,154962,,1,argentina,canada,2011
+16,12,birth,Directed,154964,,1,argentina,chile,2006
+16,1,birth,Directed,155021,,2,argentina,brazil,1995
+1,11,degree,Directed,155025,,7,brazil,france,1972
+1,16,degree,Directed,155029,,2,brazil,argentina,1966
+4,4,degree,Directed,155378,,3,canada,canada,2006
+29,11,birth,Directed,155387,,1,mexico,france,2003
+3,3,birth,Directed,155429,,5,portugal,portugal,1998
+3,3,degree,Directed,155437,,7,portugal,portugal,1997
+3,3,birth,Directed,155446,,5,portugal,portugal,1994
+3,3,birth,Directed,155469,,5,portugal,portugal,2002
+3,3,birth,Directed,155546,,2,portugal,portugal,1997
+3,1,birth,Directed,155553,,1,portugal,brazil,2000
+3,4,birth,Directed,155558,,1,portugal,canada,1985
+3,3,birth,Directed,155567,,3,portugal,portugal,2004
+3,3,birth,Directed,155569,,2,portugal,portugal,1996
+3,3,birth,Directed,155582,,4,portugal,portugal,2008
+12,1,degree,Directed,156029,,3,chile,brazil,2010
+1,5,birth,Directed,156456,,1,brazil,united kingdom,1983
+4,8,degree,Directed,156541,,1,canada,germany,1991
+5,5,degree,Directed,156655,,10,united kingdom,united kingdom,1999
+3,1,degree,Directed,156821,,2,portugal,brazil,1997
+1,4,degree,Directed,156884,,8,brazil,canada,2014
+1,1,degree,Directed,158030,,1,brazil,brazil,1932
+1,3,degree,Directed,158125,,4,brazil,portugal,1999
+1,4,degree,Directed,158611,,4,brazil,canada,1980
+1,11,birth,Directed,158924,,1,brazil,france,1973
+5,5,degree,Directed,160644,,13,united kingdom,united kingdom,2008
+11,1,degree,Directed,160727,,5,france,brazil,1992
+2,5,degree,Directed,160795,,3,united states,united kingdom,1984
+1,19,degree,Directed,161086,,1,brazil,belgium,1973
+1,7,birth,Directed,162556,,1,brazil,spain,1980
+1,8,degree,Directed,162794,,7,brazil,germany,2000
+4,1,degree,Directed,162808,,3,canada,brazil,2002
+5,3,degree,Directed,163066,,1,united kingdom,portugal,2010
+1,1,degree,Directed,163901,,17,brazil,brazil,1958
+1,8,degree,Directed,164110,,5,brazil,germany,1979
+19,5,degree,Directed,164173,,1,belgium,united kingdom,2013
+1,5,birth,Directed,164195,,1,brazil,united kingdom,2004
+1,14,degree,Directed,164431,,5,brazil,netherlands,2010
+1,2,birth,Directed,164744,,3,brazil,united states,1991
+1,13,degree,Directed,164803,,4,brazil,italy,2000
+2,1,degree,Directed,165433,,4,united states,brazil,1986
+11,1,degree,Directed,165517,,1,france,brazil,1974
+1,2,birth,Directed,165684,,1,brazil,united states,1945
+4,1,degree,Directed,166252,,1,canada,brazil,2001
+3,1,degree,Directed,166317,,1,portugal,brazil,2008
+1,5,birth,Directed,166340,,1,brazil,united kingdom,1990
+13,11,degree,Directed,166386,,1,italy,france,1973
+7,1,degree,Directed,166581,,1,spain,brazil,1985
+8,8,degree,Directed,166742,,4,germany,germany,1991
+7,1,degree,Directed,167523,,5,spain,brazil,2004
+1,8,birth,Directed,167637,,1,brazil,germany,1993
+5,3,degree,Directed,167675,,1,united kingdom,portugal,2009
+1,5,birth,Directed,167772,,1,brazil,united kingdom,1986
+1,5,degree,Directed,168281,,8,brazil,united kingdom,1975
+4,4,birth,Directed,168958,,1,canada,canada,2000
+1,13,degree,Directed,170036,,14,brazil,italy,2012
+11,5,degree,Directed,170895,,1,france,united kingdom,2000
+1,14,degree,Directed,171162,,4,brazil,netherlands,2006
+8,8,degree,Directed,172166,,6,germany,germany,1996
+1,11,degree,Directed,172868,,9,brazil,france,1978
+1,17,degree,Directed,174854,,2,brazil,cuba,2002
+3,1,degree,Directed,175749,,3,portugal,brazil,2005
+11,11,degree,Directed,176600,,15,france,france,1987
+1,5,birth,Directed,176712,,3,brazil,united kingdom,1979
+1,16,degree,Directed,177813,,5,brazil,argentina,2004
+4,1,degree,Directed,178030,,2,canada,brazil,2014
+1,13,degree,Directed,178217,,4,brazil,italy,2002
+7,1,degree,Directed,178710,,3,spain,brazil,2001
+3,1,degree,Directed,178900,,1,portugal,brazil,0
+1,20,degree,Directed,178906,,4,brazil,australia,2004
+1,16,degree,Directed,179510,,5,brazil,argentina,2001
+5,1,degree,Directed,179853,,6,united kingdom,brazil,2010
+1,4,degree,Directed,179878,,2,brazil,canada,1988
+1,14,degree,Directed,180699,,5,brazil,netherlands,2009
+1,19,degree,Directed,181139,,4,brazil,belgium,2012
+1,7,birth,Directed,181650,,5,brazil,spain,2010
+1,2,birth,Directed,181839,,4,brazil,united states,2005
+3,1,degree,Directed,182128,,3,portugal,brazil,2007
+1,23,degree,Directed,182350,,1,brazil,denmark,1984
+1,13,degree,Directed,183066,,2,brazil,italy,1991
+4,1,degree,Directed,183160,,5,canada,brazil,2007
+9,1,degree,Directed,183522,,1,japan,brazil,2000
+1,3,degree,Directed,183676,,1,brazil,portugal,2015
+11,1,degree,Directed,183864,,4,france,brazil,2014
+13,8,degree,Directed,184478,,1,italy,germany,1994
+1,24,degree,Directed,184644,,1,brazil,switzerland,1986
+4,2,degree,Directed,184671,,2,canada,united states,1997
+1,5,birth,Directed,184712,,2,brazil,united kingdom,1981
+1,19,degree,Directed,184742,,5,brazil,belgium,2014
+1,2,birth,Directed,184811,,3,brazil,united states,1984
+1,8,degree,Directed,184842,,15,brazil,germany,2013
+1,20,degree,Directed,185133,,4,brazil,australia,2009
+1,1,birth,Directed,185557,,8,brazil,brazil,1984
+2,4,degree,Directed,185752,,1,united states,canada,1998
+1,4,degree,Directed,187054,,6,brazil,canada,2003
+4,1,degree,Directed,187240,,4,canada,brazil,2003
+1,1,degree,Directed,187496,,5,brazil,brazil,1955
+1,4,degree,Directed,188147,,3,brazil,canada,1986
+5,5,degree,Directed,189599,,5,united kingdom,united kingdom,2014
+11,3,degree,Directed,189748,,1,france,portugal,2013
+1,2,birth,Directed,189882,,3,brazil,united states,1988
+19,1,degree,Directed,190464,,2,belgium,brazil,2010
+1,8,degree,Directed,190489,,10,brazil,germany,2003
+1,5,birth,Directed,190829,,1,brazil,united kingdom,2009
+9,9,degree,Directed,190956,,1,japan,japan,2009
+7,7,degree,Directed,191030,,3,spain,spain,1975
+13,1,degree,Directed,191359,,4,italy,brazil,1999
+2,4,degree,Directed,192148,,1,united states,canada,1996
+1,24,degree,Directed,193689,,1,brazil,switzerland,1992
+4,4,degree,Directed,193794,,2,canada,canada,1992
+11,11,degree,Directed,194227,,10,france,france,2005
+3,3,degree,Directed,194303,,3,portugal,portugal,0
+7,1,degree,Directed,194752,,3,spain,brazil,2005
+13,13,degree,Directed,194992,,1,italy,italy,1958
+5,5,degree,Directed,195604,,13,united kingdom,united kingdom,2004
+1,13,birth,Directed,196643,,1,brazil,italy,1968
+1,5,birth,Directed,196761,,1,brazil,united kingdom,1985
+1,17,degree,Directed,197069,,2,brazil,cuba,2008
+20,1,degree,Directed,197074,,1,australia,brazil,2009
+1,19,degree,Directed,197707,,1,brazil,belgium,1983
+11,11,degree,Directed,198009,,17,france,france,1983
+1,24,degree,Directed,198220,,2,brazil,switzerland,2011
+1,14,degree,Directed,199626,,3,brazil,netherlands,2014
+1,11,birth,Directed,199899,,1,brazil,france,1998
+19,19,degree,Directed,200206,,2,belgium,belgium,2010
+13,1,degree,Directed,200350,,4,italy,brazil,2001
+1,5,birth,Directed,200966,,2,brazil,united kingdom,2006
+1,4,degree,Directed,201092,,4,brazil,canada,1989
+8,1,degree,Directed,201186,,1,germany,brazil,1992
+7,1,degree,Directed,201824,,4,spain,brazil,2003
+12,7,degree,Directed,202106,,1,chile,spain,1993
+1,16,degree,Directed,202688,,4,brazil,argentina,2011
+5,5,degree,Directed,203539,,11,united kingdom,united kingdom,1981
+1,8,degree,Directed,203677,,4,brazil,germany,1978
+1,2,birth,Directed,205528,,1,brazil,united states,1986
+1,5,birth,Directed,206149,,3,brazil,united kingdom,2001
+5,1,degree,Directed,206401,,1,united kingdom,brazil,1969
+13,1,degree,Directed,206549,,2,italy,brazil,2008
+1,19,degree,Directed,206610,,1,brazil,belgium,1993
+1,24,degree,Directed,206773,,2,brazil,switzerland,1991
+2,5,degree,Directed,207011,,1,united states,united kingdom,2009
+1,5,birth,Directed,207165,,3,brazil,united kingdom,1999
+1,8,degree,Directed,207839,,8,brazil,germany,2008
+8,8,degree,Directed,208194,,5,germany,germany,1980
+1,5,birth,Directed,208259,,3,brazil,united kingdom,2000
+1,5,birth,Directed,208935,,1,brazil,united kingdom,2011
+1,8,birth,Directed,209324,,1,brazil,germany,1976
+12,1,degree,Directed,210232,,1,chile,brazil,1973
+13,13,degree,Directed,211210,,2,italy,italy,1984
+1,2,degree,Directed,212150,,2,brazil,united states,1965
+1,11,degree,Directed,212284,,8,brazil,france,1974
+1,14,degree,Directed,213658,,6,brazil,netherlands,2004
+5,11,degree,Directed,213868,,1,united kingdom,france,1997
+1,14,degree,Directed,213953,,4,brazil,netherlands,1994
+8,8,degree,Directed,214271,,5,germany,germany,1981
+1,4,degree,Directed,214319,,10,brazil,canada,1997
+4,1,degree,Directed,217539,,2,canada,brazil,2004
+2,5,degree,Directed,217710,,4,united states,united kingdom,1986
+1,5,birth,Directed,218283,,5,brazil,united kingdom,1991
+16,1,degree,Directed,219336,,1,argentina,brazil,1958
+1,5,birth,Directed,219466,,1,brazil,united kingdom,1974
+7,1,degree,Directed,220121,,4,spain,brazil,2013
+2,5,degree,Directed,220183,,1,united states,united kingdom,2003
+1,5,birth,Directed,220510,,1,brazil,united kingdom,1973
+2,11,degree,Directed,220760,,1,united states,france,2006
+1,6,degree,Directed,220965,,2,brazil,uruguay,2004
+1,3,degree,Directed,221593,,2,brazil,portugal,1990
+11,5,degree,Directed,222464,,1,france,united kingdom,1998
+19,2,degree,Directed,222881,,1,belgium,united states,1994
+13,1,degree,Directed,222956,,7,italy,brazil,2014
+17,17,degree,Directed,223087,,5,cuba,cuba,2000
+19,19,degree,Directed,223104,,2,belgium,belgium,2013
+2,11,degree,Directed,223643,,1,united states,france,1995
+4,4,degree,Directed,223744,,4,canada,canada,1998
+1,7,degree,Directed,223886,,1,brazil,spain,1974
+11,1,degree,Directed,224662,,1,france,brazil,1970
+2,2,degree,Directed,225792,,6,united states,united states,1965
+11,11,degree,Directed,226683,,8,france,france,2014
+1,2,birth,Directed,227237,,1,brazil,united states,1993
+1,13,degree,Directed,227421,,1,brazil,italy,1989
+2,1,degree,Directed,228060,,1,united states,brazil,1952
+2,5,degree,Directed,228311,,3,united states,united kingdom,1997
+17,17,degree,Directed,228383,,4,cuba,cuba,2002
+1,13,birth,Directed,228399,,2,brazil,italy,2002
+1,4,degree,Directed,228496,,1,brazil,canada,1973
+1,11,degree,Directed,228747,,9,brazil,france,1977
+19,1,degree,Directed,229406,,4,belgium,brazil,2005
+2,5,degree,Directed,229758,,1,united states,united kingdom,2010
+2,11,degree,Directed,229807,,1,united states,france,1998
+5,5,degree,Directed,230904,,12,united kingdom,united kingdom,1987
+1,8,degree,Directed,230969,,8,brazil,germany,1976
+1,4,degree,Directed,231483,,3,brazil,canada,1974
+5,5,degree,Directed,231691,,11,united kingdom,united kingdom,1991
+2,1,degree,Directed,232195,,4,united states,brazil,1968
+1,14,degree,Directed,233093,,2,brazil,netherlands,1996
+1,2,birth,Directed,233384,,3,brazil,united states,1994
+7,1,degree,Directed,234698,,1,spain,brazil,1997
+1,5,birth,Directed,235891,,2,brazil,united kingdom,1989
+1,7,degree,Directed,236544,,1,brazil,spain,1975
+2,1,degree,Directed,236802,,5,united states,brazil,1980
+1,19,degree,Directed,237337,,1,brazil,belgium,1970
+1,16,degree,Directed,238229,,7,brazil,argentina,2007
+2,5,degree,Directed,238298,,1,united states,united kingdom,1985
+1,2,birth,Directed,238569,,4,brazil,united states,2003
+8,8,degree,Directed,238781,,2,germany,germany,2012
+1,19,degree,Directed,238937,,2,brazil,belgium,1980
+5,2,degree,Directed,239909,,1,united kingdom,united states,1976
+1,19,degree,Directed,240436,,3,brazil,belgium,2002
+1,19,degree,Directed,241379,,1,brazil,belgium,1990
+1,19,degree,Directed,241562,,3,brazil,belgium,2003
+21,21,degree,Directed,242105,,1,sweden,sweden,1996
+1,24,degree,Directed,242544,,2,brazil,switzerland,2012
+1,21,birth,Directed,244426,,1,brazil,sweden,1978
+1,8,degree,Directed,244756,,9,brazil,germany,1986
+3,3,degree,Directed,245008,,14,portugal,portugal,2000
+1,16,degree,Directed,245023,,3,brazil,argentina,1994
+2,1,degree,Directed,245138,,1,united states,brazil,1953
+5,1,degree,Directed,245143,,4,united kingdom,brazil,1993
+8,1,degree,Directed,245468,,9,germany,brazil,2012
+1,2,birth,Directed,245526,,3,brazil,united states,1983
+11,11,degree,Directed,245742,,4,france,france,1973
+4,2,degree,Directed,245770,,3,canada,united states,1994
+11,1,degree,Directed,246222,,3,france,brazil,1985
+5,11,degree,Directed,246513,,1,united kingdom,france,2011
+3,1,degree,Directed,246573,,3,portugal,brazil,2002
+2,5,degree,Directed,247256,,1,united states,united kingdom,1980
+1,2,birth,Directed,247869,,2,brazil,united states,1974
+1,18,birth,Directed,247941,,1,brazil,venezuela,2005
+1,19,degree,Directed,248058,,1,brazil,belgium,1975
+1,13,birth,Directed,248128,,1,brazil,italy,1974
+11,1,degree,Directed,249350,,9,france,brazil,2010
+1,17,degree,Directed,249554,,1,brazil,cuba,1999
+5,5,degree,Directed,249806,,10,united kingdom,united kingdom,1985
+2,1,degree,Directed,250204,,2,united states,brazil,1967
+1,13,degree,Directed,251111,,4,brazil,italy,0
+8,1,degree,Directed,251646,,2,germany,brazil,2001
+14,1,degree,Directed,253234,,2,netherlands,brazil,2009
+4,1,degree,Directed,253356,,4,canada,brazil,1996
+16,1,degree,Directed,253394,,1,argentina,brazil,1971
+1,20,degree,Directed,253484,,4,brazil,australia,2008
+1,19,degree,Directed,253522,,1,brazil,belgium,1998
+2,5,degree,Directed,254023,,1,united states,united kingdom,1988
+1,16,degree,Directed,255007,,4,brazil,argentina,2013
+1,13,degree,Directed,255261,,3,brazil,italy,2004
+13,1,degree,Directed,255567,,4,italy,brazil,2006
+11,1,degree,Directed,256121,,6,france,brazil,2004
+1,8,degree,Directed,256838,,6,brazil,germany,1987
+4,1,degree,Directed,256893,,2,canada,brazil,2008
+14,14,degree,Directed,257605,,1,netherlands,netherlands,2012
+1,5,degree,Directed,257717,,1,brazil,united kingdom,1961
+9,5,degree,Directed,258408,,1,japan,united kingdom,1995
+19,19,degree,Directed,258832,,2,belgium,belgium,1994
+8,1,degree,Directed,259081,,5,germany,brazil,2007
+1,1,birth,Directed,260895,,2,brazil,brazil,1964
+1,8,degree,Directed,261053,,5,brazil,germany,1975
+1,7,degree,Directed,261923,,1,brazil,spain,1969
+5,5,degree,Directed,262371,,4,united kingdom,united kingdom,1970
+4,4,degree,Directed,262575,,2,canada,canada,1993
+1,2,birth,Directed,263210,,4,brazil,united states,2002
+13,13,degree,Directed,263317,,11,italy,italy,2009
+21,21,degree,Directed,263486,,1,sweden,sweden,1995
+1,22,degree,Directed,264604,,3,brazil,belize,2012
+3,1,degree,Directed,264856,,2,portugal,brazil,1990
+14,1,degree,Directed,266368,,1,netherlands,brazil,2010
+14,14,degree,Directed,266743,,2,netherlands,netherlands,1994
+24,24,degree,Directed,266943,,1,switzerland,switzerland,2009
+13,13,birth,Directed,267190,,1,italy,italy,1995
+13,11,birth,Directed,267204,,1,italy,france,2001
+1,13,birth,Directed,267244,,1,brazil,italy,1998
+25,1,birth,Directed,270008,,1,mozambique,brazil,2012
+25,1,birth,Directed,270023,,1,mozambique,brazil,2007
+3,7,degree,Directed,270031,,1,portugal,spain,2007
+25,1,birth,Directed,270034,,1,mozambique,brazil,2013
+3,3,degree,Directed,270037,,15,portugal,portugal,2003
+3,3,degree,Directed,270058,,12,portugal,portugal,2004
+3,2,degree,Directed,270077,,1,portugal,united states,1978
+1,2,birth,Directed,270576,,1,brazil,united states,1998
+5,1,degree,Directed,271219,,1,united kingdom,brazil,1996
+2,1,degree,Directed,271612,,5,united states,brazil,1981
+5,1,degree,Directed,271932,,3,united kingdom,brazil,1990
+1,16,degree,Directed,272399,,3,brazil,argentina,2008
+19,1,degree,Directed,273015,,2,belgium,brazil,2003
+1,9,degree,Directed,273602,,4,brazil,japan,2011
+11,1,degree,Directed,275033,,1,france,brazil,1975
+3,1,degree,Directed,275770,,3,portugal,brazil,2003
+1,19,degree,Directed,276633,,1,brazil,belgium,1989
+1,11,degree,Directed,280122,,1,brazil,france,1959
+8,2,degree,Directed,280547,,1,germany,united states,1988
+9,1,degree,Directed,280690,,1,japan,brazil,1997
+5,2,degree,Directed,280755,,1,united kingdom,united states,1987
+11,19,degree,Directed,280772,,1,france,belgium,1993
+1,11,birth,Directed,281214,,1,brazil,france,1987
+1,8,birth,Directed,281229,,1,brazil,germany,1984
+1,11,birth,Directed,281729,,2,brazil,france,1981
+19,5,degree,Directed,281735,,1,belgium,united kingdom,1997
+2,5,degree,Directed,282544,,4,united states,united kingdom,1991
+1,4,birth,Directed,283473,,1,brazil,canada,2013
+19,19,degree,Directed,283940,,1,belgium,belgium,1984
+1,5,degree,Directed,284314,,2,brazil,united kingdom,1970
+12,1,degree,Directed,285394,,4,chile,brazil,2007
+1,14,birth,Directed,285791,,1,brazil,netherlands,2004
+1,2,birth,Directed,285945,,1,brazil,united states,1976
+13,1,degree,Directed,286338,,3,italy,brazil,2013
+1,4,birth,Directed,286960,,1,brazil,canada,1975
+1,9,birth,Directed,287213,,1,brazil,japan,2003
+13,13,degree,Directed,288090,,3,italy,italy,1988
+1,2,birth,Directed,288097,,3,brazil,united states,1996
+1,19,degree,Directed,288147,,1,brazil,belgium,1997
+1,7,birth,Directed,289192,,1,brazil,spain,1997
+2,20,degree,Directed,289205,,2,united states,australia,2011
+4,4,degree,Directed,290083,,2,canada,canada,1976
+1,11,birth,Directed,290088,,1,brazil,france,2003
+1,20,degree,Directed,290551,,5,brazil,australia,2007
+1,2,birth,Directed,291284,,2,brazil,united states,2013
+2,13,degree,Directed,291478,,1,united states,italy,2007
+1,2,birth,Directed,292641,,3,brazil,united states,1999
+5,5,degree,Directed,292713,,12,united kingdom,united kingdom,1989
+3,7,degree,Directed,293078,,1,portugal,spain,2013
+1,11,birth,Directed,295776,,2,brazil,france,2013
+1,3,birth,Directed,295855,,1,brazil,portugal,2011
+1,2,degree,Directed,295868,,1,brazil,united states,1957
+1,2,birth,Directed,295922,,2,brazil,united states,2004
+1,2,birth,Directed,296395,,1,brazil,united states,0
+1,11,birth,Directed,296988,,1,brazil,france,1980
+12,12,degree,Directed,298410,,2,chile,chile,2004
+12,12,birth,Directed,298412,,1,chile,chile,2006
+12,5,birth,Directed,298420,,1,chile,united kingdom,1974
+12,1,degree,Directed,298423,,2,chile,brazil,1989
+12,1,birth,Directed,298424,,4,chile,brazil,1999
+12,7,birth,Directed,298425,,1,chile,spain,1983
+12,12,degree,Directed,298429,,1,chile,chile,1963
+12,1,degree,Directed,298442,,1,chile,brazil,1994
+12,9,degree,Directed,298444,,1,chile,japan,2007
+12,1,degree,Directed,298458,,1,chile,brazil,1991
+24,2,degree,Directed,298465,,1,switzerland,united states,1970
+12,5,degree,Directed,298471,,1,chile,united kingdom,2010
+12,2,birth,Directed,298501,,1,chile,united states,1995
+12,12,degree,Directed,298506,,1,chile,chile,2006
+12,12,birth,Directed,298519,,3,chile,chile,2007
+26,1,birth,Directed,298531,,2,iran,brazil,2008
+27,1,birth,Directed,298533,,1,ecuador,brazil,2002
+27,1,birth,Directed,298534,,1,ecuador,brazil,2007
+1,19,degree,Directed,298537,,2,brazil,belgium,2011
+27,1,birth,Directed,298543,,1,ecuador,brazil,2006
+27,1,birth,Directed,298544,,1,ecuador,brazil,2008
+27,14,birth,Directed,298548,,1,ecuador,netherlands,2013
+27,1,birth,Directed,298558,,1,ecuador,brazil,0
+5,5,birth,Directed,298568,,3,united kingdom,united kingdom,1996
+16,16,degree,Directed,298570,,9,argentina,argentina,2013
+16,11,degree,Directed,298573,,1,argentina,france,2009
+16,16,degree,Directed,298579,,1,argentina,argentina,1961
+22,1,degree,Directed,298596,,2,belize,brazil,2001
+16,1,birth,Directed,298603,,4,argentina,brazil,2014
+16,2,birth,Directed,298630,,1,argentina,united states,1989
+16,16,birth,Directed,298642,,1,argentina,argentina,1996
+12,7,degree,Directed,298645,,2,chile,spain,2006
+16,2,birth,Directed,298648,,1,argentina,united states,1997
+2,16,degree,Directed,298653,,1,united states,argentina,2002
+16,1,birth,Directed,298656,,2,argentina,brazil,2007
+16,16,degree,Directed,298660,,4,argentina,argentina,2003
+16,7,degree,Directed,298688,,1,argentina,spain,1983
+16,16,birth,Directed,298690,,1,argentina,argentina,1993
+16,1,degree,Directed,298693,,3,argentina,brazil,1991
+16,2,degree,Directed,298712,,1,argentina,united states,1980
+16,2,birth,Directed,298716,,1,argentina,united states,2009
+16,16,birth,Directed,298717,,3,argentina,argentina,2006
+16,7,birth,Directed,298720,,1,argentina,spain,2010
+16,1,birth,Directed,298729,,2,argentina,brazil,2012
+16,16,degree,Directed,298744,,1,argentina,argentina,1989
+16,16,birth,Directed,298746,,2,argentina,argentina,2002
+16,2,degree,Directed,298786,,1,argentina,united states,1966
+16,16,birth,Directed,298797,,1,argentina,argentina,1984
+16,7,birth,Directed,298799,,2,argentina,spain,2004
+16,7,degree,Directed,298814,,1,argentina,spain,1989
+16,1,degree,Directed,298818,,1,argentina,brazil,1984
+16,2,birth,Directed,298836,,1,argentina,united states,2007
+16,7,degree,Directed,298846,,1,argentina,spain,2007
+16,16,degree,Directed,298865,,3,argentina,argentina,1972
+16,13,birth,Directed,298877,,1,argentina,italy,1980
+16,2,degree,Directed,298880,,1,argentina,united states,1978
+28,2,birth,Directed,298936,,1,russia,united states,2013
+28,2,birth,Directed,298937,,1,russia,united states,1978
+3,5,birth,Directed,298985,,2,portugal,united kingdom,1998
+3,1,degree,Directed,299002,,2,portugal,brazil,1999
+13,1,degree,Directed,299431,,5,italy,brazil,2009
+14,7,degree,Directed,299480,,1,netherlands,spain,2007
+1,1,degree,Directed,299539,,6,brazil,brazil,1953
+1,7,birth,Directed,299710,,1,brazil,spain,1998
+1,12,degree,Directed,299775,,1,brazil,chile,2013
+2,7,degree,Directed,300207,,1,united states,spain,0
+1,12,degree,Directed,300874,,1,brazil,chile,2004
+1,13,birth,Directed,301419,,1,brazil,italy,2010
+2,1,degree,Directed,303030,,3,united states,brazil,1969
+1,7,birth,Directed,304715,,2,brazil,spain,2005
+1,16,degree,Directed,305694,,4,brazil,argentina,2003
+3,1,degree,Directed,306216,,4,portugal,brazil,1998
+5,5,degree,Directed,307018,,7,united kingdom,united kingdom,1990
+3,3,degree,Directed,307717,,1,portugal,portugal,1980
+1,19,degree,Directed,307929,,1,brazil,belgium,1999
+3,3,birth,Directed,308431,,1,portugal,portugal,1989
+3,3,birth,Directed,308664,,1,portugal,portugal,1988
+1,8,birth,Directed,309483,,1,brazil,germany,2001
+1,21,degree,Directed,309977,,3,brazil,sweden,1996
+3,7,birth,Directed,310270,,1,portugal,spain,2012
+3,3,degree,Directed,310950,,2,portugal,portugal,1988
+11,1,degree,Directed,311107,,3,france,brazil,1986
+1,4,degree,Directed,311534,,3,brazil,canada,1984
+3,3,birth,Directed,312294,,4,portugal,portugal,2013
+1,20,degree,Directed,312715,,2,brazil,australia,2010
+3,3,birth,Directed,312760,,2,portugal,portugal,1987
+1,7,birth,Directed,312862,,1,brazil,spain,1984
+11,1,degree,Directed,313171,,1,france,brazil,1984
+1,11,birth,Directed,313316,,2,brazil,france,1982
+7,1,degree,Directed,313347,,2,spain,brazil,1999
+3,2,degree,Directed,313474,,1,portugal,united states,1986
+13,13,degree,Directed,314225,,1,italy,italy,1990
+1,21,degree,Directed,314648,,1,brazil,sweden,2002
+1,13,birth,Directed,314699,,2,brazil,italy,2013
+3,3,birth,Directed,315114,,2,portugal,portugal,1993
+4,4,degree,Directed,315265,,1,canada,canada,1985
+8,8,degree,Directed,315436,,5,germany,germany,2004
+5,11,degree,Directed,315576,,1,united kingdom,france,1986
+3,3,birth,Directed,315606,,7,portugal,portugal,2007
+1,4,birth,Directed,316024,,1,brazil,canada,1998
+3,7,degree,Directed,316060,,1,portugal,spain,2005
+11,11,degree,Directed,316878,,2,france,france,1970
+3,3,birth,Directed,317207,,1,portugal,portugal,1984
+13,13,degree,Directed,318103,,1,italy,italy,1974
+3,3,birth,Directed,318132,,1,portugal,portugal,1973
+5,1,degree,Directed,318333,,3,united kingdom,brazil,1982
+2,4,degree,Directed,318581,,1,united states,canada,1994
+3,3,degree,Directed,319069,,5,portugal,portugal,1993
+1,11,birth,Directed,319470,,2,brazil,france,1993
+16,7,degree,Directed,319557,,1,argentina,spain,2008
+1,4,degree,Directed,319869,,10,brazil,canada,1998
+8,8,degree,Directed,320146,,3,germany,germany,1992
+2,5,degree,Directed,320203,,2,united states,united kingdom,1990
+3,3,birth,Directed,320265,,2,portugal,portugal,2001
+3,14,birth,Directed,320478,,1,portugal,netherlands,1999
+2,11,degree,Directed,320579,,1,united states,france,2001
+2,11,degree,Directed,320770,,1,united states,france,1971
+5,2,degree,Directed,320825,,3,united kingdom,united states,1990
+7,19,degree,Directed,321376,,1,spain,belgium,2010
+3,3,degree,Directed,322211,,1,portugal,portugal,1981
+1,16,degree,Directed,322247,,1,brazil,argentina,1990
+7,1,degree,Directed,322429,,3,spain,brazil,2000
+7,7,degree,Directed,322559,,9,spain,spain,1994
+3,5,degree,Directed,323669,,1,portugal,united kingdom,1974
+3,5,degree,Directed,324127,,3,portugal,united kingdom,1993
+5,8,degree,Directed,324351,,1,united kingdom,germany,1986
+3,5,birth,Directed,324357,,1,portugal,united kingdom,1971
+3,5,birth,Directed,324580,,2,portugal,united kingdom,1985
+8,8,degree,Directed,326059,,4,germany,germany,2009
+11,11,degree,Directed,326418,,9,france,france,2004
+4,1,degree,Directed,326580,,1,canada,brazil,1992
+3,11,birth,Directed,326741,,2,portugal,france,2007
+1,13,degree,Directed,326938,,8,brazil,italy,2005
+3,14,birth,Directed,326971,,1,portugal,netherlands,2005
+1,19,degree,Directed,327838,,2,brazil,belgium,1985
+3,3,birth,Directed,328370,,2,portugal,portugal,2005
+1,7,birth,Directed,328416,,1,brazil,spain,2006
+1,20,degree,Directed,328425,,3,brazil,australia,1997
+5,5,degree,Directed,329277,,6,united kingdom,united kingdom,2012
+1,2,degree,Directed,329760,,1,brazil,united states,1950
+30,19,birth,Directed,329823,,1,ireland,belgium,1988
+31,1,birth,Directed,329830,,4,pakistan,brazil,2013
+10,1,degree,Directed,329874,,7,colombia,brazil,2014
+10,1,degree,Directed,329883,,3,colombia,brazil,1990
+10,10,degree,Directed,329910,,6,colombia,colombia,2011
+18,2,degree,Directed,329949,,1,venezuela,united states,1999
+10,5,degree,Directed,329956,,1,colombia,united kingdom,1995
+10,1,degree,Directed,329988,,1,colombia,brazil,1993
+10,1,birth,Directed,329995,,1,colombia,brazil,2001
+4,4,degree,Directed,330055,,1,canada,canada,1984
+1,13,degree,Directed,330602,,2,brazil,italy,1999
+9,9,degree,Directed,330640,,3,japan,japan,2004
+10,1,degree,Directed,330653,,8,colombia,brazil,2011
+10,1,degree,Directed,330668,,5,colombia,brazil,2006
+10,7,degree,Directed,330680,,2,colombia,spain,2012
+1,7,degree,Directed,330685,,1,brazil,spain,1968
+10,2,birth,Directed,330721,,1,colombia,united states,1985
+10,8,degree,Directed,330726,,1,colombia,germany,2011
+10,10,degree,Directed,330750,,1,colombia,colombia,2013
+10,7,birth,Directed,330798,,1,colombia,spain,2004
+10,2,birth,Directed,330809,,1,colombia,united states,1975
+10,11,birth,Directed,330840,,1,colombia,france,1989
+10,5,birth,Directed,330845,,2,colombia,united kingdom,1998
+10,1,degree,Directed,330897,,2,colombia,brazil,2004
+10,18,degree,Directed,330923,,1,colombia,venezuela,2010
+10,10,birth,Directed,330926,,1,colombia,colombia,2008
+10,1,birth,Directed,330947,,1,colombia,brazil,1992
+10,7,degree,Directed,330995,,1,colombia,spain,2011
+10,12,degree,Directed,331074,,1,colombia,chile,2007
+10,7,degree,Directed,331095,,1,colombia,spain,1999
+18,5,birth,Directed,331129,,1,venezuela,united kingdom,1999
+18,19,degree,Directed,331141,,1,venezuela,belgium,2014
+18,1,degree,Directed,331149,,2,venezuela,brazil,1996
+18,1,birth,Directed,331152,,2,venezuela,brazil,2010
+18,1,degree,Directed,331160,,2,venezuela,brazil,2000
+18,2,degree,Directed,331181,,1,venezuela,united states,2000
+18,5,birth,Directed,331183,,1,venezuela,united kingdom,2013
+18,16,birth,Directed,331187,,1,venezuela,argentina,2003
+18,11,degree,Directed,331196,,1,venezuela,france,1997
+18,2,degree,Directed,331211,,1,venezuela,united states,1997
+18,2,birth,Directed,331218,,1,venezuela,united states,2012
+18,18,degree,Directed,331224,,1,venezuela,venezuela,1998
+18,1,birth,Directed,331227,,1,venezuela,brazil,2014
+18,1,birth,Directed,331228,,1,venezuela,brazil,2007
+18,18,degree,Directed,331234,,1,venezuela,venezuela,1994
+18,1,birth,Directed,331236,,2,venezuela,brazil,1998
+18,18,birth,Directed,331252,,1,venezuela,venezuela,1996
+14,1,degree,Directed,331255,,3,netherlands,brazil,2007
+18,1,degree,Directed,331266,,2,venezuela,brazil,2001
+18,1,birth,Directed,331268,,1,venezuela,brazil,2013
+18,18,degree,Directed,331271,,3,venezuela,venezuela,2010
+18,5,birth,Directed,331276,,1,venezuela,united kingdom,2012
+18,1,degree,Directed,331278,,1,venezuela,brazil,1991
+18,18,birth,Directed,331291,,1,venezuela,venezuela,2006
+18,7,degree,Directed,331293,,1,venezuela,spain,1996
+18,1,birth,Directed,331294,,1,venezuela,brazil,1989
+18,1,birth,Directed,331300,,1,venezuela,brazil,2008
+18,1,birth,Directed,331302,,1,venezuela,brazil,2005
+18,1,birth,Directed,331317,,1,venezuela,brazil,1995
+18,1,birth,Directed,331322,,1,venezuela,brazil,2012
+18,5,birth,Directed,331329,,1,venezuela,united kingdom,1979
+18,1,birth,Directed,331337,,1,venezuela,brazil,2001
+18,1,degree,Directed,331344,,1,venezuela,brazil,2010
+15,1,birth,Directed,331376,,6,peru,brazil,2008
+15,1,degree,Directed,331398,,2,peru,brazil,2012
+15,1,birth,Directed,331407,,3,peru,brazil,1995
+15,1,birth,Directed,331416,,5,peru,brazil,1999
+15,1,birth,Directed,331466,,3,peru,brazil,1994
+15,1,degree,Directed,331514,,6,peru,brazil,2003
+15,1,degree,Directed,331525,,2,peru,brazil,1994
+12,1,degree,Directed,331568,,2,chile,brazil,1998
+15,1,birth,Directed,331577,,5,peru,brazil,2010
+15,1,birth,Directed,331637,,4,peru,brazil,2006
+15,1,birth,Directed,331645,,5,peru,brazil,2003
+15,1,birth,Directed,331693,,7,peru,brazil,2007
+15,1,degree,Directed,331709,,1,peru,brazil,1984
+15,1,birth,Directed,331729,,5,peru,brazil,2014
+15,1,birth,Directed,331819,,3,peru,brazil,2005
+15,1,degree,Directed,332004,,1,peru,brazil,1993
+15,1,birth,Directed,332017,,3,peru,brazil,2001
+15,1,degree,Directed,332110,,1,peru,brazil,1997
+15,1,degree,Directed,332130,,3,peru,brazil,2013
+15,1,birth,Directed,332143,,1,peru,brazil,1964
+15,7,degree,Directed,332157,,1,peru,spain,2012
+15,1,degree,Directed,332163,,1,peru,brazil,2004
+15,1,birth,Directed,332190,,3,peru,brazil,2013
+15,1,birth,Directed,332229,,1,peru,brazil,1992
+15,5,birth,Directed,332238,,1,peru,united kingdom,1992
+15,8,degree,Directed,332314,,1,peru,germany,1982
+15,15,degree,Directed,332531,,1,peru,peru,0
+15,11,birth,Directed,332574,,1,peru,france,2008
+15,12,birth,Directed,332586,,1,peru,chile,2005
+15,2,birth,Directed,332624,,1,peru,united states,1991
+15,1,degree,Directed,332730,,1,peru,brazil,1995
+15,2,birth,Directed,332815,,1,peru,united states,1975
+8,14,degree,Directed,333078,,1,germany,netherlands,2012
+16,1,birth,Directed,333218,,1,argentina,brazil,2011
+16,1,birth,Directed,333287,,3,argentina,brazil,2002
+16,16,degree,Directed,333296,,2,argentina,argentina,2000
+16,16,birth,Directed,333302,,2,argentina,argentina,2010
+16,1,birth,Directed,333303,,3,argentina,brazil,2009
+16,1,birth,Directed,333350,,1,argentina,brazil,1996
+11,19,degree,Directed,333401,,1,france,belgium,2002
+16,16,birth,Directed,333403,,2,argentina,argentina,2012
+16,1,birth,Directed,333408,,4,argentina,brazil,2003
+16,1,birth,Directed,333456,,1,argentina,brazil,1983
+1,5,birth,Directed,334345,,1,brazil,united kingdom,2014
+1,2,birth,Directed,335731,,2,brazil,united states,1980
+15,12,birth,Directed,336231,,1,peru,chile,2001
+17,1,birth,Directed,336331,,2,cuba,brazil,2008
+17,1,birth,Directed,336336,,2,cuba,brazil,2014
+17,1,degree,Directed,336340,,4,cuba,brazil,2010
+17,1,degree,Directed,336393,,8,cuba,brazil,2012
+17,17,degree,Directed,336398,,2,cuba,cuba,1987
+17,1,degree,Directed,336401,,1,cuba,brazil,1997
+17,7,birth,Directed,336409,,2,cuba,spain,1997
+17,17,birth,Directed,336424,,1,cuba,cuba,2001
+17,1,birth,Directed,336425,,2,cuba,brazil,2013
+17,1,degree,Directed,336444,,3,cuba,brazil,2005
+17,17,birth,Directed,336447,,2,cuba,cuba,2007
+17,17,degree,Directed,336459,,5,cuba,cuba,1996
+17,1,degree,Directed,336475,,2,cuba,brazil,2007
+17,1,degree,Directed,336490,,5,cuba,brazil,2011
+1,20,degree,Directed,337137,,2,brazil,australia,1989
+19,19,degree,Directed,338440,,5,belgium,belgium,2005
+12,1,degree,Directed,338628,,1,chile,brazil,1974
+13,13,degree,Directed,340208,,7,italy,italy,2004
+1,5,degree,Directed,340602,,3,brazil,united kingdom,0
+1,8,birth,Directed,340875,,1,brazil,germany,1985
+3,3,birth,Directed,341792,,2,portugal,portugal,2000
+3,3,birth,Directed,342673,,2,portugal,portugal,1999
+3,3,degree,Directed,342698,,3,portugal,portugal,1990
+7,21,birth,Directed,342708,,1,spain,sweden,2007
+7,7,birth,Directed,342727,,2,spain,spain,1981
+11,7,degree,Directed,342757,,1,france,spain,1966
+7,7,degree,Directed,342760,,3,spain,spain,1984
+11,11,degree,Directed,342770,,6,france,france,1972
+7,7,birth,Directed,342787,,3,spain,spain,1993
+7,7,degree,Directed,342789,,1,spain,spain,1976
+7,7,degree,Directed,342807,,7,spain,spain,1988
+7,7,birth,Directed,342818,,4,spain,spain,1998
+7,7,degree,Directed,342828,,9,spain,spain,1990
+7,1,birth,Directed,342862,,1,spain,brazil,1974
+2,7,degree,Directed,342866,,2,united states,spain,1995
+7,7,birth,Directed,342868,,3,spain,spain,1986
+7,7,birth,Directed,342887,,2,spain,spain,1992
+7,7,birth,Directed,342889,,4,spain,spain,1997
+7,7,degree,Directed,342896,,4,spain,spain,1982
+7,7,degree,Directed,342916,,8,spain,spain,1980
+7,8,degree,Directed,342929,,1,spain,germany,2003
+8,8,degree,Directed,342981,,3,germany,germany,1990
+1,13,degree,Directed,344208,,1,brazil,italy,1977
+1,19,degree,Directed,346207,,4,brazil,belgium,2009
+1,7,birth,Directed,346611,,3,brazil,spain,2011
+1,11,degree,Directed,348623,,5,brazil,france,0
+2,1,degree,Directed,349787,,1,united states,brazil,1957
+8,8,degree,Directed,351334,,2,germany,germany,2014
+32,1,birth,Directed,352643,,1,india,brazil,2010
+1,16,degree,Directed,352653,,3,brazil,argentina,1998
+1,5,birth,Directed,353856,,1,brazil,united kingdom,1980
+18,18,degree,Directed,354082,,1,venezuela,venezuela,1996
+17,1,birth,Directed,354087,,2,cuba,brazil,2006
+17,1,degree,Directed,354111,,2,cuba,brazil,1999
+17,17,degree,Directed,354118,,4,cuba,cuba,2011
+17,1,birth,Directed,354129,,2,cuba,brazil,2004
+17,1,birth,Directed,354165,,4,cuba,brazil,2005
+18,18,degree,Directed,354168,,1,venezuela,venezuela,2003
+18,1,degree,Directed,354201,,3,venezuela,brazil,2009
+17,17,birth,Directed,354211,,1,cuba,cuba,2009
+17,18,birth,Directed,354221,,1,cuba,venezuela,2004
+17,1,birth,Directed,354232,,1,cuba,brazil,1997
+17,7,degree,Directed,354250,,2,cuba,spain,2012
+1,15,degree,Directed,354265,,1,brazil,peru,1978
+15,1,degree,Directed,354323,,4,peru,brazil,2007
+15,1,degree,Directed,354391,,1,peru,brazil,0
+13,16,degree,Directed,354622,,1,italy,argentina,2011
+1,20,degree,Directed,355554,,1,brazil,australia,0
+7,1,degree,Directed,356762,,3,spain,brazil,2007
+5,2,degree,Directed,357617,,1,united kingdom,united states,2010
+1,8,degree,Directed,359096,,1,brazil,germany,1959
+1,16,degree,Directed,360729,,1,brazil,argentina,1995
+1,9,degree,Directed,361364,,4,brazil,japan,2010
+1,12,degree,Directed,361431,,1,brazil,chile,2009
+4,1,degree,Directed,361865,,3,canada,brazil,2010
+13,13,degree,Directed,363271,,5,italy,italy,2000
+1,8,degree,Directed,363511,,2,brazil,germany,1971
+1,8,birth,Directed,363879,,1,brazil,germany,1981
+21,21,degree,Directed,363964,,1,sweden,sweden,2007
+1,22,degree,Directed,364406,,4,brazil,belize,2009
+5,11,degree,Directed,364646,,1,united kingdom,france,1999
+4,2,degree,Directed,365462,,1,canada,united states,2001
+1,9,degree,Directed,366025,,2,brazil,japan,2005
+16,16,birth,Directed,366436,,1,argentina,argentina,1980
+16,13,degree,Directed,366444,,1,argentina,italy,2013
+7,7,degree,Directed,366464,,7,spain,spain,1993
+24,1,degree,Directed,366502,,1,switzerland,brazil,2001
+16,16,birth,Directed,366514,,1,argentina,argentina,1989
+1,16,degree,Directed,366551,,1,brazil,argentina,1968
+3,5,degree,Directed,366645,,1,portugal,united kingdom,1994
+3,3,birth,Directed,366650,,2,portugal,portugal,2003
+3,14,degree,Directed,366670,,1,portugal,netherlands,2007
+3,7,birth,Directed,366687,,1,portugal,spain,2005
+3,5,birth,Directed,366708,,1,portugal,united kingdom,1992
+3,1,birth,Directed,366715,,1,portugal,brazil,2013
+3,5,birth,Directed,366723,,1,portugal,united kingdom,1975
+3,3,birth,Directed,366752,,3,portugal,portugal,2010
+4,4,degree,Directed,367310,,3,canada,canada,1995
+1,21,degree,Directed,367324,,1,brazil,sweden,2010
+1,4,birth,Directed,367549,,1,brazil,canada,2007
+7,11,degree,Directed,367981,,1,spain,france,2014
+1,5,birth,Directed,368204,,1,brazil,united kingdom,1996
+1,7,degree,Directed,368396,,2,brazil,spain,1984
+5,2,degree,Directed,368580,,1,united kingdom,united states,1993
+9,1,degree,Directed,368920,,1,japan,brazil,2005
+12,5,degree,Directed,369027,,1,chile,united kingdom,1978
+2,4,degree,Directed,369118,,2,united states,canada,2011
+2,5,degree,Directed,369694,,2,united states,united kingdom,2006
+12,1,degree,Directed,370149,,2,chile,brazil,0
+2,5,degree,Directed,371307,,3,united states,united kingdom,1996
+11,5,degree,Directed,372125,,1,france,united kingdom,2012
+1,21,degree,Directed,372187,,1,brazil,sweden,2009
+19,19,degree,Directed,373076,,2,belgium,belgium,2007
+5,2,degree,Directed,373084,,1,united kingdom,united states,2002
+4,4,degree,Directed,373438,,5,canada,canada,1996
+1,5,birth,Directed,373462,,1,brazil,united kingdom,1968
+1,21,degree,Directed,373591,,2,brazil,sweden,1984
+19,1,degree,Directed,374001,,2,belgium,brazil,2013
+11,11,birth,Directed,374242,,2,france,france,1975
+1,3,birth,Directed,375436,,1,brazil,portugal,1981
+11,11,birth,Directed,375508,,1,france,france,1986
+11,11,birth,Directed,375517,,1,france,france,1989
+11,11,birth,Directed,375560,,1,france,france,1992
+11,11,degree,Directed,375572,,1,france,france,1969
+2,11,degree,Directed,375580,,1,united states,france,2009
+11,1,birth,Directed,375611,,1,france,brazil,1994
+11,11,birth,Directed,375623,,1,france,france,1990
+11,11,birth,Directed,375629,,2,france,france,1978
+11,11,birth,Directed,375660,,2,france,france,1982
+11,11,birth,Directed,375673,,2,france,france,1984
+11,11,birth,Directed,375709,,4,france,france,1985
+11,11,birth,Directed,375711,,4,france,france,2006
+11,11,degree,Directed,375717,,2,france,france,1966
+11,1,birth,Directed,375719,,1,france,brazil,2012
+2,11,degree,Directed,375728,,1,united states,france,2011
+11,11,birth,Directed,375770,,2,france,france,1981
+11,11,degree,Directed,375773,,1,france,france,1965
+11,5,birth,Directed,375778,,1,france,united kingdom,2007
+11,2,birth,Directed,375812,,1,france,united states,1988
+11,11,birth,Directed,375843,,2,france,france,1967
+11,2,birth,Directed,375852,,1,france,united states,2003
+11,11,birth,Directed,375879,,3,france,france,1995
+3,2,degree,Directed,376745,,1,portugal,united states,2002
+1,7,birth,Directed,379605,,2,brazil,spain,2009
+1,23,degree,Directed,379793,,1,brazil,denmark,1991
+5,3,degree,Directed,381749,,1,united kingdom,portugal,2004
+1,12,degree,Directed,383002,,1,brazil,chile,2005
+1,8,degree,Directed,383022,,1,brazil,germany,1968
+1,3,birth,Directed,385447,,1,brazil,portugal,1999
+8,8,degree,Directed,386101,,3,germany,germany,1999
+8,1,degree,Directed,386115,,2,germany,brazil,2011
+8,8,degree,Directed,386125,,8,germany,germany,2002
+8,8,degree,Directed,386133,,5,germany,germany,1982
+8,8,birth,Directed,386134,,1,germany,germany,2003
+2,2,birth,Directed,386154,,3,united states,united states,1996
+13,1,degree,Directed,386860,,1,italy,brazil,1996
+2,2,birth,Directed,389410,,1,united states,united states,1968
+2,2,birth,Directed,389412,,2,united states,united states,1983
+2,2,birth,Directed,389419,,1,united states,united states,1971
+2,2,birth,Directed,389442,,2,united states,united states,1980
+7,7,degree,Directed,392757,,3,spain,spain,1979
+7,7,birth,Directed,392944,,1,spain,spain,1984
+7,13,birth,Directed,392951,,1,spain,italy,1989
+1,20,degree,Directed,394026,,3,brazil,australia,1994
+13,13,degree,Directed,394349,,2,italy,italy,1994
+2,11,degree,Directed,395885,,1,united states,france,1981
+1,3,birth,Directed,399172,,1,brazil,portugal,2014
+1,24,degree,Directed,401440,,1,brazil,switzerland,2008
+19,24,degree,Directed,402596,,1,belgium,switzerland,2012
+12,1,birth,Directed,403045,,2,chile,brazil,2002
+12,7,degree,Directed,403060,,2,chile,spain,2008
+12,1,birth,Directed,403071,,2,chile,brazil,2011
+12,1,birth,Directed,403080,,1,chile,brazil,2014
+11,2,birth,Directed,403083,,1,france,united states,1962
+11,5,degree,Directed,403097,,1,france,united kingdom,2002
+11,1,birth,Directed,403100,,1,france,brazil,2008
+1,7,degree,Directed,404360,,3,brazil,spain,1979
+5,4,degree,Directed,405894,,1,united kingdom,canada,2005
+7,3,degree,Directed,406281,,1,spain,portugal,2012
+1,14,degree,Directed,408307,,2,brazil,netherlands,2008
+1,1,birth,Directed,409971,,1,brazil,brazil,1965
+4,1,degree,Directed,411327,,2,canada,brazil,2000
+11,1,degree,Directed,411862,,1,france,brazil,1965
+1,1,degree,Directed,414693,,2,brazil,brazil,2017
+12,12,degree,Directed,415325,,2,chile,chile,2008
+2,5,degree,Directed,416347,,1,united states,united kingdom,2004
+5,5,degree,Directed,416350,,10,united kingdom,united kingdom,1980
+5,5,degree,Directed,416355,,1,united kingdom,united kingdom,1959
+13,13,degree,Directed,416386,,2,italy,italy,1972
+13,5,birth,Directed,416388,,1,italy,united kingdom,2008
+1,2,birth,Directed,418162,,1,brazil,united states,1964
+1,13,degree,Directed,421240,,1,brazil,italy,1968
+1,21,degree,Directed,421261,,2,brazil,sweden,1980
+9,9,degree,Directed,421955,,1,japan,japan,2007
+14,14,degree,Directed,423505,,1,netherlands,netherlands,2013
+1,9,degree,Directed,423612,,1,brazil,japan,2007
+1,3,degree,Directed,426652,,1,brazil,portugal,1987
+1,24,degree,Directed,426947,,1,brazil,switzerland,2009
+5,1,degree,Directed,427564,,2,united kingdom,brazil,1995
+1,9,degree,Directed,428454,,3,brazil,japan,2012
+1,11,degree,Directed,429247,,2,brazil,france,1963
+1,20,degree,Directed,429984,,1,brazil,australia,2005
+1,9,degree,Directed,431426,,2,brazil,japan,2003
+2,5,degree,Directed,431777,,1,united states,united kingdom,2014
+21,1,degree,Directed,432459,,1,sweden,brazil,2004
+2,2,birth,Directed,433480,,2,united states,united states,1969
+16,1,degree,Directed,433511,,2,argentina,brazil,1983
+16,2,degree,Directed,433515,,1,argentina,united states,2000
+3,3,degree,Directed,433517,,3,portugal,portugal,1982
+4,2,degree,Directed,433520,,1,canada,united states,1991
+4,4,birth,Directed,433522,,1,canada,canada,1996
+2,2,degree,Directed,433525,,2,united states,united states,1962
+2,2,birth,Directed,433531,,1,united states,united states,1999
+2,2,birth,Directed,433568,,1,united states,united states,1994
+2,2,birth,Directed,433576,,1,united states,united states,2012
+4,2,birth,Directed,433582,,1,canada,united states,1975
+4,5,birth,Directed,433604,,1,canada,united kingdom,2000
+5,5,degree,Directed,433607,,1,united kingdom,united kingdom,1974
+4,4,birth,Directed,433619,,1,canada,canada,1992
+4,4,degree,Directed,433621,,4,canada,canada,2012
+4,4,degree,Directed,433628,,3,canada,canada,1972
+4,2,birth,Directed,433630,,1,canada,united states,1997
+4,2,birth,Directed,433637,,1,canada,united states,2004
+14,5,birth,Directed,433647,,1,netherlands,united kingdom,2009
+6,1,birth,Directed,433655,,2,uruguay,brazil,1998
+6,1,degree,Directed,433657,,2,uruguay,brazil,2006
+6,1,birth,Directed,433665,,1,uruguay,brazil,2003
+6,1,degree,Directed,433668,,1,uruguay,brazil,2012
+6,1,birth,Directed,433682,,1,uruguay,brazil,1999
+6,1,birth,Directed,433685,,4,uruguay,brazil,2013
+6,6,degree,Directed,433688,,1,uruguay,uruguay,2009
+6,16,birth,Directed,433690,,1,uruguay,argentina,2007
+6,16,birth,Directed,433691,,1,uruguay,argentina,1998
+6,1,birth,Directed,433700,,1,uruguay,brazil,1991
+5,6,degree,Directed,433708,,1,united kingdom,uruguay,1999
+6,1,birth,Directed,433712,,2,uruguay,brazil,1997
+6,6,degree,Directed,433714,,1,uruguay,uruguay,2002
+6,1,degree,Directed,433717,,1,uruguay,brazil,2003
+6,1,birth,Directed,433721,,1,uruguay,brazil,1993
+6,6,birth,Directed,433737,,1,uruguay,uruguay,1993
+6,1,degree,Directed,433740,,1,uruguay,brazil,2005
+6,1,degree,Directed,433758,,4,uruguay,brazil,2010
+6,1,birth,Directed,433770,,1,uruguay,brazil,1994
+6,8,degree,Directed,433773,,1,uruguay,germany,1968
+6,16,degree,Directed,433808,,1,uruguay,argentina,1976
+6,1,degree,Directed,433826,,2,uruguay,brazil,2004
+6,11,birth,Directed,433829,,1,uruguay,france,1982
+6,1,birth,Directed,433832,,1,uruguay,brazil,2006
+6,5,birth,Directed,433843,,1,uruguay,united kingdom,2001
+6,19,birth,Directed,433882,,1,uruguay,belgium,1978
+6,1,birth,Directed,433893,,1,uruguay,brazil,2011
+6,5,birth,Directed,433910,,1,uruguay,united kingdom,2005
+6,2,degree,Directed,433912,,1,uruguay,united states,2003
+22,1,degree,Directed,433930,,2,belize,brazil,2002
+6,7,birth,Directed,433946,,1,uruguay,spain,2009
+6,1,birth,Directed,433964,,1,uruguay,brazil,1995
+6,16,degree,Directed,433970,,1,uruguay,argentina,2005
+6,6,degree,Directed,433974,,1,uruguay,uruguay,1996
+6,7,birth,Directed,434032,,1,uruguay,spain,1989
+6,11,birth,Directed,434033,,1,uruguay,france,1996
+6,1,degree,Directed,434048,,1,uruguay,brazil,1991
+1,6,degree,Directed,434060,,1,brazil,uruguay,2000
+6,1,degree,Directed,434071,,1,uruguay,brazil,2014
+6,1,birth,Directed,434083,,1,uruguay,brazil,1992
+16,7,degree,Directed,434088,,1,argentina,spain,2011
+6,6,degree,Directed,434091,,2,uruguay,uruguay,2006
+6,6,birth,Directed,434111,,1,uruguay,uruguay,1978
+6,6,birth,Directed,434116,,1,uruguay,uruguay,1983
+1,20,degree,Directed,434397,,1,brazil,australia,1998
+1,8,birth,Directed,435108,,1,brazil,germany,2000
+1,17,degree,Directed,435704,,1,brazil,cuba,2006
+17,7,degree,Directed,435864,,2,cuba,spain,2013
+1,11,birth,Directed,438763,,1,brazil,france,2005
+1,21,degree,Directed,439338,,1,brazil,sweden,1967
+17,17,degree,Directed,441512,,3,cuba,cuba,1989
+17,7,birth,Directed,441520,,1,cuba,spain,2012
+17,1,birth,Directed,441523,,3,cuba,brazil,2002
+17,17,degree,Directed,441526,,1,cuba,cuba,1963
+17,17,birth,Directed,441537,,1,cuba,cuba,1999
+13,1,birth,Directed,441567,,2,italy,brazil,2009
+16,1,birth,Directed,441605,,3,argentina,brazil,2008
+16,16,birth,Directed,441621,,1,argentina,argentina,1990
+22,7,degree,Directed,441630,,1,belize,spain,2001
+16,1,birth,Directed,441631,,1,argentina,brazil,2013
+1,16,degree,Directed,443285,,2,brazil,argentina,2002
+1,3,birth,Directed,444204,,1,brazil,portugal,2003
+3,1,degree,Directed,446274,,1,portugal,brazil,2009
+5,2,degree,Directed,448062,,1,united kingdom,united states,1996
+1,13,birth,Directed,448859,,1,brazil,italy,2000
+1,10,degree,Directed,449765,,2,brazil,colombia,2012
+1,19,degree,Directed,449826,,1,brazil,belgium,1984
+5,11,degree,Directed,450130,,1,united kingdom,france,1990
+1,4,degree,Directed,450168,,1,brazil,canada,1978
+19,19,degree,Directed,450666,,1,belgium,belgium,1995
+2,4,degree,Directed,452238,,1,united states,canada,1981
+1,17,degree,Directed,452634,,1,brazil,cuba,1996
+1,2,degree,Directed,454056,,2,brazil,united states,1963
+13,1,degree,Directed,455198,,1,italy,brazil,1992
+11,11,birth,Directed,455487,,1,france,france,1966
+11,11,birth,Directed,455511,,2,france,france,1988
+17,7,birth,Directed,455518,,2,cuba,spain,2010
+17,7,birth,Directed,455522,,1,cuba,spain,1999
+17,17,degree,Directed,455524,,5,cuba,cuba,2008
+17,17,birth,Directed,455528,,2,cuba,cuba,2006
+17,16,birth,Directed,455546,,1,cuba,argentina,2003
+17,17,birth,Directed,455552,,1,cuba,cuba,2005
+17,17,degree,Directed,455554,,2,cuba,cuba,1993
+17,1,degree,Directed,455557,,4,cuba,brazil,2004
+2,11,degree,Directed,456400,,1,united states,france,1963
+32,5,birth,Directed,456571,,1,india,united kingdom,1989
+4,4,degree,Directed,456709,,5,canada,canada,1982
+1,2,birth,Directed,460753,,3,brazil,united states,1979
+1,13,degree,Directed,461400,,1,brazil,italy,1985
+16,13,degree,Directed,461551,,1,argentina,italy,1995
+4,2,degree,Directed,462209,,1,canada,united states,1986
+2,5,degree,Directed,463383,,1,united states,united kingdom,1994
+14,14,birth,Directed,465327,,1,netherlands,netherlands,1969
+11,1,degree,Directed,465980,,2,france,brazil,1987
+21,21,degree,Directed,468298,,1,sweden,sweden,2003
+1,2,birth,Directed,469586,,2,brazil,united states,2010
+2,5,degree,Directed,469714,,1,united states,united kingdom,1978
+8,1,degree,Directed,470345,,1,germany,brazil,1999
+1,9,degree,Directed,471566,,2,brazil,japan,1996
+17,1,birth,Directed,472180,,1,cuba,brazil,2011
+17,17,degree,Directed,472205,,2,cuba,cuba,1994
+17,17,birth,Directed,472214,,1,cuba,cuba,1987
+17,17,degree,Directed,472239,,2,cuba,cuba,1992
+13,1,degree,Directed,472756,,2,italy,brazil,1986
+13,13,degree,Directed,474479,,5,italy,italy,2002
+1,21,degree,Directed,475123,,1,brazil,sweden,1985
+2,1,degree,Directed,475805,,5,united states,brazil,1978
+1,21,degree,Directed,477463,,1,brazil,sweden,2008
+14,5,degree,Directed,477536,,1,netherlands,united kingdom,1996
+1,14,birth,Directed,477990,,1,brazil,netherlands,2012
+4,1,degree,Directed,478099,,1,canada,brazil,1997
+1,7,birth,Directed,478440,,1,brazil,spain,2004
+3,11,degree,Directed,479489,,1,portugal,france,1972
+2,2,degree,Directed,481151,,3,united states,united states,1964
+11,7,degree,Directed,481620,,1,france,spain,2009
+19,19,degree,Directed,482524,,1,belgium,belgium,0
+1,24,degree,Directed,483864,,1,brazil,switzerland,2002
+2,5,degree,Directed,483941,,2,united states,united kingdom,2007
+20,1,degree,Directed,484636,,1,australia,brazil,1998
+1,14,degree,Directed,485750,,1,brazil,netherlands,1997
+1,24,degree,Directed,486840,,1,brazil,switzerland,2003
+1,2,birth,Directed,487637,,2,brazil,united states,1981
+7,7,degree,Directed,488184,,7,spain,spain,1992
+12,1,degree,Directed,488417,,1,chile,brazil,1984
+6,1,degree,Directed,489433,,2,uruguay,brazil,2002
+4,4,degree,Directed,490240,,1,canada,canada,2002
+1,3,birth,Directed,491186,,1,brazil,portugal,1994
+5,5,birth,Directed,491776,,1,united kingdom,united kingdom,1998
+21,1,degree,Directed,493109,,1,sweden,brazil,1978
+1,13,birth,Directed,494562,,2,brazil,italy,2009
+1,21,degree,Directed,494907,,1,brazil,sweden,1989
+10,2,degree,Directed,499211,,1,colombia,united states,1998
+10,1,birth,Directed,499286,,1,colombia,brazil,2008
+10,10,degree,Directed,499300,,1,colombia,colombia,2006
+10,1,birth,Directed,499336,,5,colombia,brazil,2011
+10,11,degree,Directed,499386,,1,colombia,france,2012
+10,12,degree,Directed,499389,,1,colombia,chile,2006
+14,5,degree,Directed,499408,,1,netherlands,united kingdom,2013
+10,2,birth,Directed,499413,,1,colombia,united states,2001
+1,17,degree,Directed,501602,,1,brazil,cuba,2003
+1,16,degree,Directed,501795,,1,brazil,argentina,1984
+11,1,birth,Directed,502622,,2,france,brazil,2006
+11,1,birth,Directed,502630,,1,france,brazil,2014
+8,1,degree,Directed,502637,,2,germany,brazil,2006
+8,8,degree,Directed,502644,,9,germany,germany,2003
+1,13,degree,Directed,502689,,2,brazil,italy,1994
+1,7,birth,Directed,502759,,1,brazil,spain,2012
+1,6,degree,Directed,503109,,1,brazil,uruguay,2001
+1,16,degree,Directed,503438,,2,brazil,argentina,1999
+1,6,degree,Directed,503686,,1,brazil,uruguay,1995
+24,24,degree,Directed,504440,,1,switzerland,switzerland,2005
+9,1,degree,Directed,504507,,1,japan,brazil,1999
+16,4,birth,Directed,504830,,1,argentina,canada,2008
+16,11,birth,Directed,504831,,1,argentina,france,2010
+16,16,birth,Directed,504881,,1,argentina,argentina,1986
+8,8,degree,Directed,505295,,4,germany,germany,2000
+12,2,degree,Directed,509221,,2,chile,united states,1980
+5,11,degree,Directed,512536,,1,united kingdom,france,1996
+1,14,degree,Directed,512725,,1,brazil,netherlands,1998
+1,4,degree,Directed,512913,,1,brazil,canada,1987
+1,13,birth,Directed,513190,,1,brazil,italy,2001
+1,21,degree,Directed,513274,,1,brazil,sweden,1979
+1,21,degree,Directed,514461,,1,brazil,sweden,2013
+1,5,birth,Directed,514562,,1,brazil,united kingdom,1971
+7,1,degree,Directed,515163,,1,spain,brazil,1982
+1,16,degree,Directed,515453,,2,brazil,argentina,1993
+13,13,degree,Directed,516989,,2,italy,italy,1997
+43,1,birth,Directed,518608,,1,egypt,brazil,1985
+17,17,degree,Directed,518650,,3,cuba,cuba,2003
+44,5,birth,Directed,520037,,1,philippines,united kingdom,1999
+44,2,birth,Directed,520038,,1,philippines,united states,1995
+44,7,birth,Directed,520042,,1,philippines,spain,1995
+44,1,birth,Directed,520052,,1,philippines,brazil,2002
+11,7,degree,Directed,520545,,1,france,spain,2011
+4,4,degree,Directed,521802,,3,canada,canada,2005
+5,1,degree,Directed,523594,,1,united kingdom,brazil,1974
+1,19,degree,Directed,527395,,1,brazil,belgium,2005
+5,1,degree,Directed,527626,,1,united kingdom,brazil,1981
+9,9,degree,Directed,527812,,2,japan,japan,2011
+8,8,degree,Directed,529433,,3,germany,germany,1975
+8,1,birth,Directed,529435,,1,germany,brazil,2005
+8,1,birth,Directed,529437,,1,germany,brazil,1991
+5,5,birth,Directed,529446,,1,united kingdom,united kingdom,1969
+5,5,degree,Directed,529449,,5,united kingdom,united kingdom,1975
+45,1,birth,Directed,530771,,1,morocco,brazil,2007
+5,5,degree,Directed,531174,,6,united kingdom,united kingdom,1978
+1,11,birth,Directed,532951,,3,brazil,france,1995
+1,5,birth,Directed,534648,,1,brazil,united kingdom,2013
+1,23,degree,Directed,535257,,1,brazil,denmark,2008
+3,1,birth,Directed,535783,,2,portugal,brazil,2007
+7,7,birth,Directed,536047,,1,spain,spain,2013
+16,1,birth,Directed,539330,,5,argentina,brazil,2004
+47,5,birth,Directed,539605,,1,norway,united kingdom,1998
+1,8,birth,Directed,539837,,1,brazil,germany,1997
+19,4,degree,Directed,545878,,1,belgium,canada,2005
+11,11,birth,Directed,546994,,2,france,france,1977
+11,11,birth,Directed,547000,,2,france,france,2007
+11,11,birth,Directed,547002,,4,france,france,2012
+18,1,degree,Directed,547700,,1,venezuela,brazil,1987
+1,11,birth,Directed,548413,,1,brazil,france,1991
+21,1,degree,Directed,551026,,1,sweden,brazil,2012
+1,17,birth,Directed,551188,,1,brazil,cuba,2002
+1,9,degree,Directed,551482,,1,brazil,japan,1965
+1,14,degree,Directed,556455,,2,brazil,netherlands,2003
+8,8,degree,Directed,560128,,4,germany,germany,1986
+13,13,degree,Directed,561242,,3,italy,italy,1985
+5,1,degree,Directed,561941,,1,united kingdom,brazil,1983
+7,7,birth,Directed,562039,,1,spain,spain,1988
+7,7,birth,Directed,562040,,2,spain,spain,1977
+7,7,degree,Directed,562065,,7,spain,spain,1987
+1,7,degree,Directed,562133,,1,brazil,spain,1967
+11,2,degree,Directed,562142,,1,france,united states,1997
+1,8,degree,Directed,562883,,2,brazil,germany,1970
+49,1,birth,Directed,565560,,2,bolivia,brazil,2004
+49,2,birth,Directed,565582,,1,bolivia,united states,1977
+49,1,birth,Directed,565585,,1,bolivia,brazil,1996
+13,8,degree,Directed,565598,,1,italy,germany,2008
+13,8,degree,Directed,565605,,1,italy,germany,2007
+13,13,degree,Directed,565622,,1,italy,italy,1978
+13,13,birth,Directed,565624,,1,italy,italy,2005
+13,5,degree,Directed,565627,,1,italy,united kingdom,2007
+1,13,degree,Directed,565635,,2,brazil,italy,1995
+13,13,degree,Directed,565815,,2,italy,italy,1999
+10,7,birth,Directed,565916,,1,colombia,spain,1995
+7,7,birth,Directed,566135,,3,spain,spain,2007
+10,1,birth,Directed,566292,,1,colombia,brazil,1991
+11,11,degree,Directed,566845,,3,france,france,1968
+11,11,degree,Directed,567265,,2,france,france,1975
+1,24,degree,Directed,568046,,1,brazil,switzerland,1996
+11,1,degree,Directed,573154,,2,france,brazil,1973
+1,19,degree,Directed,573905,,1,brazil,belgium,1982
+1,6,degree,Directed,574818,,1,brazil,uruguay,2014
+1,14,degree,Directed,575773,,3,brazil,netherlands,2007
+5,1,degree,Directed,575959,,1,united kingdom,brazil,1992
+8,1,degree,Directed,576675,,1,germany,brazil,1989
+5,4,degree,Directed,577451,,1,united kingdom,canada,1971
+7,7,birth,Directed,577674,,3,spain,spain,2008
+2,7,degree,Directed,577680,,1,united states,spain,1991
+7,7,birth,Directed,577707,,5,spain,spain,1999
+7,7,degree,Directed,577722,,2,spain,spain,1965
+7,7,birth,Directed,577723,,4,spain,spain,2002
+7,7,birth,Directed,577724,,1,spain,spain,1989
+7,7,birth,Directed,577737,,2,spain,spain,1979
+7,7,birth,Directed,577744,,1,spain,spain,2001
+7,7,birth,Directed,577752,,2,spain,spain,1996
+7,5,degree,Directed,577760,,1,spain,united kingdom,2014
+7,1,birth,Directed,577772,,1,spain,brazil,2010
+7,1,birth,Directed,577774,,1,spain,brazil,2001
+7,7,degree,Directed,577804,,1,spain,spain,1962
+7,5,birth,Directed,577854,,1,spain,united kingdom,2001
+3,7,degree,Directed,577864,,1,portugal,spain,2002
+22,1,degree,Directed,577868,,1,belize,brazil,2007
+1,2,birth,Directed,579756,,2,brazil,united states,2009
+1,3,degree,Directed,579793,,3,brazil,portugal,1992
+1,9,degree,Directed,579809,,1,brazil,japan,1986
+1,8,birth,Directed,582180,,1,brazil,germany,1975
+32,1,birth,Directed,583276,,1,india,brazil,1972
+32,5,birth,Directed,583280,,1,india,united kingdom,1967
+3,5,degree,Directed,583833,,1,portugal,united kingdom,1977
+1,2,birth,Directed,583968,,2,brazil,united states,1987
+1,2,birth,Directed,584172,,2,brazil,united states,1995
+1,2,birth,Directed,585905,,1,brazil,united states,2011
+1,5,birth,Directed,586783,,1,brazil,united kingdom,2012
+11,5,degree,Directed,587572,,1,france,united kingdom,2003
+1,4,degree,Directed,587943,,1,brazil,canada,1972
+54,5,birth,Directed,587962,,1,hungary,united kingdom,1972
+17,17,birth,Directed,588250,,2,cuba,cuba,2003
+17,1,degree,Directed,588265,,2,cuba,brazil,2006
+17,17,degree,Directed,588292,,2,cuba,cuba,1999
+1,17,degree,Directed,588891,,1,brazil,cuba,2000
+55,1,birth,Directed,589029,,2,angola,brazil,2012
+1,12,degree,Directed,589317,,1,brazil,chile,2003
+55,1,birth,Directed,589731,,1,angola,brazil,2003
+4,2,birth,Directed,590545,,1,canada,united states,1970
+4,4,degree,Directed,590556,,1,canada,canada,1975
+2,2,degree,Directed,590558,,3,united states,united states,1966
+4,4,degree,Directed,590573,,1,canada,canada,1981
+56,8,birth,Directed,590583,,1,latvia,germany,1972
+1,13,birth,Directed,590614,,1,brazil,italy,1994
+4,2,birth,Directed,590927,,1,canada,united states,1992
+4,4,degree,Directed,590930,,3,canada,canada,2007
+4,5,birth,Directed,590937,,2,canada,united kingdom,1988
+1,13,degree,Directed,590944,,1,brazil,italy,1973
+7,13,degree,Directed,590951,,1,spain,italy,1977
+1,23,degree,Directed,591087,,1,brazil,denmark,1986
+19,8,degree,Directed,592129,,1,belgium,germany,1979
+1,13,degree,Directed,592849,,2,brazil,italy,1974
+1,16,degree,Directed,593348,,1,brazil,argentina,2012
+18,1,degree,Directed,593806,,2,venezuela,brazil,2008
+15,2,birth,Directed,593838,,1,peru,united states,2009
+15,1,degree,Directed,594107,,2,peru,brazil,1996
+8,1,degree,Directed,594265,,1,germany,brazil,0
+8,8,degree,Directed,594271,,1,germany,germany,1968
+8,8,degree,Directed,594275,,2,germany,germany,1972
+3,2,birth,Directed,594278,,1,portugal,united states,2005
+14,19,degree,Directed,594809,,1,netherlands,belgium,2011
+18,1,birth,Directed,596093,,2,venezuela,brazil,2004
+10,1,degree,Directed,596141,,3,colombia,brazil,2003
+10,10,degree,Directed,596196,,1,colombia,colombia,2009
+13,13,degree,Directed,597525,,2,italy,italy,1992
+9,9,degree,Directed,598289,,1,japan,japan,2001
+49,1,birth,Directed,598340,,1,bolivia,brazil,1997
+49,1,birth,Directed,598347,,1,bolivia,brazil,2001
+49,12,birth,Directed,598352,,1,bolivia,chile,2004
+10,10,birth,Directed,599079,,2,colombia,colombia,2010
+10,11,birth,Directed,599099,,1,colombia,france,1996
+49,1,birth,Directed,600199,,2,bolivia,brazil,2013
+4,11,degree,Directed,600236,,1,canada,france,2001
+49,8,birth,Directed,600275,,1,bolivia,germany,1987
+8,14,degree,Directed,600307,,1,germany,netherlands,2008
+2,8,birth,Directed,600316,,1,united states,germany,2003
+18,1,degree,Directed,600332,,1,venezuela,brazil,2013
+15,1,degree,Directed,600349,,1,peru,brazil,2005
+15,1,birth,Directed,600362,,1,peru,brazil,0
+15,1,birth,Directed,600381,,2,peru,brazil,1993
+12,1,degree,Directed,600391,,1,chile,brazil,1993
+5,3,degree,Directed,600394,,1,united kingdom,portugal,1984
+55,1,birth,Directed,600400,,1,angola,brazil,2005
+55,1,birth,Directed,600401,,1,angola,brazil,1999
+55,5,birth,Directed,600435,,1,angola,united kingdom,2002
+10,7,birth,Directed,600529,,1,colombia,spain,2010
+10,16,birth,Directed,600531,,2,colombia,argentina,2013
+1,5,birth,Directed,601365,,1,brazil,united kingdom,2007
+28,1,birth,Directed,601439,,1,russia,brazil,2004
+1,4,degree,Directed,601470,,3,brazil,canada,1983
+3,5,degree,Directed,601525,,2,portugal,united kingdom,2006
+24,1,degree,Directed,602104,,1,switzerland,brazil,1998
+17,8,degree,Directed,602586,,1,cuba,germany,2006
+8,8,degree,Directed,602594,,3,germany,germany,1984
+8,8,birth,Directed,602621,,1,germany,germany,1998
+1,11,birth,Directed,604280,,1,brazil,france,1978
+9,9,degree,Directed,604377,,1,japan,japan,2008
+4,1,degree,Directed,604712,,2,canada,brazil,2011
+17,3,degree,Directed,605800,,1,cuba,portugal,2010
+1,11,birth,Directed,605811,,1,brazil,france,2012
+10,10,birth,Directed,606413,,1,colombia,colombia,2001
+32,2,birth,Directed,606958,,1,india,united states,2012
+25,5,birth,Directed,607327,,1,mozambique,united kingdom,2003
+51,1,birth,Directed,608052,,1,china,brazil,1995
+3,5,birth,Directed,608075,,1,portugal,united kingdom,2002
+3,5,birth,Directed,608105,,1,portugal,united kingdom,1989
+32,24,birth,Directed,608127,,1,india,switzerland,2013
+1,1,degree,Directed,608394,,1,brazil,brazil,2016
+16,1,degree,Directed,609401,,3,argentina,brazil,2014
+1,8,degree,Directed,610201,,2,brazil,germany,1972
+13,11,birth,Directed,611132,,1,italy,france,2008
+7,2,birth,Directed,611167,,1,spain,united states,2004
+7,5,degree,Directed,611182,,1,spain,united kingdom,2009
+1,10,degree,Directed,611847,,1,brazil,colombia,2004
+55,3,birth,Directed,611903,,1,angola,portugal,2006
+55,1,birth,Directed,611909,,1,angola,brazil,2013
+18,2,degree,Directed,612396,,1,venezuela,united states,1971
+1,11,birth,Directed,612740,,2,brazil,france,1986
+12,12,degree,Directed,613247,,2,chile,chile,2013
+12,12,birth,Directed,613249,,1,chile,chile,2002
+19,1,degree,Directed,613406,,2,belgium,brazil,2012
+7,11,degree,Directed,613497,,1,spain,france,2004
+1,18,degree,Directed,615061,,1,brazil,venezuela,2003
+1,13,degree,Directed,615481,,3,brazil,italy,1992
+57,1,birth,Directed,617309,,1,honduras,brazil,2003
+57,7,birth,Directed,617311,,1,honduras,spain,2009
+57,1,birth,Directed,617326,,1,honduras,brazil,1995
+1,8,birth,Directed,617648,,1,brazil,germany,1988
+2,7,degree,Directed,617794,,1,united states,spain,2001
+2,5,degree,Directed,617945,,1,united states,united kingdom,1992
+12,7,degree,Directed,618016,,1,chile,spain,1996
+5,7,degree,Directed,618311,,1,united kingdom,spain,2003
+58,2,birth,Directed,618318,,1,puerto rico,united states,1987
+58,2,birth,Directed,618321,,1,puerto rico,united states,1998
+11,1,birth,Directed,619383,,2,france,brazil,2009
+26,1,birth,Directed,619404,,2,iran,brazil,2014
+26,5,birth,Directed,619406,,1,iran,united kingdom,2012
+26,1,birth,Directed,619408,,1,iran,brazil,2013
+12,7,birth,Directed,620172,,1,chile,spain,2002
+12,1,birth,Directed,620187,,1,chile,brazil,1983
+1,1,degree,Directed,620893,,3,brazil,brazil,1952
+4,2,degree,Directed,621048,,1,canada,united states,2010
+1,13,birth,Directed,621061,,1,brazil,italy,1989
+12,8,birth,Directed,621125,,1,chile,germany,1993
+12,1,birth,Directed,621126,,2,chile,brazil,2005
+12,1,birth,Directed,621132,,1,chile,brazil,2012
+12,7,birth,Directed,621142,,1,chile,spain,2007
+12,1,degree,Directed,621796,,1,chile,brazil,1996
+12,8,birth,Directed,621806,,1,chile,germany,2006
+12,1,birth,Directed,621809,,1,chile,brazil,1990
+8,8,degree,Directed,621943,,2,germany,germany,1977
+13,13,degree,Directed,621951,,3,italy,italy,1995
+13,13,degree,Directed,621960,,1,italy,italy,1960
+8,1,birth,Directed,623023,,1,germany,brazil,2007
+33,1,birth,Directed,623093,,1,bulgaria,brazil,2010
+33,1,birth,Directed,623109,,1,bulgaria,brazil,2002
+24,24,degree,Directed,623477,,1,switzerland,switzerland,2006
+24,4,birth,Directed,623478,,1,switzerland,canada,1971
+14,14,degree,Directed,624964,,1,netherlands,netherlands,2011
+63,1,birth,Directed,627665,,1,algeria,brazil,2012
+17,17,birth,Directed,628928,,1,cuba,cuba,2012
+21,1,degree,Directed,629435,,1,sweden,brazil,1997
+14,14,degree,Directed,630123,,4,netherlands,netherlands,2008
+14,14,birth,Directed,630124,,1,netherlands,netherlands,2009
+1,14,degree,Directed,630129,,1,brazil,netherlands,1988
+14,1,birth,Directed,630145,,2,netherlands,brazil,1993
+14,14,birth,Directed,630156,,1,netherlands,netherlands,1997
+18,1,birth,Directed,632174,,1,venezuela,brazil,1994
+18,7,birth,Directed,632176,,1,venezuela,spain,2008
+18,1,birth,Directed,632178,,1,venezuela,brazil,2003
+18,1,birth,Directed,632183,,1,venezuela,brazil,2002
+18,1,birth,Directed,632186,,2,venezuela,brazil,2000
+19,19,degree,Directed,632620,,1,belgium,belgium,1989
+11,1,birth,Directed,632628,,1,france,brazil,2013
+17,18,degree,Directed,632634,,1,cuba,venezuela,2005
+18,18,degree,Directed,632640,,1,venezuela,venezuela,2008
+14,14,degree,Directed,632940,,1,netherlands,netherlands,1999
+4,4,degree,Directed,633368,,1,canada,canada,2008
+13,1,degree,Directed,635647,,1,italy,brazil,1990
+13,13,degree,Directed,636448,,1,italy,italy,1959
+13,1,degree,Directed,640088,,1,italy,brazil,1982
+13,3,degree,Directed,640186,,1,italy,portugal,2009
+13,13,degree,Directed,640189,,2,italy,italy,0
+13,14,birth,Directed,640190,,1,italy,netherlands,2012
+29,7,birth,Directed,642146,,1,mexico,spain,2008
+15,2,birth,Directed,642571,,1,peru,united states,1974
+1,4,degree,Directed,643408,,1,brazil,canada,0
+11,1,degree,Directed,643493,,1,france,brazil,1969
+66,1,birth,Directed,643963,,1,costa rica,brazil,2000
+18,2,birth,Directed,644478,,1,venezuela,united states,1996
+18,7,birth,Directed,644482,,1,venezuela,spain,2012
+1,16,birth,Directed,644787,,1,brazil,argentina,2000
+13,1,degree,Directed,648733,,2,italy,brazil,1998
+1,7,degree,Directed,651320,,1,brazil,spain,1983
+1,9,degree,Directed,651674,,1,brazil,japan,1977
+7,1,degree,Directed,652458,,1,spain,brazil,1996
+1,8,birth,Directed,654139,,1,brazil,germany,1991
+1,2,birth,Directed,654493,,1,brazil,united states,1972
+13,1,degree,Directed,655756,,1,italy,brazil,1993
+1,13,birth,Directed,656272,,1,brazil,italy,1976
+21,21,degree,Directed,660481,,1,sweden,sweden,1998
+1,1,birth,Directed,660874,,1,brazil,brazil,1968
+1,19,degree,Directed,664246,,1,brazil,belgium,1974
+13,13,degree,Directed,665126,,3,italy,italy,1998
+1,7,degree,Directed,665385,,2,brazil,spain,1981
+8,8,degree,Directed,665601,,2,germany,germany,1976
+67,2,birth,Directed,665769,,1,israel,united states,2011
+9,1,birth,Directed,666216,,1,japan,brazil,1986
+1,7,birth,Directed,666331,,1,brazil,spain,2001
+1,8,birth,Directed,667304,,1,brazil,germany,1992
+19,19,degree,Directed,669278,,1,belgium,belgium,2006
+19,5,degree,Directed,670324,,1,belgium,united kingdom,1992
+2,1,degree,Directed,670527,,1,united states,brazil,1970
+1,3,degree,Directed,670699,,1,brazil,portugal,1994
+2,8,degree,Directed,671607,,1,united states,germany,1986
+11,11,degree,Directed,673491,,1,france,france,1959
+12,1,degree,Directed,674513,,1,chile,brazil,1960
+1,5,birth,Directed,674821,,2,brazil,united kingdom,1978
+14,14,degree,Directed,677269,,2,netherlands,netherlands,2000
+59,8,birth,Directed,677764,,1,paraguay,germany,2004
+59,7,birth,Directed,677789,,1,paraguay,spain,2005
+5,7,degree,Directed,678628,,1,united kingdom,spain,2012
+5,1,degree,Directed,679997,,2,united kingdom,brazil,1991
+19,1,degree,Directed,680006,,2,belgium,brazil,2000
+4,1,degree,Directed,680844,,1,canada,brazil,1995
+9,1,degree,Directed,680847,,1,japan,brazil,1972
+10,1,degree,Directed,682380,,2,colombia,brazil,2001
+13,13,degree,Directed,683678,,2,italy,italy,1968
+4,5,degree,Directed,684461,,1,canada,united kingdom,1993
+1,19,degree,Directed,685257,,1,brazil,belgium,0
+9,9,degree,Directed,685956,,2,japan,japan,2006
+7,1,degree,Directed,687212,,1,spain,brazil,1987
+11,7,degree,Directed,688411,,1,france,spain,2015
+13,13,degree,Directed,688866,,2,italy,italy,1971
+1,20,degree,Directed,690559,,1,brazil,australia,1979
+14,14,degree,Directed,691023,,3,netherlands,netherlands,1992
+14,14,degree,Directed,691027,,1,netherlands,netherlands,1976
+1,16,degree,Directed,691600,,2,brazil,argentina,1974
+7,11,degree,Directed,693349,,1,spain,france,2011
+7,1,degree,Directed,693365,,1,spain,brazil,1995
+7,11,birth,Directed,693373,,1,spain,france,2005
+7,7,birth,Directed,693377,,1,spain,spain,1973
+1,16,birth,Directed,693536,,1,brazil,argentina,2005
+68,2,birth,Directed,694992,,1,south korea,united states,1974
+68,2,birth,Directed,695007,,1,south korea,united states,1991
+1,5,birth,Directed,698334,,1,brazil,united kingdom,2005
+9,9,birth,Directed,698819,,1,japan,japan,1983
+12,7,degree,Directed,698864,,1,chile,spain,2004
+2,5,degree,Directed,700432,,2,united states,united kingdom,1993
+1,22,degree,Directed,701226,,2,brazil,belize,2014
+2,1,birth,Directed,701748,,1,united states,brazil,1993
+2,2,birth,Directed,701757,,2,united states,united states,1976
+1,13,degree,Directed,703049,,1,brazil,italy,1957
+1,16,birth,Directed,708704,,1,brazil,argentina,2010
+16,2,degree,Directed,708724,,1,argentina,united states,2013
+44,1,birth,Directed,709972,,1,philippines,brazil,1982
+2,5,degree,Directed,710627,,1,united states,united kingdom,1979
+24,24,degree,Directed,711811,,1,switzerland,switzerland,1999
+1,21,degree,Directed,713296,,1,brazil,sweden,2006
+1,3,degree,Directed,714326,,2,brazil,portugal,1991
+1,21,degree,Directed,715705,,1,brazil,sweden,1987
+1,2,degree,Directed,717455,,2,brazil,united states,1958
+2,4,degree,Directed,718614,,2,united states,canada,1984
+15,7,degree,Directed,719424,,1,peru,spain,1997
+43,1,birth,Directed,720172,,1,egypt,brazil,1999
+43,4,birth,Directed,720222,,1,egypt,canada,1997
+43,2,birth,Directed,720230,,1,egypt,united states,1988
+43,1,birth,Directed,720232,,1,egypt,brazil,1993
+43,1,birth,Directed,720240,,1,egypt,brazil,2011
+43,1,birth,Directed,720260,,1,egypt,brazil,1994
+43,11,birth,Directed,720266,,1,egypt,france,1994
+43,5,birth,Directed,720280,,1,egypt,united kingdom,1974
+43,1,birth,Directed,720283,,1,egypt,brazil,1997
+3,7,degree,Directed,721617,,1,portugal,spain,2010
+5,2,degree,Directed,723755,,1,united kingdom,united states,1978
+13,13,degree,Directed,725567,,1,italy,italy,1987
+1,19,degree,Directed,725836,,1,brazil,belgium,1978
+1,23,degree,Directed,726427,,1,brazil,denmark,2012
+10,1,birth,Directed,726754,,1,colombia,brazil,2004
+8,8,birth,Directed,727039,,3,germany,germany,2007
+1,24,degree,Directed,728389,,1,brazil,switzerland,1990
+1,7,birth,Directed,728499,,1,brazil,spain,1995
+21,21,degree,Directed,729064,,1,sweden,sweden,1978
+21,21,degree,Directed,729068,,1,sweden,sweden,1974
+16,1,degree,Directed,729081,,1,argentina,brazil,1998
+16,2,birth,Directed,729084,,1,argentina,united states,2001
+16,16,degree,Directed,729113,,1,argentina,argentina,1965
+16,1,birth,Directed,729115,,1,argentina,brazil,1991
+16,11,degree,Directed,729152,,1,argentina,france,1970
+20,20,degree,Directed,729174,,2,australia,australia,2006
+5,5,birth,Directed,729187,,1,united kingdom,united kingdom,2003
+5,5,birth,Directed,729189,,1,united kingdom,united kingdom,2011
+13,13,degree,Directed,729198,,3,italy,italy,2012
+16,7,birth,Directed,729213,,1,argentina,spain,1997
+9,1,degree,Directed,729279,,1,japan,brazil,2010
+1,17,degree,Directed,729282,,1,brazil,cuba,2012
+1,7,degree,Directed,729378,,1,brazil,spain,1976
+11,11,birth,Directed,729508,,1,france,france,2005
+2,11,degree,Directed,729511,,1,united states,france,1984
+71,1,birth,Directed,729537,,1,cape verde,brazil,1998
+13,13,birth,Directed,729568,,1,italy,italy,2009
+1,10,degree,Directed,729753,,1,brazil,colombia,2010
+68,1,birth,Directed,729755,,1,south korea,brazil,2011
+14,14,birth,Directed,729860,,1,netherlands,netherlands,1979
+14,14,degree,Directed,729863,,2,netherlands,netherlands,1973
+51,2,birth,Directed,729878,,1,china,united states,1975
+7,7,birth,Directed,729922,,1,spain,spain,1995
+2,7,degree,Directed,729926,,1,united states,spain,2014
+7,7,birth,Directed,729927,,1,spain,spain,1978
+7,7,birth,Directed,729930,,1,spain,spain,1982
+13,1,birth,Directed,730061,,1,italy,brazil,2003
+28,1,birth,Directed,730070,,2,russia,brazil,2003
+16,7,birth,Directed,730085,,1,argentina,spain,1993
+11,5,degree,Directed,730093,,1,france,united kingdom,2004
+7,7,birth,Directed,730113,,1,spain,spain,1987
+2,2,birth,Directed,730125,,1,united states,united states,1981
+2,2,birth,Directed,730126,,2,united states,united states,1997
+2,2,birth,Directed,730127,,3,united states,united states,1982
+15,1,birth,Directed,730182,,1,peru,brazil,1997
+1,9,degree,Directed,730197,,3,brazil,japan,2002
+3,2,birth,Directed,730381,,1,portugal,united states,2002
+8,8,birth,Directed,730400,,1,germany,germany,2008
+17,17,degree,Directed,730534,,2,cuba,cuba,1986
+17,17,birth,Directed,730548,,2,cuba,cuba,1998
+19,19,degree,Directed,730588,,1,belgium,belgium,1986
+1,1,birth,Directed,730606,,1,brazil,brazil,1959
+5,11,degree,Directed,730658,,1,united kingdom,france,2004
+8,8,birth,Directed,730697,,1,germany,germany,1972
+8,1,birth,Directed,730699,,1,germany,brazil,2009
+11,11,birth,Directed,730709,,1,france,france,1969
+5,5,birth,Directed,730719,,1,united kingdom,united kingdom,1967
+8,8,birth,Directed,731037,,2,germany,germany,1985
+32,2,birth,Directed,731285,,1,india,united states,1985
+11,11,birth,Directed,731297,,1,france,france,1964
+11,1,birth,Directed,731389,,1,france,brazil,2003
+10,10,birth,Directed,731393,,1,colombia,colombia,2009
+10,19,birth,Directed,731394,,1,colombia,belgium,1993
+12,2,birth,Directed,731701,,1,chile,united states,1984
+16,7,birth,Directed,731707,,1,argentina,spain,2012
+19,19,degree,Directed,731717,,1,belgium,belgium,2011
+4,4,degree,Directed,731733,,1,canada,canada,1977
+4,11,degree,Directed,731739,,1,canada,france,1981
+4,4,degree,Directed,731753,,3,canada,canada,1973
+4,11,birth,Directed,731768,,1,canada,france,1997
+3,5,degree,Directed,731861,,1,portugal,united kingdom,1990
+15,1,birth,Directed,731869,,1,peru,brazil,1972
+2,2,birth,Directed,732077,,2,united states,united states,1986
+12,1,birth,Directed,732189,,1,chile,brazil,2006
+12,1,birth,Directed,732199,,1,chile,brazil,1998
+12,12,degree,Directed,732212,,2,chile,chile,2012
+66,8,birth,Directed,732220,,1,costa rica,germany,1992
+13,11,degree,Directed,732224,,1,italy,france,2006
+8,8,birth,Directed,732372,,2,germany,germany,1970
+5,5,degree,Directed,732375,,8,united kingdom,united kingdom,2010
+8,8,degree,Directed,732390,,3,germany,germany,1978
+8,11,degree,Directed,732393,,1,germany,france,2011
+8,8,birth,Directed,732404,,2,germany,germany,1979
+13,13,birth,Directed,732426,,1,italy,italy,2004
+12,19,degree,Directed,732456,,1,chile,belgium,1976
+19,5,degree,Directed,732463,,1,belgium,united kingdom,1998
+16,1,birth,Directed,732537,,1,argentina,brazil,1988
+76,2,birth,Directed,732582,,1,palestinian territory,united states,1994
+11,11,birth,Directed,732617,,1,france,france,2003
+29,11,birth,Directed,732622,,1,mexico,france,2014
+29,5,birth,Directed,732674,,2,mexico,united kingdom,2011
+8,11,birth,Directed,732678,,1,germany,france,1990
+13,13,birth,Directed,732945,,1,italy,italy,2001
+2,2,birth,Directed,732950,,2,united states,united states,1991
+23,2,birth,Directed,733089,,1,denmark,united states,2008
+2,2,birth,Directed,733108,,1,united states,united states,2003
+2,2,degree,Directed,733112,,3,united states,united states,1961
+2,2,birth,Directed,733125,,1,united states,united states,2004
+16,16,birth,Directed,733247,,1,argentina,argentina,1999
+16,8,birth,Directed,733271,,1,argentina,germany,1981
+1,8,birth,Directed,733334,,1,brazil,germany,1978
+13,13,degree,Directed,733386,,1,italy,italy,1979
+21,21,degree,Directed,733407,,1,sweden,sweden,1994
+21,20,birth,Directed,733408,,1,sweden,australia,2008
+21,21,birth,Directed,733410,,1,sweden,sweden,1991
+11,11,birth,Directed,733416,,1,france,france,1994
+59,1,birth,Directed,733495,,1,paraguay,brazil,2002
+12,1,birth,Directed,733693,,2,chile,brazil,1994
+12,1,birth,Directed,733695,,1,chile,brazil,1988
+23,23,birth,Directed,733697,,1,denmark,denmark,2003
+23,9,degree,Directed,733699,,1,denmark,japan,2006
+23,21,degree,Directed,733704,,1,denmark,sweden,1997
+23,23,birth,Directed,733707,,1,denmark,denmark,1957
+11,2,degree,Directed,733821,,1,france,united states,1970
+7,7,birth,Directed,733835,,1,spain,spain,2012
+7,7,birth,Directed,733845,,1,spain,spain,1983
+2,2,birth,Directed,733846,,1,united states,united states,1977
+2,2,birth,Directed,733865,,2,united states,united states,2005
+1,13,birth,Directed,733980,,1,brazil,italy,1975
+7,5,degree,Directed,734255,,2,spain,united kingdom,1999
+32,2,birth,Directed,735844,,1,india,united states,1979
+19,1,degree,Directed,735852,,1,belgium,brazil,0
+32,1,birth,Directed,736832,,1,india,brazil,2011
+80,3,birth,Directed,737110,,1,sao tome and principe,portugal,2003
+32,2,birth,Directed,738147,,1,india,united states,1983
+12,12,degree,Directed,738921,,1,chile,chile,2014
+2,1,birth,Directed,739095,,1,united states,brazil,1978
+7,7,birth,Directed,741074,,2,spain,spain,2004
+1,3,birth,Directed,741241,,1,brazil,portugal,2007
+1,10,degree,Directed,741383,,1,brazil,colombia,2013
+13,13,degree,Directed,742146,,1,italy,italy,1976
+1,20,degree,Directed,742811,,1,brazil,australia,1984
+9,1,degree,Directed,742985,,2,japan,brazil,2009
+1,11,birth,Directed,743660,,1,brazil,france,1984
+1,8,birth,Directed,743994,,1,brazil,germany,1987
+13,1,degree,Directed,744365,,1,italy,brazil,1997
+20,1,degree,Directed,746328,,1,australia,brazil,1999
+5,2,degree,Directed,746539,,1,united kingdom,united states,1986
+10,1,birth,Directed,746841,,1,colombia,brazil,1998
+10,2,birth,Directed,746861,,1,colombia,united states,2012
+83,1,birth,Directed,747102,,1,ivory coast,brazil,2006
+1,11,birth,Directed,747189,,1,brazil,france,2002
+20,20,degree,Directed,747303,,1,australia,australia,2004
+24,1,degree,Directed,748475,,1,switzerland,brazil,2010
+19,1,birth,Directed,749087,,1,belgium,brazil,2007
+19,4,birth,Directed,749089,,1,belgium,canada,1989
+8,8,birth,Directed,749090,,1,germany,germany,1976
+29,7,birth,Directed,749092,,1,mexico,spain,2006
+8,1,degree,Directed,749099,,1,germany,brazil,1995
+8,5,degree,Directed,749153,,1,germany,united kingdom,1998
+7,7,birth,Directed,749175,,1,spain,spain,2005
+21,21,degree,Directed,749196,,1,sweden,sweden,1985
+21,21,birth,Directed,749197,,1,sweden,sweden,1971
+42,2,birth,Directed,749206,,1,poland,united states,2005
+7,7,birth,Directed,749216,,1,spain,spain,1994
+25,7,birth,Directed,749331,,1,mozambique,spain,2008
+25,1,birth,Directed,749336,,1,mozambique,brazil,2004
+25,1,birth,Directed,749339,,1,mozambique,brazil,2014
+2,2,birth,Directed,749355,,1,united states,united states,1987
+2,7,degree,Directed,749399,,1,united states,spain,1967
+7,19,birth,Directed,749405,,1,spain,belgium,2012
+13,5,degree,Directed,749437,,1,italy,united kingdom,1996
+2,1,birth,Directed,749460,,1,united states,brazil,2011
+79,1,birth,Directed,749532,,1,serbia,brazil,2004
+3,1,birth,Directed,749620,,1,portugal,brazil,2014
+18,18,degree,Directed,749662,,1,venezuela,venezuela,2007
+17,7,birth,Directed,749666,,1,cuba,spain,2011
+17,1,birth,Directed,749669,,1,cuba,brazil,2009
+40,2,birth,Directed,749732,,1,guatemala,united states,2007
+14,7,degree,Directed,749737,,1,netherlands,spain,2012
+36,2,birth,Directed,750101,,1,romania,united states,2002
+16,7,birth,Directed,750208,,1,argentina,spain,2000
+61,1,birth,Directed,750232,,1,nigeria,brazil,2006
+19,19,birth,Directed,750290,,1,belgium,belgium,1979
+19,1,birth,Directed,750292,,1,belgium,brazil,2008
+5,5,birth,Directed,750298,,2,united kingdom,united kingdom,1992
+2,2,birth,Directed,750299,,1,united states,united states,1984
+2,2,birth,Directed,750301,,1,united states,united states,1989
+11,2,degree,Directed,750340,,1,france,united states,2006
+8,8,degree,Directed,750379,,5,germany,germany,1988
+11,1,birth,Directed,750474,,1,france,brazil,2010
+61,1,birth,Directed,750477,,1,nigeria,brazil,2013
+9,1,degree,Directed,750537,,1,japan,brazil,1994
+5,5,birth,Directed,750540,,1,united kingdom,united kingdom,1995
+87,3,birth,Directed,750560,,1,benin,portugal,2009
+12,13,degree,Directed,750682,,1,chile,italy,1985
+5,5,degree,Directed,750766,,1,united kingdom,united kingdom,1954
+2,4,birth,Directed,750835,,1,united states,canada,1983
+5,5,degree,Directed,750837,,3,united kingdom,united kingdom,1973
+89,2,birth,Directed,751051,,1,jamaica,united states,1995
+10,1,degree,Directed,751151,,2,colombia,brazil,2000
+13,24,degree,Directed,751314,,2,italy,switzerland,2008
+18,18,birth,Directed,751320,,1,venezuela,venezuela,1995
+5,3,degree,Directed,751360,,1,united kingdom,portugal,1998
+8,8,birth,Directed,751378,,1,germany,germany,1988
+8,5,birth,Directed,751379,,1,germany,united kingdom,1983
+70,5,birth,Directed,751414,,1,slovakia,united kingdom,2010
+17,7,birth,Directed,751420,,1,cuba,spain,2003
+17,17,birth,Directed,751436,,1,cuba,cuba,2000
+7,7,birth,Directed,751507,,1,spain,spain,1976
+2,20,degree,Directed,751560,,1,united states,australia,2000
+16,16,birth,Directed,751630,,1,argentina,argentina,1991
+16,2,degree,Directed,751638,,2,argentina,united states,1973
+16,2,degree,Directed,751666,,1,argentina,united states,1972
+16,16,degree,Directed,751676,,2,argentina,argentina,2014
+16,16,birth,Directed,751700,,1,argentina,argentina,2009
+1,16,degree,Directed,751710,,1,brazil,argentina,1989
+10,1,birth,Directed,751775,,1,colombia,brazil,1989
+10,2,birth,Directed,751777,,1,colombia,united states,2008
+1,16,degree,Directed,752003,,2,brazil,argentina,2000
+22,1,degree,Directed,752012,,2,belize,brazil,2014
+1,22,degree,Directed,752156,,1,brazil,belize,2008
+92,2,birth,Directed,752595,,1,hong kong,united states,1988
+1,13,birth,Directed,752788,,1,brazil,italy,2005
+16,1,degree,Directed,752820,,1,argentina,brazil,2003
+2,5,degree,Directed,753290,,1,united states,united kingdom,1987
+1,2,birth,Directed,753510,,1,brazil,united states,1982
+43,5,birth,Directed,754157,,1,egypt,united kingdom,1972
+24,2,birth,Directed,754819,,1,switzerland,united states,1972
+2,8,degree,Directed,754821,,2,united states,germany,1978
+32,4,birth,Directed,755264,,1,india,canada,1969
+8,8,birth,Directed,755815,,2,germany,germany,1997
+2,1,degree,Directed,756054,,1,united states,brazil,0
+1,17,degree,Directed,756153,,3,brazil,cuba,2007
+9,1,degree,Directed,756355,,1,japan,brazil,1989
+13,13,degree,Directed,757257,,2,italy,italy,1986
+13,8,birth,Directed,757825,,1,italy,germany,2011
+13,13,birth,Directed,757863,,1,italy,italy,1998
+4,2,degree,Directed,757878,,1,canada,united states,1985
+13,2,birth,Directed,757879,,1,italy,united states,2011
+20,5,birth,Directed,757922,,1,australia,united kingdom,1996
+20,1,birth,Directed,757927,,1,australia,brazil,2003
+63,5,birth,Directed,757938,,1,algeria,united kingdom,1997
+8,5,birth,Directed,757968,,1,germany,united kingdom,2001
+8,8,birth,Directed,757974,,2,germany,germany,1989
+45,1,birth,Directed,758003,,1,morocco,brazil,1995
+2,7,degree,Directed,758074,,1,united states,spain,1983
+31,1,birth,Directed,758076,,1,pakistan,brazil,2009
+31,1,birth,Directed,758078,,1,pakistan,brazil,2010
+5,4,birth,Directed,758156,,1,united kingdom,canada,1970
+5,5,birth,Directed,758158,,2,united kingdom,united kingdom,1999
+7,1,birth,Directed,758169,,1,spain,brazil,2013
+64,1,birth,Directed,758204,,1,ukraine,brazil,2010
+19,11,degree,Directed,758252,,1,belgium,france,2003
+95,11,birth,Directed,758262,,1,democratic republic of the congo,france,1993
+14,14,degree,Directed,758271,,1,netherlands,netherlands,1995
+32,5,birth,Directed,758394,,1,india,united kingdom,1994
+13,13,birth,Directed,758415,,2,italy,italy,2012
+13,13,birth,Directed,758416,,2,italy,italy,2008
+12,1,birth,Directed,758424,,1,chile,brazil,1986
+12,1,birth,Directed,758433,,1,chile,brazil,2008
+10,13,birth,Directed,758527,,1,colombia,italy,2009
+29,2,birth,Directed,758560,,1,mexico,united states,2002
+29,1,birth,Directed,758573,,2,mexico,brazil,2007
+1,11,birth,Directed,758753,,1,brazil,france,1994
+22,1,degree,Directed,758885,,1,belize,brazil,2013
+22,1,degree,Directed,758898,,2,belize,brazil,2009
+16,2,birth,Directed,758908,,1,argentina,united states,1974
+36,1,birth,Directed,758923,,1,romania,brazil,2009
+2,2,birth,Directed,758926,,1,united states,united states,1985
+65,11,birth,Directed,758947,,1,tunisia,france,2010
+4,4,degree,Directed,758956,,1,canada,canada,1978
+95,7,birth,Directed,759019,,1,democratic republic of the congo,spain,2001
+36,8,birth,Directed,759063,,1,romania,germany,2008
+11,5,degree,Directed,759069,,1,france,united kingdom,1991
+2,1,birth,Directed,759130,,1,united states,brazil,2012
+10,1,birth,Directed,759168,,1,colombia,brazil,2003
+13,11,degree,Directed,759172,,1,italy,france,1992
+29,11,birth,Directed,759178,,1,mexico,france,1991
+13,13,degree,Directed,759488,,1,italy,italy,1969
+2,5,degree,Directed,759792,,1,united states,united kingdom,1967
+66,1,birth,Directed,760396,,1,costa rica,brazil,2010
+4,4,degree,Directed,760626,,1,canada,canada,1979
+4,4,birth,Directed,760629,,1,canada,canada,1983
+4,4,birth,Directed,760630,,1,canada,canada,2011
+28,1,birth,Directed,760688,,2,russia,brazil,2009
+5,5,degree,Directed,760873,,1,united kingdom,united kingdom,1956
+24,2,degree,Directed,761378,,1,switzerland,united states,2010
+24,2,degree,Directed,761905,,1,switzerland,united states,1994
+82,1,birth,Directed,762133,,2,turkey,brazil,2003
+32,2,birth,Directed,762348,,1,india,united states,1977
+14,14,degree,Directed,762563,,1,netherlands,netherlands,1996
+17,17,birth,Directed,762566,,1,cuba,cuba,1994
+10,1,degree,Directed,762610,,1,colombia,brazil,1996
+10,7,degree,Directed,762621,,1,colombia,spain,2006
+4,4,degree,Directed,762632,,2,canada,canada,2011
+8,8,degree,Directed,762636,,2,germany,germany,1974
+13,5,birth,Directed,762670,,1,italy,united kingdom,2012
+19,19,degree,Directed,762695,,2,belgium,belgium,1991
+32,2,birth,Directed,762706,,1,india,united states,1994
+8,2,birth,Directed,762735,,1,germany,united states,1972
+24,1,birth,Directed,762789,,1,switzerland,brazil,1993
+10,1,degree,Directed,762818,,1,colombia,brazil,2002
+5,8,degree,Directed,762969,,1,united kingdom,germany,2012
+6,16,birth,Directed,762980,,1,uruguay,argentina,1995
+5,2,birth,Directed,763022,,1,united kingdom,united states,1969
+51,2,birth,Directed,763084,,1,china,united states,2009
+19,19,birth,Directed,763123,,1,belgium,belgium,1983
+29,1,birth,Directed,763161,,1,mexico,brazil,2010
+2,2,birth,Directed,763215,,3,united states,united states,1975
+3,5,degree,Directed,763253,,3,portugal,united kingdom,2010
+3,3,birth,Directed,763262,,1,portugal,portugal,1976
+9,9,birth,Directed,763281,,1,japan,japan,1992
+1,11,degree,Directed,763956,,1,brazil,france,1956
+1,16,degree,Directed,764393,,1,brazil,argentina,1996
+1,13,degree,Directed,764425,,1,brazil,italy,1981
+8,8,degree,Directed,764909,,2,germany,germany,2007
+4,1,degree,Directed,765628,,1,canada,brazil,2013
+13,13,birth,Directed,765907,,1,italy,italy,2000
+14,2,degree,Directed,765915,,1,netherlands,united states,1997
+17,7,birth,Directed,765919,,1,cuba,spain,2006
+13,1,birth,Directed,765920,,1,italy,brazil,2007
+5,4,degree,Directed,765927,,1,united kingdom,canada,1985
+5,1,birth,Directed,765928,,1,united kingdom,brazil,1999
+70,2,birth,Directed,765939,,1,slovakia,united states,2000
+2,5,birth,Directed,766029,,1,united states,united kingdom,1998
+8,2,degree,Directed,766033,,1,germany,united states,1976
+64,16,birth,Directed,766040,,1,ukraine,argentina,2000
+64,1,birth,Directed,766051,,1,ukraine,brazil,1997
+8,8,birth,Directed,766054,,1,germany,germany,1982
+1,21,degree,Directed,766059,,1,brazil,sweden,2012
+17,7,birth,Directed,766096,,1,cuba,spain,2007
+13,3,birth,Directed,766125,,1,italy,portugal,2013
+18,1,birth,Directed,766137,,1,venezuela,brazil,1999
+18,1,birth,Directed,766139,,1,venezuela,brazil,1996
+51,5,birth,Directed,766141,,1,china,united kingdom,2014
+103,1,birth,Directed,766187,,1,ethiopia,brazil,2009
+4,4,degree,Directed,766191,,2,canada,canada,1987
+104,1,birth,Directed,766263,,1,kenya,brazil,2008
+68,1,birth,Directed,766271,,1,south korea,brazil,1995
+8,2,birth,Directed,766281,,1,germany,united states,1995
+13,13,birth,Directed,766349,,1,italy,italy,1984
+12,2,degree,Directed,766360,,1,chile,united states,1976
+65,11,birth,Directed,766400,,1,tunisia,france,1986
+7,7,birth,Directed,766402,,1,spain,spain,2011
+7,8,degree,Directed,766436,,1,spain,germany,2011
+14,14,degree,Directed,766453,,1,netherlands,netherlands,1972
+10,11,birth,Directed,766470,,1,colombia,france,2007
+106,1,birth,Directed,766478,,1,east timor,brazil,2010
+36,2,birth,Directed,766479,,1,romania,united states,2005
+5,20,degree,Directed,766491,,1,united kingdom,australia,1988
+2,1,birth,Directed,766849,,1,united states,brazil,2003
+54,1,birth,Directed,766981,,1,hungary,brazil,1995
+6,6,degree,Directed,767129,,1,uruguay,uruguay,2012
+81,1,birth,Directed,767487,,1,czech republic,brazil,2003
+3,7,birth,Directed,768227,,1,portugal,spain,2002
+46,1,birth,Directed,768230,,1,new zealand,brazil,2010
+19,19,degree,Directed,768242,,1,belgium,belgium,1985
+2,2,birth,Directed,768258,,1,united states,united states,1993
+4,5,degree,Directed,768266,,1,canada,united kingdom,2001
+19,19,degree,Directed,768319,,1,belgium,belgium,1972
+12,7,birth,Directed,768333,,1,chile,spain,2005
+8,1,birth,Directed,768341,,1,germany,brazil,2011
+13,13,birth,Directed,768367,,1,italy,italy,1979
+13,1,birth,Directed,768369,,1,italy,brazil,2001
+2,2,birth,Directed,768370,,1,united states,united states,2001
+108,11,birth,Directed,768381,,1,vietnam,france,2009
+19,19,degree,Directed,768393,,1,belgium,belgium,1976
+33,1,birth,Directed,768395,,1,bulgaria,brazil,2013
+70,19,birth,Directed,768403,,1,slovakia,belgium,2005
+95,13,birth,Directed,768418,,1,democratic republic of the congo,italy,2008
+11,1,birth,Directed,768441,,1,france,brazil,1995
+30,5,birth,Directed,768443,,1,ireland,united kingdom,2007
+110,1,birth,Directed,768445,,1,zimbabwe,brazil,2011
+8,8,birth,Directed,768474,,1,germany,germany,2001
+9,9,degree,Directed,768571,,1,japan,japan,1986
+63,11,birth,Directed,768598,,1,algeria,france,1968
+42,1,birth,Directed,768650,,1,poland,brazil,2008
+32,8,birth,Directed,768726,,1,india,germany,1975
+5,5,birth,Directed,769124,,1,united kingdom,united kingdom,1987
+1,9,degree,Directed,769185,,1,brazil,japan,1979
+42,11,birth,Directed,769414,,1,poland,france,1997
+3,1,birth,Directed,769695,,1,portugal,brazil,1993
+32,1,birth,Directed,769704,,1,india,brazil,2002
+13,13,degree,Directed,769716,,2,italy,italy,1973
+29,20,birth,Directed,769717,,1,mexico,australia,2012
+11,11,birth,Directed,769726,,1,france,france,2010
+10,12,degree,Directed,769735,,1,colombia,chile,1999
+42,5,birth,Directed,769746,,1,poland,united kingdom,1999
+11,13,degree,Directed,769784,,1,france,italy,2008
+5,1,birth,Directed,769807,,1,united kingdom,brazil,2003
+4,4,birth,Directed,769811,,1,canada,canada,1989
+2,5,birth,Directed,769815,,1,united states,united kingdom,2006
+55,8,birth,Directed,769833,,1,angola,germany,1996
+14,14,degree,Directed,769865,,1,netherlands,netherlands,1997
+114,2,birth,Directed,769914,,1,zambia,united states,2004
+5,5,degree,Directed,770319,,1,united kingdom,united kingdom,1969
+1,16,degree,Directed,770391,,1,brazil,argentina,2010
+16,2,birth,Directed,770392,,1,argentina,united states,1963
+26,1,birth,Directed,770643,,1,iran,brazil,2000
+17,1,birth,Directed,770915,,1,cuba,brazil,2010
+19,19,birth,Directed,770935,,1,belgium,belgium,2010
+10,10,degree,Directed,770959,,1,colombia,colombia,2001
+2,2,birth,Directed,770976,,2,united states,united states,2009
+75,1,birth,Directed,771052,,1,cameroon,brazil,2013
+3,7,degree,Directed,771093,,1,portugal,spain,1996
+5,2,degree,Directed,771100,,1,united kingdom,united states,1977
+7,1,birth,Directed,771842,,1,spain,brazil,1989
+11,11,birth,Directed,771856,,1,france,france,1999
+3,2,birth,Directed,771860,,1,portugal,united states,1998
+30,5,birth,Directed,771869,,1,ireland,united kingdom,1965
+16,16,degree,Directed,771904,,1,argentina,argentina,1990
+28,1,birth,Directed,771935,,1,russia,brazil,1997
+21,4,birth,Directed,771938,,1,sweden,canada,1991
+32,1,birth,Directed,771963,,1,india,brazil,1999
+13,4,birth,Directed,772017,,1,italy,canada,1979
+54,20,birth,Directed,772045,,1,hungary,australia,2000
+10,1,birth,Directed,772047,,1,colombia,brazil,1995
+14,11,birth,Directed,772076,,1,netherlands,france,1987
+5,5,birth,Directed,772083,,1,united kingdom,united kingdom,2000
+5,2,birth,Directed,772085,,1,united kingdom,united states,1985
+2,2,birth,Directed,772109,,1,united states,united states,1965
+5,2,birth,Directed,772613,,1,united kingdom,united states,2005
+5,5,birth,Directed,772616,,1,united kingdom,united kingdom,2012
+2,1,birth,Directed,772624,,1,united states,brazil,1996
+11,3,birth,Directed,772665,,1,france,portugal,2002
+28,14,birth,Directed,772678,,1,russia,netherlands,2014
+51,1,birth,Directed,772682,,1,china,brazil,2012
+61,1,birth,Directed,772720,,1,nigeria,brazil,2012
+7,11,birth,Directed,772754,,1,spain,france,1980
+64,1,birth,Directed,772785,,1,ukraine,brazil,2009
+8,2,birth,Directed,772790,,1,germany,united states,1970
+124,2,birth,Directed,772805,,1,ghana,united states,1992
+5,5,birth,Directed,772816,,1,united kingdom,united kingdom,2004
+1,11,degree,Directed,772855,,1,brazil,france,1960
+1,5,degree,Directed,772947,,1,brazil,united kingdom,1968
+63,5,birth,Directed,773081,,1,algeria,united kingdom,1990
+29,1,birth,Directed,773219,,1,mexico,brazil,2014
+29,1,birth,Directed,773222,,1,mexico,brazil,2004
+11,2,birth,Directed,773230,,1,france,united states,1972
+11,11,birth,Directed,773244,,1,france,france,2000
+14,14,birth,Directed,773256,,1,netherlands,netherlands,2000
+16,1,degree,Directed,773285,,1,argentina,brazil,1982
+39,1,birth,Directed,773306,,1,belarus,brazil,2001
+7,7,birth,Directed,773321,,1,spain,spain,2006
+13,13,birth,Directed,773327,,1,italy,italy,1973
+127,1,birth,Directed,773329,,1,macao,brazil,2006
+12,1,degree,Directed,773338,,2,chile,brazil,2014
+5,5,degree,Directed,773629,,1,united kingdom,united kingdom,1948
+42,1,birth,Directed,773700,,2,poland,brazil,2012
+20,5,degree,Directed,773703,,1,australia,united kingdom,2012
+11,11,birth,Directed,773707,,1,france,france,1979
+8,8,birth,Directed,773729,,1,germany,germany,1996
+26,11,birth,Directed,773734,,1,iran,france,2009
+5,5,birth,Directed,773754,,1,united kingdom,united kingdom,1985
+5,5,birth,Directed,773763,,1,united kingdom,united kingdom,1994
+121,1,birth,Directed,773789,,1,niger,brazil,2012
+7,7,birth,Directed,773799,,1,spain,spain,1975
+33,5,birth,Directed,773817,,1,bulgaria,united kingdom,2006
+12,12,degree,Directed,773925,,1,chile,chile,1980
+119,1,birth,Directed,774117,,1,thailand,brazil,1983
+18,1,birth,Directed,774131,,1,venezuela,brazil,2009
+2,2,birth,Directed,774133,,1,united states,united states,1998
+37,2,birth,Directed,774137,,1,croatia,united states,2000
+9,1,birth,Directed,774167,,1,japan,brazil,1999
+55,3,birth,Directed,774191,,1,angola,portugal,2013
+82,5,birth,Directed,774237,,1,turkey,united kingdom,1998
+26,1,birth,Directed,774273,,1,iran,brazil,2010
+1,9,degree,Directed,774502,,1,brazil,japan,2013
+26,11,birth,Directed,774505,,1,iran,france,1990
+28,1,birth,Directed,774557,,1,russia,brazil,2012
+79,8,birth,Directed,774626,,1,serbia,germany,1987
+8,1,birth,Directed,774631,,1,germany,brazil,2012
+61,13,birth,Directed,774814,,1,nigeria,italy,1990
+21,2,degree,Directed,774821,,1,sweden,united states,2011
+24,24,birth,Directed,774824,,1,switzerland,switzerland,2011
+65,11,birth,Directed,774831,,1,tunisia,france,1970
+79,1,birth,Directed,774843,,1,serbia,brazil,2014
+18,2,degree,Directed,774856,,1,venezuela,united states,1996
+29,5,birth,Directed,774916,,1,mexico,united kingdom,2008
+2,2,birth,Directed,774917,,1,united states,united states,1972
+63,11,birth,Directed,774920,,1,algeria,france,2011
+14,1,birth,Directed,774935,,1,netherlands,brazil,2000
+51,1,birth,Directed,775041,,1,china,brazil,1997
+53,1,birth,Directed,775096,,1,el salvador,brazil,2002
+3,5,degree,Directed,775175,,1,portugal,united kingdom,2002
+19,19,degree,Directed,775245,,1,belgium,belgium,1975
+5,5,degree,Directed,775290,,3,united kingdom,united kingdom,1964
+10,10,degree,Directed,775309,,1,colombia,colombia,1999
+24,24,degree,Directed,775321,,1,switzerland,switzerland,2013
+1,2,degree,Directed,775537,,1,brazil,united states,1952
+12,5,degree,Directed,775826,,1,chile,united kingdom,2012
+2,3,degree,Directed,775892,,1,united states,portugal,2002
+2,1,degree,Directed,775937,,1,united states,brazil,1964
+21,1,degree,Directed,775941,,1,sweden,brazil,2014
+21,21,degree,Directed,776106,,1,sweden,sweden,1982
+6,2,degree,Directed,776199,,1,uruguay,united states,2005
+6,6,degree,Directed,776202,,1,uruguay,uruguay,1975
+4,4,degree,Directed,776290,,1,canada,canada,2010
+16,17,degree,Directed,776328,,1,argentina,cuba,1990
+19,19,degree,Directed,776906,,2,belgium,belgium,1983
+10,16,degree,Directed,776934,,1,colombia,argentina,2001
+1,9,degree,Directed,777073,,1,brazil,japan,2008
+1,11,degree,Directed,777080,,1,brazil,france,1950
+8,8,degree,Directed,777300,,1,germany,germany,1963
+4,2,degree,Directed,777703,,1,canada,united states,1990
+1,16,degree,Directed,777749,,1,brazil,argentina,1986
+16,5,degree,Directed,777771,,1,argentina,united kingdom,1972
+5,12,degree,Directed,777805,,1,united kingdom,chile,2012
+4,2,degree,Directed,777827,,1,canada,united states,1982
+2,2,degree,Directed,777898,,2,united states,united states,1952
+2,2,degree,Directed,777966,,1,united states,united states,1957
+13,11,degree,Directed,777987,,1,italy,france,2010
+3,11,degree,Directed,778211,,1,portugal,france,2008
+3,3,degree,Directed,778250,,2,portugal,portugal,1984
+2,3,degree,Directed,778278,,1,united states,portugal,1987
+3,3,degree,Directed,778290,,1,portugal,portugal,1963
+5,5,degree,Directed,778432,,1,united kingdom,united kingdom,1972
+17,1,degree,Directed,778444,,1,cuba,brazil,2000
+17,5,degree,Directed,778471,,1,cuba,united kingdom,1973
+17,17,degree,Directed,778483,,1,cuba,cuba,1995
+17,17,degree,Directed,778546,,1,cuba,cuba,1988
+11,5,degree,Directed,778564,,2,france,united kingdom,2010
+6,5,degree,Directed,778679,,1,uruguay,united kingdom,1993
+6,1,degree,Directed,778752,,1,uruguay,brazil,2011
+12,2,degree,Directed,778810,,1,chile,united states,1971
+6,2,degree,Directed,778818,,1,uruguay,united states,1989
+8,1,degree,Directed,778881,,2,germany,brazil,2009
+3,2,degree,Directed,778920,,1,portugal,united states,2014
+3,5,degree,Directed,778924,,1,portugal,united kingdom,1980
+3,5,degree,Directed,778998,,1,portugal,united kingdom,2000
+3,5,degree,Directed,779095,,1,portugal,united kingdom,2008
+3,5,degree,Directed,779127,,2,portugal,united kingdom,2009
+3,2,degree,Directed,779147,,1,portugal,united states,1997
+1,24,degree,Directed,779157,,1,brazil,switzerland,1981
+2,3,degree,Directed,779159,,1,united states,portugal,1992
+3,5,degree,Directed,779180,,1,portugal,united kingdom,2011
+3,24,degree,Directed,779186,,1,portugal,switzerland,2006
+3,5,degree,Directed,779256,,1,portugal,united kingdom,1985
+23,23,degree,Directed,779314,,1,denmark,denmark,2006
+8,8,degree,Directed,779432,,1,germany,germany,1973
+7,7,degree,Directed,779463,,1,spain,spain,1971
+8,2,degree,Directed,779526,,1,germany,united states,2004
+14,14,degree,Directed,779558,,1,netherlands,netherlands,2004
+5,5,degree,Directed,779584,,1,united kingdom,united kingdom,1945
+5,5,degree,Directed,779591,,1,united kingdom,united kingdom,1965
+18,7,degree,Directed,779618,,1,venezuela,spain,2003
+12,2,degree,Directed,779645,,1,chile,united states,2009
+12,2,degree,Directed,779651,,1,chile,united states,1979
+12,2,degree,Directed,779658,,2,chile,united states,2006
+1,11,degree,Directed,779670,,1,brazil,france,1966
+19,19,degree,Directed,779701,,2,belgium,belgium,2002
+3,3,degree,Directed,779707,,2,portugal,portugal,1987
+21,21,degree,Directed,779720,,1,sweden,sweden,1976
+13,7,degree,Directed,779810,,1,italy,spain,2011
+1,3,degree,Directed,779846,,1,brazil,portugal,1968
+13,1,degree,Directed,779866,,1,italy,brazil,1994
+9,9,degree,Directed,779899,,1,japan,japan,1992
+9,9,degree,Directed,779902,,1,japan,japan,1969
+22,1,degree,Directed,779962,,1,belize,brazil,2011
+14,14,degree,Directed,779976,,1,netherlands,netherlands,1963
+4,4,degree,Directed,779983,,1,canada,canada,1988
+17,17,degree,Directed,780096,,1,cuba,cuba,1983
+1,8,degree,Directed,780119,,1,brazil,germany,1973
+5,2,degree,Directed,780283,,1,united kingdom,united states,1988
+10,2,degree,Directed,780291,,1,colombia,united states,2003
+10,2,degree,Directed,780300,,1,colombia,united states,2011
+10,10,degree,Directed,780316,,2,colombia,colombia,2012
+10,1,degree,Directed,780326,,1,colombia,brazil,1999
+21,5,degree,Directed,780417,,1,sweden,united kingdom,2011
+18,2,degree,Directed,780461,,1,venezuela,united states,1992
+18,14,degree,Directed,780467,,1,venezuela,netherlands,2009
+18,18,degree,Directed,780474,,1,venezuela,venezuela,1984
+8,2,degree,Directed,780520,,1,germany,united states,1971
+5,7,degree,Directed,780655,,2,united kingdom,spain,2010
+3,5,degree,Directed,780699,,1,portugal,united kingdom,1992
+1,2,degree,Directed,780989,,1,brazil,united states,1954
+1,2,degree,Directed,782635,,1,brazil,united states,1959
+2,2,degree,Directed,782712,,2,united states,united states,1963
+15,12,degree,Directed,782784,,1,peru,chile,2008
+10,5,degree,Directed,783192,,1,colombia,united kingdom,1998
+2,16,degree,Directed,783201,,1,united states,argentina,1982
+7,3,degree,Directed,783359,,1,spain,portugal,2002
+20,20,degree,Directed,783370,,1,australia,australia,1998
+8,8,degree,Directed,783475,,2,germany,germany,1969
+24,8,degree,Directed,784810,,1,switzerland,germany,2000
+2,2,degree,Directed,784820,,2,united states,united states,1954
+13,2,degree,Directed,784858,,2,italy,united states,1994
+19,19,degree,Directed,784944,,1,belgium,belgium,1996
+4,2,degree,Directed,785048,,1,canada,united states,1968
+19,19,degree,Directed,785050,,1,belgium,belgium,1980
+10,16,degree,Directed,785123,,1,colombia,argentina,2005
+5,5,degree,Directed,785174,,1,united kingdom,united kingdom,1955
+19,4,degree,Directed,785220,,1,belgium,canada,2010
+19,19,degree,Directed,785228,,1,belgium,belgium,1966
+5,5,degree,Directed,785313,,1,united kingdom,united kingdom,1966
+16,16,degree,Directed,785830,,1,argentina,argentina,1963
+8,8,degree,Directed,785847,,1,germany,germany,2006
+1,1,degree,Directed,785987,,1,brazil,brazil,1947
+19,19,degree,Directed,786060,,1,belgium,belgium,1993
+1,19,degree,Directed,786102,,1,brazil,belgium,1965
+2,16,degree,Directed,786313,,1,united states,argentina,1964
+2,8,degree,Directed,786479,,1,united states,germany,1979
+5,2,degree,Directed,786657,,1,united kingdom,united states,1973
+14,14,degree,Directed,786734,,1,netherlands,netherlands,2006
+9,9,degree,Directed,786801,,1,japan,japan,1991
+4,2,degree,Directed,786842,,2,canada,united states,1975
+1,4,degree,Directed,787180,,1,brazil,canada,1976
+8,8,degree,Directed,787182,,1,germany,germany,1970
+10,16,degree,Directed,787309,,1,colombia,argentina,2012
+1,2,degree,Directed,787989,,1,brazil,united states,1962
+14,14,degree,Directed,788140,,1,netherlands,netherlands,1987
+16,2,degree,Directed,788412,,1,argentina,united states,1969
+7,9,degree,Directed,788498,,1,spain,japan,1994
+8,8,degree,Directed,788542,,1,germany,germany,1967
+4,1,degree,Directed,788598,,1,canada,brazil,2012
+2,8,degree,Directed,788786,,1,united states,germany,1992
+19,19,degree,Directed,788946,,1,belgium,belgium,1965
+9,14,degree,Directed,788977,,1,japan,netherlands,1997
+3,3,degree,Directed,789051,,1,portugal,portugal,1977
+19,14,degree,Directed,789256,,1,belgium,netherlands,1971
+2,5,degree,Directed,789530,,1,united states,united kingdom,1998
+2,5,degree,Directed,789698,,1,united states,united kingdom,1977
+18,1,degree,Directed,789841,,1,venezuela,brazil,1992
+21,21,degree,Directed,789905,,1,sweden,sweden,1980
+18,18,degree,Directed,790386,,1,venezuela,venezuela,1987
+14,14,degree,Directed,791253,,1,netherlands,netherlands,1993
+5,16,degree,Directed,791419,,1,united kingdom,argentina,1964
+2,2,degree,Directed,791613,,1,united states,united states,1959
+18,1,degree,Directed,791636,,1,venezuela,brazil,2005
+18,1,degree,Directed,791657,,1,venezuela,brazil,1998
+11,2,degree,Directed,791994,,1,france,united states,2007
+7,13,degree,Directed,792001,,1,spain,italy,1967
+10,7,degree,Directed,792064,,1,colombia,spain,1998
+5,2,degree,Directed,792133,,1,united kingdom,united states,1982
+4,4,degree,Directed,792300,,1,canada,canada,1997
+10,1,degree,Directed,792404,,1,colombia,brazil,0
+8,13,degree,Directed,792414,,1,germany,italy,2011
+3,5,degree,Directed,792544,,1,portugal,united kingdom,2003
+3,1,degree,Directed,792631,,1,portugal,brazil,1974
+1,7,degree,Directed,792638,,1,brazil,spain,1986
+2,2,degree,Directed,792857,,1,united states,united states,1953
+12,7,degree,Directed,792863,,1,chile,spain,2009
+5,7,degree,Directed,792867,,1,united kingdom,spain,1996
+19,1,degree,Directed,792975,,1,belgium,brazil,2011
+12,12,degree,Directed,793141,,1,chile,chile,1994
+17,7,degree,Directed,793288,,1,cuba,spain,2009
+10,10,degree,Directed,793291,,1,colombia,colombia,2014
+17,7,degree,Directed,793467,,1,cuba,spain,2002
+2,8,degree,Directed,793554,,1,united states,germany,2009
+17,7,degree,Directed,793575,,1,cuba,spain,2003
+3,5,degree,Directed,793590,,1,portugal,united kingdom,2013
+2,4,degree,Directed,793616,,1,united states,canada,2003
+9,9,degree,Directed,793844,,1,japan,japan,2003
+5,2,degree,Directed,793964,,1,united kingdom,united states,1979
+21,21,degree,Directed,793968,,1,sweden,sweden,2012
+9,9,degree,Directed,793970,,1,japan,japan,1977
+13,13,degree,Directed,793973,,1,italy,italy,1980
+19,1,degree,Directed,793978,,1,belgium,brazil,1997
+5,3,degree,Directed,794247,,1,united kingdom,portugal,2014
+13,11,degree,Directed,794252,,1,italy,france,2008
+7,16,degree,Directed,794258,,1,spain,argentina,2012
+16,16,degree,Directed,794275,,1,argentina,argentina,1960
+16,2,degree,Directed,794276,,1,argentina,united states,1990
+16,2,degree,Directed,794278,,1,argentina,united states,1996
+4,4,degree,Directed,794292,,1,canada,canada,1999
+19,2,degree,Directed,794474,,1,belgium,united states,1996
+2,9,degree,Directed,794588,,1,united states,japan,1978
+1,24,degree,Directed,794650,,1,brazil,switzerland,1999
+5,2,degree,Directed,794655,,1,united kingdom,united states,2005
+7,3,degree,Directed,794681,,1,spain,portugal,2007
+15,5,degree,Directed,794714,,1,peru,united kingdom,2011
+20,20,degree,Directed,794744,,1,australia,australia,2007
+9,9,degree,Directed,794748,,1,japan,japan,1981
+11,8,degree,Directed,794749,,1,france,germany,2005
+24,24,degree,Directed,794937,,1,switzerland,switzerland,2010
+17,7,degree,Directed,795104,,1,cuba,spain,1994
+18,18,degree,Directed,795113,,1,venezuela,venezuela,1999
+3,11,degree,Directed,795126,,1,portugal,france,2010
+4,5,degree,Directed,795146,,1,canada,united kingdom,2008
+2,7,degree,Directed,795156,,1,united states,spain,2010
+4,4,degree,Directed,795158,,1,canada,canada,1964
+10,20,degree,Directed,795164,,1,colombia,australia,2011
+5,1,degree,Directed,795224,,1,united kingdom,brazil,1978
+3,7,degree,Directed,795490,,1,portugal,spain,1994
+5,11,degree,Directed,795521,,1,united kingdom,france,1975
+7,16,degree,Directed,795535,,1,spain,argentina,2014
+3,7,degree,Directed,795560,,1,portugal,spain,2009
+3,5,degree,Directed,795565,,1,portugal,united kingdom,1972
+11,5,degree,Directed,795566,,1,france,united kingdom,2005
+4,2,degree,Directed,795585,,1,canada,united states,1969
+4,4,degree,Directed,795591,,1,canada,canada,2004
+4,2,degree,Directed,795603,,1,canada,united states,1974
+21,21,degree,Directed,795606,,1,sweden,sweden,1977
+9,1,degree,Directed,795685,,1,japan,brazil,2002
+1,9,degree,Directed,795729,,1,brazil,japan,1974
+14,14,degree,Directed,795810,,1,netherlands,netherlands,1990
+6,6,degree,Directed,795832,,1,uruguay,uruguay,2004
+13,7,degree,Directed,795939,,1,italy,spain,2003
+16,11,degree,Directed,795943,,1,argentina,france,1994
+2,5,degree,Directed,795962,,1,united states,united kingdom,2000
+20,20,degree,Directed,795966,,1,australia,australia,2008
+3,5,degree,Directed,796000,,1,portugal,united kingdom,2005
+23,23,degree,Directed,796001,,1,denmark,denmark,2000
+12,12,degree,Directed,796325,,1,chile,chile,2007
+7,5,degree,Directed,796348,,1,spain,united kingdom,1996
+4,4,degree,Directed,796375,,1,canada,canada,1991
+2,4,degree,Directed,796616,,1,united states,canada,2012
+3,7,degree,Directed,796658,,1,portugal,spain,2001
+22,16,degree,Directed,796688,,1,belize,argentina,2011
+7,1,degree,Directed,796884,,1,spain,brazil,1969
+6,6,degree,Directed,796908,,1,uruguay,uruguay,2008
+2,5,degree,Directed,797011,,1,united states,united kingdom,1976
+13,3,degree,Directed,797037,,1,italy,portugal,2012
+17,17,degree,Directed,797043,,1,cuba,cuba,1990
+8,8,degree,Directed,797086,,1,germany,germany,1962
+21,21,degree,Directed,797099,,1,sweden,sweden,2004
+15,1,degree,Directed,797313,,1,peru,brazil,1974
+12,13,degree,Directed,797401,,1,chile,italy,2005
+12,16,degree,Directed,797457,,1,chile,argentina,1992
+14,14,degree,Directed,797486,,1,netherlands,netherlands,1986
